@@ -1,0 +1,9553 @@
+100 years at the Royal College of Art
+
+# ART AND DESIGN
+
+CHRISTOPHER FRAYLING
+
+![](images/58e8f220053b22bc83dc3d1142637e447bb13c9c56f40ea82b20f7cd02544654.jpg)
+
+![](images/4d0d24810be9c16170158f8b1d01845b6ff8add18e1abf2012ff950ec84bc61d.jpg)
+
+Have you ever been to the Tate Gallery and admired the work of Henry Moore, David Hockney or Chris Ofili? Do you dream of driving a Bentley Continental or an Aston Martin DB8? Have you ever sat in a polypropylene stacking chair, used a Dyson vacuum cleaner, or enjoyed the houses and gardens of Edwin Lutyens and Gertrude Jekyll? Have you seen Blade Runner, Batman or The Full Monty? All these are creations of the graduates and staff of the Royal College of Art, the only wholly postgraduate art and design university in the world.
+
+This book tells the story of 100 years at the Royal College of Art - and of some of the best-known figures in the art and design worlds - through the artefacts and objects produced by its staff and graduates. It traces the development of every aspect of visual culture in Fine Art, Communications and Design, from the Arts and Crafts Movement to the Postmodernism of the 1990s. The sheer visual variety, and the number of influential and important names associated with the Royal College of Art, make this an exciting and invaluable sourcebook.
+
+This is not just a story of style changes: it is an absorbing account of changing philosophies and practices, relationships with the mainstream, and the changing impact of visual culture on society at large.
+
+![](images/5016cfc6955f92e0f6d223097f7174f5358fdc79dc9caff05f2ff5e687cc91ae.jpg)
+
+First published in Great Britain in 1999   
+by Collins & Brown Limited   
+London House   
+Great Eastern Wharf   
+Parkgate Road   
+London SW11 4NQ
+
+## and
+
+Richard Dennis Publications   
+The Old Chapel   
+Shepton Beauchamp   
+Ilminster   
+TA19 0LE
+
+Copyright © Collins & Brown Limited and Richard Dennis Publications 1999
+
+Text copyright © Christopher Frayling and Royal College of Art 1999
+
+The right of Christopher Frayling to be identified as the author of this work has been asserted by hin in accordance with the Copyright, Design and Patents Act, 1988.
+
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior written permission of the copyright owner.
+
+135798642
+
+British Library Cataloguing-in-Publication Data: A catalogue record for this book is available from the British Library.
+
+ISBN 1 85585 7251
+
+Editor: Ulla Weinberg   
+Art Director: Tony Cobb   
+Designer: Anna Subirós with thanks to Paul Freeth and Frank Stebbing
+
+Reproduction by Classic Scan Pte Ltd., Singapore Produced by Phoenix Offset, Hong Kong Printed in hina
+
+100 years at the Royal College of Art
+
+## ART AND DESIGN
+
+CHRISTOPHER FRAYLING
+
+## CONTENTS
+
+Introduction 6   
+Victorian Prologue 8
+
+## FINE ART
+
+Introduction 16   
+Interview: David Hockney 20   
+20s Painting   
+30s Painting   
+40s Painting   
+Alistair Grant and The Rebel   
+50s Painting   
+Pop & Ark   
+60s Painting   
+David Hockney   
+70s Painting   
+80s Painting   
+90s Painting   
+Tracy Emin 54   
+Pre-war Sculpture 58   
+Barbara Hepworth and Henry Moore   
+50s Sculpture   
+60s Sculpture   
+70s Sculpture   
+80s Sculpture   
+90s Sculpture   
+70s-80s Environmental Media   
+50s-60s Photography   
+70s Photography   
+Boyd Webb and Calum Colvin   
+80s Photography   
+90s Photography 86   
+20s Printmaking   
+30s-40s Printmaking   
+50s Printmaking   
+60s Printmaking   
+70s Printmaking   
+80s Printmaking   
+90s Printmaking
+
+## DESIGN
+
+Introduction 102   
+Interview: James Dyson 108   
+Pre-war Design 112   
+Reco Capey: the neglected pioneer 114   
+40s-50s Industrial Design 116   
+60s Industrial Design 118   
+70s Industrial Design 120   
+James Dyson and Dual Cyclone Technology 122   
+80s Industrial Design 124   
+90s Industrial Design 126   
+Computer Related Design 128   
+50s Furniture 130   
+60s Furniture 132   
+70s Furniture 134   
+80s Furniture 136   
+90s Furniture 138   
+Shaping the Future: the post-war years 140   
+70s Architecture & Interiors 142   
+80s Architecture & Interiors 144   
+90s Architecture & Interiors 146   
+The New Simplicity: design for the 90s 148   
+70s Vehicle Design 152   
+80s Vehicle Design 154   
+90s Vehicle Design 158   
+Gerry McGovern and the Rover Freelander 162   
+Interview: Alison Britton 164   
+Pre-war Ceramics 168   
+Canvas-free Artists 172   
+50s-60s Ceramics & Glass 176   
+70s Ceramics & Glass 178   
+The Outer Limits of Function 182   
+80s Ceramics & Glass 186   
+90s Ceramics & Glass 190   
+50s-60s Stained Glass 194   
+50s-60s Metalwork & Jewellery 196   
+70s Metalwork & Jewellery 200   
+80s Metalwork & Jewellery 204   
+90s Metalwork & Jewellery 208   
+Embracing the Unexpected 212   
+Interview: Philip Treacy 214   
+Pre-war Textiles 218   
+50s Textiles 220   
+60s Textiles 222   
+70s Textiles 224   
+80s Textiles 226   
+90s Textiles 228   
+50s Fashion 230   
+60s Fashion 232   
+Ossie Clark 234   
+70s Fashion 238   
+80s Fashion 240   
+90s Fashion 242   
+The Hidden Designers 244   
+Millinery 248   
+Philip Treacy 250
+
+## COMMUNICATIONS
+
+Introduction 252   
+Interview: Ridley Scott 256   
+Early Calligraphy 260   
+Design for Travel: 30s posters 262   
+50s Graphic Design 266   
+60s Graphic Design 268   
+Ark and the Rise of Postmodernism 270   
+70s Graphic Design 274   
+80s Graphic Design 276   
+Why Not Associates 278   
+90s Graphic Design 280   
+Jonathan Barnbrook 282   
+50s Illustration 284   
+60s Illustration 286   
+70s Illustration 288   
+Quentin Blake 290   
+80s Illustration 292   
+90s Illustration 294   
+70s-80s Animation 296   
+90s Animation 298   
+Pre-70s Film & TV 300   
+Ridley Scott 302   
+70s-80s Film & TV 306   
+90s Film & TV 308   
+THE FUTURE 310   
+Acknowledgements and Credits 314   
+Index 316
+
+# FLIGHT OF THE PHOENIX
+
+In February 1954, Robin Darwin  my predecessor as Rector of the Royal College of Art  gave a now-famous lecture at the Royal Society of Arts. Called 'The Dodo and The Phoenix', the lecture contrasted the Dodo of old-style art and design education with the Phoenix of the new. An extinct creature, gently mocked in Alice in Wonderland, had made way, through natural selection, for a fabulous bird which, according to Greek legend, burned itself to ashes and rose again with new life. Something dead had become a symbol of everlasting renewal. Darwin, a direct descendant of Charles Darwin, concluded:
+
+'It will not escape the attention of keen ornithologists, and quite ordinary persons besides, that the Dodo is, or at any rate was, a real bird, whereas the Phoenix was never more than a fantasy of the imagination. It may well be that in my enthusiasm for the College as it has risen from its ashes, I ascribe an equally mythical importance to it. If so, I hope I may be forgiven. But I do sincerely believe that just as the Dodo and Phoenix are not only different in species but in kind, so has the Royal College of Art changed in a like manner during the last few years .
+
+The Phoenix soon became the unofficial symbol of the RCA. Richard Guyatt was commissioned to design a Phoenix motif for the Senior Common Room crockery. 'It was Robin's fantasy,' he recently told me, 'he said he felt pictorially peckish.' Then came publications and menus and ceremonial robes and mosaics and eventually holograms and digital drawings: even the silver College 'yardstick', still used on Convocation Day, has a Dodo at one end and a Phoenix at the other.
+
+Meanwhile, this bird of the imagination seemed to be becoming a symbol of national renewal as well, in the brave new world of post-war reconstruction. Sir Basil Spence, architect of the new Coventry Cathedral, called his book about its building Phoenix at Coventry and his pamphlet Out of the Ashes. It was Spence, incidentally, who, on seeing the stained glass work of two young RCA students in their College studio one day, was 'excited beyond measure' and immediately commissioned them to design the nave windows for his great project. About 30 years later, another Rector  Jocelyn Stevens — flamboyantly referred to the College under his style of management as 'finger-lickin' Phoenix' and to the Darwin era as the 'era of the Dodos'. So today's Phoenix had become, by some law of the species, tomorrow's Dodo.
+
+The Bauhaus lasted 14 years. Other art and design schools have been centre stage for a while, then faded into the background. The RCA is over 150 years old, or over a century old if the clock is started in 1896 when it was granted permission to use the name  the longest continuous experiment in publicly funded art and design education anywhere in the world. This is the story of 100 years of flights of the Phoenix, of an institution which has almost by definition renewed itself over and over again. It is preceded by a Victorian prologue which outlines the thinking and practices of the College's earliest incarnations  the Government School of Design and the National Art Training School, from 1837 to 1896.
+
+The sourcebook you are reading is the result of teamwork. I co-ordinated the project, wrote the introductions, conducted the interviews and edited the texts of the theme and chronological spreads. Claire Catterall and her researchers, Juliet Bingham, Hannah Ford and Alistair O'Neill  all graduates of the RCA compiled and drafted the spreads, wrote the captions, and selected the illustrations; very complex and timeconsuming processes. The illustrations show work completed and exhibited while the individuals concerned were still at the College or work completed during subsequent professional careers. Occasionally, work is attributed to a particular decade when in fact it was made earlier: this is because the work is a key reason why the individual was involved with the College in the later period. Every possible effort has been made to trace copyright holders, and to check dates and career details. The design was co-ordinated by Tony Cobb, Visiting Professor of Graphic Arts at the College; his vision, determination and flair turned the concept of this ambitious book into reality. The designer of the book is Anna Subirós  herself a successful recent graduate of Graphic Design at the RCA.
+
+Two aspects of the College's long history could not be fully acknowledged in a book of this format. The first is the fact that because the RCA is postgraduate  the only entirely postgraduate university of art and design on the planet  it depends to an unusual extent on the teaching, commitment and talent of staff and students on a multitude of undergraduate courses; not just in Britain but all over the world. The ex-students covered by this book are graduates of the RCA: in almost all cases, they also took first degrees or diplomas before they arrived there.
+
+Secondly, the work of a key School  the School of Humanities  which offers courses in the history, philosophy and criticism of art and design to all College students, and has done so in one form or another for the last half century, could not be illustrated in the same way as the work of the studios. And yet it has helped in many different ways to shape the culture and atmosphere of today's RCA. Three of the book's researchers graduated from the V&A/RCA joint course in the History of Design, one from the Visual Arts Administration course. So the teaching and research of the School of Humanities is at the heart of this book, too.
+
+Grateful thanks are due to the researchers, the designers and all the many graduates of the College, plus the arts organizations who have helped make this sourcebook possible. No one has ever before attempted a project on this scale about a single educational establishment, and it depended to an unusual extent on a network of contacts and supporters far too numerous to mention by name here. Very special thanks are due to Michael Frye CBE, who generously agreed to sponsor the book in the hope that the result would inspire future generations of young artists, craftspeople and designers. I hope so, too. The great fashion designer Issey Miyake once referred to the students of the RCA as 'a nourishment to the world'. This sourcebook is dedicated to them all.
+
+# VICTORIAN PROLOGUE
+
+'You are to be in all things regulated and governed by fact. We hope to have, before long, a board of fact composed of commissioners of fact, who will force the people to be a people of fact, and of nothing but fact. You must discard the word fancy altogether.'
+
+Emissary from the Government School of Design in Charles Dickens' Hard Times, 1854
+
+The biting satire on the Government School of Design in Charles Dickens' Hard Times (written a couple of years after the Great Exhibition in 1851) is an accurate portrayal of the bureaucratic and restricting system of art and design education in the Victorian period. Founded in 1837, the Government School was a product of the British government's decision to make the training of designers for industry a national responsibility, for the first time ever. By the early 1850s, the School was determined to propagate, among many other things, the view that a
+
+pattern on a flat surface should not  by reason of its over-lushness or illusory qualities  destroy the beholders' sense of its flatness. This was, it was felt, one of the hard lessons of the 1851 Great Exhibition. Advanced students at the School were to be told, with the aid of pictorial placards and with a high Victorian sense of infallibility, about 'false principles', such as 'the direct imitation of nature' and 'true principles' such as the application of conventional (meaning linear and geometrical) patterns to flat surfaces.
+
+Design was popularly viewed to be a kind of visual language which could be taught entirely through drawing: as a training in mechanical accuracy of hand and eye. If students spent several years learning and practising the grammar of that language, then one day they might be able to go out into the world and improve the quality of everyday products  which was the point of the exercise. According to the School's Art Superintendent, the painter and critic Richard Redgrave, design was 'an aid to perception and a language of explanation . a means of treasuring facts and collecting stores of truths And so the course at the Government School of Design began with simple line exercises and geometrical shapes, progressed to drawing from flat examples, then 'from the round' and then from nature, and then went on to modelling with charcoal, before finally reaching 'composition in design'. In the middle stages, students were required to make endless copies of plaster casts, some of which are still to be seen in the Victoria and Albert Museum's Cast Court.
+
+In response to the criticism that this system did not give the students any direct knowledge of manufacturing processes or any understanding of how to think in three dimensions, another member of the School's staff Ralph
+
+Wornum  who taught a somewhat dull course on the principles of ornament, as well as being Keeper of the Casts  had recently replied that the purpose of the Government School of Design was 'not how to apply a design, but what to design. While the accomplished practice of an Art may be a matter of five years, the mere mechanical process of application is, in comparison, a mere matter of five hours.' Design was something one did to things and the School was there to 'supply a complete and systematic course of education in relation to every kind of decorative work'. Successful students would be in a good position to apply their skills to a variety of manufactures. Like a visual poultice, perhaps.
+
+## Henry Cole and the Journal of Design and Manufactures
+
+The system at the School of Design was masterminded by the indefatigable Henry Cole, one of the very few senior civil servants involved in British art and design education to have had an art education himself. He had studied watercolour painting with David Cox, had commissioned the first-ever Christmas card, had designed a prizewinning tea service (under the pseudonym of Felix Summerly) which Minton's manufactured for the rest of the century, and had a flair for publicity and drawing attention to himself that was unusual for his time. He was a pugnacious, rotund and easily caricatured fellow who was often pictured with his inseparable Yorkshire terrier Jim. That Charles Dickens had him in mind when he described 'the Government Officer' in Hard Times, is revealed by the manuscript draft in which "'Cole' is listed among the cast of characters. In June 1854, Dickens wrote to Henry Cole to let him know that he was passing the summer 'in the society of your friend Mr Gradgrind':
+
+'I often say to Mr Gradgrind, that there is reason and good intention in much that he does  in fact, in all that he does  but that he overdoes it. Perhaps by dint of his going his way and my going mine, we shall meet at last at some halfway house where there are flowers on the carpets, and a little standing-room for Queen Mab's chariot among the Steam Engines.'
+
+Cole had first let his outspoken views be publicly known in 1849, through the medium of his monthly Journal of Design and Manufactures  the first-ever periodical to be devoted to design. The Government School of Design, in its overcrowded base at Somerset House in the Strand, had, he wrote, started off well when it opened for business on 1 June 1837. A Select Committee of the House of Commons on Arts and Manufactures had reported in August of the previous year that, 'from the highest branches of poetical design down to the lowest connection between design and manufacture, the arts have received little encouragement in this country'. One way of improving Britain's poor performance relative to her overseas competitors (especially France, Prussia and Bavaria), in exporting the products of industries dependent on design, was to institute a School which would purvey 'not mere theoretical instruction only but the direct practical application of the Arts to Manufactures . '. In England, such art education as existed, other than the tutoring of well-healed young people by itinerant drawing masters, seemed to be the monopoly of the Royal Academy Schools and was directed entirely towards fine art. But even at this very early stage, Cole noted, by referring to the fine arts as 'the highest branches', the Select Committee had sowed the seeds of future discord by implying that the decorative arts somehow fell into the 'lowest' category.
+
+## Early Dilemmas
+
+The founders of the School had known exactly what they didn't want: they didn't want any drawing from the human figure, since this might encourage young students to become artists rather than ornamentists; and they didn't want the School to be part of mainstream education, which in any case was in its infancy, so it would come under the aegis of the Board of Trade. But beyond these two negatives, they were working in a complete vacuum. There was no elementary training system on which to build and so, as one of the founders put it, 'we have established a university before we have any grammar schools'. Between 1842 and 1852, 21 'branch schools' were created or adapted from older foundations  Manchester, Coventry, Birmingham, York, Newcastle, Sheffield and Nottingham were among the earliest  following another recommendation of the Select Committee. The national system of art and design education in fact pre-dated the national system of any other kind of education, an indication of how seriously the early Victorians took the link in their minds between 'design' and industrial performance.
+
+And yet, despite the well-meaning efforts of teachers such as the Aberdonian painter William Dyce (whose Drawing Book of the Government School became a standard text), the sculptor Alfred Stevens (who was appointed, as he said, 'Professor of everything'), and the young Richard Redgrave ARA, the course simply would not settle down. The collection of objects for students to copy soon took over most of the available space, evening classes proved far more successful than the daytime ones, there was too much emphasis on the laborious copying of architectural details, and the staff were divided into two warring aesthetic camps, the Nordic-Gothic tendency and the classical Italianizers. Most of the hapless students were, or aimed to be, skilled artisans, since this was the group targeted by the Select Committee as the key to design improvement in manufacturers. Many were in their teens, and some had been released from their apprenticeships by manufacturers who were only half convinced that the School could do better than their own factory floors; these manufacturers also seemed much more interested in establishing Academy-style art schools in their localities as a way of enhancing municipal prestige. The artisinal students preferred evening classes, the others preferred daytime.
+
+A student revolt in April 1845, said to be the first sit-in in the history of British higher education, not only led to the introduction of figure drawing, but encouraged the School's governing body to make the practice compulsory, 'it being found by practical experience that the accurate delineation of beautiful models of the human figure is a most efficient means of educating the hand and the eye'. The opposite, in other words, of what the founders had said with equal vehemence a mere eight years before.
+
+By the time Henry Cole entered the fray, a consensus was emerging that the future stability of the School depended on much more clear thinking about 'the science and principles of design', and on the removal of the heaps of plaster casts and exemplars (there were 800 casts of architectural ornament alone) from the pressurized teaching spaces. This latter thought was indirectly to lead to the foundation of what is today the Victoria and Albert Museum.
+
+Cole was merciless in the Journal of Design and Manufactures. One of his editorials thundered that the School had only succeeded in taking skilled artisans or apprentices from the backstreets of England's soot-black h into unemployable facsimiles of fifteenth-century Florentines who 'normally cover dog kennels with crochets and finials … and fall back on the dreary expedient of copying scroll and shell work . ".
+
+## The First Generation
+
+Although Cole had described the teachers and administrators responsible for the ill-conceived programme as a bunch of 'dilettanti half-informed bunglers', he was being less than fair to some of the early former students. Two of them, George Wallis and G. F. Duncombe, became his own personal assistants in the organization of the Great Exhibition: Wallis later became Keeper of Art in the South Kensington Museum. Another ex-student, Francis Moody, was made Instructor in Decorative Art responsible for supervising the decoration of the Museum's permanent buildings with mosaic panels, stained glass and engraved cement, and the crowning of the Albert Hall with its classical frieze. Octavius Hudson had already designed the Honiton lace for Queen Victoria's wedding dress; Frederic Shields was to become well known as an illustrator and architectural ornamentist; Henry Hugh Armstead rose to become an eminent designer of metalwork and jewellery, as well as one of the sculptors of the Albert Memorial; C. P. Slocombe designed an iron and brass gas-lamp for Buckingham Palace; and Frederick Andrew designed the backs of countless Victorian playing cards. Even a wellknown painter, Edward Poynter, somehow managed to emerge from the early years of the School.
+
+But the star of the group, and the first man ever to be called an industrial designer, had been Christopher Dresser. Dresser first entered the School in 1847 at the age of 15 and five years later was awarded a scholarship: his prize designs on the final stages of his course included 'printed fabrics', 'applying the principles taught by the School to a chintz' and 'garment fabrics'. In 1852 he became a student-lecturer. Some of his visual aids  careful botanical drawings of the structure of plants, mounted on canvas  have survived, and they reveal that he was teaching "'art botany' not as a form of surface decoration (nature as pattern and flatness), but as structure, the relationship of solid and void: he encouraged students to progress beyond copying to an understanding of form and 'fitness of purpose'. In one of his later lectures (he was to teach at the School until 1868), he argued that 'drawing schools' had their place 'furnishing the Royal Academy with pupils', but the real and still urgent need was for: 'a Royal Academy of decorative or applied art, wherein the highest knowledge of design in all its branches as required by our various manufactures, be fully given. Let ornament be treated as a fine art . '. For him, knowledge of design 'the science and principles' everyone was looking for involved a mixture of the grammar of ornament, art botany, the study of type-forms, the history of ornament in Western and Eastern cultures, plus 'all technical knowledge necessary'.
+
+## The Art Training School
+
+Cole had won his battle by the beginning of 1852. A new department of the Board of Trade, soon to be named the Department of Science and Art, was created with one permanent official at its head, Cole himself, assisted by one artist, and a Royal Academician at that, Richard Redgrave. New and slightly more spacious premises were secured on two floors of Marlborough House in St James's, the Journal of Design and Manufactures ceased publication, and a less dilettante teaching team was assembled with a distinct bias towards aesthetic rationalism and economy of ornament: professors and lecturers included the architect and design theorist, Gottfried Semper; the author of the compendious Grammar of Ornament, Owen Jones; the scientific botanist and author of The Symmetry of Vegetation, John Lindley; and Christopher Dresser, all of whose ideas were later to have an acknowledged influence on the architectural thinking of Frank Lloyd Wright and beyond him on the digital design of today. The new regime was launched with maximum public exposure when staff and students were involved in the design of the Duke of Wellington's funeral carriage (1852) and of the post office's new hexagonal cast-iron pillar box (1856), the first to bear the initials 'VR'. And the School was successfully moved from Marlborough House (where there were by now 1,500 plaster casts lying buried in the cellars) to a new site in soggy Brompton which would eventually accommodate a new museum of decorative art linked to the School in what was to become leafy 'South Kensington'. So Charles Dickens was being less than fair when he wrote that the Government Officer was obsessed to the exclusion of everything else with a deadening 'system to force down the general throat like a bolus'. But what gave chapter two of Hard Times a particular punch was the behaviour of Cole and Redgrave in their first few years of office.
+
+Having taken the Government School apart, in print, for being 'a mere Drawing School', Cole and Redgrave's first report declared that in future 'general elementary instruction in art' would be their main priority, with 'the improvement of manufactures'  through the media of museums and travelling exhibitions  a secondary
+
+consideration. Cole had, apparently, become convinced, and it must have seemed to the art establishment something akin to a Damascus Road experience, 'that state interference in any special technical teaching, founded upon the assumption of trade requirements, does not succeed'. The original concept for the School had, he added, probably been based on a clerical error: the French phrase école de dessin had been mistranslated as 'School of Design' when what it really meant was 'Drawing School'. So the School would in future focus on drawing and be unrepentant about it. The Department of Science and Art became the responsibility of a Privy Council Committee on Education, the School's name was changed to The Central Training School for Art (1853) and then The National Art Training School (1863). Its prime function was announced as being to 'train Art Masters and Mistresses' and provide the printed materials for the ever-expanding, and ever-more-complex, national network of art schools. When Henry Cole took over, there were seventeen such 'branch schools' with a total annual grant of £16,200; by the time he retired in 1873, there were nearly 150 regional schools with a total grant of £286, 252, plus 'five hundred night classes for artisans' so that in all 'one hundred and eighty thousand boys and girls are now learning elementary drawing'.
+
+Certificates from the National Art Training School were a passport, the only passport, into this system, and so the emphasis in future would be on the teaching of drawing, colouring, the human figure, modelling, ornament and 'technical instruction'. South Kensington would become the Vatican from which exact and fundamental guidance and a methodically graded, 23-stage course for pupils of all ages would be propagated, and in time this 'South Kensington system' would be exported to 'the Empire, to Canada and the USA. To use a more secular image, Britain's art education was now run on a uniform gauge and South Kensington was the terminus: one of Cole's earlier crusades had, indeed, been on behalf of a uniform gauge for the railways.
+
+This was Charles Dickens's rule by the 'commissioners of fact'. At the same time, Cole and Redgrave increased revenue to the School by agreeing to admit private feepaying students 'without reference to preparation for any branch of manufacture'. The sons and daughters of gentlemen, as distinct from apprentices and skilled artisans, could now pick up an education in drawing and painting - an offer which proved so popular that throughout the 1850s and 1860s the majority of daytime students came under this category. One unfortunate sideeffect was that the integration of art and design, of 'the highest branches' and manufacture, made way for rich students studying art during the day, and poorer students studying design in the evenings. But, side by side with these developments, the School would still make an effort to 'instruct students in designing and c., to be applied to the requirements of trade and manufactures' and, with this in mind, Cole devoted virtually the entire departmental 'technical' budget to the South Kensington School in the expectation that the best design students from 'the branches' would apply there. Technical classes and workshops, at first co-ordinated by Gottfried Semper, were offered in ornamental metalwork, porcelain painting, woven textiles, furniture construction, enamelling, architectural decoration, casting and moulding (men only), wood engraving and lithography (women only). After Semper's departure, one of their main functions seems to have been to provide decoration for the new buildings of South Kensington  while the
+
+printmaking courses for female students supplied illustrations for the Museum's catalogues.
+
+## Celebrated Artists and Successful Designers
+
+Successive annual reports noted three major fault-lines in the technical classes: they were too expensive, they focused on the luxury end of the industrial spectrum rather than its mass-production centre, and there were tensions between the teachers-in-training, who had an amateur attitude, and the specialized designers, who wanted more access to the facilities. In 1863, at least one of these difficulties was addressed with the introduction of national scholarships for "advanced students who might give evidence [in the form of an elaborate hatched or stippled drawing from an ornamental cast] of a special aptitude in design, and who intended to become designers for industry'. Over the next 20 years, according to the official literature, 76 (out of 145) of these scholars were to work as designers after leaving the School, either inhouse or freelance.
+
+But there were to be some very spectacular counterexamples. Scholar Luke Fildes was advised to become a designer of ecclesiastical mosaics: instead he became one of the great narrative painters of his age, with works such as Applicants for Admission to a Casual Ward and The Doctor, which became a great popular image, through printed versions, of devotion to duty.
+
+George Clausen won a prize for the decoration of a horse-tramcar, but was also to become a very well-known painter of colourful rustic scenes and rural types such as Labourers after Dinner and The Girl at the Gate.
+
+Other former students who became celebrated artists included Hubert von Herkomer, whose The Last Muster was the most often exhibited painting of late Victorian
+
+England; Elizabeth Thompson (later Lady Butler) of The Roll Call and Scotland for Ever fame, whose popular depictions of the heroic ordinary British soldier became the standard representation in the quarter century before the First World War; and Henry Woods whose paintings of Venetian street life were almost as popular as the social realist works of his brother-in-law Luke Fildes. Lady Butler wrote about the public impact of such paintings, which, when exhibited, had to be railed off to protect them from the crowds of viewers: printed versions, she added, became a common accessory to the cluttered Victorian interior and she was torn between 'gratitude for the appreciation of one's work by those who know, and the uncomfortable sense of an exaggerated popularity with the crowd'. Maybe her work had become a form of interior design after all.
+
+Other scholars who did take up a design career included Owen Jones's assistant Maria Edwards; Wedgwood designers Rowland Morris and Thomas Allen; three members of William Morris' Firm in Queen Square; six designers and modellers (including Leon Solon) for Minton's; several stained glass specialists for churches and textile designers based in Halifax and Kidderminster; the chief medallist of the United States Mint at Philadelphia; the engraver to the Royal Mint; and Mr Harbutt of plasticine fame. They had shared studio space with students such as Kate Greenaway, whose prize-winning floral tile design of 1864 was bought by the School as a teaching aid, and who published her earliest fantasy book illustrations whiletil n hercourse; and Gertrude Jkyl whose garden designs were inspired by colour theories she first heard about in School lectures, and whose student sketchbook  full of ornamental motifs from Owen Jones has survived. Jekyll, too, had one of her works used as a visual aid, when her comparative anatomy lecturer used a Jekyll drawing as a printed illustration in a textbook. Summarizing this period in a valedictory lecture he gave at Manchester School of Art in 1877, Henry Cole noted that, 'when we talk of a School of Art now, everybody understands that we really mean a School of Fine Art'. But the phrase 'School of Fine Art' had a very particular meaning in this context: it meant 'training workmen to produce works of art for the whole people'.
+
+## The French Influence
+
+In 1875, the painter of large-scale classical tableaux, Edward Poynter, had taken over from Richard Redgrave. He had been the very first Slade Professor of Fine Art and had strong views about 'the study of the living model' as distinct from 'the study of the antique', views which he called 'the French system,' because of its resemblance to the atelier system of the École des Beaux-Arts. One of the ironies of art and design education at this time is that as French educators were coming to admire the British system more and more  because it was grounded in principles  the Department of Science and Art decided to turn to the French system of fine art education becausit wasn't. From now on, as a tired George Wallis put it, 'pictorial art is everything  ornamental art practically nothing'. But the pictorial art was of an academic kind. One of the characters in Daphne du Maurier's novel Trilby was based on Poynter, and for him 'there was never a modern  moderns didn't exist': the Impressionists were a passing craze; history painting with a moral message was the real thing.
+
+Several of the old teachers left in a hurry, to be replaced by Alphonse Legros who would run the etching class, and Aimé-Jules Dalou (a refugee from the Paris Commune and
+
+Rodin's studio) who took over the modelling class. Both were practitioners of the atelier system. Edward Lantéri, who had been one of Dalou's pupils in France and who was to succeed him at South Kensington, later wrote that through his enthusiastic teaching and demonstrating, Dalou gave an extraordinary impetus to sculpture and modelling. The birth of 'The New Sculpture' movement in Britain started here, building on the foundations laid by Alfred Stevens. Of the sculptors who made significant contributions to it, no less than ten  including Alfred Drury, Francis Derwent Wood, Albert Toft, Florence Steele and Esther Moore - emerged from the Dalou/Lantéri class.
+
+Designers Edwin Lutyens and Detmar Blow, who would become important architects of the Edwardian era, were their fellow students. Lutyens in his late teens was already steeped in the writings of the Arts and Crafts Movement, and had a boyish interest in the vernacular architecture of Surrey; he won a national bronze medal for seven drawings of a 'country house'. There is a hoary old legend that Edwin Lutyens and Gertrude Jekyll one of the great landscape and architecture partnerships met as students at the School. In fact they were nearly a quarter of a century apart (Jekyll arrived in 1861, Lutyens in 1885), but met two years after Lutyens completed his course. An architect who was at South Kensington at about the same time as Jekyll was Herbert Gribble, who went on to design the Brompton Oratory.
+
+A painter who was there at the same time as Lutyens was Jack Yeats, who registered in 1887 at a stage in his career when he was adjusting from graphic art and illustration towards painting in watercolour and oils: he was attracted to the School as a way of getting away from design.
+
+## The Birth of the RCA
+
+The last decade of the nineteenth century saw the School renamed as The Royal College of Art. It now had the right to award its own diplomas, which entitled the recipients to a specially designed hood and gown, and a qualification that 'ranked as a degree for educational purposes'. The decade also saw its restructuring under the belated influence of the Arts and Crafts Movement, and its transfer of responsibility to the Board of Education.
+
+Why Queen Victoria graciously granted permission for the change of style and title at this particular time is not clear. Was it because one of her daughters Princess Louise had studied modelling and sculpture at the School in 1868 at the age of 20 (the first princess to be educated publicly) and been guest of honour on prize day in 1888? Was it to bring the School into line with the other royal colleges of the South Kensington campus ('royal' in the sense of owing their origin to the vision of Prince Albert)? Queen Victoria had written to Princess Louise warning her about artists who 'mix with all classes of society and are therefore most dangerous'; she had added that sculpture was 'unnatural' for a lady, although 'watercolours are always nice'  provided, of course, the Princess remained an amateur. So one implication of the change may not have appealed to Her Majesty personally.
+
+Whatever the reasons, the change was accompanied by some important reforms and by the hope  expressed in The Studio magazine  that the School would at last 'live up to its new title'. An official report had concluded with exasperation, 'how in the name of common sense can students be taught what is required for a special craft without the materials for that craft?' How this Arts and Crafts philosophy would accommodate other meanings of 'Art' was still an open question.
+
+# INTRODUCTION
+
+At Hyde Park Corner there are two memorials to the fallen in the First World War, both of which have associations with the RCA. One is a massive stone sculpture of a 9.2in howitzer gun, guarded by four bronze figures, on a pedestal covered with elaborate reliefs: a memorial to soldiers of the Royal Artillery. The other is a nude male figure with his right hand on his hip and his left hand clutching a long sword: a memorial to the 'glorious heroes of the Machine Gun Corps'. The howitzer was by Charles Sargeant Jagger, who studied sculpture and modelling under Edward Lantéri between 1907 and 1911, and who then saw active service at Gallipoli and in the trenches of the Western Front. The nude was by Francis Derwent Wood, who had been a National Scholar at the National Art Training School in the late 1880s, before becoming Lantéri's successor as Professor of Sculpture at the RCA between 1918 and 1924.
+
+The art curator Ann Compton has baldly  and justly contrasted these two Hyde Park Corner sculptures. The Jagger howitzer, she says, was more than just an example of uncompromising realism by a soldier-artist who had had personal experience of the horrors of war: it was also 'a violent gesture of rebellion against the aesthetic cliché embodied by its neighbour, the langorous nude David by Derwent Wood, which commemorates, with sickening irrelevance, the dead of the Machine Gun Corps'. So, one of the great pieces of public sculpture in the realist tradition to be produced this century stood side by side with a formulaic and empty exercise in historical revival. Both were unveiled in 1925. The former student had evidently outgrown his Professor.
+
+When Jagger was a student and Derwent Wood a Professor, the College was still dominated by the Arts and Crafts philosophy. But by the time the Royal Artillery Memorial was unveiled, the atmosphere and the philosophy had changed.
+
+## The New Spirit
+
+By the mid-20s, William Rothenstein had been Principal for five years and was personally running the Painting School (which he did again in 1930). He dropped the adjective 'decorative', shifted the emphasis away from teacher-training, stated in his prospectus that the aim of the RCA was 'to give advanced students a full opportunity to equip themselves for the practice of Art', and employed practising artists and designers (many of them part-time) as staffinstead of the traditional career art masters.
+
+Rothenstein's approach was a controversial departure from the historical mission of the RCA, and it took time to settle. The students of the transition period sometimes found the experience ustrating. The Principal,rhi par, refled that 'the ne spirit [of the Collee] was trying ... God's work was no miracle to some students, who looked rather at Cézanne's and Picasso's'. Although Rothenstein had more direct control over the Painting School, it was the Sculpture School which was the more successful at keeping 'the new spirit' at bay. Under Derwent Wood, Ernest Cole (192426), Gilbert Ledward (192629) and Richard Garbe (192946), the School continued to emphasize modelling, enlarging and academic sculpture, and to try and ignore the rise of the avant-garde in London.
+
+Rothenstein was succeeded as Principal by the Post-Impressionist painter Percy Jowett, and wrote, 'the College was unlikely to become industrialized'. Gilbert Spencer (younger brother of Stanley) remained Professor of Painting and Richard Garbe remained Professor of Sculpture. Malcolm Osborne continued to run the Engraving School which he had taken over as Professor in 1924. The School had grown out of the 'etching class' of the Arts and Crafts period, which Frank Short had directed from 1891 onwards. It had now become an environment where original prints were created, and where wood-engraving and lithography were offered as well  monochrome copies of the old masters (Turner was Short's favourite) had long since made way for more personal works in interwar colours.
+
+## The Rise of the Phoenix
+
+Robin Darwin, who became Principal in 1948, was to contrast the post-war revival of the College ('the Phoenix') with the dark days of Rothenstein and Jowett ('the Dodo'). His first priority was to turn the RCA into an institution with its own Council of Management and its own administration, in order to cut loose from the
+
+Ministry. The Dodo reference offended earlier generations of students  it still does  and Darwin's self-confidence in uttering it was helped by the fact that he was well connected in the higher echelons of the British establishment. Gilbert Spencer was asked to leave, making way for Rodrigo Moynihan. Frank Dobson took over from Richard Garbe, who had retired in 1946. And Robert Austin headed what was shortly to be called Printmaking rather than Engraving, in the footsteps of his teacher Malcolm Osborne  the last remaining link with the days of Lethaby and the Arts and Crafts.
+
+Darwin was well aware of the pre-war pressure to realign teaching at the College, and he had agreed with the Ministry of Education that 'to provide a training for the professional easel-painter' was emphatically not a priority. So it is paradoxical that the reforms of the Darwin era (194871) made the Fine Art areas a force to be reckoned with: Paradoxical, too, that a nonhierarchical division of subjects, with industrial and graphic design and painting effectively on a par with each other, should prove so stimulating to fine artists. Robin Darwin, a painter himself, proved an adept promoter of the College's distinctive contribution to painting, sculpture and printmaking at a time when many undergraduate art colleges were offering a broader, more diagnostic approach. If his public statements in the early years were mainly concerned with 'the training of the industrial designer', he equally emphasized (in private or internal documents at first) that studies in painting and sculpture were not merely continuing 'on sufferance or for the sake of tradition', but as an essential adjunct to studies in design. It was unthinkable, he wrote in successive annual reports, to have an institution devoted to teaching and research in design, in isolation from the plastic arts.
+
+Where students were concerned, according to Derrick Greaves - who was at the RCA in the transitional years from 1948 to 1952  the staff at the College fell into two categories: 'chatters' and 'teachers'. The teachers believed in 'instruction', in teaching by demonstration, and in sitting with students while correcting their life drawings; while the chatters preferred a more discursive approach.
+
+## The Beaux Arts Years
+
+The early to mid-1950s at the College have been dubbed The Beaux Arts Years', because of the strong connections between the School and Helen Lessore's Beaux Arts Gallery, with its emphasis on up-and-coming figurative and realist painters. College artists who exhibited there included former students Jack Smith, Derrick Greaves, Edward Middleditch, John Bratby, Frank Auerbach and Leon Kossoff. Works by Francis Bacon, who was an unofficial artist-in-residence at the RCA at this time after his studio burned down, were also exhibited at the gallery. In his 'Dodo and Phoenix' lecture of February 1954, Robin Darwin revealed that 'all the pictures in Mr. Francis Bacon's recent exhibitions have been painted in our studios'. Lessore later concluded that her great contribution was 'having concentrated into a little knot … the best art of its time and place'.
+
+## Carel Weight and Two-way Traffic
+
+Carel Weight succeeded Moynihan in 1957. 'A lively Fine Art Department', he said 'sparks off ideas.' By the early 60s, his 'two-way traffic' was in full swing. The influential 'Young Contemporaries' exhibitions showed the work of the so-called Pop generation, heralded by the autobiographical paintings of Peter Blake, the literary
+
+Symbolist paintings of R. B. Kitaj and important works by David Hockney, Peter Phillips, Allen Jones, Derek Boshier and Patrick Caulfield (who arrived a year later than the others). It has been written of these young contemporaries: 'Perhaps the traditional College connections with design influenced these particular students, perhaps also they picked up on a new feeling in the air and drew it into their work, adopting a career commitment which underlay all their actions.' Actually, they had less in common than it seemed. But neo-romantic painter Keith Vaughan wrote that at last he understood 'how the stranded dinosaur must have felt'.
+
+## Sculpture Revitalized
+
+In the Sculpture School, Bernard Meadows  who had been Henry Moore's assistant  was appointed as Professor at exactly this time, to shake the subject up. New materials, new technologies, new approaches seemed to be happening elsewhere, and Meadows' brief was somehow to give the School the kind of creative energy which painting had recently enjoyed.
+
+There was a move from figurative sculpture towards abstraction, and from formal teaching to 'students discovering their own aptitude, their own direction, their own individuality'. The modelling stands at last disappeared. Some found the transition difficult, but sculptors such as Tony Cragg, Nigel Hall, John Panting, Roland Piché, Bill Pye and Alison Wilding were among the first generations to work as professional sculptors in significant numbers after leaving College. The Meadows philosophy has been inherited and developed by Phillip King (Professor from 1980 to 1990) and Glynn Williams (the current Professor).
+
+## Revolution in Painting
+
+By the late 60s, the College had been granted the status of a university institution, and, under Peter de Francia (Professor from 1972 to 1986), the Painting School was beginning seriously to reflect on whether the painters wanted the RCA to be 'with it', when a university's job was more usually to stand outside it. 'Under Darwin', de Francia told the press, 'we were geared up to produce stars. We're not in a period of stardom now.' He added, in his inaugural lecture 'Mandarins and Luddites', that the 'mandarins' of the art world included 'the important dealers, a horde of cultural entrepreneurs and the majority of critics', while the 'Luddites' included all those who were attacking the practice of painting  including conceptual artists. For de Francia, painting was something to be thought about. The art establishment was not happy but was reassured with its thought that the Professor was passionate about the making of paintings. Work in mixed media (performance, video, installations) was banished to the upper floors of the Darwin Building at Kensington Gore. There was talk of 'cultural workers'.
+
+The result was an almighty collision, with the College authorities asking the School in 1980 to 'infuse aesthetic standards and values for the designers', and both staff and students of Painting replying that Fine Art could not be applied to design in this way  studied for its aesthetic standards and then put to something called practical use. The concept was very out of date where both art and design were concerned.
+
+Peter de Francia was succeeded by Paul Huxley in 1986, who in turn was succeeded by one of de Francia's former students Graham Crowley  the current Professor in 1998. The painting course moved in its entirety from Exhibition Road to the Kensington Gore site at the time of the changeover from de Francia to Huxley, and the transition from custom-made Victorian premises  with huge windows and a mural room  to new, smaller and lower-ceilinged studios was difficult: closer to the work of design and communications, yes, but no modern studio could hope to replicate those great spaces which went back to the days of Henry Cole.
+
+## The Continuing Debate in Fine Art
+
+In 1986, the Printmaking course finally moved from within the ambit of Graphic Design to the School of Fine Art. Printmaking had been considered part of 'design' ever since the Arts and Crafts era, if not before: equally it was, and is, the only department in the College with an unbroken chain, from Professor to former student to Professor, which goes right back to the 1890s. Even with the arrival of Chris Orr, as successor to the late Tim Mara in 1. So the move to 'Fine Art' was an histori, just as the debates of 1980 about painting and design were historic  part of a series of reconfigurations of a central dilemma: how to teach art in a design environment and design in an art environment. There are, of course, no cut-and-dried answers, but the questions have continued to be very productive. The key, always, has been to balance, or collide, the orthodoxy of the moment with the innovations of successive young contemporaries: to know when the scaffolding can be taken away; or whether the student needed scaffolding in the first place, before finding his or her own way. The celebrated collision between Gavin Turk and the College authorities in summer 1991  when Turk simply displayed at his final show a blue plaque which stated that Gavin Turk, Sculptor, worked here  symbolized an age-old dilemma, only with a very 1990s twist.
+
+![](images/861dbbedb65579564dbd22b426a005e5616f08dfa387a47cda1452db6055349c.jpg)
+
+# DAVID HOCKNEY
+
+'I applied from Bradford in 1957, and started at the RCA in September 1959. That was because I was one of the last people still doing National Service  as a conscientious objector, I worked in hospitals for two years. On the application I wrote "occupation desired on leaving  teaching", because I think that was what you did to get the grant. Also, most people assumed that that's what you'd have to do to earn a living. In those days, in England, there were very few painters not associated with an art school. Francis Bacon wasn't associated, but there weren't many others. There are more full-time professional artists now, aren't there? Actually, I've never done much teaching  I feel perhaps I should have.
+
+I was utterly provincial; I remember my first ever visit to London was when I was 17 or 18. I was brought up during the war and just after, and people didn't travel much. We hardly knew anyone who'd been to London. And the RCA was the main art school there; that's what they suggested to you at Bradford Regional College of Arts and Crafts, as it used to be called. I went to art school when I was 16, and you took their advice really. The painters teaching at the RCA were Carel Weight, Ruskin Spear, Ceri Richards, Roger de Grey, Colin Hayes, Sandra Blow. Some of them had been there 20, 25 years.
+
+The very first thing I did there was two drawings of a whole skeleton, half lifesize, and Ron Kitaj bought one of them. I thought, "Well, here I am, this is London and they'll all be very good", and I didn't know really what I should do. I hadn't been in art school for two years, so I remember thinking, "There's a skeleton hung up, I'll just make a kind of academic drawing of it which will take me 2 to 3 weeks." It did, actually. "This is how I'll start, and then I'll have a look around
+
+# T / INE ART
+
+and see what to do," I thought. There were the shows of American painting at that time. I saw the Pollock show at the Whitechapel in about 1958. Not long after he died, actually. Very lively. It seemed to be the first big new art that was un-Picassoesque. You'd become aware that American painting was more exciting than Paris, you see. Remember, in Bradford, life-drawing dominated everything, four days a week. And suddenly you were in a much more sophisticated School where they weren't going to impose this on you. So, "What will you do?" Lively people had noticed these exhibitions. And you didn't want to seem old-fashioned. Remember, too, that art school training before that was dominated by Sickert, therefore French painting from Sickert's time. So it was a question of "I'll develop something else."
+
+After the abstract phase  well, anything on a flat surface is an abstraction, of course it is  but Ron Kitaj, who was the most serious student around, and about four years older than me, talked to me about dealing with the visible world and my own interests. Homosexuality was a big subject then. Taboo? Well, remember, in art schools it was a bit of a different world, a bohemian atmosphere. You didn't think quite like the rest of them. I remember Quentin Crisp was a model there, the first openly homosexual person I ever met. He would get up and make some amusing comments on people's drawings. And I'll tell you what I did. There used to be a student arts newspaper, just typed, and I did a review for it. There was this graffin the lavatory wall in 1 Cromwel Roa and you wer always redn them, and so I did areview as thoug it was a gallery. One of thedrawings I always remember was called "The Vomiting Cobra", and the moment you mentioned it,
+
+# DAVID HOCKNEY
+
+every male person knew what you were talking about. I called the review "The Latrine Gallery, SW7". An influence at that time was Dubuffet  French art was still quite big  and he drew in a graffiti-like way. And I used graffiti a lot, realizing these were messages on a wall, meant to be read.
+
+For my "major task", between the second and third years, the subject I did was "The Birthday", because I'd gone to New York on my 24th birthday, 9th July 1961, and that was a very exciting thing for me. I'd only been abroad once before, to Paris. The painting had "Queens" written on it, after the suburb of New York. I don't suppose they'd call anything "a major task" today. In New York you saw another life. It was much more open than London. Big gay bars you didn't have here. I remember going into a bar, and a popular song was Hats off to Larry and all these kids lifted their hats off. Stunning stuff, I thought.
+
+One or two students who had a bit more space used to work at home, but I never did because I never had enough. I only slept in my room in Earl's Court. And I'd arrive at Exhibition Road at seven to seven-thirty in the mornings, before Lyons had opened in South Kensington, and I used to make my own tea in there. Always Typhoo, my mother's favourite. Then Mrs Buckett would come round and serve a cup of tea at eleven o'clock in the morning and three o'clock in the afternoon. You had to sign in in the morning. Everybody was on a grant, therefore you had to comply with the rules. You were taking their money. And you just signed in; lots of students weren't serious about it, some were working all the time. For instance, to get all the Painting School together  there were about 90 students  a notice would have to be put up at least a week before to make sure they'd all see it. And once they put up a notice: "All the School will meet in Studio D  very important. Signed Roger de Grey." And nobody knew what it was about, even I didn't know. And I used to work till ten o'clock at night, and I must admit occasionally I'd go into Carel Weight's office and look at the mail. I was known as "our man in the staff-room". Because it was wide open. So I knew about certain things going on. But even I didn't know what that notice was about. The staff would walk around the studios, but if they saw you were working away, they tended to leave you alone. There were always pele painti owe nth o crior i the r chol way asally they'd spend more time talking to them. And Carel Weight always had little girfriends,vurites, whopainted litt fowrpots. lowly, you w.
+
+I'll never forget Richard Hamilton, who was teaching in Interior Design  he did this unofficial crit one afternoon and he was very excited by what was going on: he saw straightaway, and the students recognized he saw what was evolving there. The way Carel Weight and Roger de Grey probably didn't. They didn't know quite what was going on with us They threw out Allen Jones at the end of the rst year, and a lot of students were told their situation would be reviewed. But I always got on quite well, because I would spend time drawing in the life rooms. I always assumed modern art was confusing them in a way, and that's why they introduced the new system of General Studies when I was there. They didn't have a policy or any clear idea how to deal with it, so they left it to the students. It was a very lively place, with some bright students, so I suppose it didn't matter, if it was working fine. You can have teachers who are very influential on you, who fight with you, or ones you fight against. Either can work, as long as there's something stimulating. Argument is stimulating, just as long as there's an argument, not authority saying this must be this". Actually, they encouraged the argument, they really did, which is one reason why it was lively.
+
+When they said they were giving me a gold medal, I did laugh at that. I didn't think life was about prizes, but in the end you have to be gracious. What you do is what counts. Painting is still not an academic subject; on the other hand you do need schools for it. But I went out and bought a gold lamé jacket. People thought I'd worn it every day, but I only ever wore it twice, believe it or not  onice for that gold medal and once for some photographs Snowdon took. My mother thought it was an official jacket that you got for getting a medal. Remember all young artists anybody who is doing anything  naturally want to attract attention. It's a perfectly natural thing. And I always say, "Well, the lively ones will do that, whether someone's complaining about it or not." I'd seen the jacket in the window of Cecil Gee's in Shaftesbury Avenue. Student clothes were dingy then, really. This was for a bandleader  but overtones of Elvis, don't you think?
+
+Those years when you're at College are very formative. I went there when I was 22 and left at 25. Those three years make a big difference: you're going to move quite quickly really. Looking back, I thoroughly enjoyed it and realized I'd learnt a great deal, coming into contact with a wider range of people. At that time they began to be interested in the young, what they called "The Young Contemporaries". And with the paintings I did for those exhibitions, I became aware as an artist rather than as a student. The College was a very alive place, and in a way the staff didn't hinder that  in the end they encouraged it. And they did pick the students in the first place. So you realized they were quite aware. I mean, they can't have been just blind.'
+
+# 20s PAINTING
+
+Following the appointment of Walter Crane as Principal from 1898 to 1899, the Council of Art recommended that the recently named Royal College of Art should be divided into four Schools: Mural and Decorative Painting, Sculpture and Modelling, Architecture, and Design.
+
+The main purpose of instruction at this time was to train students to teach in art schools. But, as Crane had hoped, the Painting School began to produce a series of highly individual artists. In the years preceding the First World War, these artists experimented with a variety of styles.
+
+However, it was not until William Rothenstein was appointed Principal in 1920 that the RCA was transformed from an institution that produced design and art teachers, and the occasional inventive practitioner, into a fully-fledged art school. Rothenstein did this, in part, by employing professional artists and designers on a part-time basis  an innovation at the time. The appointment of Paul Nash, a key artist of the interwar years, to the Design School in 1924, was to help widen the parameters of teaching far beyond the 'Elementary Ornament and Design' course of his predecessor W. R. Lethaby.
+
+![](images/396a8067ebce0dbeba0cc126db191a9822ba4bbbdf3f83e72649365a5995ec67.jpg)  
+Jack B. Yeats (1871-1957) Student 1887 The Combat, 1897
+
+![](images/b14d97b0855f4f7cec37e7717f98f082646c30fdcd81630387496e68774fa05e.jpg)  
+Barnett Freedman (1901-58) Student 1922-25 Staff 1928-40 Bagpipe Player, 1929
+
+![](images/4824c679a7f42521e81e26e162cd41e68b65364658ac3505dedc3bd1f17b7f92.jpg)  
+Ceri Richards (190371) Student 1924-27 Staff 1956-61 Couple Dancing. c. 1953
+
+![](images/89ee91444bf5d6e08e9278925e2ee917b5843a978857bf55e0077d3dcd7edda5.jpg)  
+Frederick Etchells (18861973) Student 1908-11 The Hip Bath, c. 1911
+
+![](images/dd92b1c4b1354436face826c5b9811c547e4ce1b52883a479b372cf7dfebe606.jpg)  
+Douglas Percy Bliss (1900-84) Student 1922-25 Self Portrait, 1923
+
+![](images/f498b21ad932bc8aa5c83726eece1a6adef8bcba18d01fd8f9d8d07a86337e7e.jpg)  
+Edward Burra (190576) Student 1923-24 Harlem. 1934
+
+![](images/09160d1aef4fc98536874eae2a84d65c8a5b52cc4617bac625a2575d1a204193.jpg)  
+Gilbert Spencer (18921979) Student 1912-14 Staff 1930-32 Professor 1932-48 The Crucifixion. 1915
+
+![](images/ac9715df32c22547e2732db6990f5499d22b145f4ff4efbd2324cb45f29c9e10.jpg)  
+Percy Horton (1897-1970) Student 1922-24 Staff 1930-49 Unemployed Man. 1936
+
+![](images/7f90c3d6b7010813b87671094bd0f69ff961395cf0abe5cbe3b8f96e2d0a93dd.jpg)  
+Vivian R. Pitchforth (1895-1982) Student 1922-25 Staff 1937-39 Old Stone Waller. 1925
+
+![](images/f1df7f71f35b6bef72b3689690ab63c65d87086989fdd6014f3ff303175de3a8.jpg)  
+Elisabeth Vellacott (b.1905) Student 1925-29 Portrait of Althea Willoughby. 1929
+
+![](images/8edcd44f0bad20beedb38bc8f9b9bd37b485e5d521df60facf88c320c003b12a.jpg)  
+Eric Ravilious (190342) Student 1922-25 Staff 1930-39 Edward Bawden Working in his Studio. c. 1930
+
+![](images/2a6bfee10a49a6df083b304f010ca79645a51b69dbcad20ff950a1cbd43f0243.jpg)  
+Morris Kestelman (1905-98) Student 1926-29 Sussex Farm. 1929
+
+![](images/031d505256c8af61c003c7b143383cd0cc6b1ecb8c0163d20a66f606fc09292a.jpg)  
+Edward Bawden (190389) Student 1922-25 Staff 1930-40, 194853 Cliffs & Waterfall, Carsaig. c. 1950
+
+![](images/f213324f9f697fb3cd4e1c4a759bc13ab159ee747a79ca141f77ed8f86aae369.jpg)  
+Charles Cyril Mahoney (190368) Student 1922-26 Staff 192830. 193839, 194653 Mural of Figures in a Garden. c. 194753
+
+![](images/7899c558f0f396fc2aad0e8095227a95444375d22ce0a1254575a8696ef5746d.jpg)  
+Paul Nash (1889-1946) Staff 1922-25, 193839 The Shore, 1923
+
+# 30s PAINTING
+
+The awakening of Surrealism within British painting began to influence the student work produced within the Painting School. Taking their cue from the developing work of Paul Nash and Edward Burra, artists attempted to reconcile this foreign influence within a British context. The traditional landscape genre became the place where artists courted abstraction. Although the aesthetic objectives were still conservative, the works often made use of dislocated objects and unusual places to suggest a sense of unease. A distinctive feature was a politically progressive approach that acknowledged the climate of social unrest, but created images suggesting a retirement from reality.
+
+In a somewhat different direction, the 'class of 22', which included Eric Ravilious and Edward Bawden, began to attract public attention with the large number of commissions they were undertaking as both designers and artists. This flexibility was in many ways stimulated by Nash who taught both painting and design. As Bawden was later to recount:
+
+'Nash talked to us individually in the manner of two artists exchanging their personal experiences. There was no artificial barrier, no talking down as between God and man, teacher and the one who was being taught. Nash brought into the dingy mustiness of the room a draught of fresh air.'
+
+![](images/6d7fa23adf7333187ea883dc090a78dce245ca6e58fa4a8f63d259589e3ee886.jpg)  
+Cecil Collins (1908-89) Student 1927-31 Maternity. 1929
+
+![](images/227f4cd130cdd88d79bd6386712ff4a17856d5a69a5d62d82e7c3f58701b7b96.jpg)  
+Evelyn Dunbar (1906-60) Student 1929-33 Landgirls going to bed. 1943
+
+![](images/65867890e102dd46375d7840f5bb28aabefa05285557e1d983e1a56a32d68c16.jpg)  
+Harry Thubron (191585) Student 1938-40 Setenit, 1976
+
+![](images/e51b9628bae1c914fe3771e9c8d8ef9f9013a90c4717bb577f30ffa4baba07b6.jpg)  
+John Piper (190392) Student 1928-29 Visiting Staff Collage, c. 1969
+
+![](images/5233e94698a7f65073f782eab38cc9254add6b44b087b43ab065efa96ecab62e.jpg)  
+Thomas Samuel Haile (1909-48) Student 1931-35 Reclining Figures. 1935
+
+![](images/cdab2f71cdf57450552a897d6ee234a7bb4120c69f266b4947b941ad9c67b572.jpg)  
+Paul Nash (1889-1946) Staff 1924-25, 193839 Nocturnal Landscape, 1938
+
+![](images/235024d81fbc03d09985112b757672a89408f27f7f1477d63a053a5643851779.jpg)  
+Kenneth Martin (1905-84) Student 1929-32 Chance Order Change 13. Milton Park A. 1980
+
+![](images/7263c74009fc69d3f46668ba2c5dc5271e46f018b3b8b4071704ca1723dfb5be.jpg)  
+Ruskin Spear (1911-90) Student 1931-35 Staff 1948-75 Self Portrait. 1932
+
+![](images/39bfb946ca26d9be716f263944f751683d0941c3ac905a5ceb259f9831abfc0b.jpg)  
+John Nash (1898-1977) Staff 1934-40, 194858 The Cornfield, 1918
+
+![](images/b3a3f7cdc3b82b0524fe43fcd637d4ba1ff5b8279173701eda0317324cf9bfb0.jpg)  
+Mary Martin (1907-69) Student 1929-32 After Watteau: The Scale of Love. c. 1929
+
+![](images/e223d606d43afbcb419b5ee69b03c1bd084d065cac5eae0cbe9d1b51b5165772.jpg)  
+Robert Buhler (191689) Student 1936 Staff 1948-75 Dedham. Suffolk, 1959
+
+![](images/81064a26ca2602b153b35d9fedefb7b7c1cb32fa0e7ed8bfeb280f8d7ed1e0bb.jpg)  
+Sir William Rothenstein (18721945) Principal 1920-35 Self Portrait, c. 1930
+
+The popularity of the works of the 'class of 22' owed much to their illustrational quality. Artists were greatly influenced by their training in wood engraving: woodcuts were the fashionable print medium of the interwar years.
+
+The increasing attention focused on the RCA was the result of a concerted effort by Rothenstein to raise the profile of the whole school. Mural design, in particular, attracted attention, garnering prestigious public projects and bolstering the RCA's reputation. The Mural Room in the Exhibition Road building became the site for a major revival, especially in the 1930s. The Board of Education was impressed, but increasingly alarmed that the College was moving away from design. At a time of economic depression, the Board felt there were other national priorities.
+
+# 40s PAINTING
+
+The move to Ambleside following the outbreak of the First World War was to lend an idyllic air to the students' work: watercolour sketches and community projects flourished. Picture Post visited the site and reported: '.. a throne, a model and a clutter of easels, paints and canvasses' littered the peacetime ballroom of a fashionable hotel, and that groups of young artists would go 'off into the mountains for several days at a time'.
+
+After the war, the return to London proved problematic, as the Exhibition Road site was in chaos and the Queensgate sheds had been used as building huts. The lack of space and resources prompted the Board of Education to consider abandoning painting and sculpture at the RCA and even changing the school's name to the Royal College of Design.
+
+But with the appointment of the flamboyant and well-connected Robin Darwin as Principal, this view was challenged and overturned; and the Board of Education lost its direct voice on RCA matters.
+
+One of the first challenges Darwin faced was to make the College selfgoverning. He was instrumental in introducing the College's own board of management and control over admissions and examinations.
+
+![](images/d897243c4fecf29187bebf756d2f9cf25dd06bcb71ca4b31c608de7282cac160.jpg)  
+Albert Richards (191945) Student c. 1940 Building a Hutted Camp in Essex, 1942
+
+![](images/e15a11b2fa469c7d7b3b96d9201a1cd7e596434b3deae21ae9b0180c022ad40c.jpg)  
+Rodrigo Moynihan (1910-90) Professor 1948-57 The Teaching Staff of the Painting School, RCA, 194950. 1951
+
+![](images/b492813e0a370df44ba1935833a161cc752e1d5938bda8d45885e24dcb86cdda.jpg)  
+Colin Hayes (b.1919) Staff 1949-84 Self portrait. 1982
+
+![](images/a8817681fe137b43adc1a27476208d66e016d6481cf939bceab5d21cdc354230.jpg)  
+Malcolm Hughes (1920-97) Student 1946-50 The Performers. 1950
+
+![](images/3d83a9214c06b674760a2403d4042d9b518673c9ddf65c379524cd489a8220cc.jpg)  
+Sir Robin Darwin (1910-74) Principal 1948-67 Rector 1967-71 Portrait of Sir Hugh Casson. 1957
+
+![](images/b47bd4935431e0c1942a29088843438731c3c3802325d125bd34f6f9d9beb520.jpg)  
+Charles Cyril Mahoney (1903-68) Student 1922-26 Staff 192830, 193839, 194653 Wrotham Place from the Garden, c. 1952
+
+![](images/59b2bc3654231cc2b498a2d55971db5d7a81864c0de497465383ff7cf63e0370.jpg)  
+Derek Hirst (b. 1930) Student 1948-51 Interior of a Kind. 196566
+
+![](images/5742c126007cbac4822200abf9aadb95460daf35bc89f01d4e0768c7cf178f0b.jpg)  
+Rodney Burn (1899-1984) Staff 1929-31, 1946-65 Two Standing Nudes. c. 1930
+
+![](images/b31726d0da2b1bedda1f58062ad5f5b8c1b9e2731d15146fbb38fe5a1948a706.jpg)  
+Robert Buhler (191689) Student 1936 Staff 1948-75 Barnett Freedman, 1947
+
+![](images/04c0130bed2e4a1ab875fbac52806c8c68c90d4872687895661b63449fcfda05.jpg)  
+John Minton (191757) Student 1936-38 Staff 1948-57 Death of Nelson. 1952
+
+![](images/b6610fb7b5fe9baac2216dcd95435c95419e39787247eaf20172a928702c1dbd.jpg)  
+Kenneth Rowntree (1915-97) Staff 1949-58 Putney Bridge Night-piece, c. 1958
+
+![](images/1ae5f63b974764c2f7ea3cbdbef5471b05c6f3649292f3fb562857b60f76e319.jpg)  
+Graham Sutherland (1903-80) Visiting Staff Entrance to a Lane, 1939
+
+The aftermath of the war brought an unusually diverse range of individuals into the College. Students were older  many of them had seen active service in the war and were given special grants (a new development) to retrain at the College. In addition, a wider range of social classes was represented. These changes were to prove crucial to the College's subsequent development.
+
+However, in spite of the radical changes in the day-to-day life of the College, established ideas and techniques still persisted around painting, such as drawing with the paintbrush, using a coloured ground to unify composition, and using a limited palette. Much of this was stimulated through the tutors, and reflected a drab, austere environment.
+
+## PAINTING
+
+## Alistair Grant and The Rebel
+
+![](images/ca326c87ec864f9dfcc46363d4997ef084ece6f0afb19886887b1047a70aef42.jpg)  
+1. GENESIS Schshi  h  C A Praised by Mr Drwin
+
+![](images/27b9ccf55d01c7535b69d0fb50b8712b0ff069a1afe48cc8962a271684d12968.jpg)  
+2. RECOcNIrION Designs tablian for the Crelsea Arts Ball First painting exhibited at the Tea Centre
+
+![](images/6f1df1864688d4508a5a4111d45cd960a386b29201bee250f147a85b06b22b6b.jpg)  
+3.SUccEss Discovers Banana Motif. Oneman exhidition (ona banana motif) Sells out. Praised by Sir Jthn R thinstein
+
+![](images/f2292a33218cf7a3c3c1e009f7f256d6af6ea8ee14e8881d52c8e64fde0a4dbf.jpg)  
+5. DowNFAIL Expelled from the london Group. Paints Lady M×nnings dog. A.R.A
+
+![](images/0404c19c4c38bcee11ff0b66f16daf7bef2847a43fff1a8b48d0d9ccfbb1f7dd.jpg)  
+4. IRIUMPH Commissioned to paint Lady D\*ckerin gold leaf . Prarsed by Sir Alfrid Mmings
+
+![](images/6a76e21e25587a728ff9bdd9632507be0217b064800aabac18cf8161c42dff1f.jpg)  
+.RUIN Teled sttinghext o Sr Wanton t Ra Academy bànquet. R.A. Knighted.  
+Ronald Searle. The Rake's Progress: The Painter, published in Punch, 1954
+
+![](images/291c1992b364a01165970c0a719df4221a1e40df2d5b0f0cd4839a8efc568375.jpg)
+
+![](images/ec07c73051669f230ad2622bbaa76972f37223f6fc7d20a8ad2cafb35a1f6465.jpg)  
+Stills from The Rebel, 1961
+
+# FINE ART
+
+When W. A. Whittaker, producer of a new comedy film about an artist, arrived at the RCA in 1959, his intention was to commission the worst student painter to make some truly awful pictures as props for the film. The film was to be called The Rebel and was to star Tony Hancock as a frustrated city clerk who finds salvation as a 'Sunday Painter', but who is then mistaken in Paris for an artistic genius.
+
+The script, written by Ray Galton and Alan Simpson, demanded two sets of paintings: a 'serious' and 'painterly' set, and a set in 'Infantilist' style to be attributed in the film to Hancock. 'Infantilism' was a fictional artistic term of Galton and Simpson's making, meaning an unskilled painter with no formal training, whose work is mistaken as 'primitive' or 'naive'. Herein lies the comedy.
+
+When Whittaker arrived at the Painting School, he was met by tutor Donald Hamilton-Fraser who recommended that he first went to Zwemmer's galleries to see the work of young tutor Alistair Grant which would certainly fulfil the criteria for the 'serious' set of paintings. On liking what he saw, Whittaker commissioned Grant to paint the 'Infantile' paintings as well.
+
+# PAINTING Alistair Grant and The Rebel
+
+The Rebel has gone on to achieve cult status as a British film about popular attitudes towards painting in the 50s — relying on Paris as a setting rather than say, New York. Lucien Freud claimed it was a 'pithy film about the contemporary art world', exposing the hypocrisy of its value systems. The art critic Peter Fuller claimed he was impressed by the film as a child and in his later career even used 'Infantilism' in his own critical vocabulary.
+
+Much of the film's script was inspired by the press of the day, in particular the notoriety of the Painting School at the RCA. Galton and Simpson relied on Sunday papers and art magazines as source material for the 'art' elements of the storyline. A survey of the press the Painting School received, reveals interesting parallels.
+
+A cartoon by Ronald Searle from The Rake's Progress series published in Punch is similar to scenes in the film. Although based on the famous series of paintings and later prints by William Hogarth, Searle transposed these to the life of a painting student at the College in the 50s. The painter's downfall within the cartoon happens when he enters the art world through an institutional route (Robin Darwin makes a cameo appearance), and ends up a pompous figure of the establishment.
+
+![](images/0a194486e1d9ba0256847efdd897bb2a4e632aa3a8c3801ee78f04fcc08bdbda.jpg)  
+William Green, RCA Painting studio. 1958
+
+![](images/1727398b41bef4cb41a8c10dbf221a22dabce9e44369887899ad5841ae48734c.jpg)  
+Still from The Rebel, 1961
+
+![](images/c81e49319b94c482bf44d44e2593f48c5a0798b067af29809abc7d7dc8e33b92.jpg)  
+Fred Buckett Bob The Cat, 1945
+
+Fred Buckett, a janitor at Exhibition Road who was often sent to tidy the mess left by painters in the annexe attached to the museum, became well known as a 'Sunday painter' who hung his efforts in the corridors. An article in a Picture Post of 1953 shows him as very near in spirit and painterly style to Hancock in The Rebel.
+
+Even the famous bicycle painting scene in the film was based on an article which appeared in Life magazine in 1958, and on the action paintings of student William Green.
+
+Yet in spite of all this, within the film an institutional route to becoming an artist is never mentioned, nor is there any direct reference to the RCA. In many ways, the film reinforces the popular view of a painter as being born with his/her talent rather than learning it. Perhaps even sadder is the fact that after the shooting of the film, the 'Infantile' paintings were destroyed by Elstree Studios who considered them merely props. Today, they are much preferred to the 'painterly' ones.
+
+# 50s PAINTING
+
+Following the devastation of the Second World War, the staff of the Painting School, under the direction of Professor Rodrigo Moynihan, introduced changes in teaching practice in the wake of contemporary artistic trends, such as social realism and abstraction.
+
+Rodrigo Moynihan, Ruskin Spear, John Minton and Robert Buhler were recruited by the Principal, Robin Darwin, from the staff at Central School of Art and Design. Their appointments brought a new style of teaching to the School that was informal, almost conversational in approach, in contrast to the earlier method of teaching by demonstration.
+
+Championing the mural for the social cause of the Welfare State, many members of staff were commissioned by the Arts Council to produce work for the exhibition '60 Paintings for '51', part of the Festival of Britain. The exhibition also included Moynihan's monumental painting of the teaching staff at the Painting School.
+
+In contrast to the brave new world that the Festival was meant to set into motion, British painting developed an interest in the drab, the ordinary and the everyday of post-war austerity. Critic David Sylvester, a lecturer at
+
+![](images/3ad55482c564b2e736a0a0df724a22865e28d18a0cfb5aa1462202b287b5031d.jpg)  
+Derrick Greaves (b. 1927) Student 1948-52 Domes of Venice, 195354
+
+![](images/279ece87230df9e0101874c17fa9ca46ff5ee9670c68807578297088d00c0416.jpg)  
+Bruce Lacey (b.1927) Student 1951-54 Vultures, 1954
+
+![](images/63a6a4fa4ecffbdd185477992ae6cf58058cf557009f57924f5aab4fa36f9e55.jpg)  
+Joe Tilson (b. 1928) Student 1952-55 Visiting Staff A-Z Box of Friends & Family. 1963
+
+![](images/28fc1fa0ed85d09c8b88ea1325f12b3fa9ea27bbf88da85ac7cb40eb3c5d9fc7.jpg)  
+Edward Middleditch (192387) Student 1948-52 Portrait of a Woman, 1951
+
+![](images/d8787777139a1fb9b8d5719c4c89b07d86ba93b1cb0ed1aeb2eee36a84b59eb6.jpg)  
+Alan Reynolds (b. 1926) Student 1952-53 The Village. Winter. 1952
+
+![](images/635537e3c079545c39988d6b371a94c0ef856e2be0e9a3c9b55c4de7085b3ae6.jpg)  
+Anthony Whishaw (b. 1930) Student 1952-55 Drawing (Landscape). 1983
+
+![](images/fb7e5b398beb4433006c83fef157b77e565f112d217d6f1c75759f8bc4440ca7.jpg)  
+Jack Smith (b.1928) Student 1950-53 Still Life with Cherries. 195455
+
+![](images/5a915679fe2dc02a400f07fcbc5bd1d3e6026b167e76853f1ba47c096b939e49.jpg)  
+Peter Coker (b.1926) Student 1950-54 Percy Jowett, 1954  
+John Bratby (192892) Student 1951-54 Staff 1957-58 Mural Studio at RCA. n.d.
+
+![](images/9a848d2451fa805d2fefa0d2c938ae6fffbaad4564c6c6eb4f1b0ba525cd78ae.jpg)  
+Frank Auerbach (b.1931) Student 1952-55 Untitled, 1955
+
+![](images/9765db017d236af7b868c5282e5bc20fff2be62571885c441784feb1dbc3996c.jpg)  
+Jean Cooke (b.1927) Student 1953-55 Staff 1964-74 Portrait of John Bratby. c. 1968
+
+![](images/5a9aef4d42c8cafc3552d2fdeb3cdd8f4ce66505cb51f89f388fcbe1819a5930.jpg)
+
+![](images/8cca5e5c843f6ece0997a541d489cc2aa2413d1abf6732aa2eaf240c49ca8632.jpg)  
+John Barnicoat (b. 1924) Student 1952-55 Staff 1976-80 Two abstract compositions. 1955
+
+![](images/760767236f61931173d0193de9c1e5ee417cee3f3860ec5e5358a9401685fce9.jpg)  
+Peter Blake (b. 1932) Student 1953-56 Staff 1964-76 Children Reading (Comics). 1955
+
+![](images/30bbf5c448b4db73e6f42199bcda614acb0447c29d4b9e42ed80b3047da6fb68.jpg)  
+Bridget Riley (b. 1931) Student 1952-55 Fall. 1963
+
+![](images/69abce041c34f1c79bc348666591d2b4394043a6feb3831010543ef2b7c20327.jpg)  
+Leon Kossoff (b. 1926) Student 1953-56 City Building Site, 1953
+
+# 50s PAINTING
+
+the RCA at the same time as Francis Bacon was artist-in-residence, wrote in an exhibition review at this time:
+
+'The post-war generation takes us back from the studio to the kitchen . as part of an inventory which included every kind of food and drink, every kind of utensil and implement, the usual plain furniture, and even the baby's nappy on the line. Everything but the kitchen sink? The kitchen sink too ...'
+
+At the Royal College the 'kitchen sink' gave early success to artists such as John Bratby and Jack Smith, but diverted attention from the work of Frank Auerbach and Leon Kossoff. The difference of age and experience between the young and older students became a source of friction. As Bratby wrote in a humorous article of 1952, entitled 'Frustrated Painters of a Generation':
+
+... the art schools .. suddenly became overcrowded with men who had seen death and sometimes caused it ... Barrack discipline, and austerity, and philistine army conversation, were replaced by the loosest scholastic freedom, the glamour of nude models ... instead of the sergeant-major there was the tired, sloppy art-teacher who lived in philosophically justified adultery .'
+
+![](images/96e247a67cf0745573ca2f621a7da72cd804ac729c17d4723efc4410a0a4e8af.jpg)  
+Brian Fielding (193387) Student 1954-57 Antique Room. 1957
+
+![](images/346773208356410859fe883a13a743436b0397b3cb988ec111ca6dceefa1274b.jpg)  
+Alan Green (b. 1932) Student 1955-58 Cerulean, 1986
+
+![](images/7e49bca96381df996e0cda0c5791fd0e6add5bd4a478108d8a70c44ebbfbd37a.jpg)  
+Alistair Grant (1925-97) Student 1947-51 Staff 1955-86 Professor 1986-90 Purple Composition, n.d.
+
+![](images/857a0e50f6964d19ce3c3e886aa9cc80005c30f3a04c47851f44b3b0ddd4517f.jpg)  
+Malcolm Morley (b. 1931) Student 1954-57 SS France, 1974
+
+![](images/46dc27392477bc111990a44bd28457cd32b709f8f8810a24c91d16a66b329409.jpg)  
+Sonia Lawson (b. 1934) Student 1955-59 Homage to Molière and Watteau, 1981
+
+![](images/75a86c208d91cd1bf7dc08b55c614b5031c0551581190b50887e115645107de0.jpg)  
+Leonard Rosoman (b.1913) Staff 1956-76 Portrait of Lord Esher in a Studio at the RCA, 1978
+
+## FINE ART
+
+![](images/0b49f504f919d5f55d4e5a2134c393b0fb1f14e85d939c13613406480eda0f86.jpg)  
+Robyn Denny (b.1930) Student 1954-57 Drawing. 1957
+
+![](images/4faa733289a87b9ca8f3b779e98301fe08194e0bb6c9a82976aa10c367e4e4bd.jpg)  
+Stuart Brisley (b. 1933) Student 1956-59 Head.1957
+
+![](images/3348b4468b08b0780d62c03e70c1452e502d4f8510ff24a3400ac985f16afabf.jpg)  
+John Nash (1898-1977) Staff 1934-40, 194858 Fallen Tree. 1955
+
+![](images/5d2dc5980e4b297526774a92f52379057ac8dbc62bacf9b6d114aa8abb637279.jpg)  
+Richard Smith (b.1931) Student 1954-57 First Fifth, 1962
+
+![](images/0112f663ef7c62cd57956e74f3003860afcc3fd6594513dea24ff46bbb543e00.jpg)  
+Ruskin Spear (191190) Student 1931-35 Staff 1948-75 Portrait of Sir Robin Darwin, 1961
+
+![](images/863582ac8988f993e5872a204ddc47f79e34e9eb71fbe071afee894eafb20c08.jpg)  
+Francis Bacon (1909-92) Artist-in-Residence 1950-51 Man Turning on the Light, 1973/4
+
+America became a cultural force in its promotion of abstract expressionism and in its aesthetic of plenty. By the mid-fifties this had opened the Painting School to student abstract painters. Probably unbeknown to them (and to their tutors), the Independent Group, which met at the ICA (Institute of Contemporary Arts), was already formulating a British popular aesthetic based on America's model of abundance.
+
+By the time of Carel Weight's appointment as Professor in 1957, the Painting School had become the permissive yet prescriptive environment that would incubate the beginnings of British Pop. Weight's regime was not prescriptive  there was no longer any attempt to impose an academic style. But there were arguments between the generations when students interpreted their 'major projects' in too loose a way, or took their interdisciplinary contacts with other courses too far.
+
+## PAINTING
+
+Pop & Ark
+
+Pop in its broadest sense was germinated and cross-fertilized at the RCA from the mid-50s. Much of this was due to the interdisciplinary structure of teaching, as Carel Weight, Professor of Painting from 1957, noted:
+
+'A lively Fine Art Department sparks off lively ideas. There is a strong two-way traffic. A lot of our students work in plastics, and the Textiles students gave an exhibition of their work recently that looked like an exhibition of paintings.'
+
+Almost as important as the generation of visual ideas was the notoriety keenly cultivated by students and some staff that fuelled widespread exposure. Robyn Denny's 1959 shop-window mural for men's outfitters Austin Reed was an act of artistic entrepreneurship that heralded Swinging London and set the tone.
+
+Ken Russell's 1962 television documentary Pop goes the Easel featuring Painting tutor Peter Blake and students Peter Phillips, Pauline Boty and Derek Boshier sharply presented a visual education that was as rigorous in lifestyle as it was in referencing popular culture.
+
+Unlike the Independent Group, the cultural think-tank at the Institute of Contemporary Arts of the early 50s, that originated the Pop aesthetic from
+
+## Ggrea 1 DIN T D
+
+Robyn Denny Austin Reed Mural, 1959
+
+the American realm of mass production, practitioners at the RCA added a witty use of their own visual heritage and a dash of emotion to their version of Pop. Inspiration was as likely to come from Portobello Market as it was from Tinseltown; particularly important was the visual mix  brash American imagery would be whimsically hand-rendered as if to assert cultural difference.
+
+The student magazine Ark came to define the range of these influences and became emblematic of Pop's developing relationship with the professional design industries. This was mirrored at the RCA in the rise in significance of the School of Graphic Design, which gave a new edge to the public 'look' of the College and its activities.
+
+Such was the 'two-way traffic' that a small detail of some medals in a painting by David' Hockney became the inspiration for final year work by Textiles student Zandra Rhodes, which in turn became a furnishing fabric for Heals. Rhodes then went on to become a fashion designer.
+
+THE SL IES gazine
+
+![](images/bf465f0ab9858b952628a6d233c1ac05fad4ce021d7e21940dd988bc47020bed.jpg)  
+Peter Phillips Sunday Times Magazine cover, July 1964
+
+![](images/87973ba6e39bed79022dd3d9cc427d02ff716e0ae85ab5f412344c4904ff8a93.jpg)  
+Peter Blake Big Do-Nut Drive-In, 1963
+
+# FINE ART
+
+![](images/bdb6c40060ef26c14bee575bb710a82248f0c7af48d0eb8fba35d2813802a53c.jpg)
+
+David Hockney Towards Art?, exhibition poster, 1963
+
+# 60s PAINTING
+
+Students in the late 1950s were the first to react in unison against the top-down education offered by the Painting School. Robin Darwin noted:
+
+The student of 1959 is less easy to teach because the chips on his shoulder, which in some cases are virtually professional epaulettes, make him less ready to learn; yet this refusal to take ideas on trust, though it may not be congenial to the tutor, may in the long run prove to be a valuable characteristic.'
+
+One group in particular was quick to establish a self-mythologized status. Comprising R. B. Kitaj (who was the oldest of the group), Derek Boshier, Allen Jones, Patrick Caulfield, Peter Phillips and David Hockney, the group established itself as early as 1961 at the 'Young Contemporaries' exhibition. With Phillips as president of the organization committee and Jones as the secretary, they created a group identity aided by the critic Lawrence Alloway and in opposition to the students of the Slade School of Art.
+
+In response, the Arts Council put on a touring show illustrating the contribution of the RCA to British art between 1952 and 1962, called Towards Art?".
+
+![](images/91b41e9be883d42f79a392d5dd72d7d82803713035a9a881329b8eca95eeee78.jpg)  
+Bill Culbert (b. 1935) Student 1957-60 Kensington Gore. 1960
+
+![](images/7062e90037aa941a81a72fda1a907e84b953179b81a56797247f3a8f57895911.jpg)  
+Derek Boshier (b. 1937) Student 1959-61 Drinka Pinta Milka. 1962
+
+![](images/2873dfde92683a99fbee2931670c9aa19843f2c8d7afb4453c94de459b8ef8fa.jpg)  
+Patrick Caulfield (b. 1936) Student 1960-63 Christ at Emmaus, 1963
+
+![](images/abe06cc2c05747da9560554ed231c68994a088164776058f567f3078b6862299.jpg)  
+John Doughill (b. 1934) Student 1957-60 Staff 1977 Window 16/14, 1996
+
+![](images/e15f8384177d4fb269651695e7cab567e1d6e76a51d34610eddb99e6fcabc7cd.jpg)  
+Pauline Boty (1938-66) Student 1959-62 It's a Man's World II. 196566
+
+![](images/272efcaf0d5280803ee587cd4b5c18375b2d3f38799b79a3d8a20e0e66e6fe74.jpg)  
+John Loker (b. 1938) Student 1960-63 Untitled. 1963
+
+![](images/58ca2e73d617ba81056e5386eb59392a75b2afeb793da0c17992746c20f7eb5d.jpg)  
+Adrian Berg (b.1929) Student 1958-61 Staff 1987-89 Gloucester Gate. Regent's Park. June, 1982
+
+![](images/ea7e117d237ec16776486dfa9b3ba6f83f8282786759920c587a5e9943ae1a46.jpg)  
+Allen Jones (b. 1937) Student 1959-60 Orange Skirt, 1964
+
+![](images/d0a2618afedac446352e830dbb096d5f0a1770c13e7fc170ede1453538892ab5.jpg)  
+Frank Bowling (b. 1936) Student 1959-62 Painting No. 2. 1962
+
+![](images/4f687b7aa11d341431bb2fd92959e42edd4efbae73fa350b2b08cdaf6e88f312.jpg)  
+David Hockney (b. 1937) Student 1959-62 Adhesiveness, 1960
+
+![](images/f7ea1a314f58f3a4bb9fa29ee0937dc64fb12f0bb91c6ac71e76510f58f5199b.jpg)  
+Michael Moon (b. 1937) Student 1960-63 Untitled, 1970
+
+![](images/89c04f7d1bc7abafd686cc0c47a1de80541348960d6ec06c3bb6c0e4e85c1a79.jpg)  
+Victor Burgin (b.1941) Student 1962-65 Untitled, 1965
+
+![](images/0896bc91c288552b120bf842e07ab23f983f531ae3266386fc4c703e1ab94ec5.jpg)  
+R. B. Kitaj (b. 1932) Student 1959-61 Homage to Herman Melville 1960
+
+![](images/cdb419099dc8ab0a6d4eb0eeef770535f0098781d77470a9ee4b67d1774c4ee0.jpg)  
+Peter Phillips (b. 1939) Student 1959-62 Motorpsycho (Club Tiger). 1962
+
+![](images/b092af2245541d3d1ae8647562b47dbaaadc8643103c86751c50e202c300cc1d.jpg)  
+lan Dury (b. 1942) Student 1963-66 Nightboy. 1966
+
+# 60s PAINTING
+
+The sense of conflict between staff and students fuelled a rebellious attitude among the young artists. Jones failed his interim assessment and was thrown out, Phillips received a warning and Hockney nearly failed on a technicality.
+
+Their strongly-directed figuration can be traced in part to the influence of Peter Blake who was now teaching at the RCA and exhibiting widely. As Ian Dury, a student of Blake, recalled:
+
+... it took Mr Blake to show my generation of Essex layabouts how to convert our lifestyle and private obsessions into artistic energy. Easels were soon creaking with real culture. Art suddenly became a living thing. I once showed Peter a flash Harry collage of 100 pairs of naked bosoms snipped from Jean, Nugget and Playboy magazines and he correctly identified every tit either from memory or by print colour.'
+
+In general, there was a concerted interest in style and in being styleconscious. This became apparent in the flatness of much of the glamorous imagery, and in the wide range of visual source material.
+
+Matching the evolution of style with the speed of ideas, a pace was created that gave Carel Weight cause for concern:
+
+![](images/6d55a214d532dfd2e4a04451092ff8960db034a9968b4dd297e4775af4ff7fed.jpg)  
+Bill Jacklin (b. 1943) Student 1964-67 The Invitation Card, 196264
+
+![](images/f0a5d60f123ba08325ab5d2bf18b7463b2a388aef0bd3d731c75aa9da61de5bd.jpg)  
+David Tremlett (b. 1945) Student 1966-69 The Cards, 1972
+
+![](images/13110830909d30e33ab99adf394d2c65cb7cde143f088260cc590adcdba5d770.jpg)
+
+![](images/29bcecf4b627f5ed9683122a5430f3e6a38fed763cc77379df66b9462e065eae.jpg)  
+Roger de Grey (1918-95) Staff 1954-73 Path in Wood, 1979  
+John Bellany (b. 1942) Student 1965-68 Staff 1969-73 The Witch,1968
+
+![](images/c9247b1e80d6c0e9f0b98aab37abfb86bd348bd4a179244b7553e4f36f598e5a.jpg)  
+Keith Milow (b. 1945) Student 1967-68 123456 ...B.1970
+
+![](images/2a18895eb2590e55e72f53521b1889123fddb248c9c45b9fbfef47f4d8fdd377.jpg)  
+Merlyn Evans (1910-73) Student 1931-33 Staff 1964-73 Polynesian Fantasy. 1938
+
+![](images/c3af22aa102d394707b9b290d27226e829f472bb6adc0d775b7d4546ded12221.jpg)  
+Graham Ovenden (b. 1943) Student 1965-68 Contemporary Girl. 1971
+
+![](images/1dda2e07e99863de49ff84bb4a285e089baf59107b80298afa469c041638198f.jpg)  
+Peter Blake (b. 1932) Student 1953-56 Staff 1964-76 Kamikaze, 1965
+
+![](images/cfb699f75268d178d511080785ed3590427a794d5a3cfb21e3c8e3efa4fea541.jpg)  
+Mary Fedden (b.1915) Staff 1958-64 Untitled. n.d.
+
+![](images/43ee64d5ad1acdb46ac860755a75a5db922fc893a6a82d074ffa326f3ab6ae7b.jpg)  
+Brendan Neiland (b.1941) Student 1966-69 Degree Show, 1969
+
+![](images/6722007f6b71947708a7f2ff5183432241ffbf74159c9ca45d8a237cc31a670c.jpg)  
+Sandra Blow (b. 1925) Staff 1960-75 Untitled Abstract, c. 1961
+
+![](images/dc1882d50916c6597e5a84daa75643f4ab344e7eb4a25265a0d8eea20ec93042.jpg)  
+Carel Weight (19081997) Staff 1947-57 Professor 1957-72 Country Lane, n.d.
+
+With all this going on ... the scene by about 1965 must have appeared chaotic to a student desperately looking around for new means of expression. It must have seemed as though everything had been done.'
+
+The Pop generation had excited the media, and the subsequent generation found it difficult to establish a niche. Meanwhile, the Pop painters' careers continued to develop after they had left the College, sometimes in radically different directions.
+
+At the same time, the Painting School began to develop a reputation for turning out a consistent stream of abstract painters. Although historically eclipsed by American Abstract Expressionism and the figuration of RCA Pop, abstraction was to become a key thread in the development of modern British painting.
+
+# PAINTING
+
+David Hockney
+
+At the RCA, David Hockney was allocated an Exhibition Road cubicle to use as a studio in 1959. Quickly realizing that it would be noticed by the regular stream of people who passed each day, Hockney staged an on-going exhibition of his paintings - and him painting them  which taught him the importance of an audience.
+
+On enrolling in the Painting School, he threw himself into rigorous studies of the human figure to demonstrate his considerable skill. He then dabbled in abstraction for a while, but his disdain for the titling of such works as 'Compositions' led him to try something new. In an attempt to send up the vogue for employing overly descriptive titles, he found a way to attract even more attention:
+
+'I assume people are always inquisitive and nosy, and if you see a little poem written in the corner of a painting it will force you to go up and look at it . it's not just as Whistler would say an arrangement in browns, pinks and blacks.'
+
+This curiosity extended to graffiti on the lavatory walls of Earl's Court underground station. Slogans such as 'Britain's future is in your hands' began to appear as ambiguous statements written in paint against
+
+![](images/5b20b61bcafa9686350b294be562ba201cce474d014d13bd7f1a1ca7b16ff313.jpg)  
+Thrust, 1961
+
+'m in the Mood for Love, 1961  
+![](images/d7b4533ace34d183fdf55557f542b72ef3dda99641ec40b5fde8e8ec3e366086.jpg)
+
+Going to be Queen Tonight, 1960  
+![](images/f1e345ae9fa6c82e42040e3dcbf9f4564fe14cf86ffd0bd7068bc1112276a587.jpg)
+
+![](images/01d636f9399b33f09a15ac704d55af8f875b1e2d747318bf07fdca794f7bb4f6.jpg)  
+We Two Boys Together Clinging, 1961
+
+# PAINTING
+
+David Hockney
+
+suggestive Dubuffet-like figures. His paintings began to develop a coyly private dimension - Walt Whitman's coded use of the alphabet matched to numbers became the vehicle for Hockney to paint his desires; words such as Queen and Doll Boy suggested a wish to express his sexuality in a manner more seductive than a figurative depiction could ever be.
+
+A newspaper headline that had caught Hockney's eye 'Two Boys Cling to Cliff All Night' made him first think that this referred to Cliff Richard, but actually it referred to a cliff. The double-take was to inspire the painting We Two Boys Together Clinging (1961). Such everyday objects in his studio became transformed into props. A Typhoo Tea packet became a formal device to imbue depth in a depiction of a seated figure, the back of a playing card a basis for abstraction.
+
+After winning £100 for a print designed in the Graphics School, Hockney set off for America in the summer of 1961. His personal experiences of the art world and the gay world there were the inspiration for his great series of prints The Rake's Progress. The medium was chosen because of the closeness between the etched line and the
+
+![](images/6b7b786dac4c3cc9fc397388f64b827d0f076bc3274af44d5212c015899d709a.jpg)
+
+The Diploma, 1962
+
+The Rake's Progress: Bedlam, 196163
+
+![](images/6fa29da95c4ff0227217843c5e3828d1df6e36778ab6d15850483248ae04dd3b.jpg)
+
+## FINE ART
+
+The Rake's Progress: The Wallet begins to Empty, 196163
+
+![](images/937c678bbf2f2887e761fb4c656e47e9985dd25e4c4a1e773afa74b49c8be81d.jpg)
+
+![](images/445b0bc57cf777e830d6438c082401824dd771dc09f18d1920f43d8ad48d2554.jpg)
+
+printed word, and the images reveal a moral tale, close to Hogarth's, that warns of the loss of individuality to external pressures.
+
+The reluctance of the RCA to grant Hockney his diploma resulted in him delivering Life Painting for a Diploma in which a male nude from Physique Pictorial was coupled with a perfectly executed drawing from his first days at the RCA. The painting represents an artistic development that was matched by the emergence of a provocative and uninhibited character.
+
+# 70s PAINTING
+
+With the exhaustion of Pop by the 1970s, a new attitude towards the discipline of painting was ushered in by the appointment of Professor Peter de Francia. In his inaugural lecture he promised 'an alternative to the idea of the artist seen as a kind of twoman circus horse made up of Lucky Jim at one end and Neanderthal Man at the other'.
+
+Openly opposing the fashionable successes the School had become famous for, de Francia rigorously defended the intellectual importance of European figurative painting and the social conscience of the artist in ways which extended well beyond the scope of the British art establishment. De Francia's ideal was to produce painters who were intellectually well-equipped cultural workers. This sometimes created tensions within the College.
+
+Challenged on one side by radical developments in artistic practice and on the other by the Conceptualists' attack on traditional media (which de Francia called 'Luddism'), and a lack of confidence from the art market, 'the new spirit of painting' developed quietly but firmly.
+
+![](images/5c6ade1dc0cd4e62b547aa77e896feab9b4216fe4e1b6b6010fe4485ff9e5d38.jpg)  
+Kevin Sinnott (b.1947) Student 1971-77 Degree Show. 1974
+
+![](images/7fab369247d87af6c674a8c5eefb75cd6448a582280fd3ebcf2e3da3b85036f7.jpg)  
+Peter Griffin (b. 1947) Student 1974-77 Degree Show, 1977
+
+![](images/a216086f094ea08984b25ac7902a6362315feca18252b7b30e231f11f9be989d.jpg)  
+Donald Hamilton Fraser (b. 1929) Staff 1957-83 Still Life with Fish, 1975
+
+![](images/f255726fc841535eb63be3318197feef74c8658b85a5e5bcdd2c47b6415926f5.jpg)  
+Graham Crowley (b. 1950) Student 1972-75 Professor 1998-present Degree Show, 1975
+
+![](images/d1656696bcf75ebf3967787a1d1a0b392e159bdeab64dc56b5223e1eaa0e8857.jpg)  
+Andrzej Jackowski (b. 1947) Student 1974-77 Earth Stepper with Running Hare, 1987
+
+![](images/f6c1c60867b59e81e33424a3dfd4b5ec541f0d4e2701c086c6eb8bfd6ebde9b5.jpg)  
+Patrick Heron (1920-1999) Visiting Staff Complicated Green and Violet March, 1972
+
+![](images/34ffba99526e77eb7f858e47068b31e40f7ca27b487e678f36eb0fae07eaf075.jpg)  
+Yehuda Safran (b.1944) Student 1973-75 Staff 1976-91 A Painting, 1989
+
+![](images/756de2e60532ee1535cf039d90df124968995d6e4e96b9a496a79974da41a2d6.jpg)  
+Stephen Farthing (b. 1950) Student 1973-76 Staff 1978-85 Flat Pack, Rothmans, 1975
+
+![](images/90c4f765b2351bc01470ecbd7a6b6119b2c2c56dfbf5ccef00e24aef7aa058ce.jpg)  
+Eileen Cooper (b. 1953) Student 1974-77 Taking Root and Falling Leaves, 198485
+
+![](images/53cd3e682d0b18a4a9960e4de79075b8a7893300683d68dbb4fdf3f3ed5ee534.jpg)  
+Michael Heindorff (b.1949) Student 1975-77 Staff 1980-present Cave Dance, 1987
+
+![](images/ef14af6f0c0f3e1a4d4713816a67fd4ad47553620575110e64dab5f82272d2a8.jpg)  
+Julia Peyton Jones (b. 1952) Student 1975-78 No. XXI Conspectus. 1978
+
+![](images/dbb592c3a3ccda0e9aa8fa9a9b4602a124ad6c12984c2ac765eecfa34fc32525.jpg)  
+John Barnicoat (b. 1924) Student 1952-55 Stâff 1976-80 Painting. 1985-86
+
+![](images/7bb269993eb0de50dcb7c313fbe51db8511c32b6fce7d6fc873ed7e514f13347.jpg)  
+Howard Hodgkin b.1932) Staff 1974-76 4 Henry Moore at the Bottom of the Garden. 197577
+
+![](images/a9311f9affd1bcfc0383ba1e3411580b919778fe9da6629fbcee7a58e1a084cd.jpg)  
+Peter de Francia (b. 1921) Professor 1972-86 Family in an Interior. 1978
+
+![](images/c81bcbc25277566dcb4d7f22c56e9e8743aca7c17fcaa49de7707964b3b20caa.jpg)  
+Roberto Matta (b. 1911) Artist in Residence 1975-80 Je m'espionne, 1974
+
+# 80s PAINTING
+
+The orthodoxy of British Modernism had been questioned by artists in the 1970s by the use of unusual materials and strategies. In the 1980s it was further challenged by a forceful return to figurative painting. The tradition established by the 'London School', comprising artists such as Bacon, Auerbach and Freud, continued to develop to international acclaim. A spate of important London exhibitions prompted American interest in buying a very particular kind of British work.
+
+These factors contributed to a return to the practice of painting in the 1980s. The Painting School was well equipped to respond, producing a range of artists keen to establish themselves in the newly discovered lineage of figuration. Peter de Francia called aspects of the fashionable new spirit 'fast-food figuration'.
+
+Although stylistically diverse, the content-laden imagery of many of the paintings of this period had a skewed, almost naïve realism that was underpinned by a strong sense of narrative: the subject-matter was often based on real-life experience espousing a personal mythology and executed in an oversized format.
+
+![](images/6e71bea559feb5926e70d03de60ba8772ebb84afd8443eb5c633ca2db2b70f57.jpg)  
+Philip A. Davies (b. 1953) Student 1978-81 Degree Show. 1981
+
+![](images/05c1ee8b31e814affbe84b2f4f312b2343a95e459d2f282593439b3938975d02.jpg)  
+Denzil Forrester (b. 1956) Student 1980-83 Untitled, 1983
+
+![](images/3597d26bf674aefa290adcabe5abf07cc79cbdef54eb4bdce725fb8f236774d7.jpg)  
+Paul Huxley (b. 1938) Staff 1976-86 Professor 1986-98 Surrogate, 1982
+
+![](images/4eaa103924efbc0a9aba5ae3d2aba6e9ee5282567c168fd0df34c68e0b7cf728.jpg)  
+Jim Mooney (b.1955) Student 1978-81 Staff 1989-present Invisible Cities, 1987
+
+![](images/01ccc715e4ecad2e55da7e0b447277356dffff0a329f1febe92b042d76d8bccd.jpg)  
+Madeleine Strindberg (b. 1955) Student 1982-85 Aftermath, 1985
+
+![](images/7c21ba26db1d73ebf122b6a235c8dcb5960a017b18c566298de417bea4c1cbe6.jpg)  
+Ken Kiff (b. 1935) Visiting Staff Talking to a Psychoanalyst: Night Sky no. 13,197379
+
+![](images/9a222754fe444e47c8567dbf6c361be78a2196d9afa2e516d54d9dcfc581c3ba.jpg)  
+Lucy Jones (b.1955) Student 1979-82 Three Trees South Bank, 1987
+
+![](images/942db1f6121f9c3ac5d626d01b6e889dc58f64903462a83e04772cbcf32d0597.jpg)  
+Thérèse Oulton (b. 1953) Student 1980-83 Redux, 1983
+
+![](images/aeb8533f60ca987fd3b140784caf008512ba9e5fa66bdfe48d01d184d02156d6.jpg)  
+Jake Tilson (b. 1958) Student 1980-83 The High Street, SW11, 1983
+
+![](images/f56506433c3d1fc6fafbab073bcad13eb78501fce24f3aacb1800e637decdf24.jpg)  
+Rachel Budd (b.1960) Student 1983-86 Degree Show. 1986
+
+![](images/3713afb7b530d53b0eac54ad9948e48e9abef959777e13df291c915158bb94fc.jpg)  
+Christopher Cook (b. 1959) Student 1983-86 Degree Show, 1986
+
+![](images/fda4de74c6213f5d96f627d591a8a6accb01d4a8570dac11d249f862633685fc.jpg)
+
+![](images/a382d2228a34fb2bfac15e078aebd89594bd10ce82c94e72f2bcd1f0a2e0f6ef.jpg)
+
+![](images/9454b019b1bcdc11fcc11554b5bb06a569e90ba90e130e081d16444f27c32b97.jpg)  
+Gillian Ayres (b. 1930) Visiting Staff Lure, 1963  
+Paula Rego (b. 1935) Visiting Staff Prey. 1986  
+Ansel Krut (b. 1959) Student 1983-86 Dègree Show. 1986
+
+![](images/b4bd759fcd7680be9133cf5bd75accf260f3aa24f6dab35449f6bf3b7d76053b.jpg)  
+Lisa Milroy (b.1959) Staff 1995-96 Shoes, 1986
+
+## 90s PAINTING
+
+In the 90s, a definition of new British painting has largely been engulfed by the term 'Young British Art'. Although primarily cultivated at Goldsmiths College and recognized by an entrepreneurial spirit and a derelict pose, 'Young British Artists' have also emerged, albeit rather more slowly, from the Painting School.
+
+The climate for these graduating artists has largely been controlled by the collector Charles Saatchi. In the mid-80s, he had started to acquire a large and eclectic range of British art. By the beginning of the 90s he was buying it young and in bulk, and by 1997 with his 'Sensation!' show at the Royal Academy, he had set the seal.
+
+In the case of painting from the RCA, the prevailing theme of selfnarration has in many ways replaced the positing of identity as a central issue. In addition, the marked trend towards the depiction of the human figure in the urban landscape is symptomatic to the deflection of identity and the assertion of unease.
+
+![](images/deec7aa9438811604240ef97cf3d79ffd12aaa3b10804d4166902c33c2549966.jpg)
+
+Dinos Chapman (b. 1962) Student 1988-90 Two Horizontal Planes, 1990
+
+![](images/86544a4bb05b7c62285fef4207cb1561b41ac155bf1af2e3aa2ad4f22d6a95e2.jpg)
+
+Chantal Joffe (b.1969) Student 1992-94 Odalisque, 1994
+
+![](images/e8c590c5c728f613b58dec85cfa4b81a914f4d76ff1e1c2942fe9bd5f9b0be43.jpg)
+
+Dawn Mellor   
+(b.1970)   
+Student 1994-96   
+Pigtails and Blue Ribbons, 1996
+
+![](images/efc617534380f9c16dc1e1701f3e3a925943be4b7aec683b7449a5b33d23ec75.jpg)
+
+Dexter Dalwood (b. 1960) Student 1988-90 The Night Attendant, 1990
+
+![](images/1f273c272514b5dc97288e69fbd6be3255fbc4a3b525c20d2b7062745be820fd.jpg)
+
+Tim Stoner (b. 1970) Student 1992-94 Ocean to Ocean, 1994
+
+Kate Donachie (b. 1970) Student 1995-97 False Eyelashes, 1997 Andy Davey's degree show
+
+![](images/ce047180c9a10ef8651e36ad1cfa7301037bfd75863843a7e8c689df3751a554.jpg)
+
+John Greenwood (b.1959) Student 1988-90 Mr. Reasonable, 1990
+
+Tracey Emin (b.1963) Student 1987-89 Family of Women, 1989
+
+![](images/64480e431b8edb26c1bce8750cd11d27499a621d8f3b42c4ba11ff472b6e3048.jpg)
+
+![](images/164d9e182e547ba9c54c6d5a42ad6a7f2b33b589295ef0c0cb8887deea916861.jpg)
+
+Alex Veness (b.1965) Student 1992-94 Cycles, 1994
+
+Chris Ofili (b.1968) Student 1991-93 Missing You, 1993
+
+![](images/28d97440e330e1f544b117e488200d483a298ff57f54177361007f66ac7bd630.jpg)
+
+Kate Belton (b. 1972) Student 1994-96 Interim, 1996
+
+![](images/4700b040f7938585abc145831f5e01b42c0cd6c573966a3298ee58ad81f9a721.jpg)
+
+![](images/15af213f7606abfe7453bc2a3deb5cf57e55732b30a8a5a32925446d30869d23.jpg)
+
+Philip Jones   
+(b.1971)   
+Student 1994-96   
+Eurydice's Bathroom, 1996
+
+![](images/27e317644524157b2f60606a974f975367e069dc9af7b250e07e1622bb26f825.jpg)
+
+Tutor 1989-94
+
+Cell Block (Maze Prison.
+
+Co. Antrim), 1989
+
+Michael Heindorff (b. 1949) Student 1975-77 Tutor 1980-present Heraclitean Landscape, 1990
+
+![](images/6364ae430ea3f5081620baef1185e62dc90049e5478bd694ec9b9dedb9bb6518.jpg)
+
+Peter Doig   
+(b. 1959)   
+Visiting Staff   
+Concrete Cabin II, 1993
+
+# PAINTING
+
+Tracey Emin
+
+Tracey Emin is one of the few recent British artists to have gained mainstream recognition. This feat is largely due to an infamous drunken performance on British television during the Turner Prize Awards in 1997. The performance was interesting not because she 'had breached acceptable standards' (the Broadcasting Standards Commission), but because it could be perfectly reconciled within her artistic body of work.
+
+Emin makes art from personal revelation, translating emotion directly into tangible representations. Her best known work Everyone I Have Ever Slept With 19631995 is a tent appliquéd and embroidered with the names of every person she has slept next to in her life. The piece received sensationalist press for the title's claim, when in reality the work merely played with the euphemism of the word 'sleep' and revealed a far deeper intimacy.
+
+Tracey Emin graduated from the Painting School in 1993 and, as is customary, donated one of her paintings to the RCA Collection. Having second thoughts about the choice, she replaced the painting with another which had a handwritten note of apology pasted onto the back of the canvas. The note is indicative of the self-confessional statements she would later adopt as her visual style. Emin herself has said that she is better represented in the collection by the reverse side of the picture.
+
+![](images/8b88a676e807b53203e1032407ca71c78116e4f4e6bfb1e34e68cae869256088.jpg)
+
+![](images/485dd7a5e869dab1677c565e3c8cbac62bb701c4428e82efaf9330c1ac262b62.jpg)
+
+The work is particularly rare because Emin destroyed all her paintings after a period of crisis, and began 'to start with myself but end up with the universe'. Initially this took the form of an offer for people to 'invest in her creative potential' for £10, sold at The Shop, a temporary but influential outlet in East London run by Emin and Sarah Lucas. By opening The Tracey Emin Museum in a minicab office in Waterloo in 1995, Emin made a grand statement that could easily have been accused of narcissism. Instead, the museum has become symbolic of how her work is essentially about contact, shared experience and a two-way dialogue.
+
+Raised and educated in Margate on the south coast of England, Emin places strong reference in her work on what she cites as the 'windswept, forlorn and forgotten'. Her use of
+
+Really Sorry But 1 love My to much to PaRt with Icabl he sold thisone) Its a good picture too th Thankyar TRACEY
+
+![](images/33c478f7cee96da1ec65d76e074dd818ba8e044e02981595bca15d83dfd4a164.jpg)  
+Friendship. (recto). 1989
+
+Neon Love Poem 1993-96 I Need Art Like I Need God', South London Gallery. 1997
+
+![](images/644b46299c44d37df364fd9c70b44adb09f6d2ab9054d0ff691f4e0cf50d0542.jpg)
+
+![](images/0a16ec2c6674d1d490a8e8449ef37de14eee4bf9471dd5d3615a0f01b2e05188.jpg)  
+Outside Myself (Monument Valley). 1994
+
+neon as a material has strong associations with the neon along 'The Golden Mile', while much of her viewpoint is constructed from the seaside town's expansive horizon coupled with its limitations. The escapism that the cheap pleasures of such places promise has become central to the mixture of hedonism and despair communicated by much of her work.
+
+Perhaps most of all, it is her ability to transcend everyday circumstance that marks her strength. The video piece Why I Never Became a Dancer (1995) is an account of when Emin entered the local finals of the 1978 British Disco Dance Championships and was shouted off-stage by a group of men she had previously slept with. The video ends with Emin giving a dedication: 'Shane, Eddie, Tony, Richard, Doug, this one's for you!' while dancing alone to Sylvester's hit You Make Me Feel, Mighty Real. Her work symbolizes a change in the social role of the artist in the late 1990s, and certainly merited inclusion in the 'Sensation!' exhibition at the Royal Academy in 1997.
+
+# PRE-WAR SCULPTURE
+
+The specialist School of Sculpture and Modelling was founded in 1899, offering vocational training for teachers and architectural sculptors. The emphasis placed on modelling, enlarging and academic sculpture equipped students with the necessary skills for a number of public projects in London, including numerous war memorials to commemorate the First World War.
+
+In the early 1920s there was a renewed interest in carving, led by British sculptors inspired by what was then called 'primitive art'. This approach was encouraged at the RCA by technical assistant Barry Hart who taught carving to students Henry Moore and Barbara Hepworth. Much disliked at the time by the public and opponents of the Modernist programme, the style provoked extreme reactions. Ex-student Charles Sargeant Jagger wrote in The Studio:
+
+'I have often watched the pathetic spectacle of the passer-by gazing in bewilderment ... at some strange shape in stone. I have watched him glance furtively right and left lest his bewilderment should be detected by the self-elected intellectual snobs who find these monstrosities an open opportunity for loudly demonstrating their assumed intellectual superiority.'
+
+![](images/b4bff2383152fd5613b246f89185f9e58c17c736d2d38dbf730ed3638931af2b.jpg)  
+Alfred Drury (1859-1944) Student Sculptural Panel. main entrance, Victoria and Albert Museum. 1906
+
+![](images/0c952d91be4637cc7e33353890e73387ed95b9cafff5d9fc37768046a55f417a.jpg)  
+Charles Sargeant Jagger (18851924) Student 1907-11 Artillery Monument. 1925
+
+![](images/a04b3b462b963edfef6c38a98ad7c9493d870ded45782307e3f70542d66026f1.jpg)  
+Henry Moore (18981986) Student 1921-24 Staff 1924-31 Mask. 1928
+
+![](images/62f4ff2c121ea187d8621a233d85331585f48b85774d760b23560c442173e178.jpg)  
+Albert Toft (18621949) Student Hall of Memory Memorial, Birmingham. n.d.
+
+![](images/9d3cabaf83bf0d2533ed8c244eefcd31a868b6e90bf9bbba163c53fde7745e0b.jpg)  
+Charles Wheeler (18921972) Student 1912-17 Mother and Child. 1926
+
+![](images/58d5276cdca93b9a77af0900d595cd1f25619c58da19ac26a875b923b7cb3e94.jpg)  
+James Woodford (unknown) Student 1920-22 Bronze Doors (detail), Norwich. n.d.
+
+## FINE ART
+
+![](images/bbc3d00812a8ec9daf50f8ac2ff57e6c545ac75c68d227fcbb2a641025cb1313.jpg)  
+Francis Derwent Wood (1871-1926) Student 1889-90 Professor 1918-24 Machine Gun Corps Memorial, 1925
+
+![](images/cd17e109632058399856041869e4499f73bcf391010d099ff51833cae5603ec5.jpg)  
+Edward Lantéri (1848-1917) Staff 1874-80 Professor 1880-1917 The Sacristan. 1917
+
+![](images/997d659334bdcc5909fd84fdbeb6e48c08e770565225ade1bb3c438f624807f1.jpg)  
+Ernest Cole (unknown) Professor 1924-26 Sculpture, County Hall, London. n.d.
+
+![](images/521e8565b1d5e6ed490d871e65fcfb719333897d86536f36af4e9dbfb19270fc.jpg)  
+Gilbert Ledward (18881960) Student 1907 Professor 1927-29 Monolith, 1936
+
+![](images/8fe9e1a42dae1df50a5b21ebc18b35473651f7383a0c26997d3c791870cfc687.jpg)  
+Barbara Hepworth (1903-75) Student 1921-24 Torso, 1928
+
+![](images/0f8c574968798014ac72428c2f673f6dfffb3dfe52dd045cbe1d0242cd98bef8.jpg)  
+Merlyn Evans (1910-1973) Student 1931-33 Sculpture, 193233
+
+With the exception of the 'Leeds Group' of sculptors headed by Moore and Hepworth, the Sculpture School largely ignored the direction of the interwar avant garde. Teaching methods remained unchanged and resistant to modernism. However, the belief in 'truth to materials' and a dedication to carving rather than modelling were considered progressive by many students. The programme also contrasted with the monumental and ecclesiastical opportunities still offered by public and private commissions.
+
+The Sculpture School suffered when the RCA was relocated to Ambleside in the summer of 1940 after the outbreak of the Second World War, because heavy machinery had to be left behind. However, this did encourage a makeshift interdisciplinary approach, as students moved freely between disciplines without any official barriers, in what was called the 'potato loft university'.
+
+# SCULPTURE
+
+# Barbara Hepworth and Henry Moore
+
+Henry Moore arrived at the Royal College of Art in 1921, a 23-year-old veteran of the First World War. His first few months were an exhilarating experience, though this had as much to do with living in London and visiting museums in South Kensington and Bloomsbury as with the teaching he received. The Sculpture School at the time was run by Derwent Wood, a scholarly and academic sculptor, while the mandatory course in architecture was taught by Beresford Pite, an ageing architect whose sentiments lay firmly with the late nineteenthcentury Arts and Crafts movement. Neither seemed to have much to offer the young Moore.
+
+Barbara Hepworth also arrived in 1921, at the unusually young age of 18. Both Hepworth and Moore had studied at the Leeds School of Art, and with two other Leeds alumni, Raymond Coxon and Edna Ginesi, they formed 'the Leeds group', renowned in the College for their 'lively and confident'
+
+![](images/3237a97c6d4c7108757bcc9492a42b894dc157689c9723b33ab0280e89dc4924.jpg)
+
+Henry Moore   
+Marble Head of the Virgin   
+(after a relief by Domenico Roselli), 1922   
+Direct carving was not   
+practised at the College:   
+instead a pointing machine   
+was used to produce finished work from casts modelled by the students. Moore   
+deliberately peppered this   
+work with tiny holes to give   
+the impression that it had   
+been carved by machine rather than by hand.   
+Henry Moore Foundation
+
+![](images/9f9a5a851f2155d8278a9fcad97e31c68570f89ac9d20d09703931c3324519d4.jpg)  
+Henry Moore Head of a Girl, clay. 1923 Moore's taste for 'primitive art was in direct conflict with the academic teaching at the College, and he worked on his own carvings only at weekends and during vacations.  
+Barbara Hepworth Large and Small Form. white alabaster, 1934
+
+![](images/5a16b3e5aeb90278b4b4392bc5541165754dd991eb5a100bf173fc528b7c1294.jpg)  
+Barbara Hepworth Doves, Parian marble, 1927 Hepworth did no direct carving until she left the RCA. Her interest in the technique developed when she and her first husband. John Skeaping. were studying in Rome.
+
+# SCULPTURE
+
+# Barbara Hepworth and Henry Moore
+
+way, with the men always maching in step. Although Moore confessed to being "'a bit sweet on her' while they were studying together at Leeds, by the time they reached London he saw Barbara Hepworth rather 'as a kind of young sister'.
+
+Hepworth has stated that she, too felt a sense of 'united purpose' with Henry Moore in their enthusiasm for what was then known as 'direct carving' as practised by Eric Gill and Jacob Epstein. This was not taught at the College, and the two young sculptors drew their inspiration instead from the 'primitive' African, Japanese and Mexican art to be found in the British Museum, the pre-Renaissance art at the V&A, and the works illustrated in the pages of the magazine Cahiers d'Art.
+
+But both Moore and Hepworth eventually recognized the value of an academic grounding and were keen to master all the conventional academic techniques taught at the College. Moore, in particular, was fortunate in having Leon Underwoog as his drawing tutor. Underwood was also a sculptor and 'set out to teach the science of drawing, of expressing solid form on a flat surface  not ... the art-school imitation of styles in drawing.
+
+Moore also knew the technical assistant Barry Hart (a trained stonemason) well enough to persuade him to allow direct carving in the studio, rather than the then standard practice of preparing a model and using a pointing machine to transfer and enlarge it.
+
+Hepworth only occasionally experimented with direct carving and seemed more open to the idea of benefiting from conyentional academic teaching. Apart from anything else, she could not afford to lose her Scholarship:However, there is no doubt that Hepworth, too, was profoundly influenced by what was seen as the more abstract work exhibited at the British Museum. Henry Moore's final report from Derwent Wood judged that his drawings are excellent, hut design might show improvement. He appears to be somewhat limited in his interest of tradition in Sculprure'. Principal William Rothenstein was much more enrhusiastic: he offered the young Moore a senior teaching post the moment he completedhis diploma This was, the sculptor laterrote, excellent preparation for meeting the widespread philistine atmosphere which prevailed in England upto Modern Art'
+
+![](images/06c7ec5c284cda64cf45ee80b9a62003a8ded397cb6f2f45422f5ba116305bdf.jpg)
+
+![](images/d8daf0c56288a577ad75fe9bbbfcc85702a222b1e58c56a37a61864596c1bc94.jpg)  
+Barbara Hepworth Mother and Child, grey Cumberland alabaster, 1934 During the 1930s Hepworth's work became bolder and more abstract. With Moore, she became a leading member of the British avant-garde. Both Moore and Hepworth were interested in the theme of 'Mother and Child'. This example was influenced by her meeting with Hans Arp.
+
+![](images/74044c592ff8664d154298ae26197b6e541bd6ffed9cfef052590b9509268b2a.jpg)  
+Barbara Hepworth Infant, Burmese wood, 1929
+
+![](images/02772a53cceff5e776327c1ca6aa9bb41d10c6b120e4cbbdad19c4b3ee85f52a.jpg)  
+Henry Moore Carving in African Stone, 1935 Moore first met Jacob Epstein around 1925. Epstein encouraged Moore's passion for ethnic art and inspired him with courage in the face of public opposition to his work.
+
+# 50s SCULPTURE
+
+The changes ushered in by Robin Darwin, who was appointed Principal in 1948, were soon appreciated by students of the Sculpture School under the direction of Frank Dobson. One of the first to encourage a culture of fellow-practitioners, Dobson often invited students to comment on his own work, which they did with aplomb.
+
+The period was marked by the Festival of Britain in 1951 which cemented a relationship between the British public and modern British sculpture, opening up further possibilities for public art. Much of the sculpture of the day, although still figurative, began to convey anxiety as a post-war condition, with neuroses expressed through texture and tortured form. This was heightened by the introduction of cut and forged metal as a material.
+
+By contrast, the appointment of John Skeaping in 1953 produced a greater emphasis on carving, away from the decorative tradition. In 1955 a studio was lent to Jacob Epstein for the construction of two large-scale sculptures. These works were to invigorate carving as a technique for students, who repaid the compliment by publishing a small book on Epstein's work in progress.
+
+![](images/8727c3e939c805003f4746d75ef9763155e1ae2ebeb5e1a63dd46825b8c28403.jpg)  
+Franta Belsky (b. 1921) Student 1941-42. 1948-50 Joyride, bronze, 195758
+
+![](images/f5bf1826856387e7e675295f6fee42e9cb309c016f105bd5184cf83f492c40fe.jpg)  
+Ralph Brown (b.1928) Student 1952-56 Staff 1958-72 The Queen, 1963
+
+![](images/ff80b78777726c662ccb0f4940f17c35517071bc46e66408039490301c897d6c.jpg)  
+Christopher Ironside (191392) Staff 1953-63 Tapestry, Dovecot Studio, with Robin Ironside, 1959
+
+![](images/2988c1534e640dda210a204fa7f55af47d5078ddcdc1356d07b05c4e9381a429.jpg)  
+Geoffrey Clarke (b.1924) Stained glass student 1948-52 Figure, 1950
+
+![](images/8485be4a5575f7496365f99c115d782c96389a5c9a8e38f07ddeadc7dd9336e8.jpg)  
+Hubert Dalwood (192476) Visiting Staff Mirage II. 1966
+
+![](images/ce5f7d58fe427f9f4465ce97021e0300343c857bc3035b761c54f7874c164335.jpg)  
+Frank Dobson (1886-1963) Professor 1946-53 Ham Hill Torso, 1928
+
+![](images/1668b07457121bb856016df88dea6144f672ae3ea2f0df0ca8b2514a0a7654f6.jpg)  
+Robert Carruthers (b.1925) Student 1950-53 Torso. pre-1960
+
+![](images/2d911a7c1c340470f05f4b24312dd794bae2b15b2d8d1f0a265ad05f004e0c1b.jpg)  
+Edward Folkard (b.1911) Staff 1948-50 Onlookers, 1956
+
+![](images/de9a2b1037e6de0b7d79106f8337a5d68937d6dab7820de1113ec82afae1e68b.jpg)  
+John Skeaping 1901-80) Professor 1953-60 Head of a girl, c. 1958
+
+![](images/274837c7b74434eed796d26a222f7e59ae59e43713497bcc4f2ba0ba8db7ce38.jpg)  
+Sydney Harpley (1927-92) Student 1953-56 Girl on a Swing. 1974
+
+![](images/00195073baf3a902b697e88c0aeef49b1d5328448f187ca83c51531b27e41e2e.jpg)  
+G. Heinrich Clusman Henghes (1906-75) Staff 1949-53 The Dancers, 1950
+
+![](images/fc8634405339501410264567176ce973e1f723aaee7832b77250a0ffadb5960c.jpg)  
+Jacob Epstein (1880-1959) Artist in Residence 1950-51 Madonna and Child, 1951
+
+The retrospectives of both Epstein and Moore at the Tate underlined the strength of British sculpture in this period, both at home and abroad. In 1957, an Arts Council open-air, regional exhibition entitled 'Contemporary British Sculpture attracted more than 215,000 people, demonstrating its new popularity as an art form.
+
+Overseas, with support from the British Council, modern sculpture became associated with the nation's culture for the first time.
+
+More permanent was the integration of sculpture into the planning and building of Britain's new towns, often appearing as a symbol of optimism for the newly housed community.
+
+# 60s SCULPTURE
+
+The 1960s can be considered one of the most inventive and unorthodox periods in British sculpture. During this time sculpture received much public attention, enhancing its reputation abroad. New materials and technologies supported a shift from figuration to abstraction, and from carving to construction.
+
+Bernard Meadows was appointed Professor in 1960 to shake up the School of Sculpture. He helped to widen the horizons of the students to the outside professional world, by teaching them to learn for and among themselves, by increasing the number of visiting practitioners and by insisting on high technical standards.
+
+The experimentation was aided by the lack of a professional tradition in British modernist sculpture. Colour began to be used as an element in itself, as a reaction against expressive textural surfaces; fibreglass, polyurethane and plastic began to be welded in reaction against 'truth to materials'. Even the sculptural base was abolished in favour of integration with the piece as a whole.
+
+Much of the approach was influenced by abstract painting  many sculptors respected its fundamental qualities, considered both serious and daring. Pop also played a part,
+
+![](images/e244aa3312a613c636bda47bac2988c4f15aa43b910ef5b5df5573793f0baa1e.jpg)  
+David Hall (b.1937) Student 1960-64 Nine, 1967
+
+![](images/4d38d2a19f38dbe69307c6bb9e9884fbdfa56d4a7b83728a974cc874534d7f50.jpg)  
+Nigel Hall (b. 1943) Student 1964-67 Untitled, 1964
+
+![](images/122603d9d1b5e6ffa843a94ee9e15f1cd5705f05bb302270881fe10b151baa3e.jpg)  
+Dame Elisabeth Frink (1930-93) Visiting Staff Winged Beast, 1962
+
+![](images/3856a281ca1a917669cb38f2d3b947a087685ea41dc9b55b580268c85dfbbfd1.jpg)  
+Roland Piché (b. 1938) Student 1960-64 Sunset & Deposition. 1964
+
+![](images/b227f5c5c0023204c4343ee515c0299cf001822ff1cc385bdf1bfed0fe5659c2.jpg)  
+John Maine (b. 1942) Student 1964-67 Prism. 1977
+
+![](images/6bed0147df9f504712777e297e845765c9262fd8d76852469b5a2f164c9faa32.jpg)  
+Bernard Meadows (b. 1915) Professor 1960-80 Black Crab, 1953
+
+![](images/4b6af1024b32b16e0bccee6676044c5a6469ab6ae838d609046421ac665fe801.jpg)  
+David Horn (b. 1937) Student 1960-64 Suddenly There Are Flowers Everywhere, 1964
+
+![](images/6b19b788ce95b61904ebf56771b2e86c617256a0c1ff0fc9579f68aa42717913.jpg)  
+John Panting (b. 1930) Student 1964-67 Untitled, 1967
+
+![](images/58f10e492a2d2a0c5528d192485d06b1cab9e2b20a7db3ec3370e31aca6c7415.jpg)  
+Robert Clatworthy (b. 1928) Staff 1961-68 Bull, 1957
+
+![](images/2586ee0b34a781bcb8ec838ed6eb7a06dc7e6fb2caf4bcefbf48248f4e0f9e2d.jpg)  
+William Pye (b. 1938) Student 1962-65 Confluence, 1992
+
+![](images/b824155885a61ee23e15d763d5a150e5053063eb9cf33dd5b7c874aba49e7ec8.jpg)  
+Keith Milow (b. 1945) Student 1967-68 Cross, 197980
+
+![](images/446b4594b6dbca9b99d7c5f06e71d7bc8051ed7217d771238cd215f47c4695a2.jpg)  
+Kenneth Draper (b.1944) Student 1965-68 Ascend, 1968
+
+delivering a playfulness in colour and form that was to transform sculpture beyond the public's recognition.
+
+The trend for 'suggestive forms' caused the decline of figurative sculpture. Meadows and other sculptors abandoned human elements, shrinking and distorting them to unrecognizable ends. For many, representation had simply disappeared.
+
+The spirit of experimentation permeating the School at this time was partly due to the freedom Meadows was given by Robin Darwin to run the School. Many of the rigid traditions the School had spent so very long upholding were circumvented in the name of innovation. When the modelling stands from the Queensgate huts were abandoned, the connection with the arts and crafts tradition of sculpture was finally severed.
+
+# 70s SCULPTURE
+
+The early years of the 1970s were dominated by interest in Conceptual and Performance art. The enquiries of the previous decade had dissolved into unconventional assemblages of material and media  innovation had almost become orthodoxy.
+
+Within this climate, sculpture at the RCA was divided between the making of 'objects' or 'assemblages' in Bernard Meadows' School of Sculpture, and the rise of 'environmental media' under Peter Kardia, an initiative that was to produce a string of important artists.
+
+For most, this was the decade of a new-found belief in 'truth of process' rather than 'truth to materials'; analysis of the process was favoured over the finished piece.
+
+Innovation consisted of a series of reactions against the dominant form - objects became so reduced that some feared an exhaustion of form. With the establishing of Conceptual art, the 'deobjectification' of sculpture became a possibility. Many sculptors addressed this possibility by challenging the system by which their sculptures were classified.
+
+Kardia made his students aware of decision-making in the creative process, fostering an individuality which resisted stylistic categorization.
+
+![](images/124dac663bb2ea9050ed0ec8ee176e5de6b86cc1df4d8047d5a84aaefbf6979d.jpg)  
+Richard Wentworth (b. 1947) Student 1966-70 Siege. 19834
+
+![](images/ccdba8b311fcf98641261449b6d33123971b4a1127a7445c51088d41458bca0e.jpg)
+
+![](images/f3989053afe30ad894f19f2ba069399680e9b6b19e3a2c58712ee41fc6752d01.jpg)  
+Terry Powell (b. 1944) Student 1970-73 Staff 1977-98 Degree Show . 1973  
+Martin Naylor (b. 1944) Student 1966-70 Important Mischief, 1971
+
+![](images/1a8b3734184dba3ed58bc1710d157fc13d1eee1303744f7e4e713fc0f17696f0.jpg)  
+Alan Boyd Webb (b. 1957) Student 1972-5 Nostrum. 1989
+
+![](images/cd6415285a07e01248b6f400c0ea30dcb94ecad94d671f230236ac86500840c2.jpg)  
+Alison Wilding (b. 1948) Student 1970-73 Echo. 1995
+
+![](images/a3c53aab2ff8a8795751475796e30c72e7d778ebec8cdeb1b82b4b0280f9336c.jpg)  
+Tony Cragg (b. 1949) Student 1973-77 Stack, 1977
+
+![](images/80706fced650eaf5b98c6ccc18cd7a9bb5a51670d54bc59c19069fabd7a7cd8f.jpg)  
+Carl Plackman (b. 1943) Student 1966-70 Degree Show. 1970
+
+![](images/5d82eaa3c07a8bdcf6f672f9f2181c6f7ac0e9efe1563981e2b1d7d0590c6861.jpg)  
+Brian Catling (b. 1948) Student 1971-74 Degree Show, 1974
+
+![](images/e4d8e066fef15833ebe2017370573a89ff74f5e4d9c499febe1798fe0dac2418.jpg)  
+Bryan Kneale (b. 1930) Staff 1964-95 Pelican, 1987
+
+![](images/9e0398bccd3fed0aeeb3545955b4e97e2891cf3ebbed2a1cd57e8d6da63c4344.jpg)  
+John Cobb (b.1946) Student 1970-73 The Chair, 1973
+
+![](images/9819015d7056603d3454cb74972130084b4c96564c2bcbe8888a3356119f7701.jpg)  
+Jim Pearson (b. 1948) Student 1972-5 Degree Show, 1975
+
+![](images/90652126df4fab1d83a873f69f5c3296db90f7d8facbcb395e438dac168a6d61.jpg)  
+David Nash (b. 1945) Visiting Staff Wall Sheaves, 1993
+
+Many graduates from this period brought a personal dimension to their work  a private layer of meaning of individual, unrevealed significance. This usually involved a sculptural arrangement of found objects which, when combined with the title of the piece, often conjured up a kind of visual poetry. The illogical arrangement of objects often communicated a sense of frustration. In many ways the visual tension became equal to the expressed tension, a feature that was to unite much of the sculptural output from the RCA.
+
+Friendships were forged between practitioners of sculpture and students of environmental media, and later many of them were represented at the Lisson Gallery, London. By the 1980s, in contrast to painting's celebrated but unresolved return to figuration, these sculptors were establishing an international reputation.
+
+# 80s SCULPTURE
+
+During the 1980s, British art became highly rated internationally. The continuing presence of sculptors at the British Pavilion of the Venice Biennale confirmed a central position for sculptural enquiry in the visual arts.
+
+Under the professorship of Philip King between 1980 and 1990, there was a dramatic rise in the number of female students studying sculpture. In addition, the critical success of students from non-Western cultures served as a challenge to the art establishment of the 1980s.
+
+Much of the work of the period demonstrated an imaginative resourcefulness: discarded massproduced objects or non-hierarchical materials were employed to striking effect. The ordinariness of the surface often concealed an underlying depth. Also important was the unashamed use of narrative.
+
+A keenly developed interest in the marketable qualities of the work, among other things, gave a slightly traditional flavour to much of the output of this period. This was also a time when student work was beginning to be well documented by the media.
+
+![](images/9b6e3258b901688591031f3c95fd0b6129e6bcd8d2edea788b9a8c3d6014325e.jpg)  
+Charles Mendoza (b. 1953) Student 1977-80 Degree Show. 1980
+
+![](images/6c3938244972096b72df9bfd9e21461b83b079e842446e766cce2fda7c79377d.jpg)  
+Brian McCann (b. 1952) Student 1981-83 Bend Over Backwards. 1983
+
+![](images/32bba4ce1d5edd491f671ee91ae7bd6322d98af1c986aae3a1729111a6df3510.jpg)  
+Nicola Hicks (b.1960) Student 1982-85 Job's Ally, 1985
+
+![](images/677ca992cfb078c3a428fe7c9b8dabddc5b9d8bb830b9e0a2785feea169ba1ee.jpg)  
+Eric Bainbridge (b. 1955) Student 1978-81 Degree Show, 1981
+
+![](images/3c319dd7385b87b4a80b5f2043edd49cfe0c07e6d3cc93248d47a13dacf138e3.jpg)  
+Edward Allington (b. 1951) Student 1982-85 Seated in Darkness. 1987
+
+![](images/215bd0e9a2bbefaba1ae2efa463ef49730c200991dbc8ce881c3003f4aa3da34.jpg)  
+Sokari Douglas Camp (b. 1958) Student 1983-86 Degree Show, 1986
+
+![](images/8819a588371475f3c832d85bd0dc0364996971b087989e8e543ed16130fa5bb7.jpg)  
+David Mach (b.1956) Student 1979-82 Silent Running, 1982
+
+![](images/6657f3f3d3dbc75f8f24f9f2b0eec8482117712a7551c0050a4782f9da9842e7.jpg)  
+Dhruva Mistry (b.1957) Student 1981-83 Degree Show, 1983
+
+![](images/8596a4be3220aa4d8de90deb62620800b86be6efa8bdf0da2a37194de98b8171.jpg)  
+Denise de Cordova (b.1957) Student 1981-83 Degree Show. 1983
+
+![](images/0c1196e7661f136715ae48cb3f6e51e99242dc0d10ab71f568f3a9e50d5f6a47.jpg)  
+Christopher Summerfield (b. 1955) Student 1981-84 Degree Show, 1982
+
+![](images/176237e68c19818b6256477819263bdb63f9ae9e329af817bfbb78d5e79a9a34.jpg)  
+Edward H. Kirkham (b. 1947) Student 1981-84 The erosion that leaves nothing but a few furrows of past life, 1982
+
+![](images/01fc84c43e0089f451ffe4defd17db86851c9958199883b17600c4b351755582.jpg)  
+John Atkin (b. 1959) Student 1982-85 Textiles Staff 1996-present Single File & Study for Single File, 1997
+
+![](images/4ebf483e8688486af470ed1976253c7ad681a55f3cbe2ea58771a239796e215c.jpg)  
+Kathy Prendergast (b.1958) Student 1983-86 Stack, 1989
+
+![](images/d5c52f305d1c1ebc02264a70db303c8c532a78880b6e6eda1221ca4f6a51d7bb.jpg)  
+Bethan Huws (b. 1961) Student 1986-88 Degree Show, 1988
+
+![](images/317f54d8d6210c5a007b3c2420b1a9ad5c2dcfa333fbd2ceb3679799b7a90252.jpg)  
+Charles Hadcock (b. 1965) Student 1987-89 Justica Vacat, 1989
+
+# 90s SCULPTURE
+
+The year 1991 was to prove a historic time for the School of Sculpture. This was the year when the School left the wood and iron huts it had occupied since 1911, and moved to a disused factory building in Battersea. The new building facilitated the technological updating of the course. In many ways it also effected a change in the nature of the work produced, giving it an industrial edge, for example.
+
+In the same year, Glynn Williams was appointed Professor. The spirit of the new work has been generally grand, epically proportioned yet of humble materials. In keeping with the irony of much Young British art of this period, it has developed a kind of minimalism inspired by the patterns of the everyday. Other marked trends include an interest in domestic angst expressed through constructed objects.
+
+A symbolic moment occurred in 1991 when Gavin Turk failed his final examination. His blue plaque has since been treated as a memorial to the collision between the demands of a postgraduate course and the cultivation of personal notoriety. Turk's career was launched.
+
+![](images/ac86de1997f2ede684140181fffe38789952b3dbb1ff67d66457f6fd51ffc62b.jpg)  
+Tania Kovats (b.1966) Student 1988-90 Degree Show. 1990
+
+![](images/d3ac0385f3223c360115b72be9fa3253d7160dd4a14f0368d8f67e762e74592b.jpg)  
+Jake Chapman (b. 1966) Student 1988-90 Degree Show, 1990
+
+![](images/6d4c05f15a5d0ccd0c1315573f006586e3a54ce3cc9d3d1eea0847858da0bf26.jpg)  
+Ben Panting (b.1964) Student 1989-91 Honi soit qui mal y pense. 1991
+
+![](images/90846da26dc8de64157662175b388800a97345b906ea8162e5b6cef42f2c43d2.jpg)  
+Susan Stockwell (b. 1962) Student 1991-93 Paper Installation, 1993
+
+![](images/df077b8353ac2f50259e298c94106a1707749b75480a8309e76b579a366954f1.jpg)  
+Katherine Dowson (b. 1962) Student 1989-92 Degree Show. 1992
+
+![](images/968b332e3b98934fb67c67bed9e54667757f373d5f8a909ce9e7c4a1ef87b282.jpg)  
+Louise Evans (b. 1963) Student 1991-93 Untitled, 1993
+
+![](images/759960823cf110a9c9e1469b7cbdf7e60a1367e2f079b078a4ede3d0c2aa489e.jpg)  
+Alex Hartley (b. 1963) Student 1988-90 Degree Show, 1990
+
+![](images/c24e0cf72040c2ac201d9b9cf9242f065db8a1431cd03d4e8059ca81f9b13809.jpg)  
+Rachel Evans (b.1965) Student 1988-90 Harvest (detail). 1990
+
+![](images/b2ea347059d851799b07d92345d90411c36dd64c45e8c75d59091e3456864f5f.jpg)  
+Emma Rushton (b. 1965) Student 1990-92 English Clergy 92 (detail). 1992
+
+![](images/2cc7c91d551e34cf6596f1b421c89781e0a29cea760a80fe3d2dce7a8f477bc7.jpg)  
+Hadrian Pigott (b. 1961) Student 1990-93 Degree Show, 1993
+
+![](images/05c057899f9059939ac62f878fabbd71c24cb4662b94f9d08731f7d4473223d7.jpg)  
+Tim Noble (b. 1966) Student 1992-94 Concrete Boots, 1994
+
+![](images/cb1161e00b8c6685ddecb89c5243206873ecc17adbf665738230c2fd6a9439f9.jpg)  
+Geraldine Marks (b. 1956) Student 1994-96 Oooer!!!. 1996
+
+![](images/bf6050c57ffad41ad4bf0a6ca20796385137b9601954f87f16b279ca3911c661.jpg)  
+Gavin Turk (b.1967) Student 1989-91 Degree Show (detail), 1991
+
+![](images/fc5bc4f38370ed71fa415ba55e7f4c317fabab9b0200a7298f0c1c659dac646f.jpg)  
+Naomi Dines (b. 1968) Student 1991-93 Held (detail). 1993
+
+![](images/1e238e0cac67acb370fc90f7e99e1cfb919c395db7128b40cc95ce91868944e2.jpg)  
+Glynn Williams (b.1939) Professor 1990-present Stone Bridge No. 1. 1988
+
+# 70s-80s ENVIRONMENTAL
+
+The Department of Light Transmission and Projection encompassed two strands of practice: work in plastic and glass, and work concerned with the behaviour of the spectator and the influence of the environment on this behaviour. From the latter sphere emerged the Department of Environmental Media, which became an autonomous subject under Peter Kardia in 1976, continuing until its closure ten years later.
+
+The emphasis of the course lay in the development of mixed-media and timebased work. Due to the specialized needs of mixed-media artists, who often fall between the confines of 'sculpture' or 'film', the Department encouraged speculation on the overlap between the differing media, providing facilities which included video equipment and audio-visual technology. Drawing upon the history of performance, video, film and installation, much of the students' work dealt with language and perception, gender and sexuality, ethnicity and history, authorship and spectatorship.
+
+Although a range of mixed-media work evolved from the Department, video work in all its forms emerged as a central practice, and in the 90s it has become one of the leading art forms of the decade.
+
+![](images/ca57a5f1a7f0bb038a4ed169e437ea533a6d3f9c9a7d92754c71dc7e8f3f26be.jpg)
+
+David Hall (b. 1937) Student 1960-64 Stooky Bill TV. 1990
+
+Nina Danino (b.1955) Student 1978-81 'Now I am yours', 1993
+
+![](images/e0c3a604c91de39c61846f76ab64fd852c3cfa68496b22083b28835eeaed7150.jpg)
+
+Richard Deacon   
+(b.1949)   
+Student 1974-77   
+Art For Other People No. 5 (For those   
+who have eyes), 1982
+
+Patrick Keiller (b.1950) Student 1979-81 The End, 1986
+
+![](images/07b106650c5d785767cc94cbd9c494eac9a89731f0efcb9d851662daaf59a4e5.jpg)
+
+# MEDIA
+
+![](images/c151aa480f22b5a6391b6b0f3d47977e52731f84b8f530cdc1cb0124479515db.jpg)
+
+Lis Rhodes (b.1942) Student 1975-78 Visiting Staff Running Light, 1997
+
+![](images/4950a5070f902a79f1d297bf126bc27293fbb9ec215fa905af1efba8213316dc.jpg)
+
+lan Bourn   
+(b. 1953)   
+Student 1976-79 Sick as a Dog, 1989
+
+![](images/7ec150898418eb00104b63319a7b455766d6f6d8ad6f67f1d790c7c522b91a90.jpg)
+
+John Tappenden (b. 1953) Student 1976-79 Dawn Chorus, 1988
+
+![](images/8e4ecb560a2a100eb1f9f22745e4de0e66f9bed7348bbfa4ea76775d9a3efaaf.jpg)
+
+Catherine Elwes (b. 1952) Student 1980-82 Autumn, 1991
+
+![](images/729140476f0df8ef6bec8f5dd4044c42f196b6a29562f25497497f948b43ce00.jpg)
+
+Judith Goddard   
+(b.1956)   
+Student 1981-83   
+The Garden of Earthly Delights, 1991
+
+![](images/b2549bd403451d4d2a6591bf02d25c511f284eff27f140ad346b3bf7c44b9fba.jpg)
+
+Steve Littman (b. 1957) Student 1981-83 I Really, 1983
+
+![](images/3933a6c4b52d8704aacf3b71f73598ad4053b3c17bc3b50e3c8e0d82f2c3dc97.jpg)
+
+Keith Piper   
+(b. 1960)   
+Student 1984-86   
+Go West Young Man, 1997   
+Simon Robertshaw   
+(b.1960)   
+Student 1984-86   
+One of those things you see ., 1986
+
+![](images/500e09fe08010294198869ae4d52b68dfa87d918be632f18896b4d161ff41d46.jpg)
+
+![](images/bde4455b65ddb12d67f4f68194641b7e48393afaf56c803fc61e674ab5892257.jpg)
+
+Stuart Marshall (1949-93) Staff 1977-86 Pedagogue, 1988
+
+# 50s-60s PH0TOGRAPHY
+
+It was not until 1956 that a photography facility was tentatively introduced to the College. It provided short courses for students specializing in other disciplines, especially design. Robin Darwin stated his position on the role of photography a few years later:
+
+'We are not so much concerned with photography as a creative medium in its own right .. but with it as an essential adjunct to professional practice in many fields of industrial design today. Only when allied to another discipline, [does] photography have a proper function in life.'
+
+Darwin was reflecting contemporary British artistic opinion on photography as a largely functional medium, best allied to the fashion, advertizing and magazine industries.
+
+The facility was part of the School of Graphic Arts, and graphic design students produced some of the earliest photographic work to emerge from the College. Much of their work was given exposure through the RCA's own student magazine, Ark. The style of the magazine after 1956, when it changed to A4 portrait, was shaped by the photographic skills of such designers as Denis Postle, Terry Green, Allan Marshall and Steve Hiett.
+
+![](images/a1712553d31d9923d6062dfa089a73c83a1d82ab1ecbc2761096068861d44945.jpg)  
+Raymond Moore (1920-87) Student 1947-50 Allonby, 1977
+
+![](images/9ef6e5eb2a8debdda0ad1d39bbf08d8cbe871270bf1c2856b99e0ec4d23a4aec.jpg)
+
+![](images/6221896fb716fdefc1f46836dd546cbeae35dfe00d67e542a1edb74905eb8b23.jpg)  
+Denis Postle (b. 1936) Student 1957-60 'Ark came at 4' . Ark 24, Autumn 1959  
+Terry Green (b. 1938) Student 1960-63 Advertisement for Ark 24. Autumn 1959
+
+![](images/936217b8fa46c43e95ab7d44570143a4f698bd0fa5717847053a5802c3d8c35a.jpg)  
+Albert Watson (b. 1942) Student 1966-69 Alfred Hitchcock, 1973
+
+![](images/732c510570e4cc6c242df3d2cf393677a6b6802b7aeda3bd1b4a9de550fd3051.jpg)  
+Victor Burgin (b. 1941) Student 1962-65 What does possession mean to you?. 1976
+
+![](images/0d3bc529c4a0fe54750955149117937cd87f2d9c5102c02d7a5730c75fa2a50c.jpg)  
+Denis Waugh (b. 1941) Student 1969-70 Untitled. c. 1970
+
+ARK28
+
+![](images/efd4b92b1aff13a804a6eeaedc1f255aa9d193c53f3607096082e853833b6763.jpg)  
+Allan Marshall (b. 1938) Student 1958-61 Cover of Ark 28. Spring 1961
+
+![](images/4105710b737e39eb4093e22954744f8eb63c14f48354b60da3dee9a5bc2c6603.jpg)  
+Laurence Cutting (b.1939) Student 1962-65 Vera Cruz, 1964
+
+![](images/ca3047f9fcb1efaef63039c3b9b6cb95a2625bdee20dbf34059aee3265b7d904.jpg)  
+Ken Griffiths (b.1945) Student 1969-71 Untitled, c. 1971
+
+![](images/d4066d71b190864ac1fff4876714fdfb33a57ad13a5e3e9e94054067b49dbe57.jpg)  
+David Hockney (b. 1937) Student 1959-62 lan washing his hair. 1983
+
+![](images/e9fedafd779875c856567235b7ca8ab896cb56143feabaf36094c0f0801bcdec.jpg)  
+Steve Hiett (b. 1940) Student 1962-65 'Teenage Netherworld , Ark 36, 1964
+
+![](images/dc721bebace9c0dd3f40bf5f04510f48e7e96f1d99435530e5289225eb8372bb.jpg)  
+Sue Wilks (b. 1948) Student 1969-72 Untitled, c. 1972
+
+Graduates from the Painting School, as well as graphic designers, used photography as a means of expression in remarkably different ways. Work ranged from Raymond Moore's transcendental, melancholic landscapes to David Hockney's later Polaroid montages (disparaging as he was about the medium) and Victor Burgin's image and text pieces presenting a critique of consumerism, the imagery of the mass media and state apparatuses.
+
+Only in 1968 did the Photography Department finally accept its own specialist students  the first two were Henry Moore's daughter, Mary, and a Fulbright scholar, Richard Rogers. The department continued, however, to have a special relationship with Graphic Design. Robin Darwin and colleagues had finally accepted that photography could indeed be 'a creative medium in its own right'.
+
+# 70s PHOTOGRAPHY
+
+The first Professor of the Photography Department was John Hedgecoe, author of several bestselling photography guides. With the support of Professor Michael Langford, Hedgecoe laid emphasis on commercial, advertizing and documentary photography. However, the 1970s also saw the development of the official support structure for 'independent' photography in Britain.
+
+This decade produced a range of styles. Graham Smith presented an insider's knowledge of life in the north of England through his realist documentary work; Sue Packer's photographs had a strong sociological dimension. Important commercial photographers to emerge from the Department included Rolph Gobits who produced stylish advertizing work, and Keith Collie and Jo Gaffney who were regularly commissioned by Vogue. In addition, the increasingly popular colour supplement (using many ex-Ark photographers) provided an important vehicle.
+
+Verdi Yahooda, whose work draws on feminist art of the 1960s, and Boyd Webb, who produces photographed, stage-set tableaux, went on to achieve recognition within the British art world.
+
+![](images/40e54d44753d75c72360d814209482b6aab472c51ac7f06be5dffe94428ec977.jpg)  
+Peter Lavery (b. 1948) Student 1970-72 Untitled. 1972
+
+![](images/4dc08cfeb087195f42f23654a009ea02bcba2584e3906aff7e701a3be4b0fd56.jpg)  
+Graham Smith (b. 1947) Student 1971-73 Untitled, 1973
+
+![](images/1541685f57718322915b7c82c7c6e869a203d0270a28d23155eea504609bb9d6.jpg)
+
+![](images/dfb26624fc1c6dbcdb1a39ec50d626a3d53e8335af39156dea4f210adb9eb3f9.jpg)  
+Sandor Bodo (b. 1953) Student 1976-78 Untitled, 1978  
+Keith Collie (b. 1948) Student 1971-73 Untitled, 1973
+
+![](images/f0e6f0f2334e7132c58736d149700ed84cad69c41b8ba8bdc30c86cae2a64980.jpg)  
+Boyd Webb (b.1947) Student 1972-75 Untitled (tethered ray), 1981
+
+![](images/cbcfb3fb219cd6bc2e19f5f55bcce8404c435f8e09da78a03dcb0c1af23559a3.jpg)  
+Yve Lomax (b. 1952) Student 1977-79 Sometime(s), 1995/6
+
+![](images/126b7dc93f26e183d1109652d6ead72e1e36c2be54c4951b726abab0c30e00eb.jpg)  
+Jo Gaffney (b. 1948) Student 1971-73 Untitled, 1973
+
+![](images/f57db28a1c8f2d18c2f86bfef0a9df8142e899464938fb3957686899b5b95ad0.jpg)  
+Rolph Gobits (b. 1947) Student 1971-73 Untitled, 1973
+
+![](images/82931675688aadf1c23f7b3999f1a14227edd3f861ef200b57c535ef5c9769cc.jpg)  
+Suzie Maeder (b. 1948) Student 1971-73 Untitled, 1973
+
+![](images/dfb826fb9f6702f91f925fee45f685d2f4199f57b0c1f76a0579a36a1304a147.jpg)  
+Bob Carlos Clarke (b.1950) Student 1973-75 Building with Batgirl, 1975
+
+![](images/a8aa9bdc8c48c25ef581f466fe1e25eb987b98029ac56625900c58fc62496cff.jpg)  
+Barry Lewis (b. 1948) Student 1974-76 Untitled, 1976
+
+![](images/5cf310c46081c6393ff946cec5a9ffb42686e254358eca8dad425d7420bd4ca6.jpg)  
+Verdi Yahooda (b. 1952) Student 1975-77 Untitled. 1977
+
+![](images/e00f2fdc5d0c266e6bd1ff7c09f9ecff2a731d27ce9343f3d39d6bba84777a0a.jpg)  
+Sue Packer (b. 1954) Student 1977-79 Untitled, 1989
+
+![](images/efe562b78de09a0e186da99d7f3116ea56cde6569e515754579d739ffaa0d732.jpg)  
+Bill Brandt (190483) Visiting Staff Lambeth Walk, 1948
+
+![](images/a3831b92c32e93b3a56645a50bd6aa071043cc11294fbe3337bac1e9b562d8df.jpg)  
+John Hedgecoe (b. 1933) Staff 1966-75 Professor 1975-94 Mary Quant, n.d.
+
+## PHOTOGRAPHY
+
+Boyd Webb and Calum Colvin
+
+Calum Colvin   
+Sloth, 1993   
+From the series The Seven Deadly Sins and The Four Last Things
+
+![](images/017dc10ba610a962e708ddaef72437adfcbe3ee8acda4d8860f9167076cd548d.jpg)
+
+![](images/2c8e98384c0e48d0a39a4e2c04f155fd10388e7941e6718ae6a27fa72ed7d466.jpg)
+
+Boyd Webb and Calum Colvin have developed their practice as 'constructor-photographers' since the mid-70s and the mid-80s respectively. Both construct elaborate sets incorporating a wide range of domestic debris. Webb uses carpet, linoleum, rubber or tarpaulin, while Colvin arranges charity shop debris: broken record players, comics, action men, tacky lampshades and 1970s furniture. Both artists share an interest in the presentation of dystopias, and both have developed their ideas at the same time as a wider shift in RCA photography work away from commercial images for magazines and advertisements towards gallery pieces.
+
+Webb trained as a sculptor but by the mid-70s had turned to photography. The previous decade had encouraged a questioning of the traditional art object and the adoption of photography, film and video to document activities, ephemeral objects and performances. However, Webb uses the photographic medium to do more than document sculptural work: he presents a critique of both photography and sculpture, and emphasizes the photograph as an
+
+## PHOTOGRAPHY
+
+Boyd Webb and Calum Colvin
+
+oject'in its own right. His imagery has a DIY quality within which he creates a fictional world, playing on the absurdity of his manufactured sets. Referencing classical Western mythology, Webb's Nemesis (1983) shows the actions of a subterranean being wreaking havoc on the earth's surface. Although still strongly anthropocentric, Webb began to create fictional worlds, using themes of the earth, the sea and outer space. His works also reflected an interest in political and environmental concerns, such as the threat of pollution or some other global catastrophe. By the late 80s, human actors had been replaced by inflatable plastic animals, and the fictional quality of the works became even more pronounced, for example in Chromosome (1989).
+
+Colvin's postmodern work combines a number of techniques, including photography, montage, the stage set and painted scenery. He draws on the tradition of assemblage, in addition to Georges Rousse's use of spatial ambiguity and George Segal's
+
+![](images/51b6f4b8b92179ddff820f4791f1bf04fce27e56cb58f99aa79efd6dbb0f83e2.jpg)
+
+Calum Colvin Narcissus, 1987
+
+![](images/1604a5595498e7d4d03e051c7fdc32e1a355484a1d0fa2bce1636d5339fe412f.jpg)
+
+symbolic tableaux. Colvin developed the technique of painting onto specifically constructed threedimensional sets, which, when photographed from a certain angle, create the illusion of two-dimensional space. Classical or Christian iconography feature in Colvin's symbolic dramas, such as The Death of Venus (1986). Colvin sets his work within an epic universe, anamorphosing gods or 'masters', scaling them down and ironizing them using counter-perspective. He presents scenarios of omnipotent male fantasy in which notions of heroism and male sexuality are undermined, along with the superhuman characters of Western tradition. Colvin's works from 1985 build in textual references, either through the origins of the work (a myth or proper name) or through an open page, a comic strip or a caption within the actual set. In Narcissus (1987), a nude (reminiscent of an Ingres drawing) is painted across a table. Colvin's interest in the theme of the gaze and self-reflection is reiterated, and a book on sexual anomalies lies open on the table. Colvin seems to revel in mixing high art and kitsch, and in more recent work this has been enhanced by the use of electronic and computer technology.
+
+# 80s PHOTOGRAPHY
+
+Throughout the 1980s, a wide diversity of approaches to photographic work, and differing ideologies, were brought to bear both within the College and in the wider international context. Sunil Gupta has continued to express notions of diaspora, cultural exchange and colonialism as an artist, writer and curator: he included the work of Joy Gregory and Yve Lomax in the first Johannesburg Biennale in 1995. The work of Calum Colvin reveals a fascination with constructed imagery in which fabrication and make-believe, fiction and performance, improvisation and authorship predominate. His constructed mythologies contrast with the imagery of his fellow student David Hiscock, whose distressed surfaces hint at the metaphysical world and present a disenchanted view of contemporary culture. However, the work of both artists marks a shift within the Department towards photography for exhibition.
+
+In 1984, graduate Maureen Paley opened Interim Art, a significant contemporary gallery that promotes the work of young artists, such as David Rayson and Hannah Starkey.
+
+![](images/494b53dbf4079d3d7016aa6d204744a26fe5fb2d69b8105a5155ca49fd8e9cc8.jpg)  
+Maureen Paley (b. 1953) Student 1978-80 Homework, 1979
+
+![](images/5cb6025a85bcb815d99fc345e4bf3df3ef767aec0d9676f02b5badff96be6210.jpg)  
+David Hiscock (b. 1956) Student 1983-85 Staff 1990-present Towards Aceldama, 1989
+
+![](images/d7b65b84a0ab3ef32031c4f1c28ba795011aa3c733db0d20e164dbb43bf532ff.jpg)  
+Tim Daly (b. 1964) Student 1987-89 Untitled, 1989
+
+![](images/2339c95035122ba401644a426fddc422576ce2146840bbcab37cc1be78613be4.jpg)  
+Sunil Gupta (b. 1953) Student 1981-83 Untitled, 1986 from the Exiles series
+
+![](images/b518c75480a63cf027952b1c93e4a475654a1e02f9c5ae85c71b17ca97f28cc3.jpg)  
+Mary Robert (b.1951) Student 1983-85 Staff 1993-present Sibel, 1994 From Transexuals Istanbul series. 198998
+
+![](images/6f9f6326a9e90c5223a318060bf440f0c2dab9693a2f8107486d70cde4408be7.jpg)  
+Michael Langford (b. 1933) Staff 1967-94 Course Director 1994-97 Untitled. c. 1975
+
+![](images/dc3eed9321cde6bc875a6c4e06cb89c21a47606038de56ceb1ed2dbb66eaf76c.jpg)  
+Anita Corbin (b. 1958) Student 1981-83 Untitled, n.d.
+
+![](images/c02d55c57d9dc7d62f707a1a6fc68fb19fe0bd6d26223377d45a1e9676455520.jpg)  
+Nick Adler (b.1957) Student 1982-84 Untitled. n.d.
+
+![](images/f1e8b4c5fda6e4a456479573afa7b667955d5e38ca6ca04f991c6354cc5f7a31.jpg)  
+Andy Wiener (b.1959) Student 1984-86 Untitled. n.d.
+
+![](images/d50f0a47c20d34824dc5d4bb1f59138609284b589b5efefefa01550c28c3b78a.jpg)  
+Joy Gregory (b. 1959) Student 1984-86 The Blue Room, 1985
+
+![](images/7638247db908f0f02e217a5b4acf069bd15f6f88ed46ba4583edae35a7abcaff.jpg)  
+Dick Swayne (b.1936) Staff 1981-98 Untitled, c. 1982
+
+![](images/798f29eda418cff7f4730d40a277ec91d8555cb0d4fd4c5ba52178bd01251fd6.jpg)  
+Helen Chadwick (19531996) Visiting Staff Staff 1994-96 Wreath to Pleasure No. 6. 1993
+
+![](images/22cd1e2eb24c9517cbc62b62983c94a7ebde5e7a07a1e82e6b20fd1352721ae3.jpg)  
+Calum Colvin (b.1961) Student 1983-85 Visiting Staff Death of Venus, 1985
+
+![](images/dc63c66ec803de9165b8cde0a55474d8fb6c19b17caabefd3150ca831fddbbfb.jpg)  
+Joelle Dépont (b.1951) Student 1986-88 Le combat, n.d.
+
+![](images/88805b482bcbbd1838df9528317de3b0a1cb23c758b4afd5965d0de7c431c0a7.jpg)  
+Gus Wylie (b. 1935) Student 1957-61 Staff 1987-92 Untitled, 1981
+
+# 90s PHOTOGRAPHY
+
+While sculpture dominated the British art scene during the 1980s, the main feature of the 1990s has been a proliferation of photography, video and digital technologies, which have had a major impact on contemporary art. In 1994, reflecting the increasing acceptance of gallery photography, the College regrouped the course into the newly formed School of Fine Art. Its broad remit is reflected in the work of graduates and tutors in the 1990s. The work ranges from Platon Antoniou's work in fashion and portraiture, to the 'community' photography of Tom Hunter and Frauke Eigen's powerful responses to the histories of Germany and Bosnia as sites of conflict. Exile and gender politics inform the work of Jananne Al Ani, who has drawn on her Arab/Irish descent. A broadening of the concept of landscape photography can be seen in Daro Montag's work, which uses a technique whereby micro-organisms in the earth etch directly onto the film. Digital technology has enabled Paul Smith to use the device of the doppelgänger to explore male fantasies and military stories.
+
+![](images/263d860957366dd8bc3165152f6db327c4ed6347be23bc7688975e6bd91cbabd.jpg)  
+Melanie Manchot (b. 1966) Student 1990-92 Untitled, 1992
+
+![](images/ef5c9dd0d3e3e3259a2cd9975d87a7db90b485f963cb6b0bae5003b9e99e3cdf.jpg)  
+Nick Waplington (b. 1965) Student 1990-92 Circles of Civilisation, 1992
+
+![](images/cb4ac47d8aea8bb62263e72d0297c69e862abe5ec610377f27b7c26fe3dec9e2.jpg)  
+Frauke Eigen (b.1969) Student 1993-95 Untitled. 1995
+
+![](images/02ea8a5fe43c306096d7d4983a55e048f00256cabf2cd3194444f2cf3474ae66.jpg)  
+Peter Kennard (b. 1949) Student 1977-80 Staff 1994-present Germany Shakes. 198990
+
+![](images/3b7b84695a89eda037d2ecf2129c8a6264ce97e3a9707fe54199795bb10cdc9d.jpg)  
+Jananne Al-Ani (b. 1966) Student 1995-97 Digital Fellow 1997-98 Untitled, 1997
+
+![](images/d49e51accf0d00874459d3e37b27496c3b264db6b2ae8524e5693507ae7b37d8.jpg)  
+Paul Kilsby (b. 1953) Student 1990-95 Staff 1997-present After Pietro da Cortona IV, 1994
+
+![](images/084671ec7bdd887abdc8167775f5ba067082fdf688fb5e19635e9e8ade6eaad3.jpg)  
+Platon Antoniou (b. 1968) Student 1990-92 Fashion: Philip Treacy, 1992
+
+![](images/7d62f1204da11e9b865615d193850bb36bb5441b6cbcb8e2f0257aba91a485c3.jpg)  
+Robert Davies (b. 1964) Student 1991-93 Eye No. 2 (female), 1993
+
+![](images/1285cf81de1c9358eb96ae4fe1f68d2b8e97cf517402e65561cd0143ba4f72e0.jpg)  
+Paul Smith (b. 1969) Student 1995-97 Untitled, 1997
+
+![](images/99c6440d801bd9fb1dd127c5bc1fcc5c2c4569bc8d7ef2b03ffce897c8d687e2.jpg)  
+John Stezaker (b. 1949) Humanities Staff 1991-present Third Person, 1990
+
+![](images/d3a963d9ecd266f03117264d0f41960a2399552b848be09cc93dd19051338331.jpg)  
+Hannah Starkey (b. 1971) Student 1995-97 Untitled, 1997
+
+![](images/1665d9bc91c75cb43ffc261b7931949f253a98ec8782345c547b97a37c404f4f.jpg)  
+Anna Fox (b.1961) Staff 1996-present Afterwards, 1991
+
+![](images/b4a65c996c3ad9b3868099225520fb7e4dd5311b050ce73466f421a0b7ccddd5.jpg)  
+Daro Montag (b. 1959) Student 1992-94 Fruit of the Sun. 1994
+
+![](images/ee268c998b9f3eb7ce6015e5c9bc4f057119b3dd155249baf7d3b5d2fc60f67e.jpg)  
+Tom Hunter (b. 1965) Student 1995-97 The Art of Squatting, 1997
+
+![](images/30ca0d7a9f89599f50e78d9ddf6d9dbba17d685fde528ac55fc12d3da628d197.jpg)  
+Olivier Richon (b. 1956) Director 1997-present A Real Allegory. 1997
+
+# 20s PRINTMAKING
+
+Frank Short became Director of the 'Etching Class' in 1891, overseeing what were then seen as the craft activities of etching and engraving. The class then became the School of Engraving. In the early 1920s, William Rothenstein encouraged the introduction of lithography to the Department and, concurrently, woodengraving and book illustration became important activities.
+
+Douglas Percy Bliss, Edward Bawden, Helen Binyon and Eric Ravilious tutored by Paul Nash in the School of Design, were encouraged by him to practise book illustration, wood-engraving, lino-cutting and watercolour painting. During the 1920s Bliss published Border Ballads, illustrated with wood-engravings, and Bawden worked with Curwen Press. Bawden's earliest lithographic works were for London Underground posters in 1925. Binyon went on in the late 1930s to work as an illustrator for the Penguin Illustrated Classics series. Ravilious first made his reputation as a wood-engraver, illustrating a number of books in the 1930s. In addition, all of them contributed to the RCA student magazines Gallimaufry and Mandrake.
+
+![](images/df31b0bd998a249453220fcb8989d893a5b45dd9a8b7baad336a36a08185b86b.jpg)  
+Alfred Anderson (18841966) Under Frank Short The National Gallery, 1926
+
+![](images/2eeb5b6bb411d7374f471c9ae5511dc095912aeceb60170a51c5c6d15eb6fdfe.jpg)
+
+![](images/5f9155d66fea1df000f8fb802f3515816a3779139f2fb924088f577e67610404.jpg)  
+Enid Marx (1902-98) Student 1922-25 Pattern paper, n.d.
+
+![](images/15a0ec967aa397e1c69aaf575976e56efcd907d3d7991e2f2a144f3e401965f7.jpg)  
+Stanley Badmin (190689) Student 1925-28 Wareham, 1934  
+Malcolm Osborne (18801963) Student 1904 and 1912 Professor 1924-48 The Tredrose Salonica, 1926
+
+![](images/8616973942ec76b3e3509689ad89c45c5d1b294126a58d21263e8ebcca7a4681.jpg)  
+Douglas Percy Bliss (1900-84) Student 1922-25 Sunt Lachrymae rerum. c. 1927
+
+![](images/b6b17a1cbce286b8ea4b18c131fa861b65562f77c8932e83f104274a4fef8913.jpg)  
+James Boswell (1906-71) Student 1925-29 Empire Builders. 1935
+
+![](images/d46bed472b42d36e0f52598cbdc133d157888c3e118b3a24340244029bfa31e7.jpg)  
+Job Nixon (1891-1938) Student 1911-15 Staff c. 1924-27 The Arno. n.d.
+
+![](images/0989378f9ff83e55596dd067e1d5b781dd1ce854651c4fca9e31d91db0418560.jpg)  
+Edward Bawden (1903-89) Student 1922-26 Staff 1930-40, 1948-53 The GPO's underground mail train in London, c. 1935
+
+![](images/ec710abd9ba5fccf28c632fd446f3cd7a8ec875598afafef2b94bbbab0629e4a.jpg)  
+Evelyn Gibbs (1905-91) Student 1926-29 Umbria. 1931
+
+![](images/dcdb6acfbcf299da01621cb1103a7fb4e98ec973fcf8abd22bfdec9e826ed47c.jpg)  
+Robert S. Austin (18951973) Student 1919-22 Professor 1947-55 Portrait of the Artist. 1930
+
+![](images/eb3bab8d784b12f6fc8bd7d31a1af65f30f935a7ee1403ea49188824cf4a9584.jpg)  
+Helen Binyon (1904-79) Student 1922-26 Nicolite. n.d.
+
+![](images/92b17ba5abef5b47133b2c2405952b35ff62084a0eda45e570a4d5bd46a3844d.jpg)  
+John Piper (1903-92) Student 1928-29 Visiting Staff Chapel of St. George. Kemptown from 'Brighton Aquatints" 1939
+
+![](images/70acd78c55b4fe4f58da925e345730cabc44b2c1bec9e78a8b3b49c3b75b445b.jpg)  
+Barnett Freedman (190158) Student 1922-25 Staff 1928-40 Pattern paper. n.d.
+
+![](images/c9cd4caff37fadf9232cdc924438afda7e2cc0fe24968b3d5941af2772025770.jpg)  
+Eric Ravilious (190342) Student 1922-25 Staff 1930-38 Dr Faustus conjuring Mephistophilis. Curwen Press. 1929
+
+![](images/8ffb89c69b5cdd164bb76748a06188ade0ffdbf6ac28322dd4ef5f312dc80925.jpg)  
+Sir Frank Short (185745) Staff 1891-1912 Professor 1913-24 When the weary moon was in the wave. n.d.
+
+# 30s-40s PRINTMAKING
+
+The most significant stimulus to British printmaking in the 1930s and 1940s was the poster. Becoming more widespread in the 1920s, posters were sometimes called 'the people's art gallery' in the interwar years. Especially popular were the promotions for corporations such as Shell and organizations such as London Transport. At the same time lithography became respectable in art circles through the original poster print; artists associated with the RCA in the 1920s, including Bawden, Nash, Ravilious and Freedman, made significant contributions. However, the printmaking industry was severely hampered by the depression of the 1930s, and was only fully to recover in the mid-to-late 1950s.
+
+Enid Marx, although affiliated to the Painting School, created a diverse range of work during the 1930s, including woodcut designs for bookcovers, pattern papers and woven materials. Merlyn Evans taught drawing and engraving, and after the war practised intaglio printmaking: he became in the later 1940s and 1950s the most highly regarded etcher in Britain, through the size and ambition of his plates.
+
+During the 1930s, numerous official enquiries into the orientation of the
+
+![](images/dc369b1e5e96c8eff2ddde91bcdd4a8be3d807219f79c96974aa759b68160544.jpg)  
+Leonard Brammer (b.1906) Student 1926-31 Canal Scene, 1929
+
+![](images/ca0367c84827edb89e2ea1094da7f4ba660f39fdea9d9c225176c7ebdc0d298b.jpg)  
+Leslie Evans (unknown) Student 1928-32 Untitled, 1931
+
+![](images/5e426dc392ec37e558d68f7cdea081cd8a253be2d2ba55442ded52a2411a97ab.jpg)  
+Robert Dent (b.1909) Student 1931-35 Church at Goldcliffe, n.d.
+
+![](images/99409c5238ca058d18a1444b8b2a23d7ed20fbc4f9b213b818525bf9914ade89.jpg)  
+Harry Ecclestone (b. 1923) Student 1947-50 Little Venice from Calendarium Londinese, 1968
+
+![](images/9def9e6cac298ce6296c7ffb6f686972158823346dd20851ecc9dc8e81400e10.jpg)  
+Edwin La Dell (191470) Student 1935-38 Staff 1948-54 Director 1955-70 Bandsmen, c. 1953
+
+![](images/47c1b57ffa29fe65ffe816bbda4ee834c533445107d4ee9eea1f71895354ea4a.jpg)  
+John Roberts (b. 1923) Student 1947-50 Clown. 1950
+
+![](images/1ed8fe405ec09ce220fec2d6a632a7ac42da20047ecc0f7454a45ad6a248ebb8.jpg)  
+Ernest F. Powell (unknown) Student 1928-31 Untitled. n.d.
+
+![](images/431efc781a7b678b42b6e432200cf63db125d20dfa1313fc88ec9d8501721734.jpg)  
+Erik Smith (b.1914) Student 1944-47 Morning. 1940
+
+![](images/fcb5eea0395a4105ead733d4dc01d1172005c064f726394b4275fcb60b971e45.jpg)  
+James Sellars (b.1927) Student 1948-52 Symbolic Soldier, 1953
+
+![](images/c84cb3850281e4f5612c229a2b28e141a2b85ffc7c41f74bc2cc0704c6bc644b.jpg)  
+Merlyn Evans (1910-73) Student 1931-33 Staff 1964-73 The Chess Players. 1949
+
+![](images/962c879ef28b8fccd27ae3ef93fb65f4395ffd169b9fd883cba7a87e6413669d.jpg)  
+Bernard Cheese (b. 1925) Student 1947-50 Shakespeare's Kings, 1964. From Shakespeare Lithographs series, 1964
+
+![](images/e4a67662634789260b9168f8f4e5137558593a1ab85ac4858b4c223ac3bc288c.jpg)  
+Malcolm Osborne (1880-63) Student 1904 and 1912 Professor 1924-47 Portrait of Sir Frank Short. n.d.
+
+College had noted that its fundamental purpose to unite 'art and industry' (a fashionable phrase during the depression) had been partly met through the connections of staff and ex-students with the design of lithographic posters for public hoardings. In this sense, printmaking was far ahead of product design where professional networks were concerned. This aspect of the practice was then known as 'commercial art', occupying a very different world to the artists' books and fine prints sold through galleries. However, thanks to the pressure of specialist groups, lithography crossed the boundary between the two worlds. Jack Beddington, then in charge of Shell's publicity, was to become a member of the Council in the post-war period.
+
+During the years of the Second World War, calligraphy, engraving, life-drawing and textile design continued to flourish in the confined spaces of the College's temporary home in Ambleside.
+
+# 50s PRINTMAKING
+
+By the mid-1950s, print publishing in Britain had revived, largely through the efforts of Robert Erskin who successfully united the roles of publisher and retailer through his St. George Gallery. Print publishing began to flourish again with the foundation of the Curwen and Kelpra printing studios, Editions Alecto and, later, the Petersburg Press.
+
+Within the College, when Robert Austin retired as Professor of Engraving, the professorship ceased to exist. As part of Robin Darwin's restructuring, Edwin la Dell took over the School of Engraving, which was now known as the Department of Printmaking, and located within the School of Graphic Design headed by Professor Richard Guyatt: artists and designers would work together.
+
+La Dell began emphasizing lithography (until then etching, aquatint and engraving had predominated), and he invited artists such as John Piper, Graham Sutherland, Keith Vaughan, Ceri Richards and William Scott to work in the Department. Significant colour lithographic works began to emerge, and La Dell organized important publishing projects such as the Coronation Series of 1953, Wapping to Windsor and the Shakespeare series.
+
+![](images/118d018e2a303bbf5f898a82c6489c06be586d699d5d5e6444fec172e6cb501f.jpg)  
+Philip Reeves (b.1931) Student 1951-54 Fragment 3. c. 1983
+
+![](images/3bbdbaa8a676c97d9ce4b01e4cad665625adcbdb3241cfa2a838d2ede6679674.jpg)  
+Brian Perrin (b. 1932) Student 1951-54 Macbeth - Birnham Wood to High Dunsinane. Shakespeare Lithographs series. 1964
+
+![](images/edd555650dd3069a6ddaf42e4542eee182f6e679cc26594ae8b0fcb107056a04.jpg)  
+Edward Ardizzone (1900-79) Staff 1953-61 Birthday telegram issued by the GPO. 1967
+
+![](images/96178555e59bdb504475b056e7e7078ec9324425cc790650eb79bc86323e792e.jpg)  
+Julian Trevelyan (191088) Staff 1954-64 Villa Joyosc. 1982
+
+![](images/085decc231fd559c0aba08d3afff066872ce27ec03c085368d58abf93534c27e.jpg)  
+Anthony Gross (1905-84) Visiting Staff A Midsummer Night's Dream - Bottom and the Fairies. 1964. From Shakespeare Lithographs series. 1964
+
+![](images/a2beda2587ac717f179e97c5777459f2602611eeefb0cf3d1f2a84fdb5ff3509.jpg)  
+John Piper (1903-92) Student 1928-29 Visiting Staff Hampton Court. 1953
+
+![](images/b49cdc2f522da0b6ec9ca0fb8340d696777db74bb3fe37136a9a1f33a447ca54.jpg)  
+Joe Tilson (b. 1928) Student 1952-55 Visiting Staff Pool Mantra, 1976
+
+![](images/ebc18fcb8821e9a961087b3876b8989ffb1406d53ca9c86ae7cce65895edbf37.jpg)  
+John Brunsdon (b. 1933) Student 1955-58 Street Scene, Putney, 1959
+
+![](images/8eaf8bb38677fac313be1cb20ef8678e9a509eab16f7458f90370a7a6b84d5cb.jpg)  
+Robert S. Austin (18951973) Student 1919-22 Professor 1947-55 State Trumpeters, 1953
+
+![](images/fb4c90be4513e57c80d03118dc84bfaf39045e7d4e49ef6a964a0fbb77ee8e0f.jpg)  
+Edwin La Dell (1914-70) Student 1935-38 Staff 1948-54 Director 1955-70 Shakespeare's Birthplace, 1964. From Shakespeare Lithographs series, 1964  
+William Scott (191389) Visiting Staff Composition. 1982
+
+![](images/0c73ae97884ad7d71e323ab521ec6a259da9583bec533325ea4830eb2199c756.jpg)
+
+![](images/003f3a80fc7e44f05dfdb1f6ff2d0dc1ad6e1c7d6327ebe135088e14f00caeef.jpg)  
+Ceri Richards (190371) Student 1924-27 Staff 1956-61 Costers Dancing, 1953
+
+![](images/e72c52d4b44b0b7f97d97e56f4a9d91784796dc33582c4fe0202d263f0fd76af.jpg)  
+Graham Sutherland (1903-80) Visiting Staff Go out into the Country, London Transport, 1938
+
+![](images/bfdcb77b15c7c21ccac8ea4dec2308a9d3c5acbd63f2d57a615d52b0c7b5913a.jpg)  
+Michael Ayrton (1921-75) Visiting Staff Falconer, 1957
+
+![](images/b2ea694434f805563111be790c9bb9261da18392b9c5e93a8def1adf432deea2.jpg)  
+Keith Vaughan (1912-78) Visiting Staff A Season in Hell, Arthur Rimbaud Cover, 1949
+
+## 60s PRINTMAKING
+
+In 1960, Richard Guyatt noted that inherent in the reorganization of the College was the tenet that 'the fine arts are the inspiration of the applied arts'. This cross-over of disciplines created an atmosphere of possibility and experimentation within the College, that was spurred on by the economic boom years of the 60s.
+
+Screenprinting was in vogue, and print publishers were racing to meet the demand for prints of every kind. During the early 1960s, Alistair Grant introduced silkscreen printing to the Department. Adopting the photographic imagery of Pop, screenprinting was ideally suited to the clean edges and flat, dense colour of hard-edge abstraction.
+
+Eduardo Paolozzi created his first major screenprint Metalization of a Dream, while R. B. Kitaj adopted the medium as a vehicle for his fragmented compositions. The Kelpra Studio was to have an immense impact, along with the publishing work of Editions Alecto. One of the earliest successes from Editions Alecto was David Hockney's series of etchings of The Rake's Progress in which Hogarth's rake becomes an art student in New York.
+
+![](images/f3367a4295f58fac7a4b05fb36ed5b73d50252dcf9f6f6c05b827d10fc6ab848.jpg)
+
+Roy Grayson (b. 1936) Student 1958-61 Untitled, 1960
+
+![](images/c792d2775f01a812c6554bc5d0ed21eb0dc31c40b7ba437c7a7a98e12bd9c6a9.jpg)
+
+David Hockney   
+(b. 1937)   
+Student 1959-62   
+A Rake's Progress: Plate No. 2A,   
+The Gospel Singing, 196163
+
+![](images/372edcc45649efc0b7698850b3fe5a09640dd4b4c10a71df2842d66cc0f0bd36.jpg)
+
+Jean Maddison (b. 1945) Student 1966-69 A Cube of Sand, 1969
+
+![](images/6c72f59b1a775404b4b8896365ea6ebd2075625dee692d21048cdea927e51784.jpg)
+
+Allen Jones   
+(b. 1937)   
+Student 1959-60   
+No. 2 from the series Life Class, 1968
+
+![](images/572cb87689f8ef1bc5ae9299f2d55edda7047c94d79ded4090269b8e89e9584d.jpg)
+
+Norman Ackroyd (b. 1938) Student 1961-64 Malignant Topography, 1964
+
+![](images/409db5b9ce86eab5df3d5a99549c1256c0ddd31496ad7b78b579727aa1e9df33.jpg)
+
+John Hoyland (b. 1934) Visiting Staff Tiger's Pupil, 1983
+
+![](images/85ed124a9391465b644023b136f6a121fda2b00cdf1f7bd2b37e70e728b8c649.jpg)
+
+![](images/71e3422d7a98f3ac2f9520cfd9a5366d6c0457d59af9a9dd820bf7df180ac8cf.jpg)
+
+Richard Bawden (b. 1936) Student 1959-61 Telford's Bridge, Conway, 1965
+
+![](images/897baa7fd621f2bac00b02a8fd5b83e15d2ba1980023eaa8a4b6d58db34615a1.jpg)
+
+Brian Love (b. 1942) Student 1963-66 Coat Hanger, 1966
+
+![](images/96cac601abfd5326a2f8f49c9feffb48520089c40446e5db38b494116ca0fcd7.jpg)
+
+Alistair Grant   
+(19251997)   
+Student 1947-51   
+Staff 1955-86   
+Professor 1986-90   
+Ophelia, 1964   
+R. B. Kitaj   
+(b.1932)   
+Student 1959-61   
+The cultural value of fear, distrust   
+and hypochondria, 1966   
+Christopher Orr   
+(b. 1943)   
+Student 1964-67   
+Staff 1974-98   
+Professor 1998-present   
+Rustic Scene with Green Cloud, 1967   
+Eduardo Paolozzi   
+(b. 1924)   
+Staff and Visiting Staff 1968-89   
+A New Spirit in Painting, 1982
+
+![](images/53093a4d8627922d0cb3d6499ae6cc4566ccb995876cde0e32f2221434830498.jpg)
+
+![](images/91c9de0f6456d908502208250d3feed1a456e51135deb9f29649088b0341d230.jpg)
+
+![](images/fcc5ae9bfb4bacc06c4ec315e31e0868489c52c76853009fb23d8b768e4dfe76.jpg)
+
+## FINE ART
+
+![](images/971529e1aef11bd565d6c8ff9631327e0b818cbb3c592dfb34ec2556126abb20.jpg)
+
+Alf Dunn   
+(b. 1937)   
+Student 1959-62   
+Staff 1969-95   
+Untitled, 1961   
+Anthony Biss   
+(1942-c.1969)   
+Student 1964-67   
+Try and Say Something Good, 1967
+
+![](images/da981789a19ddb6548e63a1fd8b83bc21eeb85f4cdbde71e01d47eae974f4d55.jpg)
+
+Peter Blake (b. 1932) Student 1953-56 Staff 1964-76 Beach Boys, 1964
+
+## 70s PRINTMAKING
+
+In 1970, Alistair Grant was appointed to take over the Department following Edwin La Dell's death. His belief that printmakers should be artists as well as printmakers enabled students to diversify into painting and sculpture. Looking back in 1987 over the past two decades as Professor of Printmaking, he wrote:
+
+'I have been at pains to encourage Edwin La Dell's original conception of the Department being used as a workshop by practising artists; but schools cannot be a very fertile ground for students if teachers do not practise what they preach, and it is on this basis that all members of staff are appointed.'
+
+Alf Dunn, an ex-RCA student, took over from Edward Ardizzone as Senior Tutor and established his reputation as a kinetic sculptor, and painter, alongside his practice as a printmaker.
+
+![](images/bbaf7baff5bb34fdb68e198549a1fa82d9ed09aee84399660d480eef0d1eba5e.jpg)
+
+Jeffrey Edwards (b. 1945) Student 1967-70 A Question of Taste, 1982
+
+![](images/9dd3ae2605e13cc17e67a1ab1e5c8daff91fc868b195814090a21caf1bd64797.jpg)
+
+Chris Plowman (b. 1952) Student 1973-76 Untitled, 1976
+
+![](images/58c727607bf8c1a0b018293700b4aeecf138320f232a0d579053bb8eadb3e9db.jpg)
+
+Stephen McNulty (b. 1950) Student 1977-79 Untitled, 1979
+
+![](images/9ffc266c67625221d504f5cae1f96de93b2ccf946c9fb781fa7b5c8a39c4fe19.jpg)
+
+Michael Richecoeur (b. 1946) Student 1968-71 Fine Day, 1969
+
+![](images/1544f325ed8df0d4e22ab9e5d2fdf0748ab7ed9929f7208e1416ee6b78846b59.jpg)
+
+Tim Mara   
+(194897)   
+Student 1974-76   
+Professor 1990-97   
+Alan's Room, 1974
+
+![](images/3559b925713f500322436d1543eb44db3ce2deaa51b071d121b33f1f7beaa1bd.jpg)
+
+Shelagh Sartin (b. 1953) Student 1977-79 Untitled, 1979
+
+![](images/9bc25d3c8f232718d72c8b6213a4766318309df2c6cc1ad2faa211a6e5a7351b.jpg)
+
+Anthony Davies (b.1947) Student 1972-73 Peter Grimes, 1981/2
+
+![](images/8b44b79ec8b8dab0c138aa4a9c28e1be07fd37d9baa82507d5709420db75de45.jpg)
+
+Joan Key   
+(b. 1948)   
+Student 1971-74   
+Mars and Venus after Poussin,   
+Dawn, 1988
+
+![](images/d2099e76d18dc5963a1019cd64da293f3deeec25c08ef0934fbed0a633399788.jpg)
+
+Dick Jewell (b. 1951) Student 1975-78 Found photo, 1977
+
+![](images/575e2f7b8d646fffff52d8b93bdea0ddc3fe142abd5a1996852d02150e3d7d14.jpg)
+
+Elaine Shemilt (b. 1950) Student 1976-79 Untitled, 1979
+
+![](images/90fc272851f6d9032679d022a3bea800820c36f95c04739ddf6df85e45144ddd.jpg)
+
+![](images/081fa0acfc4935d3c7e8efea5b6dddb5104e2ab87495f1dbee5680d57ff62f10.jpg)
+
+![](images/0bbf152dc80e2ea2c4f869aad2205517ebe1229109c8a5466e52f2a92ecb395c.jpg)
+
+![](images/5810b406fe1c70c60e26dcdbbfe3192e7dc4ed7960f3323b9205ee17b50f7c7d.jpg)
+
+Susie Allen (b. 1949) Student 1976-79 Branded, 1982
+
+![](images/1e5c91d820f703eb607221f79ec41016fa72f37960b1ad43b17093e84c073822.jpg)
+
+Alf Dunn   
+(b.1937)   
+Student 1959-62   
+Staff 1969-95   
+Correction, 1982
+
+![](images/a0543a9bf59b6105b1b00d279525d9528168e63dd1125c8a517059aa245bbf52.jpg)
+
+John Brisland (b.1947) Student 1973-76 The Family, 1976
+
+![](images/0aafcff4b5711b8f134103431448647f6e112f26983c5608af1e2cbf81d1156a.jpg)
+
+Timo Lehtonen (b. 1953) Student 1977-79 Untitled, 1979
+
+![](images/d14b0e22c97facf604af8628003304268561e1c17a8867cf83b6637cc884c579.jpg)
+
+Paul Huxley   
+(b. 1938)   
+Painting Tutor 1976-86   
+Professor 1986-90   
+Modus Vivendi, 1983
+
+# 80s PRINTMAKING
+
+Responding to government cuts in the funding of art education, and rising costs, Alistair Grant set up the Printmaking Department's Appeal Fund in the early 1980s. This fund not only gave financial support to printmaking students, it also provided a new impetus to the print publishing tradition which had grown within the Department since the 1950s, and in turn provided an excellent method of promoting the College's work.
+
+Significant artists gained exposure in various portfolios published during this decade, including 35 Artists Printmaking (1982) and Artist's Choice (1988). The Barbican hosted a major retrospective exhibition celebrating the work of, amongst others, Peter Blake, Derek Boshier, Anthony Davies, Jeffrey Edwards, Terry Frost, John Hewitt, David Hockney and Zandra Rhodes. A popular image was the diploma certificate which Hockney had printed and defaced, in 1962, showing a hapless student bumping his head on the Royal Coat of Arms - supported, or perhaps pushed, by the Rector. Another retrospective coincided with Grant's retirement.
+
+![](images/8dcba44d948e142866dd3d45118c330399154d70b535c8279301b384013452e1.jpg)  
+John Hewitt (b. 1955) Student 1978-80 Staff 1995-present Ah-Ha-Ha-Ha-Har!, 1985
+
+![](images/c9ab2ca138e5025a142168809f4895fae2cff44addaa603fb057cf1678d5737b.jpg)  
+Stephen Mumberson (b. 1955) Student 1979-81 Street Person 2, 1981
+
+![](images/b7214183bfda1b3c9a22b36916a51e8fe4eda8f0d18148d0310c6764ec4943d7.jpg)  
+William Latham (b.1961) Student 1982-85 Untitled, 1985
+
+![](images/e08dded52e224e3d41940ffd652f3dcc45a00e69616722824919957f634f4d70.jpg)  
+Simon Ringe (b. 1965) Student 1988-90 Sketchbook Ideas, 1989
+
+![](images/bbd3603b1cd72dc78319bbacae11920f62d6db5fefc55c64554177aab72eed8b.jpg)  
+Peter Nevin (b. 1952) Student 1983-85 Untitled, 1985
+
+![](images/d45f16b18f5885c26578c684f83480ef10c70266b22af1a3812d2bd04c76e1a1.jpg)  
+Terry Frost (b.1915) Visiting Staff Newlyn Rhythm. 1982
+
+![](images/74720b9f5a4f727f6db0d090f47ce466be1834a1544b6dda94e05bc3f3d6fb86.jpg)  
+Lol Sargent (b.1959) Student 1981-83 Staff 1989-present Untitled, 1983  
+Juliette Goddard (b. 1959) Student 1982-84 Untitled, 1984
+
+![](images/508e1c121da63402a60aab94fe45510faa1b39b96b10ded92a4569977b72ba42.jpg)  
+Peter Dover (b.1954) Student 1986-88 Sunflower, 1988
+
+![](images/3455f53abff2cfec144e1269bdf696a2facce69275cee61ab477c3155bd6d2ee.jpg)  
+Helen Chadwick (1953-96) Visiting Staff Staff 1994-96 Coitus, 1993
+
+![](images/1365655f8cb2ede4a407f099a30a2bfb35059f1716dd16db4a56f77ca3ed2f80.jpg)  
+Ann Nicolle (b. 1959) Student 1986-88 Untitled, 1988
+
+![](images/c1538ae548f7a5819280a76e6939de35e99e0fe15d2b03b596672f1c10c518a8.jpg)
+
+![](images/7c0cb7115cf732a527f8e0853158a7573a27f82eae70a6dc099f881b54c18670.jpg)  
+Richard Wentworth (b. 1947) Visiting Staff Boy with Shadow, 1982
+
+![](images/61c7900b40e6d7fb36b2e2628f34fab59848d5c5be58cf0c802b9b435643b66c.jpg)  
+Michael Wootton (b.1957) Student 1982-84 Untitled, 1984
+
+![](images/8593236a41194de362a98be4fe4deded4b78b501fc21ca574af00a9fffb33440.jpg)  
+Oscar Romp (b. 1963) Student 1988-89 Smoking and Dancing. 1989
+
+![](images/59816ad5ea7badef0235f106801e1c330731b69c80171bfc480bdfdd41c84cd1.jpg)  
+Alistair Grant (b. 1925) Student 1947-51 Staff 1955-86 Professor 1986-90 Boule de Sucre. 1982
+
+# 90s PRINTMAKING
+
+Tim Mara's appointment as Professor in 1990 brought significant changes to the facilities of the Department. Mara encouraged a wide spectrum of approaches to the creation of prints. His enthusiasm for new technologies led to the use of the computer, the internet and laser and ink jet printing side-by-side with traditional methods. In his inaugural lecture he said:
+
+'I see Printmaking as a major means of expression within Fine Art, without stylistic constraints towards content or medium, and through which technique and process are completely integrated into the artist's work.'
+
+The work of graduating students in the 1990s reflected a diversity of subject matter as well as technique. Work ranged from Faisal Ammar Abdu'allah's etchings of young black men exploring identity and ethnicity in Britain today to Katia Liebmann's use of photography in her Gotham series, which draws on the iconography of the superhero.
+
+After Mara's untimely death, Chris Orr became Professor. His inaugural lecture was entitled 'From God to Gates via Gutenberg'.
+
+![](images/c296f0fc54e2cd6e23da2ab6146b0decf3643a573cfa9719c1353a105e0fbd27.jpg)  
+Duncan Bullen (b. 1962) Student 1989-91 Two Times, 1991
+
+![](images/4d2c87456eaad75e59a3eeed95a5b09e57595feabd9f643cf2e7034a443f599c.jpg)
+
+![](images/d17d79b9c9e1c5855bca55d6c54d955e924d4c8f6429b9d983f93799cc695b7d.jpg)  
+Rosalind Kunath (b. 1946) Student 1991-93 The Oracles, 1993
+
+![](images/67bcca02ca156dac7d46c3f03a9c2fdaee32436fd04ba1af09e6b43586aa207c.jpg)  
+Katia Liebmann (b. 1965) Student 1995-97 Gotham, 1997  
+Max Davison (b. 1965) Student 1989-91 Puur, 1991
+
+![](images/1d09471e9f977aaf04d5c67c756581fa72eea5552f772f7e39bf434add17121a.jpg)  
+Faisal Ammar Abdu'allah (b. 1969) Student 1991-93 Aqil. 1993
+
+![](images/e7830879d3fe4c8cbcda58797e21fb75cd78047178eadd462f631f8d1e4f70d2.jpg)  
+Rebecca Davies (b. 1973) Student 1996-98 Bearing All, 1998
+
+![](images/7cb2658b427156c8df332656e0779e0abd985424e9aa6e9b437d3d9642129d3a.jpg)  
+Adam Dant (b.1967) Student 1990-92 Endree, 1992
+
+![](images/cb695dd09de22e624974411783a7c6b1c042970d828f4421d7598ffa7c518133.jpg)  
+Mark Hampson (b.1968) Student 1990-92 Staff 1997-present Shipwrecked he suggested. Maroon(ed) I replied., 1992
+
+![](images/88e66ed12c42065949fb695c81d99ea3a6ed16869eb1b55f11b07e136975d20d.jpg)  
+John Miller (b.1962) Student 1991-93 Cognitive Pugilism. 1993
+
+![](images/86f595dcc541aed5f7e46ecde2f22c26447938e106df633aab8a9b5f2afe6419.jpg)
+
+![](images/69c2021f75384f763e3e611b2dcbc5a0cb10e2416b6ec56c57734ca5bf51dff0.jpg)  
+Amanda Clarke (b. 1968) Student 1993-95 Ladder, 1995  
+Leigh Clarke (b.1973) Student 1996-98 Bright Town Revisited, 1998  
+Sioban Piercy (b.1957) Student 1990-92 The Angels' Insecurities, 1992
+
+![](images/f8afebc218924caf5ef450a75b0bcbd6345b01eae21df11178b1205a8c857d89.jpg)  
+James Hutchinson (b. 1968) Student 1996-98 Golden Days (Bay view), 1998
+
+![](images/52f76836c9ad775b5f44949d2a37391772a8ee81dc7beabeeb65269ec6e58b45.jpg)
+
+![](images/3e700587f6ef9d25a643da87f2825dfe88f5e10ac9029aa38c4de4e57303521c.jpg)  
+Daphne Prevoo (b. 1970) Student 1994-96 Cramped series: Hands. 1996
+
+![](images/e41a4b7a684476c6db49e7ad3aca8a1888ff8937816c75ce6cba07c95e37c15b.jpg)  
+Tim Mara (194897) Student 1973-76 Professor 1990-97 Wire Glass and Carrier Bag. 1996
+
+# INTRODUCTION
+
+Walter Crane, a leading figure of the Arts and Crafts movement, became Principal of the RCA in 1898. His intention was to orient the College away from teachertraining (the institution had just dropped the word 'training' from its title) towards the study and practice of design: 'I do not believe in any cast iron system of education', he wrote in The Claims of Decorative Art, 'from any point of view. It must be varied according to the individual ... There is nothing absolute in art. Art is not science.' He went on to argue that the distinctions between 'fine' and 'decorative' art were not helpful, believing them to be more to do with social status than the practices themselves.
+
+Crane did not last long as Principal, but his ideas, example and enthusiasm decisively influenced the future direction of the College. According to his organizing concept of design education at the College, students in their first year studied architecture  theory and practice under the tutorship of architect Beresford Pite, calligraphy with Edward Johnston, and design games (outline, shapes, colour) with William Richard Lethaby. They could then choose from among four specialized studio areas: decorative and mural painting, sculpture and modelling, architecture, and design (meaning craft)  the heirs of Gottfried Semper's technical classes.
+
+These curriculum developments were also the direct ancestors of the Bauhaus, and of basic design. But they weren't quite as radical as they may seem today. Lethaby, the very first Professor of Ornament and Design in Britain, said that the following words should be inscribed  in the finest quality lettering, of course  over the College's front door: 'No art that is one person deep can be very good art'. The important thing was to belong to a tradition of designing and making, and to work from within that tradition it was a question of quality, not quantity, with a strong ethical dimension. Early graduates  enameller and teacher Alexander Fisher; silversmiths Omar Ramsden, Alwyn C. E. Carr, Nelson Ethelred Dawson and E. B. Wilson; textile designer Lyndsay P. Butterfield; ceramic designer Gordon Forsyth; stained glass designer Margaret Chilton; and calligraphers and letterers Dorothy Mahoney, Violet Hawkes and Irene Wellington  seemed to thrive in this new atmosphere, and on the looser structure which had immediately preceded it.
+
+## Education to Art
+
+Thirty-five years later, when he was being considered for the post of Principal, the critic and poet Herbert Read would draw the important distinction between 'education to art' and 'education through art'  meaning the education of the professional artist on the one hand, and the bringing out of various conceptual and manual skills through the medium of art on the other. Throughout the nineteenth century, the School had attempted to achieve both. From now on, it would begin to concentrate on education to art. One question was whether the new emphasis on the crafts would have any impact on the world of heavy industry or be content simply to criticize it. Would the RCA turn into the Royal Cottage of Art? Only time would tell.
+
+The catalogue published by the Board of Education in 1908 shows prize-winning exhibits that were produced in the schools of Architecture and Design in the decade since the RCA had been renamed. There were careful drawings of a restored mausoleum at Halicarnassus; 12 examples of William Morris-style wallpaper; plus rows of William de Morgan-style plates, displayed on the shelves of a wooden dresser, and an altar installation covered with examples of ecclesiastical metalwork. The Studio magazine noted among all this 'a prevailing spirit of sincerity and courage' as well as 'achievements of real interest and merit': at last there was evidence of 'a generally practical outlook'.
+
+Out of this Arts and Crafts debate came some significant contributions to design. For example, while Edward Johnston was delivering his monkish lectures on lettering to all the first years, in his own practice he was busy deriving his hugely influential sans-serif block alphabet from classical Roman capitals for the London Underground Railway. Typically, he regarded this all-time design classic as a distraction from his real work and 'a concession to Mammon'.
+
+## New Blood and New Ideas
+
+When William Rothenstein became Principal in 1920, he stated publicly that the role of the RCA was emphatically not 'to limit itself to the education of designers and teachers and industrial craftsmen, while Schools elsewhere would provide training for students of fine art ... Each has lessons of value to learn from the other.' So, out with the 'somewhat doctrinaire pedantry of a pseudo-medieval character' which had dominated the Edwardian period, and in with the ambition to produce artists across the whole spectrum of visual disciplines. After the Principal had himself made portrait drawings of the rich and famous, he liked to encourage them to give informal talks to the students in temporary huts situated between Exhibition Road and Queensgate — which had been given to the College by the Office of Works in 1911 to relieve severe overcrowding. These sitters included Lawrence of Arabia, who impressed the Fine Art students mightily, even though they couldn't hear a word he said. Rothenstein was taking up, in a hit and miss way, the Board of Education's advice to him that 'new blood and new ideas should at once be infused into the staff of the College'. The Board had meant by this that 'new blood' should bring the institution back into the orbit of 'design for industry'.
+
+Rothenstein had other ideas. The RCA, he said, should be 'a centre which serves, not so much to give vocational training, as to give each student, whether he intends to be a simple designer of cotton fabrics or an ambitious painter or sculptor, the best possible general education through the arts.' His distinction between 'simple' (for designers) and 'ambitious' (for the fine artists) was duly noted by the Board. An early suggestion that sculptor Jacob Epstein should become a 'new blood' appointment was greeted with the appalled official response: 'for a Professor we would want not only a genius but also character.' Eric Gill turned down a job offer with the enigmatic words, 'may I whisper it, I think there are far too many women about.' Less controversial appointments included William Staite Murray (for ceramics), Reco Capey (for textiles), Martin Travers (for stained glass), and Paul and John Nash (for general design tuition).
+
+Rothenstein firmly believed that, instead of spending their final year preparing to become teachers, the students should exhibit or become involved in public works. He planned a series of projects in London, including murals for St Stephen's Hall, India House, the Council Chamber in County Hall, employment offices in the Docklands, and Morley College, a commission sponsored by the art dealer Sir Joseph Duveen. The well-produced student magazines Gallimaufry (1925) and Mandrake (1926) involved many young designers including Enid Marx and Cecilia Dunbar Kilburn, who was later to become a partner in the innovative Dunbar-Hay shop  15 Albermarle Street  an outlet for design and applied art work by ex-students which in the ordinary way might be difficult to market'.
+
+Design tutor Paul Nash, meanwhile, curated the exhibition 'Room and Book' at Zwemmers in April 1932 which brought together work by his colleagues in both the fine and applied arts, in an attempt to 'exemplify the modern movement in England': Edward Bawden wallpaper, Henry Moore wall lights, Staite Murray pots, Enid Marx textiles and quotations from Le Corbusier's Vers une Architecture, translated by Frederick Etchells. For a brief historical moment, the distinctions seemed to be dissolving. Henry Moore sculptures were exhibited against Nash's or Marx's fabrics  a much better accompaniment, wrote one critic, than the usual figurative work by contemporary artists. William Staite Murray wrote of pottery as 'the connecting link between Sculpture and Painting', and he would offer Zen-style tutorials
+
+which consisted of long silences punctuated by cryptic one-liners such as 'God is clay'. Herbert Read called Murray's students 'canvas-free artists'. Enid Marx was to look back on the interwar years as a time when 'all the arts flowered in such profusion', as she moved from painting to hand block-printed textiles to book jackets to seat covers for the London Underground; all the while promoting modernism in preference to 'the washed-out William Morris stuff'. Reco Capey, who was Chief Instructor in Design and eventually became the College's Industrial Liaison Officer, tried hard to harness this visual energy to the needs of mass-production: though he once observed that 'Murray couldn't have anything to do with design, because he was anti-industry'
+
+## Growth and Change under Darwin
+
+Capey's view that much of the work of the College might be becoming too rarified was shared by the Board of Education. An official report of 1936 stated: 'notwithstanding the prestige which it has achieved in various directions, it is impossible to feel that all is well with the Royal College.' The old distinctions were about to return with a vengeance, under the impact of economic recession. 'The attraction of the Fine Arts', the Hambledon Report concluded, 'should not again be allowed to divert the College from its primary function.' The studios should be re-equipped for 'art industries', courses should be made much more specialized, and the professionalization of the Fine Art areas should be matched by an equivalent professionalization of industrial design, commercial art and dress design. The Board of Education still seemed to be promoting the Victorian notion that art was something 'applied to industryrather than part a broad visual culture shared by many disciplines. The Board called for a functional approach, as Britain emerged from the slump. As ever, the College's closeness to government control  which went right back to 1837, and which was no longer shared by many regional Schools responsible to local authorities — meant that political anxieties made themselves felt more keenly and directly in South Kensington than anywhere else in the system.
+
+Nevertheless, Rothenstein was succeeded as Principal not by Herbert Read or Walter Gropius  both of whom were seriously considered for the post  but by a minor Post-Impressionist painter, and the move to Ambleside in the Second World War both postponed and radicalized the Board of Education's plans. Meanwhile, many of the talented post-war design professors of the RCA, who implemented Robin Darwin's restructuring programme of 'narrow and concentrated fields' rather than "a general course', first met during the war in the camouflage directorate. Partly as a result, there was a clubby, tweedy atmosphere at the College in the early Darwin years from 1947 onwards, with many public pronouncements about how designers should have 'amused and well-tempered minds' and how rigid specialization and connections with industry at the right level could elevate them from the servants' hall to the high table where they belonged. Darwin was determined to get away from the pre-war Arts and Crafts atmosphere of 'ornamental vases, handbeaten christening mugs and suchlike things'.
+
+There followed a series of symbolic gestures: the staff attendance book was discarded, the Phoenix became the new corporate image, war was declared on the Ministry of Education, and the qualification 'Designer of the RCA' was introduced for graduates who had spent 'nine months continuously in a factory'. There was also a series of very public commissions for staff, students and ex-students: the Lion and Unicorn Pavilion at the Festival of Britain (in which the lion's solidity and strength was contrasted with the unicorn's imagination and eccentricity  a fair summary of the whole Darwin project), the interior of the Time-Life Building in New Bond Street, and the 'Royal College' stained glass windows in Coventry Cathedral. The subdivision of 'general design' into Wood, Metals and Plastics (later Furniture and Industrial Design Engineering), Ceramics (from the 60s Ceramics and Glass), Silversmithing and Jewellery, Fashion Design, Textile Design, and Stained Glass - all of them presented in College publications under the general heading of 'Industrial Design'  coincided with the rise of the professional consultant designer, as distinct from the inhouse employee, and the College, backed by the new Council of Industrial Design (later the Design Council), came to have a decisive influence on the new design landscape in the UK. In the professorial inaugural lectures at the beginning of the decade, collected under the title Anatomy of Design, the consensus was that 'good design is design in the creation of which true art has played a part'.
+
+As early as 1952, an exhibition at the Imperial Institute called 'Art for the Factory' showed work by silversmithing students David Mellor, Robert Welch and Gerald Benney, textile students Pat Albeck and Audrey Levy, ceramics students Hazel Thumpston and Peter Cave, and furniture students Alan Irvine, Ron Carter and Robert Heritage. It was billed as 'the first-ever College show entirely devoted to industrial design' and the Pottery Gazette eagerly looked forward to 'a steady supply of trained designers of both sexes' who would work in Stoke-on-Trent after graduating from Robert Baker's course, a course which now explicitly opposed the fashion for studio pottery.
+
+When the Design Centre Awards were introduced in 1957, they were widely seen  in historian Fiona MacCarthy's words  as 'an accolade for Royal College of Art training' members of the late 1930s generation, such as textile designers Lucienne Day and her husband the furniture designer Robin Day, were also honoured, a fact which Darwin in all fairness' was obliged to note.
+
+When the optimistic 50s were over, Misha Black, the College's first Professor of Industrial Design (Engineering) wrote that young designers might well start to react against the white heat of industry and turn on the one hand to 'the socially useful' and on the other to 'the crafts' where they could sign their names: 'the atmosphere in professional offices and schools of industrial design is thick with ominous question-marks.' Black, supported by Frank Height, taught many notable designers at this time including Nick Butler, Roy Gray, Peter Isherwood and Ken Sadler, and introduced two key developments into the College: Design Research (with its pioneering 'optimal hospital bed' project, under Bruce Archer and Kenneth Agnew); and the Automotive Design Unit (later the Vehicle Design Department), heavily supported by the car industry.
+
+## RCA Design and 60s London
+
+Fashion and Graphics played a large part in 'swinging London', which was treated by the new colour supplements as virtually synonymous with the RCA.
+
+In Fashion Design, under Janey Ironside and Joanne Brogden, the era of white gloves and elongated rolled umbrellas made way for high street and ready-to-wear outfits. Independent retail  Pauline Fordham at Palisades on Carnaby Street, James Wedge at Countdown on Kings Road, Ossie Clark at Quorum  became fashion's
+
+equivalent to the consultant designer, while Bill Gibb was described as 'fashion's David Hockney'. Art, craft and design all seemed to be merging in the buzzword 'commercial'. Zandra Rhodes adapted a medal motif from a Hockney student painting for her graduation show textile work, which was later bought by Heal's; Derek Boshier designed the lettering for Palisades boutique; and some furniture students experimented with throwaway paper pieces which resembled sculpture.
+
+Meanwhile, the invention of the rebellious 'art student' was proceeding apace, and Robin Darwin, nearing the end of his career, wrote ruefully that, 'I personally say every night the opening words of the Nunc Dimittis Lord, now letteth thou thy servant depart in peace.' From the mid-60s onwards, he seemed less concerned with the day-to-day realities of industry than with preparing the RCA ('his work of art', as one ex-student called it) to take on university status, which it finally did, amid much ceremonial, in 1967. And he saw that the heroic period was over.
+
+## The Birth of Modern Crafts
+
+M Bac Walter Gropius' first Bauhaus manifesto of 1919), away from both design for industry and the rise of conceptual art. Not a 'return to the crafts', the Arts and Crafts version, but a 'turn' which would bring the applied arts into a contemporary idiom. It gathered momentum during the early 70s, in David Queensberry's Ceramics and Glass Department (with the sculptors Hans Coper and Eduardo Paolozzi as tutors), in Robert Goodden's Jewellery Department (from 1973 run by ex-students Gerald Benney and Philip Popham), and in David Pye's Furniture Department. Crafts no longer had to be functional
+
+traditional and made of natural materials: they could be non-functional, urban, up-to-date and made with synthetic materials in all colours of the rainbow; they could also be feminist and often were. And they were no longer expected to provide a solace in a rapidly changing world: instead, they could now provide a challenge, sometimes by means of an ironic statement about traditional notions of 'the crafts', sometimes by touching at their outer edges the worlds of fine art and design. The very word 'crafts' fell out of favour as an accurate description in the mid-80s, to make way for "applied arts'. Staff and students at the RCA were at the centre of these developments, supported by a re-energized Crafts Council, style magazines and new galleries such as Contemporary Applied Arts. Under David Hamilton and Martin Smith of Ceramics and Glass, David Watkins and Michael Rowe of Metalwork and Jewellery, and Floris van den Broecke of Furniture, the 'turn to the crafts' of the early 70s  synthesized in major survey exhibitions such as 'The Craftsman's Art' (1973) and 'The Maker's Eye' (1981)  moved on to a new repertoire of visual languages and materials, and an emphasis on 'making' rather than 'craftsmanship'.
+
+## Redefining Design
+
+Where design was concerned, the 70s saw an international 'Design for Need' conference, the rise of systematic design research in various forms, and Rector Lionel Esher observing that, 'since the brave days of the Festival of Britain, when the College was reborn, some of the industries on which we have hitherto depended have been through a period of traumatic decline'. It was time for the College to redefine itself as a postgraduate university. In the early 80s, this redefinition centred on the concept of 'an institute of advanced studies' supported by what were then known as the new technologies. By the middle of the decade, it had shifted towards 'design for profit' (in Mrs Thatcher's phrase) and the politicians' call for a 'design-led industrial revival' coupled with an emphasis on consumerism.
+
+The student summer show of 1981, the same year as the Memphis design group was formed in Milan, was in retrospect a very important turning-point. At the heart of the show, which has been described as 'the origins of postmodernism in industrial design', was Daniel Weil's Homage to Marcel Duchamp, involving radios with exposed circuit-boards in PVC bags and the sounds of birdsong. Here was design as metaphor in the post-black box era; a rejection of 'good design' and of a stable notion of function; the primacy of image over object and idea over form; form follows fiction. At precisely the same time, Ron Arad was experimenting at One Off in Covent Gardert with recycled rubbish (a Rover car seat, scaffolding and damaged breezeblocks). Was he a maker or was he a designer? 'I invented my profession,' he replied. Architect Nigel Coates was about to start his visual researches into cityscapes which celebrated information overload, the polar opposite of modernist planning. The discipline of industrial design branched out towards imagery and cultural theory on the one hand, and the fusion of design values and engineering principles on the other: both were radical educational developments. In 1981, the examiners had not known quite what to make of Weil's installation: should he be awarded a Master of Design or a Master of Art? It was, and is, a good question.
+
+![](images/875791f3ab146db5a84e2f825d56314018358aacedbf616d8bd2bae689d784b6.jpg)  
+JAMES DYSON
+
+'I went to the College from 1966 to 1970, and I cheated because, for a couple of years, they were running an experimental scheme by which you could get in straight from school, or having just done a Foundation Course. So three of us went into the Furniture School, about three more into Interior Design and three into Industrial Design. I had been at Gresham's School, and then did one year at the Byam Shaw with Bridget Riley teaching us, and we were taught very well how to draw, which I always think is the foundation of everything. What was missing was that I hadn't been to a traditional art school and had yet to discover there were other things you could do besides paint and draw. I had no idea about design. My headmaster wrote this very strange letter to me, saying he was very pleased I wasn't going to university because I'd be far better off without a degree round my neck, which rather demonstrates the attitude in public schools towards a career in art and design!
+
+So I ended up in Furniture, but thank goodness they grouped us with the Interior Design and Industrial Design people  we formed a sort of three department class. They were trying to cram a DipAD course into one year instead of three, which indeed they did to a certain extent, and at the end of the first year we were awarded a Bachelor's equivalent, and at the end of our fourth we got an MDes(RCA). So I was really jolly lucky. I joined Furniture with Richard Wentworth and Charles Dillon, but Richard went to the Sculpture School, and I transferred over to Interior Design. I never really felt part of the Furniture course: it was very woody in those days, all secret lapped dovetails and that sort of thing. It didn't quite grab me. We did have Ron Carter, though, who was a wonderful teacher of dovetails. He used to do a demonstration in front of about 30 students with his hand shaking, but he
+
+# DESIGN
+
+produced this joint which just clicked together beautifully. Interior Design I found much more fascinating, though, dealing in these very large three-dimensional spaces.
+
+Two years into the Interiors course, I discovered Buckminster Fuller. Everyone else used to fall asleep in Tony Hunt's lectures on structures, but I found them riveting. And I had no inclination at all before this to be an engineer. I mean, I hated maths at school and hadn't got physics. Suddenly I became enthralled by structures, why they fall down and how you calculate stresses and so on  a very odd move for me. At first I saw it in the context of architecture, and Buckminster Fuller was a hero; so was everyone else who did space frame structures. This was before the time that Norman Foster and others started using them; in fact, the only example in England was an aluminium structure at the Rotork factory in Bath, which was a very designconscious company. I was doing a project for Joan Littlewood at Stratford East, in my second year in Interior Design. I'd already done some rather silly things with her at the City of London Festival, Tower Precinct, and she started talking about a new type of open-air children's theatre she planned to build next to the Theatre Royal. So I designed this mushroom-shaped homage to Buckminster Fuller, which Tony Hunt engineered for me, and then I went down to Bath to see the founder-chairman of Rotork, Jeremy Fry, to ask him for some money. He didn't give me any money, but was quite interested in the project; then he asked me to do one or two small design jobs, which I did, and then the Seatruck, the landing-craft which I spent the rest of my second year doing, though it was really an engineering product design job. The Cassons did get a bit worried at one point  they had Jeremy Fry to lunch, and he had to reassure them. And then, at the end of my second year, they built a prototype of the boat, started testing it and, since it was evidently working, I then more or less decided that at the end of my College time I'd go and manage that business  the sales, the design and the manufacture. Jeremy Fry was quite happy to wait to the end of my final year. During that year I developed a water-wheel that skidded at high speed across the water and drove a vehicle, theoretically a jeep.
+
+So my final project in the Interior Design Department was this strange engineering development. Plus my boat. And they gave me a degree. That was the good thing abut he s,thee wee' eally y ul. I waofvrus jos but I rlly wanted to get into commerce myself for some reason. God knows why, it's a mad thing to do. I think I had this idea then that I still have, that I wanted to be a manufacturer completely controlling my product. I really couldn't bear the idea of someone else making it and making a hash of it. Or someone else selling it and misrepresenting it. Or someone else changing my design. Or being a consultant in an office where someone comes along and asks you to do something. So I was already a bit of a control freak, even when I was at the College. At heart, I really wanted to be a Brunel or a Buckminster Fuller. And I had sort of made my own course at the College to start achieving that.
+
+I was a pretty studious student, and I used the Royal College to the hilt. There were some seminal moments for me. We were doing a project in the first term of the first year, designing a four-room exhibition on the theme of "The Four Seasons". And wel got into free-form full flow. And I'll always emember Bernard Myers, a rather dapper tutor with a bow-tie, coming up to me and saying, "One thing about design is that it has always got to have a purpose: there has to be a reason." So I felt suitably chastened by this extraordinary piece of advice. He said it quite angrily to me, obviously annoyed by what I'd done. And I was tremendously impressed. At the same time, they were doing the QE2 in the Department, which looked frightfully glamorous, and we could see what was going on there. The staff were John Miller, Margaret Dent and Tony Hunt, who was key for me.
+
+In a curious way I wasn't attracted by Industrial Design. I went into the studio and in fact worked there for part of my very first year. But I didn't really connect wyn And the College's engineering course with Imperial College was very much a thing of the future. No, what riveted me was the concept of these huge buildings with engineering structures. No one was lecturing me about Bucky Fuller, though. The person hoitrducm thisidea was noternterr es sudnAnt
+
+Furst, who used to sit in a room on his own designing a holographic theatre with a Fuller Dome on it.
+
+We were busy working through the holidays, too, and also we were all living on grants and running clapped-out old cars and things like that. So I supplied wine to the College Union  I was a sort of wine dealer. It was the start of the wine era, and a friend of mine was importing wine, bottling it and selling it to restaurants unlabelled. I would fill a van with cases of this unmarked stuff and supply it to quite a lot of the tutors as well as the Union. It took no time at all. A couple of cases to Bernard Myers, a couple to Hugh Casson, that sort of thing.
+
+The most important things I got out of the College, apart from Bernard ticking me off, were things you take for granted throughout the rest of your life. Meeting professional designers or architects, even though not from professions I'd necessarily chosen to follow; seeing that they are surviving and watching how they operate; the fact that the thing they care most about is the design and function of what they're doing. Getting that from live practitioners is terribly important. Another thing you take for granted during your time at the College is the excitement you feel every time you walk into the building. When you've done that dreadful tube journey, and then you walk into the building, it is always uplifting. There's a huge vibrancy at the College now, as there was in the 60s. The RCA had just become very famous immediately after the Hockney era, and the Darwin Building was quite new. There was always this great moment at about five to one when the fashion students arrived in their little green bus, wearing wonderful clothes. There was the excitement of going round the Dip. show and watching the films in the theatre. All these elements you tend to forget. Just taking it all in, absorbing it, every day. I spent four years at the RCA, so it provided my entire design training. It taught me the importance of making things well, of making prototypes to prove ideas in action, and above all it gave me the confidence to dream.'
+
+# PRE-WAR DESIGN
+
+In 1920, the painter William Rothenstein was appointed Principal of the RCA.
+
+Rothenstein aimed to provide students with a sophisticated, allround education in art and design, believing that good design could only emerge from a complete understanding of the arts. At the time, most industries preferred to train their own designers 'in house'  allowing them little creative licence or recognition. However, some began to encourage outside designers to 'apply their art' to industrial production. Rothenstein's views on art education stimulated students of both fine art and design to contribute to the needs of various industries while encouraging a closer relationship between the two.
+
+In the Design School, students came under the influence of tutor Paul Nash, the modernist painter, who had been appointed to teach part-time. Nash encouraged his students to practise watercolour painting, book illustration, wood-engraving and textile design and helped them develop an interdisciplinary approach. 'The artist', he wrote, 'should invade the house as a designer.'
+
+![](images/202932e246a90e28d1df7bcdc4f4e0f9a7b7855756f41583f8243843189dae59.jpg)  
+Alexander Fisher (18641936) Student 1884-86 Bhanavar the Beautiful', enamelled panel, c. 1910
+
+![](images/333681dc618d6d99aa9f596b4dc95f8a64ab250c6a0762893efb3ef3ee995983.jpg)
+
+![](images/0d946d670dd623c274fcbb4b0a58706194917d6cd2720c7ec5fc6a5e11d56cef.jpg)  
+John Adams (18821953) Student 1908-13 Staff 1912-14 Vase for Poole Pottery. . 1930  
+Nelson Dawson (18591942) Student 1891 Enamel and silver buckle, c. 1905
+
+![](images/ff8e6b9f96a7d632f00b45face5f2be8912567d2c001a0e73e7c9d9f5b71c69c.jpg)  
+Victor Skellern (1908-66) Student 1930-34 Mug design for Wedgwood. 1940
+
+![](images/d11b50417e52da182ff0bdd0497700361f7d341c851d1c2794b1494c5a49d52b.jpg)  
+Dora Batty (unknown) Student 1913-17 Nursery Rhyme tiles for Poole Pottery. c. 1930
+
+![](images/06449b7afab8c126bfe1150e04a364d22fa8bec3ce4fe4e0e51da8e52a599b85.jpg)  
+Robin Day (b. 1915) Student 1935-39 Table radio for Pye. 1965
+
+![](images/3008c86513b66ecc207e86c1657cd04d03329ee7b65aa3efa877702b87ba70c7.jpg)  
+Gordon Forsyth (1879-1953) Student 1897-1901 Lustre vase for Pilkington's. 1912
+
+![](images/2e07797c67390cf5f8294023cf29fd9730a4b69b76cb69176f0648bf5aa994d4.jpg)  
+Charles Vyse (18821971) Student 1905-10 Cat, c. 1930
+
+![](images/3ce99c9850bfa3d3c3a0ac11bb8deb0f21304c110bda8b6c5ef48bd1c05955c8.jpg)  
+Truda Adams/Carter (18901958) Student 1908-13 Vase for Poole Pottery. c. 1930
+
+![](images/1f390d20aa838ba2a2a30580844adc2987c90c16d36b4ffe0a5c5ad3391849c2.jpg)  
+A. B. Read (18991973) Student 1919-23 Earthenware vases for Poole Pottery. c. 1955
+
+![](images/2fd2fc807134c59af4c142a744cf0b95049303b70e3660c1e19274a2f309fc74.jpg)  
+Edward Bawden (1903-1989) Student 1922-25 Staff 1930-40. 1948-53 Tiles for Poole Pottery, c. 1930
+
+![](images/97bc0d6f0b45c8e9ba24a949c826339b9f1ec93d638cabe78261eeb1f7ca47e0.jpg)  
+Eric Ravilious (190342) Student 1922-25 Staff 1930-39 Garden' plate for Wedgwood, c. 1939
+
+![](images/d35091e0b9e94da12aa883cf3d76f1194b7414abc989efa6ccd3d35db3f868ba.jpg)  
+Arnold Machin (1911-99) Student 1936-40 Figures for Wedgwood, c. 1940
+
+![](images/4626efaa340d552bece9fc977fafa31c790dd802ef0bc6e8d47f4a4993511153.jpg)  
+Paul Nash (18891946) Staff 1922-25, 193839 Gay tea-set for Foley's China. 1934
+
+![](images/14aae916e6b2811653db41e7a86d080d6c0eed27ab62a99a3392e7a25ba6d0e4.jpg)  
+Reco Capey (18951961) Student 1919-22 Staff 1925-53 Packaging for Yardley's. 1930
+
+# INDUSTRIAL DESIGN
+
+Reco Capey: the neglected pioneer
+
+![](images/edf8e13fa7134dcab9f9399c97ba740c2b4850219d57eb29df831f000fc6de37.jpg)
+
+The name of Reco Capey is not a familiar one in the design history books, yet he was clearly an important figure in British design and design education during his professional life. He was among the first 20 designers to be elected a Royal Designer for Industry by the Royal Society of Arts in 1937, and the first to be awarded this distinction for 'General Design'.
+
+Reco Capey was the first professional industrial designer to be appointed to teach at the RCA. From 1924 to 1935 he was Chief Instructor in Design, and after three further years as a visiting lecturer, he became the College's first Industrial Liaison Officer, setting up placements for students within industry. In many ways, Capey was among the first British designers who truly understood the nature of 'industrial design', and was one of the earliest designers to promote the idea that design could be of value to every aspect of industry, from point-of-sale to the product itself.
+
+![](images/f273eb3c9397c79b894ca95621b23d6ee845132369b30b7ac8bd3deb1b77e825.jpg)
+
+Reco Capey   
+Cigarette box, ebony, sycamore and carved   
+amber, 1935   
+Reco Capey   
+St Michael, carved amber   
+figure, 1929
+
+![](images/6e42063926d91d9ff0ce1f817fc5dfcd2639446ea970ec3e4b6a9c15b3805efb.jpg)
+
+![](images/8bf299d5e8b4dd5a86c08ee2bfb934cc06c020ab87167b397b1551d021d27e70.jpg)  
+View of Lucienne Day's degree show, 1940
+
+![](images/31ae7d65498ed2f7afaf4380d7a336f4bd422fd262d89f6cb31f658a39b24c6f.jpg)  
+Astrid Sampe, block-printed linen, student work, 1936
+
+![](images/f2c8b397f70d9052f6b699ea141840ec6c815a0d2e07d6666706c7a549e1912b.jpg)
+
+Born in Smallthorn in the Potteries in 1895 to a family of French descent, Capey worked briefly at Doulton's factory in Burslem before attending the RCA in 1919. As a student he learned the difficult-craft of lacquer and proved himself a gifted carver. In 1924 he was invited to set up the new Textiles department. Among his students were Astrid Sampe and (later) Lucienne Day, both of whom were to become successful textile designers in the post-war years. He told Sampe, 'Never be afraid to experiment', advice she took to heart in reviving the postwar Swedish textile industry.
+
+From 1928 he was appointed art director for Yardley's cosmetics, a post he held until his retirement in 1958. His work for Yardley's shows him as a pioneer of 'corporate identity', introducing a house style which extended from the design of the catalogues and packaging to the styling of the showroom interiors and the decoration of Yardley's headquarters in Bond Street.
+
+# 40s-50s INDUSTRIAL
+
+Robin Darwin's arrival at the RCA in 1948 heralded a new era for the College. In his first six years as principal, Darwin implemented reforms which transformed the College into an institution which resembles today's RCA. Abolishing the general and all-encompassing discipline of Design, he created entirely separate schools which provided rigidly specialized facilities and training. The schools of Fine Art were now to sit cheek by jowl with the schools of Fashion and Textiles, Graphic Design, Ceramics, Silversmithing and Jewellery.
+
+There was no Department of Industrial Design during these early years; instead specialized units were presented under that umbrella term. This was a deliberate shift away from the pre-war practice of offering a broad and non-specific training which had often led students to a career in the teaching profession. Darwin's vision was of a system that inspired rather than simply fed industry. Creative excellence was seen as indispensable to post-war reconstruction, and the emerging 'profession' of designer was at last given due credit and recognition.
+
+![](images/30251949535a3e469dfb6e53c2ea3d82819bb1c22ee7fa132bde84a87f31ae30.jpg)  
+Norman Makinson (b. 1921) Student 1946-49 'Festival of Britain' mug for Wedgwood. 1951
+
+![](images/bfcdbab4f6fa8761641f002a82ce47356ca3f039d8529327d5a4f27cfcc40cb2.jpg)
+
+![](images/0ec4b9f81d77b68de67efb5f8e33cde589e4fe0644ecd01378672f98278f4ff7.jpg)
+
+Tom Arnold   
+(b. 1928)   
+Student 1949-52   
+'Homemaker' (with Enid Seeney) for   
+Ridgway Potteries, 1955   
+Colin Melbourne   
+(b. 1928)   
+Student 1947-50   
+'Petra' vase for Royal Norfolk   
+Pottery. c. 1960   
+Frank Height   
+(b. 1921)   
+Student 1949-52   
+Staff 1959-74   
+Professor 1975-86   
+'Triplite' yarn fault detector. 1974   
+Robert Welch   
+(b. 1929)   
+Student 1952-55   
+Visiting Staff   
+'Oriana stainless steel jugs for Old   
+Hall. 1958
+
+![](images/68273fff6178574f630f6a3556d4cc2266127f61d5dbac76a9b108823ae4b7c6.jpg)  
+Robert Minkin (b. 1928) Student 1952-55 Plate for Wedgwood. c. 1950s
+
+![](images/34b6e917480f5affbbcfd0ed84c4bbaf425263f7cec0e8090986e28a9a3b3981.jpg)
+
+![](images/ab246a86b79634565b9fdc632053b8cb89195c36cf075f3b4bbf0ad3363e3637.jpg)
+
+![](images/98ab147052fbfd1436d8246896a8da832eab84c32926cbf030d3298a23ca7cf2.jpg)  
+Peter Cave (b. 1923) Student 1948-51 Plate. c. 1950
+
+![](images/9fd5d58351470dd7f2c99e6eafdf25c92d6da7310be4fcddde4525b14ac248b2.jpg)  
+Hazel Thumpston (b. 1925) Student 1948-51 Thistledown' teapot for Foley Pottery. c. 1955
+
+![](images/3b1f7126b376999a3ce0a100a2a55e2d63ac37af5437e348aecd4b7e0ca62cfc.jpg)  
+Peter Wall (b. 1923) Student 1948-51 Big Top' nursery plate for Wedgwood. c. 1959
+
+![](images/fe59faca74a82e63575506cc6954937d9ebe979ae541ed4ab1973b41c4f8f027.jpg)  
+Geoffrey Baxter (b. 1922) Student 1950-54 'Banjo' textured glass vase for James Powell & Sons, 1966
+
+![](images/d4ecb3a32f0f1c51746f58e5399265a177bfa61672841c5b002cf799b0d62ac9.jpg)  
+Robert Jefferson (b. 1929) Student 1951-54 'Compact and Contour teapots for Poole Pottery. 1965 and c. 1969
+
+![](images/e77dd528d035911478d403c4c883f5ef602c04d87129429ed3419ebedc70cf20.jpg)  
+David Mellor (b. 1930) Student 1950-54 Visiting Staff 'Pride' silver cutlery. 1955
+
+![](images/878742de3424387bed465ebeec4cfa7d91112bd264e3addc0fc9dbe6e3fcbf00.jpg)  
+Neal French and David White (b. 1933. b. 1934) Students 1955-58, 1956-59 'Royal College Shape" for W. T. Copeland, 1958
+
+![](images/3a54218099447622afd0a7c073a11b1c4031831e162bc4528ba0e07510f94fbf.jpg)  
+Naum Slutzky (unknown) Staff 1950-57 Chromium-plated steel teapot. Bauhaus. c. 1924
+
+![](images/907a6c09e9a96d103cc80daf9b3b7ecafb5ec1026ef0b83b97c3b122b3bfe02d.jpg)  
+Robert Goodden (b. 1909) Professor 1948 Silver electric kettle for the Queen. from a design by Prince Philip. 1956
+
+# 60s INDUSTRIAL DESIGN
+
+The 1960s saw Industrial Design become a discipline in its own right. Introduced in 1959 as the Department of Industrial Design (Engineering) under the eminent industrial designer and architect Misha Black, the course was the earliest in the country to recognize that engineering was an important part of the design process. For the first time, students began to design scientific instruments, electronic equipment, industrial machinery and vehicles.
+
+At the same time, interest in the process and definition of 'design' led to the setting up of a design research centre within the School. Because industrial design was a relatively new addition to the visual landscape of Britain, Black felt it important to explain publicly the process, in order to support the growth and recognition of the profession. Under the leadership of Bruce Archer, the Design Research Unit remained within the School for six years before becoming an entirely separate department with Archer as its professor. Its flagship project was the 'optimal hospital bed'.
+
+![](images/2c730812ec2786b70023808171e21026ac9e258c472ac18a09f840489fccb678.jpg)  
+Gillian Pemberton (b. 1936) Student 1957-60 'Chevron' oven-to-tableware for Denby, 1964
+
+![](images/c45cde1ff50654eae93868816257f172dd7b174ea3105c8f591fff8bfaf20a40.jpg)  
+Kenneth Agnew (b. 1933) Student 1959-61 Staff 1961-78 King's Fund Hospital bed. 1966 (designed with research team)
+
+![](images/752bedc9a7ff33bb77e7bcf82993fc312b5d9e17bf78ab16d3660cc864d34098.jpg)
+
+Grahame Clarke   
+(b. 1942)   
+Student 1962-65   
+Staff 1970-89   
+Bone china cup, saucer and   
+plate, 1965
+
+![](images/67a298e3e4bcddd43a5a5cfbbeab9d65cb94f85eaa46ad4187ef4673bf68c9e2.jpg)  
+Nick Holland (b. 1946) Student 1964-69 Digger, student work. 1965  
+Nick Butler (b. 1942) Student 1963-66 Visiting Professor Telephone for British Telecom, BIB Design Consultants. 1986
+
+![](images/1e8c6816ed585ba0ae87e83d8e0b898a29da62f5c1e7ab17872ced386472f477.jpg)
+
+![](images/41ee0c933f3c37322a8e27fe65b0bfa57fafa331bbb688d70411f15441366a46.jpg)  
+Ross Kinneir (b. 1947) Student 1965-70 Handihaler' for Boehringer Ingelheim, 1996
+
+![](images/e7f5d8dc112e18f7bbc8bbada51445a98638d904116f263b154dc84f681059d1.jpg)  
+Roy Gray (b. 1937) Student 1957-61 Typewriter. Degree Show. 1961
+
+![](images/6f0cc36a8fbba7edaf44ea4ac56d7c29258fe52db1fa27117ec3cb1d5ebacdbf.jpg)  
+David Brickwood (b. 1939) Student 1958-62 Window furniture for Gardiner & Sons, 1963
+
+![](images/62f6416402c9d2289f2402a5163bb6839c8e4968524d6ad7a5f4e02d08330fde.jpg)  
+Stephen Bartlett (b.1942) Student 1960-64 Gas water heater. Degree Show. 1964
+
+![](images/6954b6f9db19586cd2cfffd2b6f32b75bf2c4b1f8387f25f97b392a1afaf1c06.jpg)  
+Martin Hunt (b. 1942) Student 1963-66 Staff 1969-present Contrast oven-to-tableware for Hornsea, 1975
+
+![](images/c9b09d75937e9b3d8576abe6169fd1ab911784640a46c904971d3df41aaae57c.jpg)  
+Peter Isherwood (b. 1940) Student 1963-66 Staff 1979-83 Drill, Degree Show, 1966  
+Patrick Rylands (b. 1942) Student 1963-66 Playplax' for Trendon, 1965
+
+![](images/1cb53ddbdc7c838411a9a17742defb59298b410fd6f2b9a57baa3f9e03e9d144.jpg)
+
+![](images/9ca1a999fbe4a5e1168883547f7c5f5221e07ed20936075476e28895d8c3475e.jpg)  
+L. Bruce Archer (b. 1922) Staff 1961-88 What is good design?", in Design magazine, 1960
+
+![](images/e8a3c1b38f141c764220423bc642c2b996e88cf734062fe88a5ef10f63356c96.jpg)  
+David Queensberry (b. 1929) Professor 1959-83 Fine tableware for Midwinter, 1963
+
+![](images/f8f4beeeb2267465b2f680f6b208071930630551d3acb8db8672ddc59ca05a3d.jpg)  
+Misha Black (1910-77) Professor 1959-75 'Anatomy of Design' exhibition at Britain Can Make It, 1946
+
+# 70s INDUSTRIAL DESIGN
+
+By the 70s, economic recession had led to a reassessment of the role of design in society. The certainties of the 50s and 60s gave way to an understanding of the need for design to respond to wider global issues ecological, environmental and human. Young designers were attracted by 'the socially useful' and began to question the dominance of mass-production industry. The reaction against formal design methodologies was especially apparent, with the realization that rational and scientific knowledge plays only a part in the design process.
+
+Bruce Archer, as Professor of Design Research, continued to champion the cause of design methodologies until his research department was disbanded in 1987. His department, however, was to have less direct impact on studio design teaching at the College as it moved more and more into theoretical enquiry. Although increasingly out of favour at the time, the development of design systems came to be recognized in retrospect as a very important step towards the development of computeraided design.
+
+![](images/2ed43f78640c86b4bf133643f91d3c0e67492f2aa38ae2aaff580c6160358bd6.jpg)  
+Clive Garrard (b. 1946) Student 1967-70 Modular scale for WT Avery. 1983
+
+![](images/a9e830cbf5969ddc9ff671fd664cb25ff9bd1723ed6cdd14cceeb40854ebdf92.jpg)  
+Peter Aldridge (b. 1947) Student 1968-71 Staff 197278. 199396 Glass project for Corning. n.d.
+
+![](images/54392370a05da4d8dba0c2cf15c7142bcad968ea8dcf3e1af837c085e6b755d9.jpg)  
+Geoff Hollington (b. 1949) Student 1971-74 Prototype videophone for Panasonic, 1990
+
+![](images/725a097f5a0399ab7eee000003a042ba0f849db748d957d52e0687f3a1b9d120.jpg)  
+Howard Biddle (b. 1949) Student 1976-78 Stapler for Rexel. Cambridge Design Consultants. 1999
+
+![](images/7f0369506086e374d662a46e78ad640dc651191372d826d43b11811085ac6e63.jpg)  
+John Stoddard (b. 1948) Student 1971-74 Staff 1987-88 '1+1 office furniture system (with Philip Davies). IDEO. for Steelcase Strafor, c. 1995
+
+![](images/3abb153965e1c19811266605f2f0059a06c4c438b4c49e2de6b5eb798bbae784.jpg)  
+Paul Atkinson (b. 1952) Student 1977-80 Experimental fibre-optic clock for Rotaflex, 1986
+
+![](images/5e39f42648a90432e793e7e1678d08231e690aa9beafe8ac2468588d1fd68a2a.jpg)  
+James Dyson (b.1947) Student 1966-71 Dyson' vacuum cleaner, 1993
+
+![](images/50da8f4839d65364931b161be9cfb2726a5903c6176d908adf66abc22601d9ce.jpg)  
+Nick Leon and Ming Leung (b.1952. b. 1948) Students 1973-75 Filing machine, 1974
+
+![](images/fd28518b9878115bec457159bc30bfe764862d5ab85904ac7cb1c8be9a9fe431.jpg)  
+Ralph Ball (b.1951) Student 1977-80 Staff 1985-present 'Golden Delicious' light, 1997
+
+![](images/0247108de4b9f7769c22a82749584b078012979e1e98e2ae70daf27cd43229b9.jpg)  
+Nick Marchant(b.1947)Student 1970-73Radial saw, 1972
+
+![](images/d95462c36e081f432054b0048747bf4de684e35e7786fc37e9dc4d163e282e19.jpg)  
+Robin Levein (b.1952) Student 1973-76 Personal headset telephone. prototype. for Queensberry Hunt, 1990
+
+![](images/787804f53c85433ce43765448f10a6e5f80ae10ccaf4946d7a35c051bdb073b5.jpg)  
+Nick Oakley (b. 1954) Student 1977-80 Digital watches and calculators, 1980
+
+![](images/870fa082287db5f1579920131c9eac866af1896046fe934b988b04ea9e9b73b6.jpg)  
+Roy Fischer and David Hodge (b.1949. b. 1948) Students 1971-74 'Easygrow' adjustable wheelchair, 1974
+
+![](images/1dc3701f356fdc424584559c1e7e6a83938860481a54589084e3219ae9c72435.jpg)  
+Richard Seymour and Dick Powell (b.1953. b. 1951) Students 1974-77, 197376 Tefal SA Freeline kettle, 1986
+
+![](images/bf2d9355891ccf7e024e9663ca35445b98226df63c5fa333df982c3659e5a6da.jpg)
+
+Frank Height   
+(b.1921)   
+Student 1949-52   
+Staff 1959-74   
+Professor 1975-86   
+Modular Desk System, 1971
+
+# INDUSTRIAL DESIGN
+
+# James Dyson and Dual Cyclone Technology
+
+The story of James Dyson and Dual Cyclone Technology is a study in courage and determination. Every aspect of the Dyson story holds significant lessons for a new generation of British entrepreneurs and product developers.
+
+![](images/c19e85cceb17eb767f2fd7de2e495514c71c8cdd7f33c032cbf63ffbf9b37f0e.jpg)
+
+James Dyson studied   
+furniture and interior   
+design at the RCA from   
+1966 to 1970. His   
+interest in problem  
+solving, innovation and   
+engineering was apparent even then, when, as a student, he   
+developed the Seatruck  a flatbottomed high-speed marine vehicle for use in the military, oil and construction industries. Other inventions followed,   
+including the Ballbarrow.   
+However, it wasn't until Dyson turned his attention to vacuum cleaners that he set himself on the path to becoming an   
+international household name.
+
+The cyclonic system first occurred to Dyson in 1979 when he saw 30-foot industrial cyclone chambers being used to clear the air in a spray-paint workshop.
+
+![](images/a5ec63b1a9d30b5b456d19612aee9b713ccfa5ba62f4f1c8c0eeb75e00e9dd20.jpg)  
+Seatruck, 1970 A flat-bottomed high-speed boat. designed by Dyson as a student. It was developed with the engineer and inventor Jeremy Fry and went on to earn sales of \$750 million in more than 50 countries.
+
+![](images/bb3d16515b92b77542c42d9f69036eb7372db562c1b392c84ac3fa9b6e5df96b.jpg)  
+Ballbarrow, 1974 Based on the traditional wheelbarrow. but with a ball replacing the front wheel for increased manoeuvrability. Within three years it had become market leader in the wheelbarrow sector.  
+G-Force, 1986 First produced in 1986 by the Japanese company Silver Reed. The G-Force was only available in Japan. where. despite costing £1.200. it became a cult object and was purchased by a number of museums.
+
+![](images/7626d59223fae5a0a9984ea04890933a785228a5d37e736627c838b66f8c5aa0.jpg)
+
+DC02, 1995 Models of the DC02 at various stages of development. The breadboard model is a working prototype and the blue foam model is visually correct.
+
+A cylinder model, the DC02. appeared in 1995. With its revolutionary stairhugging capability. it. too. became a market leader.
+
+DC01, 1993   
+The DC01, launched in 1993 at a price of   
+£200. was the first   
+model produced and manufactured by   
+Dyson himself out of his own factory in   
+Chippenham. By 1995 it had become market leader. outselling its rivals both at home   
+and abroad.
+
+![](images/e308c7f33f9b88786e994e6fbed4913c65505e05063b6cba28baba45cb36d6f2.jpg)
+
+![](images/eb51f2a5906468be76c717e102b5f24f313bf22f6b4d10f9667e636f9178a5ec.jpg)
+
+Centrifugal force was being used to remove paint particles efficiently from the air, with no loss of suction or air flow. Dyson immediately saw the potential of applying such technology on a smaller, more domestic scale and mocked up his first cyclonic cleaner by customizing his own vacuum cleaner with the aid of cardboard and tape.
+
+Five years and 5,127 prototypes later, Dyson perfected the Dual Cyclone system. The bag used inside the more traditional vacuum cleaner was replaced by two cyclone chambers. The result was a dramatic improvement in cleaning performance and efficiency, and the most significant development in cleaning technology since the invention of the vacuum cleaner in 1901.
+
+![](images/04be9bf679f3a3a61fba46093dfcefe5b40df3e4a85dbabf0aff2bc75301ac01.jpg)
+
+At the end of the century, Dyson's own company has become a worldclass, innovative production centre worth over £100 million, employing over 400 workers, including 17 RCA design graduates.
+
+# 80s INDUSTRIAL DESIGN
+
+The 80s marked an important shift in the direction of what now came to be known as 'product design' at the RCA. Established certainties about design were dismantled and the boundaries redefined as students began to question the meaning of designed objects as metaphors, and to explore new solutions which incorporated a wider understanding of the cultural implications of products. As the decade progressed, new possibilities were realized, as students were able to harness the latest advances in both materials and computer technology.
+
+The birth of the postmodern  a rejection of 'good design' and of a stable notion of function in the era after the black box approach coincided with this period of creative energy, and students were stimulated by, as well as stimulating, Italian design movements, such as Memphis. These radical developments were tempered by the engineering experience of Professor Frank Height, which meant that students were encouraged to understand the mechanics of mass production as well as commercial realities.
+
+![](images/378a49e021564d600195bf6c5ca4a3a57b848a56b0ef7a13ab99ff0c509539be.jpg)  
+Uri Friedlander (b. 1952) Student 1979-81 Light, Degree Show, 1981
+
+![](images/52914eaad397671d8f951d9373555dd2bf2257b36f231b075b61ef3aa736700c.jpg)  
+Winfried Scheuer (b. 1952) Student 1979-81 Staff 1994-98 Fan heater. Degree Show, 1981
+
+![](images/92ae8236318c7390430d4c1091909fd90ff98d9026b0074b063c9e67a0e07e78.jpg)  
+Julian Brown (b. 1955) Student 1980-83 Visiting Staff Attila' can crusher for Rexite, Italy, 1997
+
+![](images/c8eb3546486286f188369de36568a4b7b14254b110eca0e5e0388ff802e07a98.jpg)
+
+![](images/d6e7f50203504a9aa4d596dbc304b8b588f2205361923336a368542f2358692e.jpg)  
+Paul Priestman (b. 1961) Student 1983-85 Staff 1987-91 Video conferencing camera, 1998  
+Ross Lovegrove (b. 1958) Student 1980-83 Visiting Staff 'Pod' light for Luceplan Italy, 1998
+
+![](images/4d2e0d5eed8b80b204eb75005970fac2c99720d3953228b7f4ee0ac601b237f6.jpg)  
+Andy Davey (b. 1962) Student 1983-86 Wind-up radio for Baygen. 1996
+
+![](images/14f149d97023c2575507ac8d3a9781eacdf8f0b7276902b3c574bd91a012049a.jpg)  
+Gerard Taylor (b. 1955) Student 1978-81 Piccadilly light for Memphis. Italy. 1982
+
+![](images/f4869353d3bf0bbedd2e32b57314515e86a733bac323df97f4abef31eb7a99fa.jpg)  
+Steve Kyffin (b. 1959) Student 1981-84 Visiting Staff Director 1994-97 'Sextant', Degree Show, 1984
+
+![](images/2a2df05deeec562c6f4fecf837a2d1d6f136cb1676a0ea21ce7bdc148dbc2efc.jpg)  
+Tim Brown (b. 1962) Student 1985-87 Visiting Staff M500 Monitor for Ideo, NEC, Japan, 1989
+
+![](images/dd4e690950f6549dee1fc9b3f865c90d866e6246d0dc08f1e33498563b70cd5d.jpg)  
+Daniel Weil (b. 1953) Student 1978-81 Professor 1991-94 Radio Bag'. Degree show, 1981
+
+![](images/f08661764d00f97a2ec2e7302787ad85d12e80b5a442ac0fba79d3e6028bde71.jpg)  
+Jasper Morrison (b. 1958) Student 1982-85 Bottle rack, Magis, Italy, 1993
+
+![](images/c44e2152aed9f52a2f64546757f28382ef16b06706c726e6b6465d97e16480be.jpg)  
+Colin Burns (b. 1963) Student 1985-87 Visiting Staff Degree Show, 1987
+
+![](images/5554dc95aca8d1aaf5c3920b6554c14a4f56a536bfa876f059a965e1a35dd90b.jpg)  
+Steven Peart (b. 1958) Student 1979-82 'Animal' wetsuit for O'Neill, USA, 1991
+
+![](images/12ca27c5988f2575b060c32a61e833ddcb6832bac8d2da5909e34e716176016d.jpg)  
+lan Pearson (b. 1960) Student 1982-85 Persona contraceptive device for Unipath, 1996
+
+![](images/8f19e89dc248a10ef979c0805f8b7ce0c1ef867a4da3e1ec9ed56a2ace6514b5.jpg)  
+Tony Dunne (b. 1964) Student 1986-88 Staff 1991-present 'Faraday Chair', 1988
+
+# 90s INDUSTRIAL DESIGN
+
+As the consumer boom of the 80s gave way to the more circumspect 90s, the teaching of design shifted. Design itself was to become a more intimate instrument, concerned with providing the tools for new approaches to the way we live our lives. Its aims now include the enrichment of simple everyday activities, the provision of emotional as well as physical comfort, a sense of cultural tradition and responsibility, and a greater respect for the limited resources of the planet.
+
+Daniel Weil's appointment as Professor in 1991 was to have a significant impact on the teaching of design, as was the development of Computer Related Design under Professor Gillian Crampton Smith. Both have taught that design should be user-inspired and reflect richer conceptual possibilities. Another key development was the foundation of Industrial Design Engineering.
+
+With the appointment of Ron Arad as Professor of Furniture and Industrial Design in 1997, the increasingly blurred division between the two disciplines has been seriously questioned, and the two areas brought together for the first time since the 50s.
+
+![](images/e9b461f939f9ef0861a818c5747d106dcff32dd694592b1c34a9a7049bda5049.jpg)
+
+Sebastian Bergne   
+(b. 1966)   
+Student 1988-90   
+Staff 1998-present   
+Lampshade 1, for Radius GmbH,   
+Köln, 1990   
+Max Burton   
+(b. 1966)   
+Student 1991-93   
+'Hot Rocks' indoor barbecue   
+prototype, Degree Show, 1993   
+David Constantine and Simon Gue   
+(b. 1960, b. 1963)   
+Students 1988-90   
+Wheelchair for Cambodia, 1993   
+Sam Hecht   
+(b.1969)   
+Student 1991-93   
+'Whitebox' personal computer   
+prototype 002 for NEC Technologies,   
+Japan, 1996   
+Guy Dyas   
+(b.1968)   
+Student 1989-91   
+'Vacman' vacuum cleaner, prototype,   
+Degree Show, 1991   
+Shin Azumi   
+(b. 1965)   
+Student 1992-94   
+'Snowman' salt and pepper   
+shakers, 1998
+
+![](images/193f284ade7843af6960698d13a9c09827258ae2e1ad04c73f91e3d819a6756b.jpg)
+
+![](images/7ecfa4c4476bfe8bda250d2d248eb8d8cdcc4ac3c324288ec1b2b31e703fe2c1.jpg)
+
+![](images/7d91079ac7ae20f85e8e3cfdb2e81e511b2e87a1f962b73381bb85763e67d500.jpg)
+
+![](images/6ff2298734e003873987a963f09fad7d10cb63e2e90576185221a6bf35973a61.jpg)
+
+![](images/211a3ebe91354d8284f4447b39064f7d0163a30f9b6991778f45e19ce8450650.jpg)
+
+![](images/dc29a16f1f0d08394853f6e1cd4036c7f35c835b4268e2e64be3920d539bb865.jpg)
+
+![](images/8975e03a62c31a670de9621fb8fdab75fd3ea1f9b3e30e2091a33745c1b4a0f2.jpg)
+
+![](images/9dcf10c0c7396485e55b7dc5e74ac467d1c01be891ffcc2f5423ca96e110f682.jpg)
+
+Michael Anastassiades (b.1967) Student 1991-93 Beaker-ansaphone, 1998
+
+![](images/9dffd9338bfcd86f34a718faf96eefa74bb9ca3597432bfbf571cb02de11c7cd.jpg)
+
+Peter Russell-Clark (b. 1968) Student 1991-93 Staff 1998-present 'Therapeutic Alliance' video endoscope, prototype, 1993
+
+![](images/4966d71923304effba6c0a6207c13364d64facda2f418995c3b6585eed065feb.jpg)
+
+![](images/f4868fd8e067ba6c808d38cd5e83e58c642a299e32dfe51c307a5d857f9bab64.jpg)
+
+Tord Boontje   
+(b. 1968)   
+Student 1992-94   
+'Transglass' recycled glass vessels   
+(with Emma Woffenden), 1997   
+Sixth Wu   
+(b. 1971)   
+Student 1993-95   
+'Variety is the Spice of Life   
+tableware, Degree Show, 1995   
+Takeshi Ishiguro   
+(b. 1969)   
+Student 1992-94   
+'Recasting Rice' salt and pepper   
+cellars, prototype, Degree Show, 1994
+
+![](images/3e09d0c80ed81beeb9635bc5ae3d47c9815c9c7b9dc0223ace8f9766dbd781ca.jpg)
+
+![](images/860c093fce9877ad5116cae283f45c4f21962541b384a79ebf61d510c9601e6f.jpg)
+
+Georg Baldele (b. 1968) Student 1996-98 'Molotov Cocktail' lamp, Degree Show, 1998
+
+![](images/2f6c43e3309547fef2cae319ba2679022afc13cbda3898f4d995fdf4d406c389.jpg)
+
+John Drane   
+(b. 1938)   
+Staff 1987-96   
+Professor of Industrial Design   
+Engineering 1997-present   
+Durabeam Torches for BlB, 1979
+
+# COMPUTER RELATED DESIGN
+
+Digital dreams
+
+![](images/e2673d40d69a127cac48846737f93b7a9153e537deda36ff0907a3cf4c1e93aa.jpg)
+
+As new technologies develop, so new fields of design emerge. The Computer Related Design (CRD) course was inaugurated in 1990 in response to the development of information technology. Under Professor Gillian Crampton-Smith, who studied philosophy and Fine Art at Cambridge before turning to graphic design, the new course set out to explore the possibilities the new technology could offer.
+
+The course quickly became a pioneer in the field of interaction design. Emphasis was placed not on the technology itself, but rather on its uses. At its core was the belief that design should offer people products that are enjoyable to use. The emphasis of the teaching lay firmly in examining ways in which this new-fangled and in many ways alienating technology could draw on a wider cultural perspective to develop imaginative and friendly tools for everyday life.
+
+![](images/a299b59237f7744efb213fb15186063f6cb37e0b095d56184ea548d30dccbee6.jpg)
+
+The course is structured around three different areas of design: software and virtual information space, including CD-ROMs and Internet sites; computer systems and electronic products; and intelligent environments  spaces and installations mediated by information and communications technology. In each area, avenues are explored which extended the boundaries of design, not only in the application of the new technology, but also in discovering ways in which it can be applied to effect change in people's behaviour in ways of living, communicating and being.
+
+This glove was developed as part of a project to explore ways in which technology can be designed to enhance the relationship between product and user. It allows individuals to make private calls on their mobile phone without disturbing others. the user speaking discreetly into his or her hand.
+
+Graduates are snapped up by companies who recognize the potential of this multidisciplinary, inventive approach to design. The American computer conglomerate Microsoft regularly employs CRD alumni, as do international design consultants IDEO, who currently employ 25 RCA graduates, and have employed over 50 in the last 25 years. Interval Research, Microsoft and IDEO, together with other international companies such as Apple Computers, Philips and Sony, also offer students work placements. The success of the course has already had repercussions on the international design stage: a dramatic example of the advantages of studying design in an art environment and art in a design environment.
+
+![](images/bff4bedad952983ac963b45bac38470d00c9efff46ad37367b7b83a9f996270e.jpg)
+
+Colin Burns Kiss Communicator (with Duncan Kerr and Heather Martin), IDEO Europe, 1997. A concept realization of a communication device for remotely located lovers.
+
+![](images/7806574b823976fea6b6bdad0965fd3e4288d8ba59385bfd22b53c5ab67137a3.jpg)
+
+Tony Dunne When Objects Dream, 1996 The pillow is an abstract radio that receives invisible electronic information, confronting the owner with the fact that we are inhabiting hertzian space, and that even our homes are being constantly invaded by the radiation of electronic information. It responds to local changes in the radio frequency environment within a 200m diameter of the home.
+
+# 50s FURNITURE
+
+The teaching at the RCA in the immediate post-war years reflected a close relationship with the Council of Industrial Design (CoID). Later known as the Design Council, the CoID was established in 1944 to promote a better understanding of the importance of design in British industry. Robin Darwin, together with others in senior positions at the College, had previously worked at the CoID, while the director of the CoID, Gordon Russell, served on the College's council. In addition, Gordon Russell's brother, Dick, was Professor of the Department of Woods, Metals and Plastics. The RCA worked as an essential buttress to the CoID, aiming to provide the type of specialized and professional instruction that would have a direct impact on the regeneration of industry.
+
+Both tutors and students at the College shared the CoID's missionary zeal to introduce 'good design' to the nation. Based on the functional aesthetic of Modernism, 'good design during the 1950s drew its inspiration from Scandinavian design. The look was 'simple but graceful', incorporating notions of traditional craft heritage and imbued with an explicit sense of integrity.
+
+![](images/a71230491d745ab5173f55ab85a4728a402cbaa37dde31be88dc4cd89c66740d.jpg)  
+Robin Day (b.1915) Student 1935-39 M5 stacking chair for Hille, 1962
+
+![](images/b0c70c545c3c605362af9617e4913ecdf9c892a79dd5bf472a3833d99f35b561.jpg)  
+Ron Carter (b. 1926) Student 1949-52 Staff 1955-74 Beech and mahogany chair. 1952
+
+![](images/b839279614e3fc303c4ce9a0ec29cc7440cd146860e5ca388cfc6e270bca3039.jpg)  
+Alan Tilbury (b. 1935) Student 1956-59 Staff 1975-94 Chaise longue. 1959
+
+![](images/681390ddde72c854fa01425d3a7251971fd4b6fc1d533ee6a4c788c1fa44aa0c.jpg)  
+Frank Guille (b. 1926) Student 1947-50 Staff 1960-86 Nursery bed for Prince Charles. 1951
+
+![](images/933fadc60defdfce0eac0cb1b99da02fd03da2bc19390aee4d157beee3cb9c47.jpg)  
+Alan Irvine (b.1926) Student 1951-53 Museum bench for Gavina. Italy. 1980
+
+![](images/b4e02ad2d4860a7602914f87b6bc2afa2fc14c93917dfa8d01b5909a867adc33.jpg)  
+Ron Lenthall (191782) Technician 1956-82 View of Ron Lenthall memorial exhibition, RCA, 1982
+
+![](images/fe38fdb73477cade43d25cf88cb876a7f6f1594b21ed36e124c3b3e82731cff7.jpg)  
+Robin Howland (b. 1923) Student 1947-50 'Langford' chair for Parker Knoll, 1954
+
+![](images/13711a743767f3397040f9f000cc34a607a987c5cfdc3d6770577e9fbfdd3218.jpg)  
+Robin Wade (b.1929) Student 1952-55 Bed-settee, 1955
+
+![](images/bce03306602d289e38a79340adb9e3b3d72eb2a7b106b0d2a0010928b9721aa4.jpg)  
+David Pye (18961993) Staff 1948-63 Professor 1964-74 Rush-seated armchair. 1945
+
+![](images/c76bbd3be115dbc4a2bd69dfc3283a83325d40b1f6a41f3887fe2cb29af50c90.jpg)  
+Robert Heritage (b. 1927) Student 1948-51 Staff 1972-74 Professor 1974-77 Sideboard, 1954
+
+![](images/cbe2ae02e3b2645affa9cc4e1cf82cce017e81fb6b18f4bbc9763ce6e9266db2.jpg)  
+Dick Young (b. 1930) Student 1954-58 Rosewood cabinet, 1958
+
+![](images/9996448197fdef44600f96e9e0dc73ebe2bfdfa18901758127ac301367d02d43.jpg)  
+R. D. Russell (190381) Professor 1948-64 Welbeck sideboard, 1934, and Murphy A8 Radio, 1932
+
+Furniture design had come under the umbrella of the Department of Woods, Metals and Plastics, but in 1955 it became a separate school. As part of their training, students were encouraged to take time out to visit Scandinavian countries. The students themselves viewed their travels as 'pilgrimages' to learn the basics of good design. Ron Carter went to work for the Danish company Fritz Hansen, while Alan Tilbury was apprenticed to Børge Mogenson, and Robin Howland to I. Christianson. After graduating, some students went to work for English firms, bringing the Scandinavian sensibility to the British high street  Robin Howland worked for Parker Knoll, Dick Young for G-plan and Frank Guille for Kandya. Other designers, such as Ron Carter and Alan Tilbury, set up their own workshops, which, like those of the Scandinavian makers, were on a smaller and more personal scale.
+
+# 60s FURNITURE
+
+During the 1960s, the RCA became the centre of British Pop art and design. This was partly due to the increasing interaction between different courses, which led to a convergence of the fine, graphic and applied arts, and to a more experimental and innovative approach to both fine art and design. The generation of students at the College in these years revolutionized the visual currency of the day, introducing youth, fun, sex and fashion to the high street. One of the RCA pop groups of the period coined the phrase 'Cool Britannia', but it was meant as a joke.
+
+Students turned away from traditional notions of what constituted 'good design' to experiment with different materials, forms and uses in furniture design. Materials such as plastics, steel rod and paper were used, and young designers explored various avenues to make inexpensive mass-production furniture in kit form for self-assembly.
+
+![](images/6f7fa7cd2fb77bf2b7fa645e874395a7728868d6e055923e26041ad99209f314.jpg)  
+Geoffrey Harcourt (b. 1935) Student 1957-60 Chair for Artifort, 1967
+
+![](images/65f508ff52d239fceab5c68af865a575a2de1e575fd8054103a6ba10af0a4f78.jpg)  
+Desmond Ryan (b. 1941) Student 1961-65 Oak coffee table. 1964
+
+![](images/8b7b22a369d955e32544e85f73d9489307b34d2ab5ac600cc0cda52ece707254.jpg)  
+Jane Dillon (b. 1943) Student 1965-68 Staff 1994-present Chair for Planular. Italy, 1970
+
+![](images/64c5f138c37cc847d50a39d858e30bdf7325a2822a74486be1d565c8426e5ea1.jpg)  
+Clive Bacon (b. 1938) Student 1958-61 Interlocking chairs, 1961
+
+![](images/da50e7b13be75ef550d7c43c9d8299e6f97755d6e29b32b486475409aaa92203.jpg)  
+Fred Scott (b. 1942) Student 1963-66 Supporto' chair for Hille. 1979
+
+![](images/ca156cf1200dcc4b8c2deb39eed0ed8ba1baf1fb7405ed44356292beb0888a93.jpg)  
+Richard La Trobe Bateman (b. 1938) Student 1965-68 Oak table and chair, 1968
+
+![](images/bf21bf349a58607bd031ba57302d8c7ec5a7a14b983c36b6fe1e8384012fbe1e.jpg)  
+Roland Gibbard (b. 1935) Student 1958-62 Office chair and storage units. 1962
+
+![](images/ba59bc974aec045dbc50db581b3735efb1bf983a42e57e852a2aaa6678f9d425.jpg)  
+Peter Murdoch (b.1940) Student 1961-64 Child's chair, c. 1960s
+
+![](images/7d5ee32a7ed40bdf9d5e1225785bc12d3bd9ac9fbce908968541191d2811f54f.jpg)  
+David Colwell (b.1944) Student 1965-68 Acrylic chair. 1968
+
+![](images/0b25e87d49db23ff6b5029ba502e9e3ddc6a6e582622d095417a20702e882c53.jpg)  
+David Crump (b. 1945) Student 1965-68 Seat, 1968
+
+![](images/0998e02e2380221312032b823c0a307dd3201d44c4fb11c9715251601e09afb9.jpg)  
+Christopher Sykes (b. 1942) Student 1966-68 Seat, 1968
+
+![](images/877189a5057f1fab7405d8a6cff27f15f64055a9e82f641642d1cf6afb007216.jpg)  
+Floris van den Broecke (b. 1945) Student 1966-69 Staff 1983-84 Professor 1985-97 Chaise longue, 1969
+
+![](images/f5b02f480e050789c7a37a110a8c10ca23a34980307b68c64e44c9f873174430.jpg)  
+Peter Cornish (b. 1941) Student 1962-65 Coffee table in yew veneer, 1965
+
+![](images/09e604247d9fd85c2fc099dcc04ea92f7efa26ccdd87f11c0acf29e0cc1a3b5c.jpg)  
+Roger Dean (b.1944) Student 1965-68 Sea Urchin' chair, 1968
+
+![](images/822f7614da2bb142085e85c5c82d01e92616be7d08dbc3cd4eb33217c6cd3090.jpg)  
+Sandy Webster (b. 1945) Student 1966-69 INCA museum showcase, 1984
+
+# 70s FURNITURE
+
+During the 1970s at the RCA, crafts (or 'the applied arts') emerged as the focal point for debate. At issue were the accepted distinctions between craft technique and industrial production, and between fine art and design. Breaking down these barriers provided a means of restoring individual skill and personal expression in the process of design and in the resulting product.
+
+Furniture students under Professor David Pye, whose influential book The Nature and Art of Workmanship was published in 1968, were as much a part of the ongoing debate about the workmanship of risk and certainty as students from other design departments. Pye described the work of his department as 'taking pot-shots at the flock of duck-billed platitudes' which surrounded the subject. To the students, the main issues at stake were the role of furniture within material culture and in the history of design. This meant that furniture design was seen as less hermetic, and more concerned with the context in which the work was to function and be seen.
+
+![](images/67c773c4f8e63964808c5efcdf675657269655b375098dfc2801655545e143a8.jpg)  
+Jan Ekselius (b. 1947) Student 1967-70 Stacking stool. 1970
+
+![](images/39e5d7019c02c83fe2fa9d2a26a7816495fe315147dc114e657ad19dfcd63a31.jpg)  
+David Field (b. 1946) Student 1969-72 Staff 1979-97 Numismatist's cabinet. 1972
+
+![](images/8b9cd4f00ded72fcdb17656c36e9fa888ea94558e704f6a6f2a9d7c84a6f597a.jpg)  
+Eric de Graff (b. 1951) Student 1973-76 Cross chair. 1980
+
+![](images/3281c7b68b0665fcf41079b3fec3e13260b6361aa49ea5f5733a7abc328023a3.jpg)  
+Colin Williams (b.1946) Student 1967-70 Cabinet, 1970
+
+![](images/4b5e33fbb7639d2b6b720986250825a4b3750b5e164bd88fe54a7489a5a87dfe.jpg)  
+Michael Gurney (b. 1947) Student 1969-72 Cabinet, 1972
+
+![](images/f75e26ee36f4941ff693db45250bc4a2b19e1fd59add1fdbfd9e30c937c99637.jpg)  
+Peter Wheeler (b. 1947) Student 1974-77 Staff 1994-98 Wardrobe. 1977
+
+![](images/a0ffecd324ebe35ce2a5d07d07e494ad70c9e3f2854397c86cbbb9fea5ad41d6.jpg)  
+Malcolm Allum (b.1942) Student 1967-70 Chess-set, 1970
+
+![](images/9dc7e5ebb7dd24ad5cde53c76fe0e99eee4247326e78a8905b11dea795a71786.jpg)  
+Charles Dillon (194581) Student 1966-71 Jobber' chair (with Jane Dillon) Casas, Barcelona, 1973
+
+![](images/eca3774efc114202821d633aa541f0a6a9549e98c497388e9ced8ce1494b80b6.jpg)
+
+![](images/959affbdf5f04cece48d099a51bf0a8df74e815ddaa494e36f680bd7a1fdaf7a.jpg)  
+Fred Baier (b.1949) Student 1972-75 Comfortable chair. 1984  
+Rupert Williamson (b. 1945) Student 1968-71 Dining chair, 1977  
+John Coleman (b. 1953) Student 1976-79 Console, 1984
+
+![](images/84960ca148aabd9bdf21971e1fa88fa146e459c545df42d4cc463278a970c59b.jpg)
+
+![](images/417b2e7c48f71ee4a4285e9c017ad97990e80cc63414fdd23da94392da7aca6e.jpg)  
+Paul Haigh (b.1949) Student 1972-75 Chair, 1975
+
+![](images/3b9e8e21c1a65a60c90bea8b85489993de33907e17b2fcc794a2ccf47afd3422.jpg)  
+Lynne Wilson (b. 1952) Student 1976-79 Visiting Staff Samurai chair, 1979
+
+![](images/9a8e2f44bcc476cac2062228ca9886e07adcf055b22da7323726124486f58203.jpg)  
+Margaret Buck (b. 1948) Student 1973-76 Table and stools, 1976
+
+![](images/3dcf04b6459186d0bbb84e86cfd084814e4cd4a3ec757d5bbf29edabb0cc1c31.jpg)  
+Paul Atkinson (b. 1952) Student 1977-80 Chairs, 1980
+
+# 80s FURNITURE
+
+The 80s signalled a move away from the intellectualizing of furniture design towards a quieter sensuality. Plain materials, bare woods and simple forms captured the new mood for unself-conscious, 'honest' furniture, and were as much an acknowledgement of production limitations as of a philosophical shift. The incorporation of found objects, ready-made components and common implements introduced an ironic 'human' element which lifted the rationalist aesthetic by adding charm and a gentle humour.
+
+This movement  christened 'New Functionalism' by design journalists was spearheaded by students Jasper Morrison, Konstantin Grcic and James Irvine under Professor Floris van den Broecke. These design students were to become among the most influential furniture designers of the late 20th century. Their work was about constraint and humility, rejecting unnecessary quirks and superfluous detail to concentrate on modular, minimal everyday furniture. As Morrison explained, the furniture designer now had to build 'his own factory, not with bricks but from the sprawling backstreets teeming with services and processes'.
+
+![](images/f914372957bef36d88dbb047242849e327b91df87d857d90f083a38c238df891.jpg)
+
+Gerard Taylor   
+(b. 1955)   
+Student 1978-81 Desk, 1984 Peter Christian (b. 1958)   
+Student 1981-84 Chair. 1984
+
+![](images/2470fda90b76525d7415945180e4d567ab05a02f04a85697d1f01712b1398e37.jpg)
+
+![](images/da5dd1130c39f69f61290d4669047c60fdeca5b55802a3d166419e7e093213cc.jpg)
+
+Mary Little (b. 1958) Student 1982-85 Rudolph' chair, 1990
+
+![](images/36542f19ae8114e9f093d09bc5f2d93fd9bf093f9b6867137b82d981d350362e.jpg)
+
+Paul Heritage (b. 1956) Student 1979-82 Reclining chair, 1982
+
+![](images/6e9018b52bcf9060bc7415ba1a135d54201047e2ae2db8662c6d0b524b40a34e.jpg)
+
+James Irvine   
+(b. 1958)   
+Student 1981-84   
+'Carugo' chair for Cappellini. 1993   
+Jasper Morrison   
+(b.1958)   
+Student 1982-85   
+Visiting Staff   
+Plywood chair for Vitra, 1989   
+Ross Lovegrove   
+(b. 1958)   
+Student 1980-83   
+F08 chair for Cappellini, Italy., 1992   
+Maxine Naylor   
+(b.1957)   
+Student 1981-84   
+Staff 198788, 199598   
+Theo Light, 1994
+
+![](images/a3cb4e5e9d99a66bf5b8f8db86be19c6f076210248dfaf4bc85729e51bcd74fc.jpg)
+
+![](images/77be7684c941529e68ec4e6d20421f1cab50af410c7a9d00bb75510e1a7de506.jpg)
+
+![](images/c683583f4e1882cad3955895731b238004ca774206f12ab8295ca8f016585d18.jpg)
+
+![](images/4e39f927dd4c21546b017821b03363469e7b85c30029688bfce803a1162b2557.jpg)
+
+Mark Robson (b. 1965) Student 1987-89 Fibreglass chair, 1989
+
+![](images/bd78d5419c31a1f4f713855ac5cbc69c3037a7cdf022ba46b33a1049a412c101.jpg)
+
+John Small   
+(b. 1950)   
+Student 1980-83   
+'Knock-down' chair, 1983   
+Jiri Pelcl   
+(b. 1950)   
+Student 1983-84   
+Chair, 1984   
+Konstantine Grcic   
+(b. 1965)   
+Student 1988-90   
+Visiting Staff   
+'Tam tam' table for SCP, 1992
+
+![](images/1f6300f2d64caf49611b3e29e7b78da24ad05b0507700a9b7d3ff6b7139b36ed.jpg)
+
+![](images/e99c3487a188e7a726e71c8a70e21e52e4e8176efa6ad2152eaad3124512374c.jpg)
+
+![](images/53611e4da2b0db5e10f70a43722798b5c035cd3e26134228ea89f722b790fca6.jpg)
+
+Paul Chamberlain (b. 1958) Student 1981-84 Chaise longue, 1984
+
+![](images/3e65be8c418616803e66d14e879ef55b790ef005cd24dc2ce5e831f3bc759e9d.jpg)
+
+Janette Carpenter-Donnelly   
+(b.1959)   
+Student 1982-85   
+Chaise longue, 1985
+
+![](images/372c9238bfb24a6e70aeaa74b61e0917a50a2d3aa202ce4536c48c554119cf7d.jpg)
+
+Alison Thomas (b.1965) Student 1989-90 'Tutti-Frutti" stool, 1990
+
+# 90s FURNITURE
+
+During the 90s, the teaching of furniture design at the College built on the ideas of New Functionalism to direct work more specifically to the post-consumer boom era. With elegant designs that incorporated a simple charm, furniture was modular, flatpacking, folding and multi-functional. Designed for the 'urban nomad', this furniture provided solutions for contemporary ways of living. Another important consideration was the user's engagement with the piece  it was vital that he or she should delight in its use. There was a rejection of 'rehearsed solutions' the traditional distinctions between craft and design, one-offs and manufacture, seemed to have become irrelevant.
+
+With Ron Arad's appointment as Professor of Furniture in 1997 (a year later he became Head of the new Department of Furniture and Industrial Design), the Department's international reputation as a hotbed of creative new talent was consolidated. Tutors brought in by Arad have included Jasper Morrison, Konstantin Grcic, Aldo Cibic and Michael Marriott.
+
+![](images/470aa89ee1f4f3b05830289a5bd578cac50478538f83c8a1d6dea3e1ead0df25.jpg)  
+Nazanin Kamali (b. 1966) Student 1989-91 Magic Carpet' chaise longue. 1991
+
+![](images/7707705dae5df90164a56d3d6cb599aec586db3d481ae841d4e124dcb55e4415.jpg)  
+Luke Pearson and Tom Lloyd (b.1967.b. 1966) Students 1991-93 'Homer' mobile office for Knoll International, 1998
+
+![](images/ad250aaa15339c0adf05ec36cec0ec7bc9b31c1f0c00d475c4532e1d7fe3b3fe.jpg)  
+Greg James (b.1961) Student 1993-95 Paper chair. 1995
+
+![](images/d1da4c5ca2852294c7b092cd67f5cecc6f28fb818b286d5833a71b5ae590ff92.jpg)  
+Simon Maidment (b. 1993) Student 1990-92 'Baby Tambour' chair, 1993
+
+![](images/27cf2095dd3dd2428d58ffdb8e6271c734116663621510b5e6ba6379c302759f.jpg)  
+Tord Boontje (b. 1968) Student 1992-94 Rough and Ready furniture. 1998
+
+![](images/dab29cbc005e472decd2193b1457c80a45b47378c3a697ea589da2680927b970.jpg)  
+Tom Hall (b.1970) Student 1994-96 Collector's Table', 1996
+
+![](images/e38571f74e9ba40cfd0db4bbb896360b80b35815ee45f22c56de2207ed143e25.jpg)  
+Jane Atfield (b.1965) Student 1991-93 'RCP2' recycled plastic chair. 1993
+
+![](images/506b42c5ffbb021c44fcf536a45ee56f4180c23a01913733fc063090f0b51eec.jpg)  
+Christina Lamiquis (b. 1965) Student 1991-93 'Noodle' stool, 1993
+
+![](images/7b674816fbf39b111db196dce7c82cffaee3390bde386bacc98575525fded2a6.jpg)  
+Michael Marriott (b. 1963) Student 1991-93 Staff 1998-present 'Kit chair' 1993
+
+![](images/352962dbe87417333bb1f4fb25050dec13574234114b90f635f0b27de0667397.jpg)  
+Thomas Heatherwick (b.1970) Student 1992-94 Gazebo (detail). Degree Show. 1994
+
+![](images/8ef5436ac27cd0af3bdf7833f74a14c706af5a3432f3c442b2e96a238d1f251f.jpg)  
+Tomoko Azumi (b.1966) Student 1993-95 Table = Chest. 1995
+
+![](images/a66d6791c91542b831ea0eadf0002999714e4a862c316ec283e661192e792f35.jpg)  
+Ineke Hans (b. 1966) Student 1993-95 Goethe & Cervantes' storage. 1995
+
+![](images/ca549e961077cf167c2f5045cd1ff97a977109c0146f7e380c2338a78656d5cb.jpg)  
+Alexander Hellum (b.1966) Student 1994-96 Reclining chair, 1996
+
+![](images/4734924b4b52c0e5e34a00233f75bee2ef1c851550cb40c0662709a06665e033.jpg)  
+Roberto Feo (b. 1964) Student 1995-97 Mind the Gap'. El Ultimo Grito. 1998
+
+![](images/638b75a1f4a2175e33f38c9144cc122d38a1bd2d8c66377957e900ce8177720e.jpg)  
+Ron Arad (b.1951) Professor 1997-present 'And the Rabbit Speaks' chairs, 1994
+
+# ARCHITECTURE &
+
+# Shaping the future: the post-war years
+
+The School of Architecture had first been set up in 1901 following the turn-of-the-century reforms initiated by Walter Crane. Under Professor Beresford Pite, architecture was studied by all students within their allround education in art and design.
+
+In the post-war years, the architect Basil Ward was appointed to run the new School of Architecture, as part of the restructuring set in motion by Robin Darwin. The School still offered courses to all students in an attempt to make a grounding in the Modern Movement part of the College experience. In 1951, the Department of Interior Design was inaugurated by Hugh Casson as Professor and Margaret Casson as tutor. This became the School of Interior Design in 1952; the School of Architecture was disbanded a year later.
+
+At first, the Department was temporarily housed in the aeronautical section of the Science Museum, which accommodated just three students, before moving to Cromwell Road. There were no undergraduate courses in interior design from which to recruit, so students came from all disciplines  painting, embroidery, textiles, jewellery, furniture and theatre design  as well as from other departments within the College itself. The course structure encouraged designers to develop their own paths and resulted in a rich mixture of results, from film to furniture. Gradually, other colleges established
+
+![](images/7f1549f1831f8700596c6d2a81dc03ed490013b5a57e83ff7fe436c03b8e6f18.jpg)  
+Hugh Casson The Elephant House, London Zoo, Casson Condor. 1965
+
+![](images/1f9b5dbcb196fa01beeb5f0f0a31f3918cc71d748048419a6549a415329297c1.jpg)  
+Margaret Casson Directors' Dining Room, Shell Centre, London. 1962
+
+![](images/88a1b5756619948f2cc95b112aa5df2be326f7159312ff3650366dbb4fb473ab.jpg)
+
+# INTERIORS
+
+![](images/a3304969231d481e50eacfe6122cc290b4cda26300a282e8af714755447f5924.jpg)  
+H.T. Cadbury-Brown Darwin Building, Royal College of Art, Cadbury-Brown, Casson and Goodden, 1962
+
+![](images/700a1ef723f7441641e4414846df803571746fc1b233246226e3d98fe9bee63d.jpg)  
+Basil Ward Houses at Wicklands Avenue, Saltdean, Connell Ward and Lucas, 1934
+
+interior design courses, many of which owed a debt to the model the Cassons had built.
+
+Hugh Casson, Robert Goodden and H. T. Cadbury-Brown were the team responsible for designing and building the College's headquarters on Kensington Gore, now known as the Darwin Building. Completed in 1961, the building had a largely functional role. Cadbury-Brown wrote,
+
+'As a place where art is in continual process of being made, the interior especially should be plain, and one of its principal functions should be to act as a background to art and not to assert itself as an "art thing", but outside it should be more positive in character ...'
+
+# 70s ARCHITECTURE &
+
+By 1972, when the concept of interior design had become too strongly associated in the public mind with 'interior decoration', the name of the School had changed to Environmental Design. This allowed it to accommodate the increasing number of students working in a wide range of disciplines  such as Anton Furst with his holographic theatre. When John Miller became Professor in 1975, he was determined to reorient the course by bringing the more formal teaching of architecture into the programme. Within a few years he had radically changed the curriculum so that students could gain the equivalent of a professional qualification (Part ) in architecture. Students of interior design were also taught architecture. This was rather a controversial topic at the time, but Miller believed interior design students would benefit from a complete understanding of landscape and building. Miller brought in a number of internationally renowned architects as staff to support his changes, including Jeremy Dixon, John Outram and Leon Krier. At the end of the Miller years, the course was recognized by the Royal Institute of British Architects.
+
+![](images/f81d85f999634ce50cb10d2097eda5e27b521a6ccaee4de5a0c17109365dcf0d.jpg)  
+David Bentheim (b. 1947) Student 1971-74 The Earth's Treasury. The Natural History Museum, London. 1998
+
+![](images/6f15551275efc6300ddcb2cd49ede8a4f30dec4ad95d7754fb89f362ba9f8ecc.jpg)  
+Ben Kelly (b. 1949) Student 1971-74 Staff 1994-95 Hacienda, Manchester, 1981
+
+![](images/a7da1bc6e9b728f052bae626026c88587220e1ab90ba7ba3ecbc9ceda91052c8.jpg)  
+Julian Powell-Tuck (b. 1952) Student 1973-76 Staff 1991-96 Metropolis Studios, London, Powell-Tuck Connor & Orefelt, 1988
+
+![](images/ed856cf5ad0a71345ace906c909c5d5c6c0d6c6221b076602b5729b2eae69da4.jpg)  
+lan Sharratt (b. 1948) Student 1973-76 Inland Revenue Centre. Nottingham. Michael Hopkins, 1995
+
+![](images/2009d0868239befa9de3efd2ba4e06a47c3461abc22c0d6b67d226ccbbb64139.jpg)  
+Paul Keogh and Rachel Chidlow (b. 1953. b. 1954) Students 1977-79. 197780 Meeting House Square/Gaiety School of Acting. Temple Bar. Dublin. Paul Keogh Architects. 1996
+
+![](images/73863de58d233647c0815b344fcca85effdeaed1547ecbb4f5b75b90e5036158.jpg)  
+Heidi Locher (b.1957) Student 1978-80 New office/apartment building. Clerkenwell Green. Paxton and Locher Architects, 1996
+
+# INTERIORS
+
+![](images/82fd0c184fc7ff1b376e2ca37818e70d03eb80f852be03adc5022f97c71f7826.jpg)  
+Russell Bevington (b. 1943) Student 1972-75 Staatsgalerie, Stuttgart, Germany. with James Stirling. Michael Wilford and Associates, 1984
+
+![](images/5508429e810c1ffe55c492fc8b8e1354ebf7271217332c34e5c7500ae87ac280.jpg)  
+Malcolm Last (b. 1953) Student 1975-78 Jack Dash House. Isle of Dogs. London. Chassay + Last Architects, 1989
+
+![](images/a3e21b5c8af656f93be5fe4ed93555d81b4f92625c4d0ee9dcac90ced6b3caee.jpg)  
+Su Rogers (b. 1939) Staff 1976-86 Henry Moore Gallery. Royal College of Art. 1986
+
+![](images/386b67f1ff18d96d9e24a94caecaa38fba51033539c361054027a8b44512a160.jpg)  
+David Connor (b. 1950) Student 1973-76 Building for a Void, Seville, 1990
+
+![](images/ebb93434986dffddd09d07f008f06fff7dbc1ba6240692fc39fa5569e0afab86.jpg)  
+Tim Malloy (b. 1951) Student 1975-78 Axonometric of roof and total enclosure, Dean Street. Soho. student project, 1978
+
+![](images/a7740f58eb75a1959e63f571d7348ef564f0c333a751900aa910f9c32bf40ec9.jpg)  
+Kenneth Frampton (b. 1930) Staff 1964, 197577 UDC Low-Rise High-Density Housing. Marcus Garvey Park Village. Brownsville, New York, USA, 1975
+
+![](images/39a55f7eaf05ca9a63a6100525d541bbc6a07e8013053d6d9c5e35ea3f6bd6cf.jpg)  
+David Nelson (b. 1951) Student 1973-76 New German Parliament. Reichstag. Berlin. partner-in-charge for Foster and Partners, 1999
+
+![](images/8962941146e9f14139351001b6dd1bcad6f35d72bac9910407306edcfdc21f6b.jpg)  
+Eric Parry (b. 1952) Student 1976-78 Foundress Court. Pembroke College. Cambridge, 1998
+
+![](images/f740d2dcce24e7cc0e5dd03a6f8f7e695375923607477ec9f4e83706ae5c0a23.jpg)  
+John Miller (b. 1930) Staff 196264, 1971-75 Professor 1975-85 The Queen's Building. University of East Anglia, 1994
+
+# 80s ARCHITECTURE &
+
+The 80s saw the demise of the 'white rationalist' modernist school of thought and the introduction of a more pluralist approach, influenced by early developments in postmodernism. In many ways, the College was both symptom and cause of the change, with students' work becoming increasingly experimental and exploratory. Degree shows were astonishing displays of lovingly crafted drawings, and models that expressed buildings and spaces rather than simply showing technical renderings. The new spirit was accelerated when Derek Walker became Professor in 1985, bringing with him such eminent members of the profession as James Gowan, David Chipperfield, Kit Allsopp and Michael Dickson. The close proximity of other disciplines — painting, fashion and film — added to the experience of being at the College, and gave graduates an individual approach and confidence that distinguished them from their contemporaries. Many graduates chose to set up their own architectural practices rather than be absorbed into large practices, an unusual and courageous course for young architects at the time.
+
+![](images/65e4cdcc84622118136fddaad0431bd8075bb6bd2d007670f5f04f340b23b8db.jpg)
+
+Gerard Taylor (b.1955) Student 1978-81 Habitat. Croydon, 1995
+
+![](images/d95467e379d49e62aa4ef9154f0d863e132312a7f2d34f6b043489203cbdc7c0.jpg)  
+Michael Tonkin (b.1960) Student 1984-86 Hugo House, Hong Kong. 1997
+
+![](images/49c6de99e188dd7cf32bf39a19178e45484cd206abb2e18c991585f9a1fef98c.jpg)
+
+Stephen Bates   
+(b.1964)   
+Student 1987-89   
+The Wharf Public House. Walsall,   
+W. Midlands, Sergisson Bates. 1997   
+Catrina Beevor   
+(b. 1958)   
+Student 1980-82   
+Concrete Cottage, Cambridgeshire,   
+Beevor Mull Architects, 1995 Andrew Gollifer   
+(b.1960)   
+Student 1985-87   
+National Glass Centre. Sunderland. Gollifer Associates, 1998   
+Stuart Forbes   
+(b. 1963)   
+Student 1986-89   
+Millennium Dome, co-ordinating   
+team leader for Richard Rogers   
+Partnership, 1999
+
+![](images/b9814e6445f20b6f2d1c1afb93a9ebe76dc200620a5ddb5a6a4d4c68dd13eb09.jpg)
+
+![](images/e3ceb9e6c690d20cb6e558480241e0158bea8d011cbe540430f66934ddd63dcb.jpg)
+
+![](images/7f06cbe284cf862d7d0d0eaf5037b9cf6bbca21489688a3662763f32e05be692.jpg)
+
+## INTERIORS
+
+![](images/4ea0da78594cb11ec78e478f8f97508dbed101feaeeabdf3935d84bb0239bbd9.jpg)
+
+Mark Guard   
+(b. 1952)   
+Student 1979-82   
+Apartment, Paris,   
+Mark Guard Architects, 1994   
+Nick Coombe   
+(b. 1958)   
+Student 1981-83   
+Barbican Duplex, London, Stickland   
+Coombe, 1998
+
+![](images/873e167ef912425fe2a018208b0aee98df7c2e92b37716363dc2cb43eeb970d1.jpg)
+
+![](images/98ea13d831d612bb373d32b4c980e1d4f431c4987bab20120164b12f1129ece7.jpg)
+
+Ken Mackay (b.1959) Student 1981-83 York Central, London, Harper Mackay, 1997
+
+![](images/2dad3ac4008b7f2649f50c1ea0a2e9a7c7dd1c5d74c7073430bc6c8608116756.jpg)
+
+Alex de Rijke   
+(b.1961)   
+Student 1984-86 Staff 1995-96   
+Gymnasium, City of London, de Rijke   
+Marsh Morgan, 1997   
+Michael Jones   
+(b. 1965)   
+Student 1988-90   
+Law Library, Law Faculty, Cambridge   
+University, project architect for   
+Foster and Partners, 1995   
+Mark Dytham and Astrid Klein   
+(b. 1964 and b. 1962)   
+Students 1986-88   
+Workstation for Idee, Tokyo, Klein   
+Dytham Architecture, 1996 Philip Gumuchdjian   
+(b. 1958)   
+Student 198688, Staff 199798 Think-tank for David Puttnam, 1998   
+James Gowan   
+(b. 1923)   
+Staff 1983-90   
+Royal College of Art shop, 1997   
+Derek Walker   
+(b. 1933)   
+Professor 1985-90   
+Kowloon Park, Hong Kong, 1987
+
+![](images/b52d5eaeaed34827803868bdf4ea74026136903dcda0f1c01ca1d9befc8c5b14.jpg)
+
+![](images/f5f3b4862051a07335fb2699eb02c83f5fe6157e0c6401fb02c51a3c41eae6d8.jpg)
+
+![](images/72682a970c3ca5eae4dc07c7e60846df7ad2e880a94f16c4464495d5a9fd7783.jpg)
+
+![](images/6796ae19e5de272f040a61eefa3642df523d1ce6eafb72e3d7c1c3d796869cfa.jpg)
+
+![](images/a369fd8b9a5740a2d1f128d0fbda7700d4ec0c21a63c68d4c6796e6785643720.jpg)
+
+# 90s ARCHITECTURE &
+
+One legacy of Derek Walker's professorship was the division of Architecture and Interior Design into two separate courses running in parallel, a programme that was continued under Theo Crosby. When Dinah Casson took over as Course Director in 1993, she brought the two together by creating a core course Architecture and Interior Design.
+
+Nigel Coates's appointment as Professor in 1995 radically changed the direction of the course. Renowned as the enfant terrible of British architecture, but well-respected as a teacher at the Architectural Association, Coates brought to the course a vitality and spirit that has made it one of the most notable and distinctive architectural courses in the world. Central to his strategy has been the introduction of the system of architectural design studios, each specializing in a different urban architectural condition, both seen and unseen, and headed by some of the rising stars of the profession.
+
+![](images/14dc51d23d6cec947d5fd22990a24adb83c8085a8ba751ab3327927985cef10f.jpg)  
+David Adjaye (b. 1966) Student 1991-93 Tutor 1998-present Lunch, Exmouth Market, London. Adjaye and Russell, 1998
+
+![](images/1317038f43c7fc02a3b6290899fbe2de2399df469b93f59a0c0899c04e64cce8.jpg)  
+Sadie Morgan (b.1969) Student 1991-93 Floating House project, de Rijke Marsh Morgan, 1997
+
+![](images/96151d789e3d35abd2e0072f22966f5e9a1dc9ca4ecb2b78b964f794a9369621.jpg)  
+Robin Clark (b. 1972) Student 1994-96 Whale Projection Unit, Digital Playground, Play Zone, Millennium Dome, Project leader for Land. 1999
+
+![](images/f7a10ff2c992f7b5c055889105ad57c321da825f09140e7536cab77fd0b27404.jpg)  
+Sarah Harkins (b. 1968) Student 1994-96 Art Bar. Royal College of Art (with Robin Clark), 1996
+
+![](images/e6d0ea2e6f882414de542c1353fd365afa95376e25d40f273ec6892decb9a72e.jpg)  
+Sally Mackereth (b. 1966) Staff 1995-99 Infinite Dining. Polygon Bar and Grill. London. Wells Mackereth, 1996
+
+![](images/d87397c69ba1b0c744c87a3244f5d0bf047dafb75251fb952571921127118113.jpg)  
+Liza Fior (b. 1962) Tutor 1998-present Southwark Street project. London. Muf. 1998
+
+# INTERIORS
+
+![](images/aca67c46e6111a3214e279ad81483f2814f3a53241f5bcb8b00b7782842da6d0.jpg)  
+Edward Barber and Jay Osgerby (b. 1969.b.1969) Students 1992-94 Soho Brewing Company. London. Barber Osgerby Associates, 1998
+
+![](images/fdc6a184b776c25589614af55eb417a063515db6244bc6be1b32fb6bb6663c2e.jpg)  
+Diana Cochrane and Alex Mowat (b. 1968. b. 1970) Students 1993-95 Skyscape, Greenwich, Urban Salon, 1999
+
+![](images/c5dcb8ac58ed60ba15b489dd8313e1c98aab6ab336d0792149199dc491719075.jpg)  
+Mark Garside (b. 1969) Student 1993-95 Vexed Generation shop, London. Lifeform, 1996
+
+![](images/208a1baa62f5e710c72106c095267ca722d76030c93cae9fdbfcd9a5f54d3de5.jpg)  
+Janek Schaefer (b.1970) Student 1994-96 Tri-phonic turntable, 1997
+
+![](images/0699c26b008554587a738daccfa04e732680f1e87026d5377e3cb22233d12e5e.jpg)  
+Dinah Casson (b. 1946) Visiting Staff Director 1993-95 Sand and Light Zone, The Garden, The Science Museum, London, Casson Mann, 1995
+
+![](images/176704c8ce1b92dbeaf35054ba7a18af74ddc45dd588d1cfdc0b847e07104c23.jpg)  
+Clive Sall (b. 1962) Tutor 1996-present Office interior for advertizing agency Kessels Kramer, Amsterdam, FAT, 1998
+
+![](images/1f4bae35807876db1e1318504cef96d9b45e8ca5f7b28184bb5d1c514c335051.jpg)  
+Fiona Raby (b.1964) Student 1986-88 Tutor 1996-present Tuneable City project, Dunne and Raby, 1997
+
+![](images/43d87f36aafe26a39368c2a30cb096f6830eb35edcf0e6a323d4567fb739dd72.jpg)  
+Theo Crosby (1925-94) Professor 1990-93 The Globe Theatre, London, 1997
+
+![](images/34a0eef80ce2f25761476af85423b713b97d4fa500a3b5a82440cbdf9bd99026.jpg)  
+Nigel Coates (b. 1949) Professor 1995-present National Centre for Popular Music. Sheffield, Branson Coates Architecture, 1999
+
+## INTERIORS The new simplicity: design for the 90s
+
+## DESIGN
+
+When Jasper Morrison presented an installation New Items for the Home Part 1 for Designwerkstatt Berlin in 1988, he prepared the stage for what would become the new spirit of the 90s. In a bare room, with plain wooden floor and walls, he placed a couple of wooden chairs and a table. A simple wooden coat-rack was hung on the wall, and the contours of a bookcase and a door were drawn in outline. This room was a call-to-arms for design, a return to a back-to-basics approach, a questioning of the role of design and its place in the late twentieth century.
+
+There was nothing 'new' in Morrison's designs - he had utilized existing forms and technologies, appropriated and recycled everyday objects and materials. But the application itself was startling in its simplicity and ingenuity, representing a breath of fresh air in an international design arena where design had become self-conscious, over-worked, and over-consumed.
+
+In 1989 Morrison took the Milan Furniture Fair by storm, and by the early 90s he was working alongside fellow-RCA graduates James Irvine and Konstantin Grcic for a number of international design companies. Simplicity had become the watchword for a new global design language.
+
+Jasper Morrison   
+New Items for the Home Part 1, installation for Designwerkstatt Berlin, 1988
+
+## INTERIORS
+
+The new simplicity: design for the 90s
+
+At the RCA the influence of these graduates fed a new generation of design students. Sebastian Bergne, Michael Marriott, Shin and Tomoko Azumi, Tord Boontje and Roberto Feo, among others, extended the ideas of their predecessors to develop simple, inventive designs that suited the contemporary mood. Using plain, unsophisticated materials such as pine and MDF, and borrowing from existing manufacturing processes and technologies, furniture and products were designed to be inexpensive, utilitarian and flexible. References to the ordinary and everyday were evident in the design  sometimes in the detail, or in the material used, or in the everyday behaviour and rituals the designs drew on. The idea was that the familiar element would introduce a spark of recognition, allowing for a personal attachment with the object.
+
+Shin and Tomoko Azumi's wire chair was developed from the same material and process used to make shopping trolleys and hamster cages. Tord Boontje and Emma Woffenden's glass vessels were made from recycled wine bottles. Michael Marriott's Furniture for People without Gardens was a series of generic furniture shapes, pierced with holes into which could be placed rubber vases. This was a new kind of sustainability for the 90s. Objects would last longer because they were less reliant on fashion. Instead, they gained meaning through use and through their intrinsic warmth, humour and intelligence.
+
+![](images/ec65b92fed1a86cffd213ec469e20c3c8c84f892496fbc167ef4e83d750d133a.jpg)
+
+Michael Marriott   
+Furniture for People without Gardens, installation at 'Living Rooms',   
+Atlantis Gallery, London, 1998
+
+![](images/d31223143613df55670245d35c8a0b5796e5e3f84cac372d35c06c22c91d9574.jpg)
+
+![](images/b9fe0c336bba06ac9d0064c5af175fb58db4f5744ca9ba806a3adaa340e794e7.jpg)  
+Shin and Tomoko Azumi Wire Frame Chair, 1998
+
+![](images/02a3277249fee0d223837f6c9cbc9578bd6a23d1b47dc8e892c640c383528a7d.jpg)  
+Tord Boontje and Emma Woffenden TranSglass recycled glass vessels, 1997
+
+# 70s VEHICLE DESIGN
+
+Ten years after Misha Black's appointment in 1959 as Professor of Industrial Design (Engineering), the car industry was booming. But there was still no design course in the country offering a specialism in vehicle design. However, in 1967, the Ford Motor Company approached the RCA and offered to sponsor two bursaries to study automotive design. Peter Stevens and Dawson Sellar, whose work in the department was on cars rather than products, were selected. They were given almost free rein to choose visiting lecturers; they also built the first clay oven in the department for making vehicle prototypes. The course was given the title 'Advanced Studentship in Automotive Design' and it soon became a fully-fledged specialism within the Industrial Design programme. Throughout the 1970s, there was a steady growth in student numbers as Chrysler UK, Talbot and Rover followed Ford's example. These were boom years and sponsored bursaries guaranteed work in the supporting companies.
+
+![](images/58095fc5ae8d7b23d0d5b7fb410593e8331f13ed9dba78fce4e644927393cf4a.jpg)  
+Dawson Sellar (b. 1945) Student 1965-69 Green Machine Street Sweeper. 1990
+
+![](images/7c5f3ff66cd6319b2f0c380dc4902f090045b46389edf54bccf5bc4d9a716bcd.jpg)  
+Peter Stevens (b. 1943) Student 1965-69 Staff 1972-87 Visiting Staff McLaren F1, Model, 1995
+
+![](images/ebc07682fd9e4de91b67ea27a0d37c9b4853824b65cbbe9d1951911b6cfdb8b2.jpg)  
+Steve Ferrada (b. 1947) Student 1970-72 Mercedez-Benz F100 show car, 1990
+
+![](images/3e0ef1984e0edbb6912ae9752b391442e5336edeb26176cfdf1261e39de7389c.jpg)
+
+![](images/acfe33494d3f2f3598fae11810b520c9d44f21801c0853ca5888558c3224954b.jpg)  
+Dick Powell (b. 1951) Student, 197376 Seymour Powell, Norton P55. prototype, 1988  
+Peter Birtwhistle (b.1951) Student 1971-73 Audi Sport Quattro. 1983
+
+![](images/d0738758a85001645ce1f420321a790eba2d936d476df46acd7ab316c795653d.jpg)  
+Keith Helfet (b.1946) Student 1975-77 Jaguar XJ220, 1991
+
+![](images/2ea8f2f2ca36aa8d7eb948de69f6a4405b4c942c1b92559677739b2392034106.jpg)  
+Paul Gebbett (b.1945) Student 1968-70 Ford Galaxy. Interior, 1998
+
+![](images/266f1676bfdfd545da6bbb743eed71a54a2534aded98253901adacd850255ff9.jpg)  
+John Hartnell (b. 1946) Student 1968-70 Ford Mercury MC4 show car, 1997
+
+![](images/27097defb783b6d9c4f960ff1a4834a62cda56dfde8a0f1e4133bf1700c3066f.jpg)  
+Graham Hull (b.1947) Student 1969-71 Rolls Royce Silver Seraph, 1998
+
+![](images/d0e6bd4dbe4c762ccaacaa48f317ce8e0236bfd07335579fa7dfd216f7956d58.jpg)  
+Martin Smith (b.1949) Student 1971-73 Audi Quattro. 1982
+
+![](images/067d4a6d84be13c7b90e09e6d237d9bd4c5275641e85ffdebd1d053b26e6ee28.jpg)  
+Peter Horbury (b. 1950) Student 1972-74 Volvo S80, 1998
+
+![](images/1ea1f192fe4aa12c5b740fb8502e273574cf327700b5a9abad29ab1b9f6c7f01.jpg)  
+Richard Seymour (b. 1953) Graphic Design student, 197477 Visiting Professor, Architecture and Design Seymour Powell, Scorpion MZ, 1994
+
+![](images/7c381a316cf4efbc169a6a0e258726fd3a1daf3b00e7fa74776363fdc1eb138a.jpg)  
+Gerry McGovern (b. 1955) Student 1976-77 MGF. 1995
+
+![](images/1bcbf0867a74a8cf0f1d91afca803a347c3250e66ca823c417e9999e6b215c41.jpg)  
+Roland Sternmann (b. 1954) Student 1976-78 Mazda 323F, 1994
+
+![](images/68cdefb16360340462833a8826f5ca002bdb0660d2e6f9200da5ff29e03a9373.jpg)  
+lan Callum (b. 1954) Student 1977-79 Staff 1990-96 Aston Martin DB7, 1993
+
+# 80s VEHICLE DESIGN
+
+The 80s saw a steady rise in the numbers of students attending the course including those less reliant on sponsorship. Still under the banner of Industrial Design (Engineering), the 82/83 prospectus announced a new course title, the Automotive Design Unit, now with its own core staff and first director, Nigel Chapman. Many designers from the industry were invited to lecture, including Ken Greenley, who was working for General Motors, and ex-students Joachim Storz and Peter Stevens.
+
+In the early years of the decade, the Unit largely focused on the technological aspects of vehicle design, offering an understanding of plastics technology, electronics, ergonomics and engineering workshop technology. The emphasis on technology was matched aesthetically, with car design veering towards the 'wedge-shape' in an attempt to look dynamic. This was evident in the Audi Quattro of 1982, designed by Martin Smith, a graduate of the course in 1973.
+
+![](images/b019b93cf34be11f0e75ea49945945fcdbfd7714b5215f46a1df5143d8f28f37.jpg)  
+Pinky Lai (b.1951) Student 1978-80 Porsche 911 Carrera Coupée. 1997
+
+![](images/4eb5d6d34b51ee7ee3fb338addb3ed55acb41605e94a3a34c1c803609be22260.jpg)  
+Peter Schreyer (b. 1953) Student 1979-80 Audi 80 Compact. Degree Show. 1980
+
+![](images/d4aaa81c459665abe7b2cabecbda837b7231219beb9b49ee998c98e0986e806b.jpg)  
+Tony Hatter (b. 1954) Student 1979-81 Porsche 911. 1993
+
+![](images/1e0efd7420c206dd154c827af121601607c0a10cc40066392af129a56c27ad3d.jpg)  
+Adrian Griffiths (b. 1959) Student 1980-81 City car model. Degree Show. 1981
+
+![](images/533d3181664204e918ef916bba07a1bbf5f3ba9a351600e187cb02c6e6e19fa3.jpg)  
+Murat Gunak (b.1957) Student 1981-83 Yamaha motorcycle, Degree Show, 1982
+
+![](images/dec0a6f45cc381d515c2b9f37b44925273381880285ea2b99e0d25c93006a7c7.jpg)  
+David Wilkie (b. 1958) Student 1981-83 Model. Degree Show. 1983
+
+![](images/d1c7df6ab0a02279da725d6dd9f0c781ca65df36fbfb44be78662c3b1b2bc993.jpg)  
+Joachim Storz (b. 1947) Student 1979-80 Staff 1982-87 Ora. Degree Show. 1980
+
+![](images/d314a5c7e9b6b77988b01b4b922a08659236ffe78e4a6b5704542460f09d3e43.jpg)  
+Christopher Bird (b. 1956) Student 1979-81 Model. Degree Show. 1981
+
+![](images/0032bff1821e7405265e91e8465fbc6357031832361e831b13b82ba22bf7f24a.jpg)  
+Luciano D'Ambrosio (b. 1957) Student 1979-81 Bertone Bella show car, 1999
+
+![](images/611c38225f3f2e7e9d5ce19dea18f6bdc2525129cbe1a59d906c14c086648a6d.jpg)  
+Erwin Himmel (b. 1956) Student 1980-82 Audi model, Degree Show. 1982
+
+![](images/f574624114e18f89a18576d6f511362ddc85ec47d491933078cd216c5766f86c.jpg)  
+Roland Heiler (b. 1958) Student 1980-82 Porsche model, Degree Show. 1982
+
+![](images/0f73c8b892afb4257c52cf35ca728c4041f0803d3afd6ce8d7e59a5682d53da8.jpg)  
+Martin Longmore (b. 1958) Student 1981-82 Study. Degree Show. 1982
+
+![](images/d5eaa832e5be29d618d297601e8f5b809e5b04c0a141eac8194265a3a48da7a2.jpg)  
+EAFRTZ  
+Steve Murkett (b. 1954) Student 1981-83 Ford model, Degree Show. 1983
+
+![](images/92c1f7b768c9e79a0adad7e091bc8fba4beb31ee39ebc5f90a8abaf2e0cb196d.jpg)  
+Howard Guy (b. 1960) Student 1981-83 Yamaha motorcycle, Degree Show, 1982
+
+![](images/1c5ce4d6cf41be82084cddf5ea093912a3358bf5eedcfd9dab782929b4630e6d.jpg)  
+Julian Thomson (b. 1961) Student 1982-84 Visiting Staff Model, Degree Show. 1984
+
+# 80s VEHICLE DESIGN
+
+In 1986, the course reassessed its approach by devoting equal study time to design, technology and marketing, and it became the separate Department of Transport Design. With the departure of Nigel Chapman in 1988, the course was renamed Vehicle Design, and Ken Greenley became course director.
+
+Student design work was beginning to show a sculptural tendency, as highlighted in Alex Padwa's model of 1987. The course developed a reputation for revolutionary 'concept work', as a stimulus to sponsoring companies, and like fashion, the annual degree shows became the catwalk of car design. Elements of these experimental designs might filter up into commercial vehicle design over a cycle of maybe five or ten years.
+
+In 1989, the course was restructured again in a bid to attract a wider graduate intake. This was in response to the general view that automotive products were becoming too similar. As well as technology, the course now offered a new element, 'conceptual vehicle studies', with a particular emphasis on the fusion of art and industry.
+
+![](images/6190c022d9507292c8089ccae37f25d50283d64fa2d97939e7528522f3fbb600.jpg)  
+Donato Coco (b. 1954) Student 1983-84 Citroen Xsara Picasso show car, 1998
+
+![](images/614258840a96030ea90266db556c814b762cfb58eef6f55540517ed5d5c94ffa.jpg)  
+Mark Lloyd (b.1961) Student 1984-86 Citroen Xanae, 1994
+
+![](images/451a1e2ccefa2cda7a3a9d168936f4d993e9284ae0d4869c2319b85c7b3c1e3e.jpg)  
+Alex Padwa (b. 1956) Student 1985-87 Visiting Staff Model, Degree Show. 1987
+
+![](images/86858496f66ffddfd7751e5f5e95cd13042d33bd09888e84253bf86eb1c8f1b2.jpg)  
+Ulrich Lammel (b. 1955) Student 1983-84 Model. Degree Show, 1984
+
+![](images/d2771e466ee2df208885ba60a80d4d7e0d4e0489d99cf5fcd6509edcb0990566.jpg)  
+Pierre Terblanche (b. 1956) Student 1984-86 Model, Degree Show. 1986
+
+![](images/16615079e77a749cbd8ad12aacd039b54104ae8e080adacde4bef332d9771db8.jpg)  
+David Cutcliffe (b. 1961) Student 1986-88 Model. Degree Show. 1988
+
+![](images/051b797ffdc554e3ae3428228edb2756d8419412d642cf0df335d0e5c57ed664.jpg)  
+Richard Carter (b.1961) Student 1983-85 Bentley Java show car (with Graham Hull), 1994
+
+![](images/0f2cfbcd337a4b762a6fa6cc1b30e7d9e17b9160a4eb41321ee6beb37c7f9cd5.jpg)  
+Mark Adams (b. 1961) Student 1984-86 Model, Degree Show. 1986
+
+![](images/de7d5ba1508c60ba0d08efc01014f7711e42cd3d9e1e4b3ece61ec88325bb21f.jpg)  
+Simon Cox (b.1959) Student 1984-86 Isuzu Vehi-Cross, 1996
+
+![](images/b946ae7ed1706a345a60cf585a148316860c25f5d9f883cd378a33f66a3ae4d5.jpg)  
+Michael Ani (b. 1958) Student 1985-87 IAD Venus, 1990
+
+![](images/55d766cf615a9b2746b0d75b1a2d08f58161b177b902d0a550afcb90da935baf.jpg)  
+Matthias Kulla (b. 1964) Student 1985-87 Porsche Boxster. Interior, 1996  
+Anthony Lo (b.1964) Student 1985-87 Model. Degree Show, 1987
+
+![](images/8b64474e195d9e8df7102a662b538927bbc07f245b30c5b3f47b6e4ff6da1874.jpg)
+
+![](images/9cb8a7806e21b422b53158c5d30d694b3f75ef2d7f12e27f6acfad7002f61b35.jpg)  
+Lester Allen (b.1954) Staff 1987-present Daihatsu show car. Tokyo, 1997
+
+![](images/5e2fa8fdb560355bc8de8bc4340a4c62e02ebe6c77f35694695d6dd44b5ea7f6.jpg)  
+John Heffernan (b. 1949) Staff 1984-present Aston Martin Vantage, 1992 (with Ken Greenley)
+
+![](images/f94f476e914f85b0171313e1596b7eff5681c32d88ca31285ddfab7b2dcc95c2.jpg)  
+Ken Greenley (b. 1944) Staff 1981-95 Professor 1995-present Bentley Continental, 1990 (with John Heffernan)
+
+# 90s VEHICLE DESIGN
+
+Sponsorship for the course was affected by the recession in the early 90s. However, student numbers were on the increase, and projects began to move away from the hi-tech concerns of the 80s towards more social consciousness. Environmental issues were explored, resulting in studies of urban vehicles, low-emission cars and 'micro' transport that used less road room. These concerns were evident in the work of Niels Loeb and Ivan Lampkin, who examined the implications of electric cars. The 90s also saw a diversification in types of transport - yachts, helicopters and motorcycles were all studied. Concept studies included Stefan Sielaff's sculptural form, the 'Induction Drive'.
+
+Cultural concerns became increasingly important, and there was a strong interest in organic and biomorphic forms. Chris Svensson, who had a meteoric rise to fame from graduate to the Ford Ka launch of 1996, played with the language of organicism in his contributions to the vehicle. This also inspired Ford's 'New Edge' design philosophy, which led to an emphasis on roundedness in their vehicle design. The 'bio-design' approach also appeared in the curves of the 1998 London taxi, TXI, partly designed by course tutor Dale Harrow.
+
+![](images/5f9be43fbc817863a15c5db39225462ce54a558f9550994f0955c957da87eee7.jpg)
+
+Martin Frost   
+(b. 1966)   
+Student 1988-90   
+Sports car. Degree Show, 1992   
+Thomas Ingelnath   
+(b. 1964)   
+Student 1989-91   
+Volkswagen Noah show car, 1995
+
+![](images/defc566c66036e65cb96ddb1db56f1e93466a3fa84327fffd950627d4b40f5f1.jpg)
+
+![](images/efd7c28fc21898152ceabedf49dbf29c28109f0ce9ab3f4d88456df7860c3166.jpg)
+
+Chris Svensson (b. 1965) Student 1990-92 Ford Ka, 1996
+
+![](images/43b17cea0fe0822518d7d97c24698c1601197b211ad94e04de0742180ca9c7b2.jpg)
+
+Aram Kasparian   
+(b. 1966)   
+Student 1988-90   
+MGX Model, Degree Show, 1995   
+Niels Loeb   
+(b. 1966)   
+Student 1989-91   
+Model, Degree Show, 1991 Giles Taylor   
+(b. 1968)   
+Student 1990-92   
+Visiting Staff   
+Ultra-lightweight Tensile fabric car. Degree Show, 1992
+
+![](images/0dbff35e9da92519de659f8f22160de5c704806c9843f4b17fd8b45970868aed.jpg)
+
+![](images/15f239ce624b8e5639c1bace1bb29b49c3017c670e4c1e562a9919ea19bed154.jpg)
+
+![](images/30cb81cc9a2ae5c2c4f2a7b1d2e15160622daf19b4f01136eb4141349386c65e.jpg)
+
+Ivan Lampkin (b.1967) Student 1988-90 Pisa Electric City car, Degree Show, 1990
+
+![](images/f1090f7888a7e338c03dd1795d4bf1869196ac4ebb4aa8786232ffe7b4f45c36.jpg)
+
+Stefan Sielaff   
+(b. 1962)   
+Student 1988-90   
+Induction Drive, Degree Show, 1990   
+Geoff Gardiner   
+(b. 1966)   
+Student 1989-91   
+2-seater saloon, Degree Show, 1991   
+Peter Naumann   
+(b.1961)   
+Student 1989-91   
+Helicopter, Degree Show, 1991
+
+![](images/3eaf82ec32265fc282902fa878df27cb9ae9e9468cb1b84cd0dd7b62bec9cedc.jpg)
+
+![](images/47c142daf34bae681af4b0a8e44c13d4ac51d8620fd5de336851db5c119f267d.jpg)
+
+![](images/b20a13303782f5277a4d2b1e42d1e27f058f8cb09b44fa9b24907da91134b54d.jpg)
+
+Marek Reichman (b.1966) Student 1989-91 Visiting Staff Future 1 volume saloon. Degree Show, 1991
+
+![](images/b603aa5913e6443c236dd942796662cd6cb7368ebc00253cf297db53a98520e3.jpg)
+
+![](images/8842d9537b85ee5481fc7e6c14f7b1afb61b23dc0568101ce332085197fa7133.jpg)
+
+Julian Wiltshire (b. 1965) Student 1989-91 Sports car, Degree Show, 1991
+
+Sotiris Kovos (b. 1965) Student 1991-93 Yaris show car, 1998
+
+David Woodhouse (b. 1968) Student 1990-92 Judge Dredd Car, 1994
+
+![](images/0afa45d220fafb21e26608e9be0bcf8b8f646f3cd5196dabd3e7b603292dd693.jpg)
+
+![](images/848b254782ef56d8a0695ab994b4abbc82e524fea5941b490fafaf0f99a34dc5.jpg)
+
+Karl-Heinz Rothfuss (b. 1965) Student 1991-93 E-Merge, Degree Show, 1993
+
+# 90s VEHICLE DESIGN
+
+The shift in automotive form was accelerated by computer-aided design. In the past, designers had been nervous about designing abstract forms that would be complicated to produce. Now computer technology made it possible to analyse new forms and find solutions without having to build expensive prototypes. At the end of the 80s, the American company Evans and Sutherland offered the department the first computers designed specifically for the job. Two machines, worth approximately £500,000 each, were installed on the understanding that they could be demonstrated to the European market. Today, the software, known as Parametric Technology, enables students to design full prototypes on screen, prior to committing themselves to scale models of concept cars.
+
+![](images/8824b4073d7bd2baf013a20b9937ca79090332441a0e821b60d3f7a6b7f88f3e.jpg)
+
+James Watkins (b. 1968) Student 1991-93 Interior, Degree Show, 1993
+
+![](images/cd36400b9a43397a4fcfbf8b041cca1b161a905ab6b2eafe4890f0d5b4bad675.jpg)
+
+Stuart Jamieson   
+(b. 1971)   
+Student 1993-95   
+Mazda Tammuz, Degree Show, 1995   
+Peter Wouda   
+(b. 1968)   
+Student 1994-96   
+Globe Surfer, Degree Show, 1996   
+Mark Whiteley   
+(b. 1964)   
+Student 1991-93   
+45 jet-foil yacht, Degree Show, 1993
+
+![](images/b7ad9cac2ad496b38e99d07cd93f6d44f0720a54e8c559e12a28fcb7adc3b6b8.jpg)
+
+![](images/099f7bcf30616899385751495f0e1e7e20977a973077672a9fc28e2c973d1ab5.jpg)
+
+![](images/9e40724c9b5d57be380aa9549f52fe79c04a3b3d02ae4e78e07e62fa33643140.jpg)
+
+Adrian Morton (b.1970) Student 1993-95 Yamaha motorcycle, Degree Show, 1995
+
+![](images/23d4ff9b2cca2423876b08929980dba12d528384e8e5f4edbcbf290d6b38a3b7.jpg)
+
+Stephane Janin (b. 1973) Student 1995-97 Blade, Degree Show, 1997
+
+![](images/9549f2f120399a55e0c566cda101e5edeb5c45e59e3cdda381bebe0012126bc5.jpg)
+
+Steve Crijns   
+(b. 1968)   
+Student 1992-94   
+Lotus 28' sportsboat, 1998   
+Cesar Muntada   
+(b. 1967)   
+Student 1992-94   
+Harley-Davidson concept motorcycle,   
+Degree Show, 1994   
+Jon Dale   
+(b.1970)   
+Student 1993-95   
+Opus 8 aircraft, Degree Show, 1995
+
+![](images/331d931557700a77473e3577ba073645d3d6a5df3a0672b2de276562a1a8ce64.jpg)
+
+![](images/fd1b295ec761b7f185b4b219e311977d75da734f21b24d174285cd8523e13d91.jpg)
+
+Daniel Walker (b. 1971) Student 1993-95 Desert exploration vehicle, Degree Show, 1995
+
+Matthew Hill   
+(b. 1972)   
+Student 1995-97   
+Model, Degree Show, 1997 Paul Wraith   
+(b. 1971)   
+Student 1994-96   
+Hyundai Euro 1 concept car. interior, 1998   
+Per Selvaag   
+(b. 1971)   
+Student 1995-97   
+Model, Degree Show, 1997
+
+![](images/5c8b8fe39fa1ba2e63a8eae9235bb270a109b2033b764ca0996a16cef135d91c.jpg)
+
+![](images/f80518f6e011411e1280cefe98e2758a7fb5338f1fee6cf396f7e339d37edcd3.jpg)
+
+![](images/504d9e47b736465dd92036e649fe0f450cba47171ea29d1d298292680c53f648.jpg)
+
+![](images/6e1585f77a8a140737b2786190ec9e90b4152b65ea283e16ae6b64bef9b7d56d.jpg)
+
+![](images/8a46c0ec8314a437a7cd201de47f45eae9e3610f1c4019d25fd4fb14dda763a7.jpg)
+
+Eduardo Lana (b. 1969) Student 1994-96 VW interior study. Degree Show, 1996
+
+![](images/78c3c094f3e1e8d17c1496500aeaa38bb54e9d9d59fbb57bf47260d79c663598.jpg)
+
+Dale Harrow   
+(b. 1960)   
+Staff 1989-present   
+TX1, London Taxis International, 1998   
+(with design team)
+
+# VEHICLE DESIGN
+
+## Gerry McGovern and the Rover Freelander
+
+Winston Churchill with the 1948 model of the Land Rover
+
+![](images/698a3e055e05b73cd383b98bc5fd97d9884151df7422c79b3d7b05b60238e76f.jpg)
+
+Gerry McGovern's early concept sketch of the Rover Freelander
+
+![](images/bb027157bb6340848532b05c9eb0cb4a811bcd320d4866198f5b7b4ec1cc9f3c.jpg)
+
+The launch of the Rover Freelander in 1998 marked the fiftieth anniversary of the Land Rover. To make a radical design change to its characterful box shape took some courage. Gerry McGovern, a graduate from the Automotive Design Unit in 1977, had to work with the main factor that makes the Land Rover unique — its utilitarian pedigree.
+
+Land Rover and the Rover Freelander have managed to keep their identity intact in the global market, retaining their feel of solidity, Englishness and the countryside. The appearance of the first Land Rover in 1948, in its trademark khaki green, was a direct response to the American Jeep, a generic vehicle. The Land.
+
+Rover's first advertizing campaign sold it as the 'Go anywhere vehicle' and its no-frills functionalism followed a military specification. Literally bolted together, it came with a removable cover, a flat fold-down windscreen, and three doors. Its functionalism, resembling a piece of agricultural machinery, made it a modernist's delight. It was taken on by the War Office and Winston Churchill, endorsed by the Queen, and soon became the vehicle of choice for farmers.
+
+Based on a vehicle conceived as a workhorse, the Rover Freelander today has entered another realm: the recreation and leisure market. McGovern's Freelander constitutes a
+
+Clay model of the Rover Freelander exterior
+
+![](images/875b7dcab3463b96f02fb969fbb20097b3db08539bdc401486c6bef4901f2f87.jpg)
+
+The 50th anniversary 1998 Rover Freelander
+
+![](images/2d6ec58cbaf18d283ed502f8eda53860324e43e94af9eab64b18d0ba9cc0ce22.jpg)
+
+radical shift in design from its predecessor. Like much product design of the 90s, the key words to describe it are desire and emotion allied to function.
+
+At the College, McGovern was sponsored by Chrysler UK. Afterwards he went to work for the Chrysler Corporation in America, before settling at Austin Rover in Warwick. With car design, there is always a long period of gestation from initial drawings to final production. McGovern's early concept sketches for the Freelander give the vehicle an organic roundedness that was prevalent in RCA student work at the end of the 80s and the beginning of the 90s. Similarly, its early form
+
+mirrors the urban grittiness of the vehicle designed for the 1994 US movie about the British cartoon hero, Judge Dredd, by 1992 RCA graduate, David Woodhouse. The peak of organicism in car styling was launched by Ford in 1996 with its cartoon-like Ka, with design contributions by 1992 RCA graduate, Chris Svensson. The curvilinear form has become a new aesthetic of car and product design.
+
+McGovern's Freelander is a fusion of these stylistic traits, as well as a response to the design of Japanese 4x4s, but it still upholds an English reserve. The original hunting green colour is today called 'Epsom Green' in reference to the kind of setting where the Freelander is most at home.
+
+![](images/bd4df861faf63835227a9d30a905bc4626ebf9e9b3bd18ff364c5835000d7a8d.jpg)
+
+Concept interior sketch of the Rover Freelander
+
+![](images/e5cfc728b7ab3406b16ba0d9a00d4d38acf537c650185e2af9e3b81f285e67d5.jpg)
+
+# ALISON BRITTON
+
+'I was at the College from 1970 to 1973, and came from the Central School of Art. We had proper entrance exams in Ceramics  well, they were improper exams really; it was the first year Eduardo Paolozzi got his hands on them, and we had to do things like draw masks, pages and pages of facial expressions. One student walked out, but she still got in! And there were 3D tests, a modelling test, and we had to present a portfolio of drawings and photographs of ceramics. David Queensberry was the Professor, and the tutors were Hans Coper, Eduardo, Grahame Clarke, Martin Hunt and Sam Herman. It felt like there were about 11 of them in the room, all men with their feet on the table.
+
+I found the course rather worryingly loose when I first arrived. I hadn't expected it to be a difficult transition. At the Central we had gone through every technique, it had been quite structured, and I left feeling very skilled. We didn't have much time to develop what we wanted to do with the skills, though. So there I was, pitched into a complete playpen where you could do anything, and I didn't know what to do. I really floundered. Everybody around me  like Carol McNicoll who'd come from a Fine Art course  seemed to be getting straight on with what they'd been doing before, developing their ideas. But I wanted to re-think and break with what I had been doing. It was something I'd grown out of; it was too tame and tight and pretty. I wanted to find something that was much more personal. But, what to do next? Eduardo's German assistant Artur helped me, when I was sent out with him to photograph architectural decoration, and I began a very circuitous route towards making things again  via photography, decoration and architecture. By the end of the course I was making pots again, and also tiles. I hate the word "vessels" with a
+
+# DESIGN
+
+passion, by the way: it sounds "let's be a little more poetic about this" to me, which annoys me. I much prefer "container" or "pot".
+
+So I had a pretty terrible first year, feeling guilty that I had this opportunity and wasn't taking it up. To be honest, the "pastoral" side wasn't strong with that gang of blokes. We certainly weren't spoon-fed! But if you badly weren't getting on with it, they'd start to look worried and stand round your desk in droves.
+
+Carol McNicoll was in my year, and I became very friendly with her; and Jacqui Poncelet who was in the year above. Liz Fritsch had finished, but she was still around. It was friendly, and we supported each other; the staff were terrific, too, but you had to learn how to get something from them. I found an awful lot in Hans Coper. He came in once a week but was beginning to get ill; the journey was getting more difficult for him. I'd look forward so much to that day  he was a wonderful tutor  but it was a year before I discovered that.
+
+The course was very, very good for me  anguishing but good: growing up, getting away from the girlish and "nice" work I'd done before, and starting again by trying to be funny in a way: the tiles I did were quite cartoony. I already knew Quentin Blake, so I developed strong links with the Illustration Department, and that may have been another reason why the drawing bit of my work developed drawing on tiles with pen and manganese. Memorable advice? Well, I can remember David Queensberry saying to me, "the trouble with art, Alison, is that you have to be so awfully good at it" - implying, I supposed, that I would never be good enough. But he gave me a lot, not in an overt teaching way, but in an encouragement and interest sort of way. With Hans Coper, there were no nuggety
+
+# ALISON BRITTON
+
+sentences, but it was like a gentle drift towards helping you to find out what you wanted and who you were: a subtle dialogue and long, sensitive conversations which would always lead you somewhere useful.
+
+I wrote my Humanities essay on the overlap between art and decoration, and I asked for external supervision which led me on to one stunning tutorial with Ernst Gombrich. He was writing A Sense of Order and he lent me the notes of an initial lecture series. A lot of what I was reading was nineteenth-century stuff  Dresser, Lewis Day and others  and I got a prize for the essay. What I was really worrying aou was exacy whe I e iIdid' really want o be a dye-n-hewool craftsperson or a designer. It was suggested at one stage that I team up with someone in interior design, but I couldn't develop it because it was all hypothetical, because the work wasn't in front of me. I tried to design peppermint green tiles, or was it lime green? But it's all got to be on the table for me.
+
+Some Ceramics students got quite involved in the Union while I was there, and we had a bit of sitting-in and stuff. I remember anxious debates about feminism, because we were reading The Female Eunuch, which was putting words around things we had felt but never articulated. But the Student Union view was, "we can't deal with that now, it will have to come afterwards." Class first, then gender. And that was annoying. I realized afterwards, about my education, that something subconsciously was preventing me from going into Fine Art, and that something was gender. I might have gone intosculpture if it had looked more welcoming. If the student bar was going to be mashed to pieces  which it was quite often in hose days  it would always either be sculptors or printmakers. Some of those lads got
+
+really plastered, and violent. Which may have made it a less easy area to go into at that time. The girls that did, like Alison Wilding, looked heroic.
+
+When we left, it didn't feel nearly so difficult as it does to students leaving now. Carol and I thought we'd share somewhere, and we gaily said, "Well, if it doesn't work we'll get a job." It seemed so straightforward. We had a studio in the 401 group workshop in Wandsworth, where some College people were already working. Because it was like a little commune in a way  20 people  we got to see-how each other worked and also to see that there was something new in the air and interconnections. I'd sold quite well at my show, which was mostly tiles and a green baize table with about ten objects on it, all handbuilt and drawn on. But I realized that tile commissions and trying to make people happy wasn't quite satisfying or three-dimensional enough. The Crafts Council was just coming into being, and we were the people they looked at first. We were lucky.
+
+The students as they leave now are much more clued up than we were. And they work a lot harder, too. It's a completely different place  more teaching, more engagement, more projects, less time and space. What the College did for me, was to give me a chance to start again. And it changed me in a way that I was really pleased with. A lot of the people I met and got to like then are still my friends now. That's over 25 years, isn't it?'
+
+# PRE-WAR CERAMICS
+
+Following the First World War, two figures dominated the rise of studiopottery: Bernard Leach and William Staite Murray. Leach was a functional potter whose work in wheel-thrown stoneware combined forms and glazes derived from the Far East. Leach considered that, by example, his attitudes and his high standard of work might percolate through to influence industry. Murray was equally inspired by the Far East, but whereas Leach harked back to an idealized pre-industrial life, Murray wanted his ceramics to have contemporary relevance. Murray considered himself first and foremost an artist, and believed that studio potters should be considered as serious artists and not simply craftspeople.
+
+Murray's appointment as Instructor in Pottery at the College in 1925 exacerbated an existing tension between himself and Leach. The principal, William Rothenstein, offered the post to Murray, but later suggested that both potters jointly run the course. Murray realized that the arrangement would not work and demanded that Rothenstein choose between them. Ultimately Murray was hired, but not without Leach feeling slighted by the whole affair.
+
+![](images/51120dca856f8fd051f7f5c03ab00d274e37c6a1c45268da996089a4d4ee987b.jpg)  
+Reginald Wells (18771951) Student c. 1890 Jar, 191014
+
+![](images/31f5bcd4af918cc1082014459e3542699609075eb678ff56fb3fd3a854813462.jpg)  
+Charles Vyse (18821971) Student 1905-10 Bowl, c. 1930
+
+![](images/f256827bd6504d4b75259edc13a4abead9cb8f3c089b17a4b33f2b22665a3afe.jpg)  
+Charlotte Epton (190270) Student 1921-25 Jar and cover. c. 1930
+
+![](images/2ea8e6ded1d4d6e0bcfef331a742d326335586b0838c8ea4b77c6b9cf547ba84.jpg)  
+Sylvia Fox-Strangways (c. 1900-c. 1975) Student 1922-24 Tiles, 1926
+
+![](images/a11d86767c3610a3269b2a22644d5a3916527a2e139fdb72578bc140feeb998b.jpg)  
+Heber Mathews (c. 190759) Student 1927-31 Bowl. c. 1940
+
+![](images/27e1dc07b8537d8e330a69dc7851ebc920bb20c658cb6c7902fb7a7b4df7e08f.jpg)  
+George Cox (1884-c. 1933) Student 1908 Vase. 1913
+
+![](images/2b3d9b101617bee9272addf92cf09fac97dc86f30d433d99a0d1d28b6402f9b4.jpg)  
+Dora Lunn (1881-c. 1955) Student 1908 Dish,191628
+
+![](images/263b09ece2a332ef64d6a2776f0f4a2d903ce6d0b576ba3949222cdc438a374f.jpg)  
+Dora Billington (18901968) Student 1912-17 Staff 1915-25 Coffeepot, sugar-basin and cups and saucers, c. 1950
+
+![](images/bd3ec9c433c8cab2da61fb5286128453ba29c739a827f7e29b3ade55d81e4c3e.jpg)  
+Constance Dunn (unknown) Student 1924-28 Vase, c. 1935
+
+![](images/b5574ad02043671aff0eed8ac88281fcb758dafeaa351fdeec5cc2b4dc0c037d.jpg)  
+James Dring (19101985) Student 1927-30 Plate, 1947
+
+![](images/554d104c2cbf54d085a1d69bad2b31f11328914dcfe9d119ab5c7bccfb42250a.jpg)
+
+![](images/7fd85242ef85b414f4f48887113ed8add1c51e071116c2cfb0d6d46ec32157a1.jpg)  
+James Walford (b. 1913) Student 1931-32 Vase, 1954  
+Sam Haile (190948) Student 1931-35 Jug, 1948
+
+![](images/3ee7735b82ab8f93625f1abb960863c135cab97ed6f1ac6295c29f72bc3e15da.jpg)  
+Norah Braden (b.1901) Student 1921-25 Jar and cover. c. 1935  
+Reginald Marlow (unknown) Student 1927-30 Vase. 1962
+
+![](images/ed4889d3df73826b0989061f272d30349686a77b1b8efe42e0b4412fddb4eecc.jpg)
+
+![](images/5017ea96974ad6d53cd3d1ffc8f61f76649aaa0a1b864ae688c5c074fc614ed0.jpg)  
+Philip Wadsworth (b. 1910) Student 1931-36 Jar, 1939
+
+# PRE-WAR CERAMICS
+
+Murray's teaching was to be immensely important to the development of studio pottery.
+
+Notable graduates to benefit from his teaching included James Dring, Constance Dunn, Reginald Marlow, Vera Moss, Margaret Rey and Philip Wadsworth. Rey's work is characteristic of the Murray school: large, heavily thrown stoneware vases with abstract painting in greys and browns. Perhaps the most distinguished of Murray's pupils, however, were Sam Haile, Henry Hammond, Heber Mathews and Robert Washington. Mathews' most successful work encapsulates Murray's aesthetic in its purest sense, exploring form virtually to the exclusion of decoration, and Washington's vessels have slender forms with thick lips and heavy feet.
+
+Amongst the London venues to exhibit studio pottery during the 20s and 30s were Lefevre Gallery, Brygos Gallery, Paterson Gallery and The Little Gallery. Norah Braden exhibited with other contemporary potters such as Michael Cardew, Charles Vyse and Murray. In 1938 the Brygos Gallery held an exhibition to showcase the work of Murray's pupils, including Braden, Haile and Rey.
+
+![](images/e5a93fa554889c85deec41356acab2c9ccef856fb23d844a86f2b5a7e3a914cd.jpg)  
+Margaret Rey (b. 1911) Student 1932-35 Vase, 1937
+
+![](images/fe358c9183f280cd2f1f93008f59edfe60909b6ea338f438b0ddaa472d444ea2.jpg)  
+Vera Moss (unknown) Student 1932-36 Bowls, 1933
+
+![](images/f7c1e181b6962077fc76faa23837267f14f14cf90aa8473372f281f67c6b87ed.jpg)  
+Henry Hammond (1914-89) Student 1934-38 Jugs. 194950
+
+![](images/fbeff76427a337dc814b74ee0da42df4736288cd6eb3725f3460701f5e5703f3.jpg)
+
+![](images/b0fa12d2d7a5c462c8e9885943b37178c7f692c367bdaa5bb17fa37390127f72.jpg)  
+Sue Parkinson (b. 1925) Student 1945-49 Figures (with David Parkinson). 1954  
+Gwilym Thomas (unknown) Student 1935-38 Coffeepot. 1939
+
+![](images/c92d5234d414f7b0cafaa327160665a5e9d9879134bca4e188faed00f62fc4e5.jpg)  
+Paul Barron (191783) Student 1946-49 Bowl. c. 1950
+
+![](images/a6e3a72a87138a2fc8ac121c9f6eb694e5b795fe5b4418372464b8abdde0ade0.jpg)  
+Marianne de Trey (b.1913) Student 1932-36 Bowl, 194950
+
+![](images/aae76f7ddc7372334587ddecbf7d7eef5e11993d8e544fd8af2de5f7a9880552.jpg)  
+Steven Sykes (b. 1914) Student 1933-36 Dish, 1950
+
+![](images/3ace199941a4ceeb794c3d1ead65810d6a929d1d125b246a5e61f42bb75709ff.jpg)
+
+![](images/34d3b6de320a7c4b6ab7cf8b89e3a08ee233351fd82aee5f571864636a151e61.jpg)  
+Peter O'Malley (b.1917) Student 1947-50 Staff 1953-69 Vase, 1958  
+Helen Pincombe (b.1908) Student 1937-40 Staff c. 1940-48 Bowl, c. 1960
+
+![](images/2cd9f6769ce9ff36d66af660b921fbdef27fd07004937ab986f6a28529390a41.jpg)  
+Robert Washington (191397) Student 1933-37 Vase, 1988
+
+![](images/df476daf324d29a2e4f56af4da3e424844939aa6208222a9a5c0d6738d3cd0a8.jpg)
+
+![](images/ad1cfcdc09b475d4ab7897e1657e28cfe3d4ab7d4d94bafbb208d25ce555930c.jpg)  
+Pamela Tacon (b.1916) Student 1938-40, 194247 Jug, 1939  
+Rosemary Wren (b. 1922) Student 1947-50 Vase, 1957
+
+![](images/6b08622acb8a4ae11489f30f5c5b46123e9e514101bbc1e3aaba1da38a0ebb0e.jpg)  
+Ray Marshall (1913-86) Student c. 1946 Vase with handles and bottle vase, 1960
+
+![](images/9b584d0571afb0b5b0a43af5e718779986d9499eb674701f2aba17f3eb6ca333.jpg)  
+William Staite Murray (18811962) Staff 1925 Chief Instructor 1926-39 Vase, c. 1930
+
+Canvas-free Artists
+
+![](images/09a05a813a3318d7b82c768c386ef34a67e20f402e16ad66a7322bf22bbfd805.jpg)  
+William Staite Murray Wheel of Life, 1937
+
+William Staite Murray Vase, c. 1935
+
+In 1930, Herbert Read wrote   
+enthusiastically of William Staite   
+Murray's teaching in an article   
+entitled 'Art and Decoration' in The Listener: 'Some experiments recently conducted at the Royal College of Art School of Pottery under the direction of Mr. W. Staite Murray are interesting as revelations of the possibilities that lie before canvas-free artists.' In one sentence Read had summed up Murray's overriding belief that ceramics was as valid an art form as painting or sculpture. Murray taught at the College from 1925 to 1939 and his unique approach was informed by Oriental mysticism and the notion that the Zen Master teaches by demonstrating rather than by speaking. Murray often spoke of 'feeling judgement' and saw throwing as a procreative symbol. His pots
+
+## CERAMICS
+
+Canvas-free Artists
+
+Henry Hammond. Vase, 1939
+
+Heber Mathews. Vase, 1958
+
+![](images/ec048ffd6c95dad5c300b59273a8986c541a685e9608f0b87162ec6452620818.jpg)
+
+were often enormous in size, and he would leave the marks of the throwing pieces as expressive features, but always turned the feet after throwing. Many works were left undecorated, covered only in rich glazes of greys and browns. Having been introduced by Bernard Leach, Murray learnt a great deal of craft technique from the Japanese potter Shoji Hamada and succeeded in significantly advancing techniques in kilns and glazes.
+
+The first artist-craftsman to have identified himself with the Fine Art world, Murray remained very involved with the avant-garde. He was friends with the Vorticist painters Cuthbert
+
+Fraser Hamilton (a collaborator) and Wyndham Lewis, and the artist Ben Nicholson. Murray also knew Henry Moore and during the 20s and 30s regularly exhibited work alongside fine artists in spaces such as Lefevre Gallery and Beaux Arts Gallery.
+
+Students who were particularly influenced by Murray's ideas included Sam Haile, Heber Mathews, Henry Hammond and Robert Washington. All four had initially studied painting at the College, but later transferred to Murray's class. In contrast to Hans Coper's later encouragement of individuality, Murray's distinct style was readily absorbed by his pupils.
+
+![](images/6d83c93ed7f3c555a916721e06b37269ebe6acca8e022cd2211062a3b61e31c4.jpg)
+
+Sam Haile. Jug, 1947
+
+Robert Washington. Vases, c. 1980
+
+![](images/ee0dd9a17fc812fc90695503577fd3c55c1aee47ebba2df4147841a649289257.jpg)
+
+Murray's gift to Hammond was the style of his brushwork, and the latter's absolute control of the art of brush decoration is the defining feature of his work. Haile was an innovative potter both in terms of the forms and the decoration of his work. Like Murray's work, his pieces embodied contemporary concerns in painting and sculpture, and he saw his work in ceramics as an extension of his activities as an artist. Haile produced large and very powerful stoneware vessels, in addition to tall, unusually shaped pieces which echo Murray's style. Washington similarly used the technique of iron-painted decoration in a freely brushed style, although to less effect than Haile.
+
+Mathews saw pottery as a nonrepresentational medium of expression in which to explore ideas relating to texture, substance and surface. He was to have an enormous influence upon Coper who later became his student at Woolwich Polytechnic School of Art. Murray wrote in Mathews' memorial pamphlet of 1959 that he was one of the few students who sensed the inner meaning of potting, and who saw that pots, when infused with vitality, could be an articulating art.'
+
+# 50s-60s CERAMICS &
+
+Professor Robert Baker, Head of the Ceramics School from 1948 to 1959, had little time for studio pottery. The policy of training students for design in the industry was continued by Professor David Queensberry, who succeeded Baker in 1959. By the mid-60s, however, the emphasis began to shift towards one-offs, spearheaded by Queensberry's appointment of Hans Coper and the sculptor Eduardo Paolozzi. There was a movement away from the throwing or casting of utilitarian domestic ware. Coper was to have a profound influence, fostering a respect for the integrity of the vessel and an understanding of inside and outside form, which was particularly inspirational to Mo Jupp.
+
+Stained glass had been studied at the College during the 50s. However, it was not until 1967, when the American Sam Herman was appointed to introduce and establish new techniques in glass blowing, that students got a real chance to work with hot glass themselves. Herman's influence produced a 'new wave' of graduates who became studio-glass artists, including Dillon Clarke, Annette Meech and Pauline Solven.
+
+![](images/720d54d954ce7c141197068d36bb909af8f3ae1ffdfe8ddf8c64e9bbf82441d4.jpg)  
+Tarquin Cole (b. 1933) Student 1956-59 Tile panel, 1983
+
+![](images/8da433cf85ec69a9971f46ee8106d1e078182f1c0f5eb8faeece1644d549753c.jpg)  
+Michael Harris (1933-94) Student 1957-60 Staff 1962-67 Seascape, c. 1985
+
+![](images/b3e72d270df40a07fc1521518cc56b1e46a29dbadea34fc8b101975639cbdded.jpg)  
+James Kirkwood (1943-95) Student 1965-68 Teapot, bowl and cup. 1968
+
+![](images/ed79a231a9a36eaa9ca5c0cda15f6f1cc8edf8a6e1381305ae1687aaa9b9eded.jpg)  
+Pauline Solven (b. 1943) Student 1965-68 Carafe and glasses, 1968
+
+![](images/f6f167a339bb69b04ed707693f596a96e1c03fe83ff7ee97f4292225e6024eb1.jpg)  
+Dillon Clarke (b. 1946) Student 1967-70 Rose Poppy bowl. 1986
+
+![](images/c6f9c4e832b5cfec253477a3649277e0a87eceeec4d722b5ba2e99f92e8a883f.jpg)  
+Gary Standige (b. 1946) Student 1967-70 Jar and lid, 1980
+
+![](images/9f4942fe099e4af7229afa08ed0016b6a8febc9ab3956c52c9744cb7c4328043.jpg)  
+James Campbell (b. 1942) Student 1960-64 Stoneware shapes, 1964
+
+![](images/85c26876a5e7d424f15b8ac23419fe04150513db18267b9adc66305f332e46b6.jpg)  
+Mo Jupp (b. 1938) Student 1964-67 Helmets. 1972
+
+![](images/3a6766f4936c4bea9f1a144af405994519376da4bffb9df8dc6ae7c89c0ff840.jpg)  
+John Cook (b.1942) Student 1965-68 Free-blown bottles, 1968
+
+![](images/882c532539b721c8133489d779be3e4f8e40f0f0ab817534d269237f159ab524.jpg)  
+Mary Keepax (b.1945) Student 1966-69 Untitled, 1969
+
+![](images/a9c3786d1eb2316b17a0181af579b1b68b499ea651da224f25d59a6186026e59.jpg)  
+Poh Chap Yeap (b.1927) Student 1967-68 Dish. 1981
+
+![](images/9d95965daa0c7e6e6637b74c1849de61a16b4f89d9424f9ee562e712791f57e0.jpg)  
+Val Barry (b. 1937) Student 1967-70 Vase. 1981
+
+![](images/255e2adf576d5cec07d002a128894a4ff7955bc51465815aee42f851c23b5960.jpg)  
+Geoffrey Swindell (b. 1945) Student 1967-70 Pots, 1970
+
+![](images/17bc627f0655e86212bd8e66a66031c56fee97dc4023e0539387a4d21aa7fe55.jpg)  
+Robert Baker (1910-92) Professor 1948-5 Evesham pattern, 1961
+
+![](images/c2141ed83d1cd7cdac0d8c3b4cdc75f6d5d1c91bfbbbc548e0cac61e3f6a9f30.jpg)  
+David Queensberry (b. 1929) Professor 1959-83 Cut crystal. 1963
+
+# 70s CERAMICS & GLASS
+
+The 70s heralded a more intellectual approach to 'craft' within the College and a re-definition of craft skills. Industry had benefited from the work of applied art students, but the 70s counterculture produced a climate of experimentation, and a 'new wave' of creative talent emerged. Professor David Queensberry considered his hiring of Hans Coper as Tutor in Ceramics between 1966 and 1975 to have been 'the most important thing that I have done in twventy years' work at the College.' Coper's emphasis on individuality, and a rejection of tradition inspired a new generation of graduating students including Alison Britton, Jacqueline Poncelet, Glenys Barton and Elizabeth Fritsch. The 'new ceramics' were primarily nonutilitarian but still made reference to functional vessel forms. The move towards the expressive and an exploration of the grey area between function and ornament can be seen in the work of Britton, Carol McNicoll and Richard Slee.
+
+By the mid-70s, the orientation of the Department was clear. Many graduating students set up their own workshops, often with the support of the rejuvenated Crafts Council, which aimed to promote the 'artist-craftsman'.
+
+![](images/d1d3a158ce204985cc10f0d13306a3a7e0ecc321883c2d36099ed7e3f828cd7f.jpg)  
+Elizabeth Fritsch (b.1940) Student 1968-70 Jar from Tlon, 1984
+
+![](images/0a3ea98ef7580d9aaf913cc22b5c43c04fae1653224ee1eb7ec8c8e0b8c1b138.jpg)  
+Paul Astbury (b.1945) Student 1968-71 Ceramic forms, 1974
+
+![](images/17be8e4fac55d3f757e5704b4cbef84f296b9c0a0704e4c72d7ffb4e862aa641.jpg)  
+Jacqueline Poncelet (b. 1947) Student 1969-72 Bowls, 1972
+
+![](images/4c40aa5170b260a742671b3660967a357539e14b92d02956647323b316d8c499.jpg)
+
+![](images/c8b53339fc059eea2c9ce2d339592b396442f4962da03b944ba80ecf03917cd2.jpg)  
+Jane Bruce (b. 1947) Student 1971-73 Vessel, 1982  
+Annette Meech (b. 1948) Student 1970-72 Tower Lights, 1987
+
+![](images/9874abeccb3d861730a36e4299940af63626afcee1489925be18838166efa018.jpg)  
+Antony Bennett (b.1949) Student 1971-74 Cop. 1973
+
+![](images/ae8b317fb65c998dbe75e5e6d06d901e1de0a3675e87bcad81a7b0906d0813c5.jpg)  
+Peter Aldridge (b. 1947) Student 1968-71 Staff 1972-78 Untitled. 1971
+
+![](images/8702b0a05a59d6bd449e8c310f1aaad212310f49256ff6b0dfeddb5f1ba49cfa.jpg)  
+Glenys Barton (b.1944) Student 1969-71 Plaque, 1981
+
+![](images/6bcecf706824a14c70d414e7fcc0c5805da0a9cc6e912d62ac255ef1e0739763.jpg)  
+Jill Crowley (b. 1946) Student 1969-72 Hollow Man, 1978
+
+![](images/8f83ca793e2eb6e7b6738f8b109666c2515361eade270050073bf57e7faf1c20.jpg)  
+Alison Britton (b. 1948) Student 1970-73 Staff 1984-present 'Bird' jug. 1978
+
+![](images/8e69cc825b75aeec056a5a91310317fd8e6641c1d07f83e2d75c0bf77e02d377.jpg)  
+Carol McNicoll (b.1943) Student 1970-73 Bowl, 1983  
+David Grant (b. 1948) Student 1971-74 Vase, 1985
+
+![](images/979768a03208e235313b87408b19e11b99a1bdb8ba7d0abe57a12077af49a9bf.jpg)
+
+![](images/e9b72dfdd7a3cd4fb60cd70d38c29ed44aa9f09859f0b52ffec03f0374aaa640.jpg)  
+Ingeborg Strobl (b. 1949) Student 1972-74 Untitled, 1974
+
+![](images/e23a4b6d58dc31b4301c65959c8630ca897ab88b08bf38f319a47eef2a45fe2f.jpg)  
+Clifford Rainey (b. 1948) Student 1971-73 Staff 1977-85 Untitled, 1973
+
+![](images/0e07c0e774f22437c0f8af72c93a69b574bdcd3a86908047dce7cb22c585ec45.jpg)  
+Steven Newell (b. 1948) Student 1972-74 Untitled, 1974
+
+# 70s CERAMICS & GLASS
+
+The 1970s proved to be pioneering times for glassmaking. Sam Herman, Tutor in Glass from 1968 to 1974, brought from America a certain freedom of expression. His fascination with glassblowing was facilitated by Dominick Labino's invention of the small studio furnace in the early 1960s. Herman established the first independent production workshop in London, known as the Glasshouse, which energized studio glass practice for a new generation of RCA students to come. Graduates who became involved with the space included Annette Meech, Steven Newell and Christopher Williams. Martin Hunt was responsible for developments in glass at the College from 1976 to 1986. He was also involved in the key international 'Hot Glass Symposium' of 1976. His work in architectural glass in the 1980s was influential. Lindsay Ball, Diane Radford and Clifford Rainey went on to create important monumental glasswork.
+
+![](images/32caf66d52942af82107873686f5c86f6abb05e9f0d82f5d0300c15c948ede08.jpg)  
+Nicholas Homoky (b. 1950) Student 1973-76 Bowls, 1976
+
+![](images/a28a427049b6223da29facb3bcd97da09041d06a10e212243e295415f154ee19.jpg)  
+Robin Levien (b. 1952) Student 1973-76 Vase, 1976
+
+![](images/817d5cae103ca6e0d1abcb1e6ce904f62c49c174a34b7ced012dc00294d9ce20.jpg)  
+Martin Smith (b.1950) Student 1975-77 Staff 1989-present Form on Plinth, 1977
+
+![](images/e4c722546a0d0181745c33c6cdcbdb9d096e1e42bdc8b983d7ec328b95613457.jpg)  
+Lindsey Ball (b. 1952) Student 1975-78 Perfume bottle and holder., 1978
+
+![](images/cb1e116495053140f7221b3b9f6432c1469d328468bccbbe7299cac82666d856.jpg)  
+Maureen Robinson (b. 1956) Student 1978-80 Cocktail shaker and glasses. 1980
+
+![](images/216e66ba4faa9758bfd95ab0ac6acae5c2538cb77ff1b3a18229ca864639c3a0.jpg)  
+Martin Hunt (b.1942) Student 1963-66 Staff 1968-86 Ashtrays and vases for Habitat. 1971
+
+![](images/c45dcd5da7098c1d09d4e4aba1e2a31c691f8a4d1a1d443f03bad30e8e6ac0f3.jpg)  
+David Scott (b. 1950) Student 1973-76 Landscape, 1976
+
+![](images/fd63f3584dd347abaaa2cceb8e34ae746aae6cc348586a9a145435bb2967cab9.jpg)  
+Julia Wood (b. 1953) Student 1975-78 Untitled, 1978
+
+![](images/f54ba1c5019927c8b6a33ce1b78b8ae33226aab82c8d7fc41239ec21fb66452e.jpg)  
+Sam Herman (b. 1936) Staff 1968-74 Glass form. c. 1970
+
+![](images/38a2ce8f141f0366308048c4940251ad5db925b5e72f74a836b6e33e7e30d949.jpg)  
+Jane Osborn-Smith (b. 1952) Student 1974-77 Untitled, 1977
+
+![](images/17d6d9221bfe0d9a3239978ca4333a77685b9e0498cb80a4bce3f662713bbffe.jpg)  
+Christopher Williams (b. 1949) Student 1976-78 Cut vase. 1995
+
+![](images/f580e1adc48b0bbc7f2b2718e8316be31e4a3adfffabe191b134d46bfa04a3b5.jpg)  
+Hans Coper (19201981) Staff 1966-75 Vase, 1958
+
+![](images/ac8c86bc8a3f1913f4425a285f7e858ce1eb87f4111326aae57d544462dd153f.jpg)  
+Diane Radford (b. 1943) Student 1975-77 Architectural glass, 1978
+
+![](images/d76974cf0b61ef06c0d1fcd26de98ab2f0e8535216c043aaf393068bacd46e20.jpg)  
+Charlie Meaker (b. 1946) Student 1977-79 Vase, 1979
+
+![](images/75319b919708fdc1a5a5b95409dae5e8195401244daf5b2b6a224127f1f11ecd.jpg)  
+Eduardo Paolozzi (b. 1924) Staff and Visiting Staff 1968-89 Portrait of Matta. 1978
+
+# THE NEW CERAMICS
+
+The outer limits of function
+
+![](images/ca6b3f11a1afd6bc8e3869aaa2547b385aa6b4abed4234264286bffda667520f.jpg)
+
+![](images/63c3d12208e171cb57cf9b814be9c0c6c74342f230704f99b531bff6bc092f59.jpg)
+
+Elizabeth Fritsch   
+Optical Pot, c. 1980   
+This work illustrates Fritsch's interest in manipulating the vessel form by flattening its shape and using perspectival constructions.
+
+Bernard Leach's belief that there can be no beauty without utility has had an enduring influence on British ceramics in the twentieth century. By the 70s, however, a new generation of makers began to question the area between function and ornament. Spearheading this change were a number of female ceramicists who graduated from the RCA between 1970 and 1973, most notably Glenys Barton, Alison Britton, Jill Crowley, Elizabeth Fritsch, Carol McNicoll and Jacqueline Poncelet. In breaking with British tradition, these makers often appear as a group, although their individual practices are very different. In The Maker's Eye catalogue of 1981 Britton commented: 'I would say that this group is concerned with the outer limits of function, where function, or an idea of a possible function, is crucial, but is just one ingredient in the final presence of the object, and is not its only motivation.'
+
+In addition to their tutors, such as Hans Coper, Britton, Fritsch and Poncelet benefited from the influence of American ceramicists of the 50s, particularly Peter Voulkos, and
+
+# THE NEW CERAMICS
+
+The outer limits of function
+
+![](images/0ee39c3998818497fb2efa63dcefc239abf1b97e83cf4e4f46c9d260a1df8ff5.jpg)  
+Jacqueline Poncelet Form, 1981  
+The open 'boat' shape is characteristic of Poncelet's work during the early 80s. Here she incorporates the edges into the overall pattern by using colour, illustrating her interest in blurring the boundaries between inside and outside.
+
+American abstract painters of the 50s and 60s. Voulkos's work highlighted the sculptural and abstract possibilities of the medium of clay, and American abstraction opened the way for the adoption of the gestural mark. During the late 60s and early 70s, craft was marginalized in Britain, receiving ittle critical attention, and it is not surprising that applied art students at the College sought to align themselves with Fine Art.
+
+Fritsch was the first of the 'new ceramicists' to graduate in 1970, although she was originally rejected when she applied in 1966. David Queensberry accepted her to the Department the following year due to 'a most unusual sensitivity'. Coper prompted her interest in painting pots which led to her experimenting with geometrical patterns and colour. Her intention was to combine form and pattern, and she drew upon her background in music (she had studied at the Royal Academy of Music) and her intellectual leaning towards mathematics.
+
+![](images/b8cfe63b08283ba0b71ac9bf0eefd4ea3787c67ee902c7e16075ece452c6f045.jpg)  
+Alison Britton Pair of Jugs, 1978 Highlighting Britton's interest in a multiplicity of viewpoints. the images are painted so that they read like a book.
+
+Alison Britton Vase, 1981
+
+![](images/00d8372aece3845b6832621617a41d1f9e03e06a56affd11985026d7f96f9b31.jpg)  
+Here Britton's move to abstraction can be seen in painted decoration which is bold. expressive and gestural. The interior of the pot is emphasized by the shadows cast by the angled edges.
+
+While at the RCA and for a short period after graduating, Britton produced ceramics with a figurative content, as seen in her tiles. However, by the early 80s, Britton had moved on to 'containers' and the decoration applied to these works became abstract rather than pictorial. Informing this change was an interest in modern painting and architecture. In her early pots she broke away from the conventional round shape of the wheel-thrown pot and, through slab building, was able to develop a freer association between form and decoration. Britton's interest in asymmetry and surface decoration then deepened.
+
+Poncelet was similarly concerned with the form of the vessel, but began to move much more towards ceramic sculpture. Her early pots were made of fine bone china but, by the mid-80s, she was exhibiting work as sculpture in contemporary art galleries. With angular and geometrical shapes and bold decoration, these large sculptural works broke away from the convention of a single base support. Together, the graduating students of the 70s expanded the boundaries of ceramics well beyond the traditional definition of 'craft'.
+
+![](images/b6a7a16296123952c1b304d62cbd03da99b7f9a29a849ed45180a8b56adcbb00.jpg)
+
+# 80s CERAMICS & GLASS
+
+During this decade, the disciplines and facilities of Ceramics and Glass at the College were amalgamated into the same studios. Whereas the previous decade had seen the rise of the 'artist-craftsperson', the 80s paved the way for the emergence of the designer-craftsperson'. The latter category encapsulated the skills and interests of the emerging generation as a renewed interest in the commercial sector grew in response to a demand for interesting design at affordable prices. The resulting move from studios to 'workshops' enabled the production of both prototypes and original works. This decade also saw the rise of an eclecticism in applied ceramics through the use of historical styles and techniques. Philip Eglin's figurative ceramics, which draw upon eighteenth-century tradition, were a good example of this. In 1985 David Hamilton took over from David Queensberry as Professor of Ceramics.
+
+Developments in Ceramics were paralleled by those in Glass - by the mid-1980s the College prospectus noted that the Glass specialism was involved in the 'fast-growing international arena of contemporary art-glass'. New techniques and technical developments in this decade saw a move away from glassblowing,
+
+Arlon Bayliss   
+(b.1957)   
+Student 1978-81 Pod, 1986 Fiona Salazar   
+(b.1949)   
+Student 1979-82 Pot, 1982 Ulrike Umlauf   
+(b.1953)   
+Student 1980-83 Vase, 1983
+
+![](images/7791ca3dfdbb7de1aec92f288a92b768712a4a999441b4544782df4eec9025fe.jpg)
+
+![](images/d01fff9df5d7dd0a9ae74e2430e1716829588929ccc81e0d4e2b95b86ff44cc7.jpg)
+
+Jane Macdonald (b. 1955) Student 1978-81 Untitled, 1981
+
+![](images/1af77fa8d69640fc6234d1b7dc2cf204845c384f4239b6a08293ea0ce95fb6bd.jpg)
+
+Deborah Fladgate (b.1957)   
+Student 1980-82 Glass, 1982
+
+![](images/5ec0d8217f4a4e92f944f65cca713a1fefee58a9fac29b3321e5d0b4c5b96d27.jpg)
+
+Anne Smyth (b.1958) Student 1981-83 Untitled, 1983
+
+![](images/97d1c1f65b6814f70ece8aaad3fd82df25f6408c0e1958755508d826ffaaa503.jpg)
+
+Julian Stair (b. 1955) Student 1978-81 Untitled, 1981
+
+![](images/aa7283b09d6d4dc1d9917b62cc57cf1d96a4f34ff577cfa56f8da0642f898895.jpg)
+
+Liz Lowe   
+(b. 1956)   
+Student 1979-81   
+Basket, 1981 Brian Blanthorn (b. 1957)   
+Student 1980-83 Bowl, 1982   
+Jennifer Lee   
+(b. 1956)   
+Student 1980-83   
+Pot, 1983 Magdalene Odundo (b. 1950)   
+Student 1979-82   
+Pot, 1982
+
+![](images/9cecadbc331d941d0fb83cbb5c1a4611e72a70326fdcc8d07bebb83ad6b41c49.jpg)
+
+![](images/d5a27870953285474ea695ce6e904654c1c3743483099b63345c579e097b638c.jpg)
+
+![](images/3a8aa07e652407b8048278a6342018db9bff063003ae46b9f8f4430af253077d.jpg)
+
+Anne Turner (b. 1958) Student 1980-83 Untitled, 1983
+
+![](images/2cafc1951b65a4988ac6f67971dfc62e747aed6b5b80448eb249c5b4e11867f9.jpg)
+
+Graham Boe Meeson   
+(b.1959)   
+Student 1981-84   
+Teapot, 1984 Rachael Woodman (b. 1957)   
+Student 1982-84   
+Bowls, 1983
+
+![](images/f86b39c270d9e25353e193bbc072f92193d27d896cb306911fa48020ad30fb83.jpg)
+
+![](images/91b6b238856b458e681909113564743b5a81f688e1e1746b639f917b9865fa1e.jpg)
+
+Joanna Veevers (b.1960) Student 1982-85 Untitled, 1985
+
+## 80s CERAMICS & GLASS
+
+and the facilitating of larger-scale works, such as the glass panel for Lime Street Station, Liverpool, created by Lindsay Ball, Diane Radford and Clifford Rainey. Keith Cummings who became Tutor in Glass in the mid-80s, promoted the making of kiln-formed glass.
+
+In 1986, the international conference 'Glass in the Environment', which involved the RCA, the Crafts Council and the Royal Institute of British Architects, acknowledged the growing possibilities of work in glass. Gradually, a more solid infrastructure for the collecting and selling of glass was growing in Britain, seen in the establishment of the Victoria and Albert Museum's Glass Collection and the continued work of the Contemporary Applied Arts gallery. The sculptural and decorative possibilities of glass were explored in relation to architecture and architectural form, as illustrated in the work of Brian Blanthorn, Diana Hobson and Rachael Woodman. The work of current artists reveals a diversity of expression, ranging from Steve Newell's visual narratives to Keith Cummings' use of natural form.
+
+![](images/545641ea14aa969f300ea08f4acf3d5292b78a614ae8e0d53e89c97606b6fcdb.jpg)
+
+Sasha Ward (b. 1959) Student 1983-84 Rosey Garden, 1985
+
+![](images/628a04e975cd3ab698cbfab370104bbe39c18d1bc9014924770294dd6d8569d2.jpg)
+
+Anna Dickinson (b. 1961)   
+Student 1983-85 Vase, 1985
+
+![](images/dfaf81459e31b514282286ec27fda7cea44b7ac7bf3b3957b079391a8dc70b8f.jpg)
+
+Rosa N-D Quy (b. 1960) Student 1983-86 A Man Called Horse, 1986
+
+![](images/c32abda1e076eb27a3de76cf1f8ca541ed45d6143fe44c589efdf337b635abe0.jpg)
+
+Paula Slater (b. 1964) Student 1987-89 Untitled, 1989
+
+![](images/330ea93c58b3eb462701ac22c80cfe508e7b141228de9ecb39b976f9a15b8674.jpg)
+
+Ken Eastman   
+(b. 1960)   
+Student 1984-87   
+Dish, 1987   
+Keith Cummings   
+(b. 1940)   
+Staff 1986-89   
+Edge, 1988
+
+![](images/2eed8c9da93a0f3aedf57b893005d3ae1b28e614c636fea7cb747da45be35b9c.jpg)
+
+![](images/8924c5d017acf338b031ccade886ada3e4291aba4299ed418dd0c2adb04a9dc4.jpg)
+
+Stephen Dixon (b. 1957) Student 1983-86 Untitled, 1986
+
+![](images/d61975cd087f02aa0033484abb61cfd11c85966ddd4f6402dbf38d919d9d5bb1.jpg)
+
+![](images/8cba674493cc2d2a1e6cbae33f6dd1f9db645a42fd0e1e11bcee06c06bc1e605.jpg)
+
+Karen Densham (b.1960)   
+Student 1985-87 Dish, 1987   
+Janice Tchalenko   
+(b.1942)   
+Staff 1981-96   
+Bowl, 1985
+
+Philip Eglin (b. 1959) Student 1983-86 Reclining Nude, 1986
+
+![](images/b0360fb76b6abbb6f20f358a3bbd2079fe9aa87b9de85ce0d252723141a5b1ba.jpg)
+
+![](images/ced0c7616ac819e7637e63171cb8833e33774b4ba069550af6f5749c55f4d1f3.jpg)
+
+Richard Slee   
+(b. 1946)   
+Student 1986-88   
+Dish, 1988
+
+![](images/7a397fb2f00ace63e7a8bc38128542414e956fc0a70785d664b7e8ed4eb5a657.jpg)
+
+James Roddis (b. 1949) Staff 1985-93 Still Vessel VI, 1991
+
+![](images/77cf3aa3535fccddb4b15a1a96ac472d73b2bca6ef04c16a5462078a1d3d61e1.jpg)
+
+Kate Malone   
+(b. 1959)   
+Student 1983-86   
+Vase, 1986
+
+![](images/66b444859fb44b7a8170eebd253b2bb3aa770c2c2ac3c336586b8b90e5bc4afc.jpg)
+
+Gwen Heeney (b.1952) Student 1987-89 Untitled, 1989
+
+![](images/2c0f10de44ee39ec79cfd8ecb7d0f00f5d935763676bb747c4dfc5f98a3e7578.jpg)
+
+David Hamilton   
+(b.1940)   
+Staff 1974-84   
+Professor 1984-present   
+Euston Underground Station, 1988
+
+# 90s CERAMICS & GLASS
+
+With the refurbishment and reequipping of the Ceramics and Glass studios and workshops in the early 90s, a level of integration far surpassing that of previous decades has been achieved, and this meltingpot atmosphere is revealed in the diversity of students' work. Within the structure of the course, the individual histories of both the ceramics and glass disciplines are acknowledged, in addition to the exploration of issues relevant to both subjects. The decade has seen an increase in the use of computers as a creative tool for the ceramic designer, and the introduction of CAD/CAM facilities to the Ceramics and Glass course.
+
+A number of exhibitions of contemporary work held at the Victoria and Albert Museum throughout the 90s indicates that recent ceramics graduates and current practitioners seem apprehensive of function, being motivated more by a gallery approach than a desire to produce functional ware or design for industrial production. A lack of confidence in British industry can perhaps explain this. In addition, ceramics currently benefits from a cross-fertilization with painting and sculpture, and the ceramic avant-garde now receives greater critical appreciation
+
+![](images/f184f1cd78e3d99f6f1da1735c29e6354d7295d9976fe1ea5486a3b658850bd8.jpg)  
+Lawson Oyekan (b.1961) Student 1988-90 Untitled, 1990
+
+![](images/fd64131f51f717f78e088a3148ea46b0a199c9dc40e99ae6d67a9f3332fbc780.jpg)
+
+![](images/fa22007528cbea99956a6a520483125d715db8c583d6d1d871a6ad298afda4aa.jpg)  
+Ben Dunington (b. 1966) Student 1991-93 Staff 1994-present Tall vases, 1993
+
+![](images/0c8ed9f43e51463fda9de7cdc3e5c063463c3235b0580e3a51f91edd18435613.jpg)  
+Sue Pryke (b.1966) Student 1992-94 Kitchenware, 1994  
+Teleri Jones (b. 1964) Student 1989-91 Bottle and stopper with two double vases, 1991
+
+![](images/53c95d2e375d73c919f4ee3fdf20a87cb6aa4ceea0fe76cf9b7e68a3aef6098f.jpg)  
+Steve Harrison (b.1967) Student 1991-93 Salt-glazed jugs. 1993
+
+![](images/a80c4361f33d67ba8ed471b6ad62d7da18f2f5fef496e096f12acd4575ef49c4.jpg)  
+Dai Rees (b. 1961) Student 1992-94 Blue and green should never be seen . . . . 1994
+
+![](images/e3943d003777c3a99fe46b73d6a27a27fbe9a0e8349ca7f7a274982cfd3762b9.jpg)  
+Keiko Mukaide (b. 1954) Student 1989-91 Metamorphosis, 1996
+
+![](images/f26f1bc94f68b839f50aedbd53271c8791513120c41087b2672a5f80ef3a6a16.jpg)  
+Rebecca Newnham (b. 1967) Student 1989-91 Mosaic stilettos, 1991
+
+![](images/cb9c297e5c91f0db6aa5542700d02773bd657f21ee3abd33dab82761a16a49c2.jpg)  
+Jackie Sneade (b. 1958) Student 1989-91 Dichroic table light. 1991
+
+![](images/72712d4aede5a4e10f04d863878dd9b628ff1153281ab78e3fe3f1e6ca07c16c.jpg)  
+Hadrian Pigott (b. 1961) Student 1991-93 Freezeframe, 1993
+
+![](images/f8c75bd9dd904cfc813e8adb30aca025ce31218a0699aa73f28b7ac5843a09a2.jpg)  
+Emma Woffenden (b. 1962) Student 1991-93 Eyeless. 1993
+
+![](images/34d0e9ec641078b9e55d1c37d65a9f105be7bccbddbd5dd821f3e9486d953516.jpg)  
+Rupert Blamire (b. 1972) Student 1993-95 Urns and bowl (detail), 1995
+
+![](images/cf6666086e5bc49ac26fa0d14118b9c5d56961c019914772ce54c32fa5cd5bfb.jpg)  
+Neil Brownsword (b. 1970) Student 1993-95 Four Months. 1995
+
+![](images/d8e0e7a930e1885e0dc5f92333a6ab6c46b7418418b3d3c4e0b4df1cd5f11912.jpg)  
+Jane Cox (b. 1962) Student 1992-94 Large server. 1994
+
+![](images/352b1c423a5d4c788518ad81d811a366cf22d27857769b1068ef229681d8b5f1.jpg)  
+Martin Moore (b. 1967) Student 1993-95 Teapot - These Boots. 1995
+
+# 90s CERAMICS & GLASS
+
+than in the past. Cross-overs with other disciplines have led Hadrian Pigott to achieve success within the art world, and enabled Dai Rees to diversify into fashion. The history of ceramics is appropriated in the figurative work of Martin Moore, which caricatures the conventions of Staffordshire figures.
+
+Significant advances have been made in glass practice, considering that this is only the third decade in the history of the studio glass 'movement' (although this movement has never been cohesive and encompasses many individual and diverse styles and techniques). Reflecting these advances, the 1992 College prospectus states:
+
+'Upon graduation, a student may become a professional maker, a designer for the glass or ceramic industry, a decorator of industrial ware or a creator of architectural decoration. In a lifetime's career each one of us might work in several or all of these.'
+
+![](images/8fb82862f5aef68d186a9a8278c1fc8ba6c0e84f1c98340ef0483ba03e410b6c.jpg)  
+Nick Rena (b. 1963) Student 1993-95 Blue-grass, 1995
+
+![](images/84919bd1b6ae5c86aa19722741737b5377dad61a12577ec68925d6b45734db23.jpg)  
+Bruno Romanelli (b. 1968) Student 1993-95 On the Edge II, 1995
+
+![](images/0b6fd1646d4524831f38dc323372693fec94d6374b00d3cc65ea598a49b2c483.jpg)  
+Claire Twomey (b. 1968) Student 1994-96 Dark Spaces. 1996
+
+![](images/89cc3aa5f8e11faff38707c0cc7e390ea71d20429eeab818e23dbc743f8a5754.jpg)  
+Peter Aldridge (b. 1947) Student 1968-71 Staff 1972-96 Portals of llusion. 1993
+
+![](images/8031ff546ca75a40eaefa4dc7fbfaf4c8dc82cd7f92412c7b621d4a04c46d5e7.jpg)  
+Marianne Buss (b. 1967) Student 1995-97 'Trails' bowl, 1997
+
+![](images/e377df6dbd2d5f9bb0d4b20a4177346a74d69bfd4fc05b4a2ccc973ee573ca32.jpg)  
+Alison Britton (b. 1948) Student 1970-73 Staff 1984-present "Light Double" pot, 1998
+
+![](images/3e13661cc5ce378e8ba820386791edd02c94d6716b75fa4b6cf5552e461fc516.jpg)  
+Felicity Aylieff (b. 1954) Student 1993-96 Water vessel, 1996
+
+![](images/14d01bbc8e4684372f371e0e69451b4f08f62a5b99aaf84d0ede2ee06def5f40.jpg)  
+Janine Clements (b. 1970) Student 1994-96 Evocation of Presence I-IV. 1995
+
+![](images/fa43f1c66134a5081ee20c6c8e8914b090849a764a379ed2ff559934d518cbeb.jpg)  
+Mary Jo Doherty (b.1971) Student 1994-96 Free and Easy, 1996
+
+![](images/189e06da437b450a7249917bab78b201e14b9bc74f21e7c0d59811c627a4885b.jpg)  
+David Field (b.1965) Student 1996-98 Just arrived but time to go. 1998
+
+![](images/52bef811c789610fed90cea538d0e5320c3dd87b239e9d54b738d97bdd8ca0fb.jpg)  
+Hsueh Chun Liao (b. 1969) Student 1996-98 Silence, 1998
+
+![](images/5b7944695b3296f6ae521660cbe14c99e82a79dbd6ddcbf6d4225ed2de026a78.jpg)  
+Shaun Wells (b.1968) Student 1996-98 Ruptured Square, 1998
+
+![](images/1fe83d47d295b8ecf1fad0c3639c0e6e84f857174135908e90a4834235cb0c84.jpg)  
+Simon Moore (b.1959) Visiting Staff Visiting Professor Conical leaf vase, 1998
+
+![](images/1602761679584c8ecd576b46879cd52b726ae53ea942532e942efebd05eb3f4f.jpg)  
+Martin Smith (b. 1950) Student 1975-77 Staff 1989-present Untitled, 1992
+
+![](images/87f757ebd7089f04b2d1af041564816617b9dfbe79ea186ce1e5b46f64427d5e.jpg)  
+Elizabeth Swinburne (b. 1957) Staff 1997-present Chain, n.d.
+
+# 50s-60s STAINED GLASS
+
+Martin Travers joined the College to oversee work in stained glass in 1925 and taught Lawrence Lee who later became a partner in his studio. Lee then succeeded Martin Travers as head of the new and independent School of Stained Glass in 1948. A comprehensive exhibition of students' work was shown at the Royal Society of British Artists in 1950 which led to a new generation of students attracting a great deal of attention. In particular, the work of Lawrence Lee and students Keith New and Geoffrey Clarke was favoured by architect Basil Spence, and the three were awarded the prestigious commission to design windows for the nave of the new Coventry Cathedral  the earlier cathedral had been destroyed by enemy bombs in 1940. The old mural studio, which joined the RCA to the Victoria and Albert Museum, was made available for Lee, Clarke and New to create ten seventy-foot windows based on 'man's progress from birth to death and from death to resurrection and transfiguration'.
+
+Geoffrey Clarke   
+(b. 1924)   
+Student 1948-52   
+Nave Window, Coventry Cathedral,   
+with Lee and New, 1956   
+Brian Milne   
+(b. 1933)   
+Student 1958-62   
+For the British Section of Italia   
+Exhibition, 1961
+
+![](images/6a01b315b24b27cd78c932b17459b7000987055154220ec45e63dbecbeb980c3.jpg)
+
+Timothy Lewis (b.1940) Student 1962-65 Glass appliqué, 1964
+
+Keith New   
+(b. 1926)   
+Student 1948-52   
+Nave Window, Coventry Cathedral,   
+with Clarke and Lee, 1956
+
+![](images/898616c8026a515d36bb529ccb97bade153258f6d70bab10862e4dc0a24eee7b.jpg)
+
+Pauline Boty (193866) Student 1959-62 Landscape, 1960
+
+![](images/e21d1e90e1032f35fa47d9218a1d56e350450f4e088e044276244d1a1eac2f0d.jpg)
+
+Rita Wild   
+(b. 1940)   
+Student 1962-65 Glass appliqué, 1965 Jane Gray   
+(b. 1931)   
+Student 1952-55 Glass panel, 1982
+
+![](images/aedd1160e0b797bcdec127c9194bf506e246f15c4dd301b736684cd924d6c49d.jpg)
+
+![](images/fa933216c1ce507e258c39533a93e8ccf26a2f0d5414c8c1592bf78228a75b3f.jpg)
+
+Antony Hollaway (b. 1928) Student 1953-57 St George's Window, c. 1977
+
+![](images/178ff8da9ccb1ab3f9c100eeac24e6626e3a121ebebbb2ef572006e9633bc902.jpg)
+
+Ken Baynes (b. 1934) Student 1957-60 Student work, 1959
+
+![](images/d7f006068a36e4a8b86d2ffca2ab1e681a923b0bbb41de2d6d83667c4037f2f4.jpg)
+
+Ray Bradley   
+(b. 1938)   
+Student 1959-62   
+Main Chapel Window, Bar Hill   
+Church, Cambridge, c. 1970
+
+![](images/cdbb48ee85b11e62ecf4ce5ba40df2a6010c072a40d069fff5c4e37cae729efc.jpg)
+
+Michael Coles (b.1940) Student 1961-64 Glass panel, 1964
+
+![](images/0fc595aea10d4c064077b867555b81015f4229589a921ff2c29f1ef4dfc5360e.jpg)
+
+Joseph Nuttgens (b. 1941) Student 1961-64 Crucifixion, 1964
+
+![](images/da20bfd8651d5c0f69f33695c2a26e8c41d2d60ac13481d09b1cb7d24c13ec00.jpg)
+
+Diana Taylor (b. 1942) Student 1963-67 Degree Show, 1967
+
+Martin Travers   
+(1886-1948)   
+Staff 1924-48   
+North Chapel Window of St Stephen's   
+Church, Portsmouth, c. 1924   
+Lawrence Lee   
+(b. 1909)   
+Student 1944-48   
+Staff 1948-68   
+Nave Window (detail), Coventry   
+Cathedral, with Clarke and New, 1956,
+
+![](images/948bb9cb3f9574737566f580761e9bc9058b2b72133a6a23e391f3858d4a6d42.jpg)
+
+# 50s-60s METALW0RK
+
+Britain witnessed a surprisingly swift renaissance in silversmithing in the post-war years, considering the debilitating effects of the Second World War on the silver industry. The Worshipful Company of Goldsmiths encouraged a revival in the patronage of craftsmiths by civic and corporate bodies, boosting the market during the 50s and 60s and allowing greater artistic freedom to makers.
+
+Silversmiths Gerald Benney, David Mellor and Robert Welch were part of the 50s generation of RCA graduates who successfully combined their roles as artist-craftsmen with their equally influential roles as industrial designers. The inclination to design for mass production was due in part to the high price of silver, which made it difficult for professional silversmiths to survive, but also to the Scandinavian design influence which introduced stainless steel as a viable alternative to silver. In addition, there was a demand for affordable, well-designed household products. During the 50s, the Scandinavians led the way in developments in silversmithing, introducing a simple, modernist aesthetic. In Britain, although these ideals were readily adopted, the pre-war tradition of producing decorative work in silver
+
+![](images/79db164485eea28c46a86837baaf7a172e9528afe3f415604ffba6373326f7f6.jpg)  
+Brian Asquith (b. 1930) Student 1947-51 Trophy. 1979
+
+![](images/0d0b13cfc2e21680e91bd1e3a2a3fc4207b2b87ab3473218b4fca816ba58d213.jpg)
+
+![](images/8c29d9f7a4e726c818373a26ce586c0b3482724a35feacbd21b8ba5b9c92e37b.jpg)  
+Robert Welch (b.1929) Student 1952-55 Coffeepot, 1973
+
+![](images/49cb012cf4dbf895485114a348d8e7f939b4c3f144748e781981af2d8301d766.jpg)  
+Keith Tyssen (b. 1934) Student 1957-60 Altar cross and candlesticks. 1964  
+Eric Clements (b. 1925) Student 1949-52 Tea service for Mappin and Webb, 1964
+
+![](images/1da777e0b3d5f68b89d42a0709d735eab8f2d2722b1d44cfb81bd210d22e2615.jpg)  
+John Donald (b. 1928) Student 1952-56 Badge of Office for Sheriff of City o London, 1973
+
+![](images/b6371d5e666acafb592c0a51eee0910757eb4f2d910228b55765fcc392684094.jpg)  
+Gerald Whiles (b. 1935) Student 1957-60 Tea caddy. 1960
+
+# JEWELLERY
+
+![](images/2f06f77268c6278e8188e8d2838c907334a3d950e6f0fe6c29f2071b784d9580.jpg)  
+Jack Stapley (b. 1925) Student 1949-52 Rose bowl, 1953
+
+![](images/c5f70723d442595d4e6a820dc41f3b50ee1f59cc9cf6a79db38dcbc64355f03a.jpg)  
+David Mellor (b. 1930) Student 1950-54 Candelabrum, 1958
+
+![](images/a5f43fcdc139b30ba04f3bd9c802857b85acdd60d90c3e467336dc9c735c88a6.jpg)  
+Stephen Maer (b. 1933) Student 1954-56 Ring. 1973
+
+![](images/523d8da888d2da18a98e1ae315672456c06092792b6ed356166267be9e3a462d.jpg)  
+Brian Wood (b. 1932) Student 1955-58 Necklace. 1958
+
+![](images/6b22e7e0ce0fc04a754b8aa1812b6876c03704d0cb7f72728242fbad8a894a92.jpg)  
+Stuart Devlin (b.1931) Student 1958-60 Coffeepots, 1959
+
+![](images/13f44008b9388caac3f3fd4d44a778957ed0a879c047e2558cda663443c959f0.jpg)  
+Tony Laws (b. 1935) Student 1958-61 Cigarette box, 197071  
+Gerald Benney (b. 1930) Student 1951-54 Professor 1974-83 Chalice, 1957
+
+![](images/c031698c5a68c97a2723977c2cbb19db18d1d638695794586c37026e0bdf59eb.jpg)
+
+![](images/415a069d2753adc75453dfd69e163f534ffd867e37a72140ba66826fbc4e788f.jpg)  
+Keith Redfern (b. 1935) Student 1956-61 Trophy. 1973
+
+![](images/98da4a0622d7e6b4a86fc320c0a669206317682702c57bcb582ed355ecdd2305.jpg)  
+Ronald Stevens (b. 1936) Student 1958-61 Water jug. 1973
+
+# 50s-60s METALWORK 8
+
+(incorporating allegorical and heraldic motifs) was equally dominant.
+
+The Festival of Britain in 1951 and the Coronation of Queen Elizabeth II in 1953 were key opportunities for commissioning commemorative silver and recognizing the talent of British silversmiths. Robert Goodden, who became Professor of Silversmithing and Jewellery in 1948, played a leading role in the Lion and Unicorn Pavilion, and his tea service in parcelgilt silver is typical of this phase. Gerald Benney, who became Professor of Silversmithing and Jewellery in 1974, was commissioned to make work for Coventry Cathedral in 1958 and for Leicester University. The Goldsmith's Hall began to commission and collect work by emerging silversmiths and purchased Stuart Devlin's coffee service while he was a student. With its sleek, minimal form (achieved by using heat-resistant nylon for the bases, which meant that he did not have to include handles in the design), his work moved away from figurative decoration and was inspired by Benney's technical innovations in surface texturing.
+
+![](images/eebce65c00ccaa748b9054d7e7e0f2c57b865d0508dda3db9fe6fe20c17ecdd8.jpg)  
+Andrew Bray (b. 1938) Student 1960-63 Punch ladle, 1962
+
+![](images/b433b300b8f8d74b73eacc930ac662c07330427c6ff023e3a528a151a94fa33d.jpg)  
+Anthony Elson (b. 1935) Student 1960-63 Teapot, 1963
+
+![](images/11d3b2dd06625541baf8651b85c3e30dd6dac1e5f4c982454e50bccf250ffe41.jpg)  
+lan Beech (b.1941) Student 1962-65 Pair of vases. 1965
+
+![](images/ec6cc80806d9f4988e72f50caac7a38b59ccbe05556b178953370ae9e84cb84b.jpg)  
+David Frost (b. 1939) Student 1962-65 Bowl. 1965
+
+![](images/f7bcbb1f0689d60c1c9fdc7eec70d28ff74300f343a27d3104a70ea3d58ce0ba.jpg)  
+Dorothy Hogg (b. 1945) Student 1967-70 Necklace. pendant and ring. 1968
+
+![](images/b0028eebd0f70fb53f3e2a0f18ceddb0998de2372eb36963e934203a4b765e22.jpg)  
+David Courts (b. 1945) Student 1968-71 Necklace, 1969
+
+# JEWELLERY
+
+![](images/107eee211e4c5a6770e7dc3b858c56810da6a12e6e0c1ae84006734f9fec5502.jpg)  
+Laurence Sparey (b.1939) Student 1960-63 Sunglasses, 1984
+
+![](images/032556ecf6b134ee3c0d106b39f1aed69cf6ad7c2e7c14287442e406a8e31114.jpg)  
+lan Rodger (b. 1938) Student 1961-64 Teapot, 1964
+
+![](images/e7fc66e2b45ad1bc1423de102eb16a695b77f9a703fc862d55343e8a36d10c4b.jpg)  
+Robin Beresford (b. 1938) Student 1961-64 Pair of candlesticks, 1964
+
+![](images/6b64d90cf7079a2b5985e67b7f903a0888470fe315f1ed9a62047a7a3115e3d4.jpg)  
+Jacqueline Mina (b.1942) Student 1962-65 Staff 1985-86 Ring. 1980
+
+![](images/d5c6b1541ed3155d7507c03c7c3cd7302d5aa82e1f75330ba54b85b6b55e2356.jpg)  
+Roger Millar (b.1942) Student 1963-66 Teapot, 1965
+
+![](images/947982de5c3bd703be1acc663925072c247faf24abc41926874a77fb397b6234.jpg)  
+Malcolm Appleby (b. 1946) Student 1966-68 Chess pawns, 1973
+
+![](images/3aa72f67c1df9072d0856714a3cd6ab1cd68aacae84378a4d425b0242119a0b3.jpg)  
+Hector Miller (b. 1945) Student 1968-71 Honey dish, 1969
+
+![](images/5d95ea5acc8eaeef253f460af6e1ead30ecf1ed355518df64ed9513039590644.jpg)  
+Michael Milligan (b.1944) Student 1968-71 Flower necklace and ring, 1983
+
+![](images/0d1a7eb5110b97164c3601a8db99d6db173ff9f1652351a60656ce0e7b1c4635.jpg)  
+Robert Goodden (b. 1909) Professor 1948-74 Tea service. Festival of Britain. (made by Leslie Durbin), 1951
+
+# 70s METALWORK &
+
+Under the leadership of Robert Goodden, the Department of Silversmithing and Jewellery was intensely skill orientated. The main aim of the course was 'the art and craft of gold and silversmithing', in addition to related work in other materials. Students produced a variety of objects, ranging from tea sets and cutlery to home ornaments and jewellery. The late 60s and 70s saw the rise of the artist-craftsperson, in which traditional concepts and forms of metalwork and jewellery were redefined, and ideas were prioritized over the inherent value of materials.
+
+Characteristic of the mid-70s was an interest in using unorthodox, nonprecious metals and materials, such as paper, glass, wood and plastic, and in experimenting with colour, for example in Eric Spiller's work. Industrially developed materials, such as titanium, also found favour with RCA students, as seen in the jewellery of Edward de Large, Ann Marie Shillito and James Ward. Esther Knobel produced original jewellery using anodized aluminium and coloured titanium, which was refreshingly inexpensive, and was part of a general move to make jewellery more accessible.
+
+![](images/db20262a2a9aa9bfd6295b3481438664956c402d3384f6098a7bb6171d3769ab.jpg)
+
+Ann Marie Shillito (b.1947)   
+Student 1968-71   
+Belt, 1971
+
+![](images/0e642edbfb271041b9792d990b8c33b8dca1e35e6b18cfce810127dc407b755b.jpg)
+
+Eric Spiller (b. 1946) Student 1969-72 Bracelet, 1972
+
+![](images/781502934fc6038833d2ffe615f8905d2418dd031d1d6f28757cb7e43ab45d61.jpg)
+
+![](images/58f6da88043a9e8c356beb2e8571f9be9a27a6e574645129eb67ddfaca4119c6.jpg)
+
+Patti Clarke   
+(b. 1948)   
+Student 1969-72   
+Ring, 1971   
+Kevin Coates   
+(b. 1950)   
+Student 1973-76   
+Visiting Staff   
+Golden Fleece' brooch, 1976
+
+![](images/dcce74995fb8a9953156408a5d5db7d300e90791f1921fb151c45dd9b78eb128.jpg)
+
+Edward de Large (b.1949) Student 1972-75 Necklace, c. 1975
+
+![](images/4497bd6c5c8a9f50e479acbd065e9124ae9acea830141930e4d2770aa37c0237.jpg)
+
+# JEWELLERY
+
+![](images/83a89b06c19d4f6988a9e5398434abd870d2383ebb630cd3b3eea6e82aed550c.jpg)
+
+Robert Marsden (b.1947)   
+Student 1969-72 Box, 1971
+
+![](images/08fc3fe9638d727494668cf3c1db50aa837a24d4c2412027916c6db32aa59914.jpg)
+
+Celia Over (b. 1946) Student 1969-72 Mirror, 1972
+
+![](images/de2ad24ef62cfe6f978f85b41ad74a5e37cad4bc5bc8628bbb980a9a8ddf7d91.jpg)
+
+Michael Rowe (b. 1948) Student 1969-72 Staff 1978-present Double inkwell, 1971
+
+![](images/f360bf51ee1b0dab380174cfbd4c156088e3d2e820ab45239ebeee7757a17b71.jpg)
+
+Roger Morris (b.1946) Student 1972-75 Bracelet, 1975
+
+![](images/71b0c506ea45344992e2b0699808d6e480c675a5a1bc74f28033b89ca8d145e5.jpg)
+
+Ros Conway   
+(b. 1951)   
+Student 1973-75   
+Triangular-winged brooches, 1979   
+Fotini Kafiri   
+(unknown)   
+Student 1973-75   
+Ring. 1975 Michael Lloyd   
+(b. 1950)   
+Student 1973-76 Bowl, 1976   
+Martin Page   
+(b. 1952)   
+Student 1973-76   
+Box, 1976   
+Robert Birch   
+(b. 1947)   
+Student 1974-77   
+Bowl, 1977
+
+![](images/7587853de32e6ca6b70fc91f80fd95f9ac5d3872f3f169dfcda161e9022422b3.jpg)
+
+![](images/5a0c8e160eb640883303034372474ec18ffab03f001f0577bb22ce4dd3672c3e.jpg)
+
+![](images/6ae62dd7fc92267ed9d2d9ed6d16e314c2ad97dd0af90baaa17a1925bf5f4edb.jpg)
+
+![](images/e722f13c4fa311a456471649332835482163ec881b3534f3c21bcd66b5312f40.jpg)
+
+# 70s METALWORK &
+
+Kevin Coates, who later became a visiting tutor, created brooches which he called 'objects for contemplation'.
+
+Although a number of galleries had supported modern jewellery in the late 60s, it was the opening of Electrum Gallery in 1971 which provided the first space devoted solely to exhibiting the 'new trends' in jewellery. Like graduates in Ceramics and Glass, studio jewellers emerging from the RCA were given a great deal of support from the Crafts Council. Tutors Wendy Ramshaw and David Watkins were highly innovative and influential in the 70s, both sharing an interest in new materials and in the relationship between function and ornament.
+
+Towards the end of the 70s, it was clear that a new inventiveness was emerging from the RCA. It was now accepted that makers could use jewellery as a means of personal expression. The Department also witnessed a certain intellectualization of craft practice, as exemplified in the student metalwork of Michael Rowe.
+
+![](images/95a303bed4c50ae74253155bc034d3a958d46b08621e2760b70fe416277b8e69.jpg)
+
+James Ward (b. 1949) Student 1974-77 Titanium pendant, 1977
+
+![](images/3a59941a0d1e36f27d579153e131a3bdfc67d658c8380226a04ba2a981050495.jpg)
+
+![](images/d9339ca568d5ac3d9c88ca957c38c0afe0d3d9ed72738ac9e215eeff4e2f4ef7.jpg)
+
+Robert Legg (b.1946) Student 1976-79 Hand mirror, 1979
+
+![](images/d1bc29253bcf1bcf5486a1c2ac70bae6bb9ce0b236fb28f3867bc9476b9eedb2.jpg)
+
+Esther Knobel (b.1949) Student 1975-77 Bracelet, 1978
+
+![](images/ec581874d98faecd660af753e88796bb5799086ba3af37e332b074e4597578cd.jpg)
+
+Reema Pachachi (b. 1951) Student 1976-79 Accessories, 1979
+
+![](images/8d3c6baf694c1a8a88648b05a5611f4815fa6cc173238b3c975693ef68e31e7f.jpg)
+
+# JEWELLERY
+
+![](images/716b9bca817c7a4141003255b9fcd44c0a1fe729ad9e86d1dc798047fdcc4810.jpg)
+
+Tom Dobbie (b. 1953) Student 1975-78 Bracelet, 1978
+
+![](images/e4375786c1960b964b60c9e054bb03abd6524ef8e5e6f424c6e6b0c14cf510d7.jpg)
+
+Alistair McCallum (b. 1953) Student 1975-78 Pill boxes, 1978
+
+![](images/0915157ef4b28d8f029acc12b8e5dd3686744e059cee8c5050574d7dff5812fd.jpg)
+
+Clive Burr   
+(b. 1953)   
+Student 1976-79   
+Ebony and silver chopsticks, 1979
+
+![](images/001d9d56127b8b7d0e8ec4ad47b9a01dd10af13263e1a2f2bbd5f97b0f1ad525.jpg)
+
+Valerie Robertson (b. 1953) Student 1976-79 Hat pins, 1979
+
+![](images/1ef3396403990ed991d9521e5702aed29e0e46e7b240d4eea96ce7cdd90a6c1d.jpg)
+
+Jane Short (b. 1954) Student 1976-79 Tea caddy, 1979
+
+![](images/b8d363b9a0ec3f203d2da9e7c091158dacc796095dd7379c4498a0d1bb5aa385.jpg)
+
+![](images/303c80c74f721cbe10f55d1ab113e3e96a0076f322199f46ff2b05956c949466.jpg)
+
+Philip Popham (b.1919) Student 1946-50 Staff 1950-83 Senior Common Room condiments set, c. 1960
+
+Nick Aikman   
+(b. 1955)   
+Student 1977-80   
+Stainless steel tube, 1978
+
+![](images/e89e899e42a06349672353b37dfd0d0b7827ba8565695a5b436badeb064a8329.jpg)
+
+Gerald Benney (b. 1930) Student 1951-54 Professor 1974-83 Court wine cup. 1981
+
+![](images/72e1d3e909055709022ece9b1cf349a9a0c7dd86acc2dec038c4ce5148777c56.jpg)
+
+Bakri Yehia   
+(192582)   
+Student 1951-55   
+Staff 1967-76   
+Gavel, 1954
+
+# 80s METALWORK &
+
+In 1984, David Watkins took over as Professor, and, in response to the diversification of activities, the Department's name was changed to Goldsmithing, Silversmithing, Metalwork and Jewellery.
+
+During the mid-80s, as part of a College rebuilding programme, the facilities were reorganized and rationalized. David Watkins and Michael Rowe initiated a pilot scheme for a Small Metal Production Unit which was fully developed by the late 80s. This scheme aimed both to provide students with the design, production, marketing and management skills essential to produce batch jewellery and metalwork articles, and to foster fruitful collaboration with commerce. The craft-based jewellery and silversmithing studios remained integral. By 1985 the RCA prospectus was able to state that:
+
+'Metalwork ... may include the designing or making of artefacts in any suitable material or in combination with other metals. Jewellery may include fine, fashion or non-precious wearable objects. Silversmithing and Goldsmithing may be practised with an emphasis placed on imagination and originality.'
+
+![](images/503b6d1687f1f0fb7d0eec2ba85207d06720932ce2b0ed496ecd787a8018114e.jpg)  
+Elisabeth Holder (b. 1950) Student 1978-80 Staff 1985-88 Earrings. 1980
+
+![](images/ccd9416de6a63e2f9244fdb356db7e92fc100aed37665940c632ea6678ac574f.jpg)  
+Richard Fox (b. 1954) Student 1978-81 Cruet set, 1981
+
+![](images/d8bec1abffe16f33e475125f8e0b65a4e4ecc0c7738f99959f820af9c71af1f6.jpg)  
+Leonard Smith (b. 1956) Student 1979-82 Brooch, 1982
+
+![](images/b19fb49be2754b498f073fa6b3669fc4bcc57f9371429a0828147e689183ea95.jpg)  
+Marianne Forrest (b.1957) Student 1980-83 Clock, 1983
+
+![](images/677314620326fce1b9d2f67c13d37ceae82e6381e8b082edf71109fd19412bc3.jpg)  
+Debra Allman (b. 1960) Student 1983-86 Element Pins: Fire, Water. Earth, Air', 1986
+
+![](images/2e474997d9be08cfa884bb2002b527a6cbaaddcb3a1e15b49871c7f55abca43d.jpg)  
+Alex Brogden (b. 1954) Student 1983-86 Menorah, 1987
+
+# JEWELLERY
+
+![](images/e77a6556b393866b88eed4b54fcd4c6729249465986a7a7f57782091cc38a5b7.jpg)  
+Clarissa Mitchell (b.1950) Student 1978-81 Earrings. 1981
+
+![](images/0f523f73f10d1d917c0bfdd365a8dc446b03d6b3a1bbb4aec1604e1646a6ea91.jpg)  
+Cynthia Cousens (b. 1956) Student 1979-82 Ridged brooch, 1988
+
+![](images/76819a69f645decca54edca2772e81838b60dc7325c555e1482986e596c02396.jpg)  
+Trevor Jennings (b. 1955) Student 1979-82 Brooch, 1982
+
+![](images/26b58273652bc8db708c0eb25951955bce87f8d64e86123f48947fad41710276.jpg)  
+Rod Kelly (b.1956) Student 1980-83 Honey pot and spoon. 1983
+
+![](images/b9655713a7c14bd315eb5c245bcba5eca242e40211607c52566840677a1b77c4.jpg)  
+Julie Chamberlain (b. 1958) Student 1981-84 Bowl, 1984
+
+![](images/46388be374c11924f9ff6bf27d22b5820d14f0299ba54185c8ea2d26739ab95e.jpg)  
+Jane Adam (b. 1954) Student 1982-85 Necklace, 1985
+
+![](images/a73a2b9092b2fb9c9921a0fd629965c17bf70ab40bab779ebe13e3b8f73ccd21.jpg)  
+Tom McEwan (b.1959) Student 1983-86 Necklace, 1986
+
+![](images/31834036913c119485b7b8202d03d68109d4f6f7231ef8fd8f36c8988f1d8ddb.jpg)  
+Amanda Bright (b.1962) Student 1984-87 Etched steel form, 1987
+
+![](images/8631821a8865d0a78a46da2b56af81d7fd6bbebca2112f6d9d58538f309faf7f.jpg)  
+Hazel Jones (b. 1962) Student 1985-87 'The Currant Bun Project. A conceptual device to extract currants from buns', 1989
+
+# 80s METALWORK &
+
+Amanda Bright, Alex Brogden, Mike Savage and Simone ten Hompel became significant metalworkers, having benefited from the teaching of Michael Rowe and his seminal research into the colouring and texturing of base metals. In addition to the use of such materials as iron, steel, aluminium and copper as viable alternatives to silver, the mid- to late 80s saw the rise of computers in the design process, seen, for example, in Daniel Spring's development of CAD/CAM generated bowls.
+
+The enthusiastic use of nonprecious materials continued, as seen in the work of Daniel Spring, Maria Wong and Hazel Jones, amongst others. Like students in Ceramics and Glass in the 70s, this decade's generation embraced a wide range of influences and moved between the realms of both craft and art.
+
+The boom years of the 80s and the rise of disposable incomes provided a better support structure for independent craftspeople or 'designer-makers'. The increasing interest in individual work was aided by a growing infrastructure of galleries and shops.
+
+![](images/17c53fb277b61d5fc34473c0653b2f456d3cf287b76938f2c630ae9f51481c41.jpg)  
+Michael Savage (b. 1962) Student 1985-87 Spiral form. 1987
+
+![](images/6417bd5341b15d8df07643a6531960de68e1fc70600b659cd22f22e99b4cb3d0.jpg)  
+Mike Abbott (b. 1963) Student 1986-88 Brooch, 1988
+
+![](images/33fed3a91e55c1faa335d83244993a817d4602bf81eb5b47b712f0cc2308ba35.jpg)  
+Malcolm Betts (b.1964) Student 1987-89 Rings, 1989
+
+![](images/ce8aad2253a935cde6604505369ed0072f5971eb4698eb520821c1522cb585fd.jpg)  
+Sophie Harley (b. 1965) Student 1987-89 Brooch and earrings. 1989
+
+![](images/956174e9e85015eadf3287adda61c9c2d29a198e16005a3e7958badf223d5b68.jpg)  
+Esther Ward (b. 1964) Student 1988-90 Neckpiece. 1990
+
+![](images/d97d86026391a7c42dfc2863f8daa177f4a706a9755ea0a5b1633177729792d8.jpg)  
+Katy Hackney (b.1967) Student 1989-91 Multistorey brooch. 1991
+
+# JEWELLERY
+
+![](images/e358079f434c9e0e961c9f0c0fe0684a710ff4487dfd573469418cdbd0682946.jpg)  
+Zsuzsanna Morrison (b.1964) Student 1986-88 Reversible-sided brooch. 1987
+
+![](images/a882539497b3591d22c622c04104e18ed10efd93f0579593d3a1abaeb6694ea7.jpg)  
+Daniel Spring (b. 1964) Student 1986-88 Bowl, 1987
+
+![](images/6064e769e26536ac4d7ae83f458814c36a9188ae4ce48ede27236237b913dd9f.jpg)  
+Maria Wong (b. 1962) Student 1986-88 Earrings, 1988
+
+DESIGN
+
+![](images/cf26601fc40b5b62a675f375c3bb3f79336e1f6e403a085dfba1ae9f58184e63.jpg)  
+Mah Rana (b. 1964) Student 1987-89 'His 'n' Hers' ring. 1996
+
+![](images/df68c7e7b9d35348ecb447b14fd2353fd04e1c6639f25296979daed2287c48c3.jpg)  
+Simone ten Hompel (b. 1960) Student 1987-89 Bottle, 1989
+
+![](images/28d74bf8ee45c92dcfe2c83ee4c1d6b3a888177c7977fb73b738f8b90531fc28.jpg)  
+Rebecca de Quin (b. 1958) Student 1988-90 Visiting Staff Cone-shaped container, 1990
+
+![](images/7f55f2120cfe5c547ae9478d3c51aa84f5aad90cbd75bdc81aac9ff69ba6b399.jpg)  
+Maria Hanson (b.1967) Student 1989-91 Triangle neckpiece (detail), 1991
+
+![](images/643bd6763e6b3983329e49d9855091e6fcd655c7c41fba3cb525e27b01d222b7.jpg)  
+Michael Rowe (b. 1948) Student 1969-72 Staff 1978-present Cylindrical vessel, 1985
+
+![](images/ba4a9d2dfd166e0fc9198c6a9c20bf6e61f4447c1fef7c52d4148ccec214da6c.jpg)  
+David Watkins (b. 1940) Professor 1984-present Voyager. 1985
+
+# 90s METALWORK &
+
+Diversity characterizes metalwork and jewellery of the 90s. The previous decade, which freed precious metals from a historically perceived elitism, laid the foundations for the enriched metalworking practice of this period. A greater degree of eclecticism can be seen in contemporary work produced by RCA graduates  the natural is combined with the artificial, the everyday with the exceptional. Chris Knight's work surprises the viewer with combinations of contrasting materials such as silver and cork, and Adele Tipler has used electro-forming to create headpieces which operate within the worlds of art and craft, millinery and metalwork. Others have explored issues of gender and society.
+
+Key to the Department is the merging of the practices of goldsmithing, silversmithing, metalwork and jewellery, and as a result it is often difficult to categorize work, as students move freely between materials and their function. Emma Hauldren's work, for example, often serves a dual role as functional object and urban body jewellery. Such crossovers between function and form, the use of non-precious metals, experimentation in production methods, and the mixing of precious and non-precious metals make this a
+
+![](images/c4989fbd6f5ad55f441d613572e225dff5a8ebd46264565815f4b5957231f31d.jpg)  
+Andreas Fabian (b.1957) Student 1989-91 Knife, fork and spoon. 1991
+
+![](images/a32108e226d191e6e7a65e1b1d629194ac49714756b06c2fe12407de434c79ae.jpg)  
+Elizabeth Callinicos (b. 1966) Student 1990-92 Necklace, 1992
+
+![](images/cb21f590e9352048324194940656a2edaf5c90d744e0b39c2c2ed0793194f8d3.jpg)  
+Nedda El-Asmar (b. 1968) Student 1991-93 Condom holder, 1993
+
+![](images/6d79966e103af7ee78f87d0dd755f09d810b214b3642c84648c21c236a01ef7e.jpg)  
+lan Ferguson (b. 1945) Student 1991-93 Mokume Gane, research samples, 1993
+
+![](images/d346d10241460d398bb25b0cd575bf7b12877c68783a117b4722b003c8c47cc7.jpg)  
+Gavin Fraser-Williams (b. 1966) Student 1992-94 Brooch and ring in felt jewellery box, 1994
+
+![](images/2f6aa54292e580078477885753717688817f4af83e1ed5f88a1b9af69dc7ac46.jpg)  
+Emma Hauldren (b. 1967) Student 1992-94 Drinking flasks, 1994
+
+# JEWELLERY
+
+DESIGN
+
+![](images/addd85f5f62eab1e30b2e6651e9cc86d43f23c407370d2aa38ddd5d6fba2f514.jpg)  
+Giovanni Corvaja (b.1971) Student 1990-92 Earrings. 1992
+
+![](images/9a34257d0ec83b57b0b944f8cd20453f9d0cb066dad9ae08b71a17e8fe4996e4.jpg)  
+Chris Knight (b.1964) Student 1990-92 Spiked bowl, 1992
+
+![](images/d92c138e5e350bb9145b77fdf8a1058201ec7ad3870a70c9e18d0e67557a04ad.jpg)  
+Lucien Taylor (b. 1967) Student 1990-92 Cutlery, 1992
+
+![](images/44d8ac4b2a200de4a2cfee23937552c864a1615324fce5fe62c533c472e9b266.jpg)  
+Dawn Gulyas (b.1963) Student 1991-93 Bangle, 1993
+
+![](images/bb04284a121384f734700555682a1d890b859324851522b89f88929411a715ab.jpg)  
+Adele Tipler (b.1970) Student 1991-93 Golden Curls" 1993  
+Christoph Zellweger (b. 1962) Student 1991-93 Brooches, 1993
+
+![](images/07762640a6a107f4f993595fca81d048dc2664ce65c70be66f4e0cde25131548.jpg)
+
+![](images/68037161fc6022d8cfcbb42fd27c29b52ae8246289c55fbbae7ca9c0638e3497.jpg)  
+Antje Illner (b.1965) Student 1992-94 Staff 1998-present Necklace, 1994
+
+![](images/b2f7a57ff5db5eb80259764a1214df511d4b10a403f1cd8f008cb0ef6ba01b57.jpg)  
+Catherine Martin (b. 1949) Student 1992-94 Bracelet, 1994
+
+![](images/dd86b942f7cd3334fff8fa44464f550cf804a254fd52019626a7d90957df4531.jpg)  
+Nicole Stoeber (b.1969) Student 1992-94 Ring. 1994
+
+# 90s METALWORK &
+
+stimulating time. Wendy Ramshaw, as Visiting Professor, and David Watkins, as Professor, have been extremely influential to the new generation of makers. As one of the leading British jewellers, Ramshaw has imaginatively pursued the use of precious metals, while Watkins has pioneered the use of acrylics and other synthetic materials in his work.
+
+Most graduating students go on to establish their own workshops, designing and producing work for national and international exhibition and sale. Some become designers for the industry. The RCA prospectus, however, highlights the current emphasis of the Department:
+
+'Whilst the course encourages a practical understanding and respect for the priorities and needs of existing industry and an appreciation of the wider cultural values of its subject area, central to its philosophy is the sustaining of that individually directed contemplation, discovery and development which characterizes the postgraduate experience of this discipline.'
+
+![](images/6208993c78d537684d6621de7f040f822493c6021aa462ac81d83cbe3be5bdae.jpg)  
+Castello Hansen (b. 1965) Student 1993-95 Untitled, 1995
+
+![](images/40a940aaa884966949216b45c91e3d40d580a6879233d44f735977a47eae72ed.jpg)  
+Jo Thompson (b. 1971) Student 1993-95 Rings, 1995
+
+![](images/d3b2e0e2f2616919c346f08a7cde0cb593ebc75c45ff5fefa7e4b41d269d3407.jpg)  
+David Clarke (b.1967) Student 1995-97 'Strawberry (detail), 1997
+
+![](images/b37ae61039ab7d56988c566122b8573c11e5bb78c5eaeb32c343f80804449886.jpg)  
+Claudia Langer (b. 1973) Student 1995-97 A Memory ... brooch. 1997
+
+![](images/59a6c8cbebd630322f5b6dee80cd903b8ef4ea5bdb9cea22ef01bec8bc9cb0b6.jpg)  
+Claudia Westhaus (b. 1964) Student 1996-98 Untitled. 1998
+
+![](images/8c6ee1af85a4517569b671d6f2cec8c16f7ee921e70cd544f448bef070df5b7c.jpg)  
+Manuel Vilhena (b.1967) Student 1993-94, 1997-98 Rings, 1998
+
+# JEWELLERY
+
+![](images/add14d1e3b33adc69ed9f17a9e8e707710f27a92850e16a4f4f347cc4a55af60.jpg)  
+Lara Bohinc (b.1972) Student 1994-96 Necklace. 1996
+
+![](images/6ab8fbc411b28638225d0689e42df6d3ec2ad0057dc4c19aeae1ff996dd492a0.jpg)  
+Kate Wilkinson (b.1969) Student 1994-96 Choker. 1996
+
+![](images/5f9164c5581ca1af6cc9ccb2aeda9ca1febcf44cd0cecec53922d913ebcac766.jpg)  
+Lin Cheung (b.1971) Student 1995-97 Picnic tool, 1997
+
+![](images/7d5afff478e4c2106fdd9737e1864dc0a8796b31fcfee72c253dc37b697f1727.jpg)  
+Amanda Mansell (b. 1971) Student 1995-97 Headpiece and necklace. 1997
+
+![](images/0d064a7d48969f02487d21561498466724be8d97e29d89dbf8e729f0a2893af9.jpg)  
+Onno Boekhoudt (b.1944) Visiting Staff Staff 1995-present Ring. n.d.
+
+![](images/ab2ef4ed8e72bd2a9cc8d9fb03e9a4afd752325b988385381dc9dcf840c6442b.jpg)  
+Laura Potter (b. 1971) Student 1995-97 Squeaky Clean'. 1997
+
+![](images/5441cf92f112116e6f49da52567eef3b15cb75af412900bd37a09323ba4b94f9.jpg)  
+Wendy Ramshaw (b. 1939) Visiting Professor 1996-present White rings for Nude Lying in White Bed', 1997
+
+![](images/0b79495b666409d5c9621101e5d7590755bc9dabba9dbede1c7aaa52f4db656a.jpg)  
+Richard Kirk (b. 1962) Student 1996-98 'A Tryst", bowl with two serving spoons, 1998
+
+![](images/18eb8ac11a0f977e97efcb46519c30730941909b4dd0ccf4cfadf4021e1c1457.jpg)  
+Allan Scharff (b. 1945) Visiting Professor 1996-present Vessel. 1993
+
+## JEWELLERY
+
+## Embracing the unexpected
+
+![](images/18ef136f24dc2fec44260ec4049139da795e83f428e4ff70e70674fda1bcfb28.jpg)  
+H2 Design, Double Mouth Flasks, 1994  
+H2 Design, Life Extension Pill Rings, 199
+
+Naomi Filmer, H2 Design and Christoph Zellweger reflect the experimentation and diversity of contemporary jewellery. At the end of the century, pluralism within the area makes it difficult to define any schools or movements. Instead, there is a wealth of creative energy emerging from designer-makers who are aware of tradition, but embrace the unexpected.
+
+![](images/96a3a94e460b696611b933d5823ae1210bf66897320d2972d67e5b2b98895d2f.jpg)
+
+One aspect of current practice is a concern with manipulating the body and reassessing concepts of personal adornment. Filmer's primary interest lies in exploring the negative space in and around the body, and while at the RCA she produced Toe Between Pieces (1993). She views each object as being anonymous until it is activated by contact with the body, and often her work comments on the symbiotic relationship between people and technology. Drawing attention to the notion of the void, Filmer used LEDs to illuminate the mouths of models in Hussein Chalayan's 1994 catwalk show. Her work has since earned a high reputation in the fashion world.
+
+The identical twins Emma and Jane Hauldren both studied Metalwork and
+
+Jewellery at the RCA, and since graduating in 1994 have worked as contemporary silversmiths under the name H2 Design. They draw inspiration from the 'millennial preoccupations of genetic engineering, environmental change, urban club culture and virtual reality', and share with Filmer an interest in technology. The resulting works, such as the Life Extension Pill Rings (1994) or Double Mouth Flasks (1994) blend fantasy with reality, science fiction with technological advances, and explore the boundary between Fine Art and adornment.
+
+![](images/80ad93c12da9a3d5545d3beb772856b724cc945041fdc5474081e0ec9cc513fc.jpg)  
+Christoph Zellweger, Chain, 1994
+
+![](images/32d025609cc4264e01e011a25163764e6b527f5a74a9f1dd7d0036346bae25de.jpg)  
+Christoph Zellweger, Commodity Chain-K22, 1997
+
+Environmental issues, society and history are reflected in Zellweger's work. He aims to create objects which simultaneously allude to the past and hint at the future, and often uses steel to connote industrialization and modern society. He echoes Filmer's sentiments in not wanting to be tied to the traditions of jewellery. Underpinning his work is a concern with the effect that his pieces have on the environment and society. In Chain (1994), the combination of latex and distressed steel suggests decay, yet an allusion is made to the relationship between technology and nature.
+
+![](images/d8e0c95d78a0251cf07ba3b04712e526f24a349ef1a860cb6f40bf4ca25bdbd8.jpg)  
+Naomi Filmer, Toe Between Pieces, 1993
+
+![](images/f5e9bc81cee45a0b990052293176ba868a6d51db2b252be6e8ce97e42c0e2372.jpg)
+
+# PHILIP TREACY
+
+I was at the College from 1988 until 1991. Alan Couldridge was a fantastic hatmakr, so he had an avid interest in developing a hat course, which didn'texist up until then. But I believe they were thinking of setting one up and so I was there at the beginning. And it changed my whole career. I had studied fashion design at the National College of Art in Dublin, but I'd made hats as a hobby in between. When I came to interview it was like a breath of fresh air. It was an incredibly grown-up environment for a College, and I showed hats at my interview  they knew as soon as I arrived that it was something I wanted to specialize in  but I was afraid to talk about them too much, because I thought maybe if I went on about the hats it might stop me getting onto the course. But it all worked out. For the first year I did the garment-related projects as well: the fashion environment became an added benefit, because I work all the time with fashion designers, so it was very important to understand how designers work and think. Alan looked after me, and from the end of my first year my tutor was Sheilagh Brow. Sheilagh was one of those tutors you come across only once in your career  somebody you can totally believe in: she was the type  per I would have peou the windw if he d that was the correct thing to do. There came a point when the tutors said, "Maybe you should do more fashion." Sheilagh Brown just took me aside and said, "You should make hats, because you're good at it and because few people are making hats."
+
+Did my approach to hats seem revolutionary? Well, I love elegance and beauty, and hats relate to fashion in a more major way than people allowed for in the 60s and 70s; they underestimated and still underestimate what a hat can suggest. A hat can say so much more about fashion than a garment can. What I was most excited
+
+# DESIGN
+
+about was having the opportunity to make interesting modern hats - that was my goal. I was the only student at the time, so there wasn't really a designated course for me  we did have outside tuition from various designers in the industry, but it was pretty loose - there was tuition one day a week and the rest of the time we were there to work. I had my own space. A tiny little room. And at the end of my first year, Isabella Blow introduced me to John Galliano, and he asked me if I'd be interested in making some hats with the lady who made his hats. So I persuaded Alan Couldridge to have Shirley come and teach for one day a week.
+
+Motivation has never been a problem in my approach. I never really agreed with the students feéling "the world owed them a living". I think the most important thing for a student to realize in any educational establishment is that it's up to you - here's your chance  now you have an opportunity to do what you do, in the case of the RCA, in a fantastic environment. It just changed everything for me. At the end of my first year I made the hats for about eight different second-year students for their final show.
+
+The most disconcerting thing about initially going to the RCA was the wealth and level of talent that surrounded you, whereas on other diploma or degree courses there's a number of students doing a course for the sake of doing a course. At the RCA, you are with a lot of extremely talented students, and the standard of what I considered to be good just rose and rose. It's a competitive world out there, - I'm not sure about other courses, but fashion courses tend to be competitive. It's the nature of the business, and when you graduate it gets worse! A lot of the students worked with other departments  I didn't, really, I had complete tunnel vision about
+
+# PHILIP TREACY
+
+where I was going. I did love the history of art course with Madeleine Ginsberg, who was incredible, and some of my most memorable moments happened on her course. Some students would just say, "Oh, it's a distraction", but they were wrong.
+
+One very interesting thing at the RCA was the good relationship we had with commercial outlets such as Harrods. So in my first year I was running a business through the College  through Harrods hat department  which was how my whole thing started, in addition to the Galliano arrangement. They asked me to create my own hats, which makes it exciting. It was a fantastic link for students to have, really reassuring. Until you start doing the business side of fashion yourself, you don't really learn how to do it properly. I had set out to make hats, not be a businessman. But I've had to develop business skills as a result.
+
+The fashion show was held at the College in those days. While I was still at the RCA, the person who'd sponsored the hat course became my backer  I was incredibly naive about backing or anything like that  and he said to me, "When you finish, maybe we'l do something together." I didn't even think about it; I didn't think, "right". I just thought that what he was offering was what all this was about. He was a friend of Alan's. Straight from one to the other. It was easy  no, not easy, but it did just happen.
+
+I thi t' rant ou eve rty  is ve, nd theRCA t opportunities I was given were incredible  the people I met, the lectures we had. I came from a very good course in Dublin, but a provincial fashion course  when I came to the RCA we would have Valentino and Armani come and lecture us  it made you have a totally different outlook. All the projects we did were very ca h  al quifut,  'u
+
+When final exams came along, I remember the external examiner was Nicole Farhi, and she looked at me very blankly and said, "Why are you here?" "What do you mean, why am I here  I'm here because ." So then the tutor called her aside and whispered in her ear. "Why are you here?" she said. Imagine. What she meant was, "This is a Fashion course  why's this person showing these hats?" It was a bit frightening I must say, but I've never been too deterred by that sort of thing.
+
+When Sheilagh Brown said "make hats", in a way it was a risky piece of advice in the late 80s, but that's what I found so exciting. It was much more of a challenge to have an opportunity to change people's perception of hats and hat design and hat-making than it was to do something that everyone was used to. Did the hat thing come from Ireland, and looking at rows of hats in church? Well, they do cover their heads more there. But I think there's more of a hat consciousness here: hats are about Englishness  they're a part of the culture. I did grow up with a very religious, Catholic background, so hats and head covering was definitely a part of it, but it wasn't réally something that made me want to make hats. I like hats because I like to make things, I like to work with my hands, and hats is one of the few areas where you get to make the actual piece yourself: with clothing, you design it, but you don't usually make it. The satisfaction of having produced something with your own hands  that's the prize, not the glory afterwards.
+
+I'm always meeting RCA people - it's like a private club. There are people working all over the world who have been to the College: there's a huge professional network. And we were treated as young professionals, normal people, when we were there, not like students. It wasn't a tutor-student situation where everyone did their work because they were told to. Just by being there we were learning, everyone was intelligent enough to understand that.'
+
+# PRE-WAR TEXTILES
+
+Textile design was included in the general design course, but from 1928 onwards craft classes were offered in 'embroidery, cotton printing by hand and weaving'. A textile unit had nominally existed since 1924, but was hampered through lack of equipment. After a fact-finding visit, Nikolaus Pevsner noted that the equipment was 'scanty and hardly suitable for instruction in industrial methods'. But the appointment of Reco Capey in 1925 changed the perception of textiles within the College, in particular the status of woodblockprinted cloth. Capey challenged the old Arts and Crafts philosophy, and encouraged the use of modernist motifs. As The Studio put it:
+
+'One of the ablest of young men who have turned their attention to fabric designs is Mr. Reco Capey .. essentially modern in spirit and outlook.'
+
+Such was Capey's international reputation that students such as Astrid Sampe travelled from as far afield as Scandinavia to join the programme before carrying the message back home. Paul Nash also tutored the students and designed patterns for the Footprints workshop and Cresta.
+
+After failing her diploma in painting because her work was considered too abstract, Enid Marx was introduced by Nash to the Curwen Press to create decorative papers, and then to the Three Shields Gallery to see the work of textile designer-makers Barron & Larcher. Her resulting handblockprinted fabrics were exhibited with the modernist art of the period, and her work throughout the interwar years challenged the hierarchy of fine and applied arts. As the student magazine Gallimaufry noted in 1925:
+
+![](images/ed6908c14c5e4f18ddb214f17d7568d890793170dbc6a77c2c91bc32bde553cd.jpg)  
+Barbara Hepworth (190375) Student 1921-24 Textile design, mid-1930s
+
+![](images/48d9b0d60907b8a22d280ff56ae92f658f7df49ff12ddcf7344d52f39bbc05b0.jpg)
+
+![](images/9fa59948d1159e8f71b2bd2048412ca8d3bc87aad1cb97556d5cf5afc7818498.jpg)  
+Astrid Sampe (b.1909) Student 1931-32 Modular. 1954  
+Henry Moore (1898-1986) Student 1921-24 Staff 1924-31 Silk sample, Ascher. 1946
+
+![](images/f66550b66f0206df14869385645bfede63d49248277d4d8a0c565e9807db6dc8.jpg)  
+Margaret Simeon (b.1910) Student 1931-35 Furnishing fabric, c. 1940  
+John Wright (b. 1927) Student 1946-51 Spring House. Hull Traders Ltd. 1959
+
+![](images/0a75d41fcc68f59ce1c4236191607c3e17c79ae8562a7d667c6b7f7ceaa84beb.jpg)
+
+![](images/84ab2e6fbd186627120ff4551645f421fe86426ee730e6af6caabf8c9e854cfb.jpg)  
+Paul Nash (18891946) Staff 192225, 193839 Wild Cherry. textile design. c. 1920
+
+![](images/696bf2a48652b9d63da007ec3f38f1c4aebbba8eb012cab1a690810ec038e0d8.jpg)  
+Edward Bawden (190389) Student 1922-25 Staff 1930-40, 1948-53 Wallpaper. c. 1939
+
+![](images/922a757cb8fc4ff7d15bf4b7e1f3cafe02742d83e5845980c7e0e7918a67aebe.jpg)  
+Marianne de Trey (b.1913) Student 1932-36 Square, 1935
+
+![](images/f713bb978de49cf782a52e4f0cfebee46256073688bf5c17b83e4c25e06a624d.jpg)  
+Reco Capey (1895-1961) Student 1919-22 Staff 1925-53 Packaging for Yardley Cosmetics. 1936-38
+
+![](images/9147b511bb71752d2f7f6831e720fc1a0201126151bc0933d5c6572a15a575ad.jpg)  
+Enid Marx (1902-98) Student 1922-25 Fabric moquette for London Underground. 1937
+
+![](images/4c1fe403e117a903db6dc3e89c52c1965410935cf12516aa4656693e49e4a0db.jpg)  
+John Tunnard (1900-71) Student 1919-23 Bird and Stone, Ascher. 1947
+
+![](images/6fe57ebce4504bc63e1e6de22338f8ce8704c367e478dcb28e58a784efbf01b5.jpg)  
+Lucienne Day (b. 1917) Student 1937-40 Block-printed linen, 1938
+
+'Among all the misses who flit with Art she alone woos it seriously; because she is the Cassandra who prophesies the doom of the old regime of design.'
+
+Of the same generation, Barbara Hepworth and Henry Moore also turned their hands to textiles, Hepworth in particular with her constructivist fabrics for Mortons.
+
+With the outbreak of war and the relocation of the RCA to Ambleside, textiles continued to be studied and practised, but in a converted barn. Sadly, very little remains of the wartime output as students could only keep their printed or woven fabrics in exchange for clothing coupons.
+
+## 50s TEXTILES
+
+The first Professor of Textiles was Alan Walton from Glasgow University, who died before he could take up the post. He was replaced by James de Holden Stone in 1949, who int oduced rigorous teaching methods students progressed from calligraphic marks to vertical stripes, to horizontal, Bauhaus-style design.
+
+Post-war reconstruction and the drive to recapture export markets directed the spotlight onto the training of textile designers. Writing in the February 1950 edition of Textile Weekly, Mr. Jacks, director of Messrs. R. Greg & Co, a firm of spinners, said that textile designers should possess:
+
+artistic ability, craftsmanship, a real appreciation of industry, willingness to become a partner in an exciting adventure, more than a passing acquaintance with the markets of the textile industry, and finally the ability to design at a price."
+
+His views, he added, stemmed from the fact that most fabrics produced for export were expensive, artisanal and produced in limited quantities.
+
+The introduction of inexpensive roller-printed fabrics and mechanized screen prints created a new market for textiles that was championed by Roger Nicholson, appointed Professor after Wyndham Goodden in 1958.
+
+![](images/f0b0a7154df2d508aa4b1d4382dd98d0b2e00a424b6b4a7da568c17bb5007d73.jpg)
+
+Audrey Levy   
+(b. 1928)   
+Student 1948-51 Visiting Staff   
+Visiting Professor 1990-present   
+Palladio 'Impasto' wallpaper   
+design, 1957   
+Shirley Craven   
+(b. 1934)   
+Student 1955-58   
+Shape, Hull Traders Ltd, 1964   
+Pat Albeck   
+(b. 1930)   
+Student 1950-53   
+Printed textile designs, 195463   
+Doreen Dyall   
+(b.1937)   
+Student 1955-58   
+Alternation, Heal's Fabrics Ltd. 1962   
+Anne White   
+(b. 1932)   
+Student 1952-55   
+Mosaic, Warner & Sons Ltd, 1986   
+Edward Pond   
+(b: 1929)   
+Student 1955-58   
+Cathedral, Bernard Wardle Ltd, 1962   
+Roger Nicholson   
+(unknown)   
+Professor 1958-84   
+Range no. CP 445, David Whitehead   
+Ltd.1951   
+Barbara Brown   
+(b. 1932)   
+Student 1953-56   
+Staff 1968-90   
+Shawl, 1981   
+Robert Dodd   
+(b. 1934)   
+Student 1956-59   
+Flora Bella, Heal's Fabrics Ltd, 1960   
+Humphrey Spender   
+(b.1910)   
+Staff 1953-75   
+Minster, Edinburgh Weavers Ltd, 1958
+
+![](images/a2933ba6dbfb2e3774126c2128fc38f1c4ec4aee6b00d41c5f5994903b660db4.jpg)
+
+![](images/866645279410ae1ebf1636e3de4f96dff9452d18cfcc2ad07e6c582fd277f885.jpg)
+
+![](images/4eb6e8671325b6492018af084e0e20ea8afec2ae7b7f118026496323947358fa.jpg)
+
+![](images/9fc2df806b8ef73bd3b5f6f4acb3bc274d536d3e00750719a4e9fa83e3527e8d.jpg)
+
+![](images/6092e4f4b63424f0b3dd62e184b738e2aa2af7817f2af66d86da73710754d6f3.jpg)
+
+![](images/c6dd18070a3bedf7e5926ef22e638c7508341abf9ab1ab333eea3ddeabaf21fc.jpg)
+
+![](images/670cc87cc658b1b1ad25c89fa22a1100c1fea53beeed73400a7e7ab7e050b381.jpg)
+
+![](images/d3d7af7b8aac8555788c6eceafa9f44def144fb1b4f4d2711bc40518a8c4a4db.jpg)
+
+![](images/55b58394f48dbadff899f2ad7d36cadbaec60192627e0209315017e47e81c1ff.jpg)
+
+![](images/166c9ca8b5e78ff45b30efe16d134db508f6d1a60ce4034f4bf5bfaa719dbc26.jpg)
+
+![](images/e7c2860b85c2bc5ff816f37e595a2ece4f0fd374d15f989065d506c8794c553a.jpg)
+
+The course adopted these industrial methods and began to turn out a group of confident graduates, highly favoured by the new Design Council. The promotion of much of their work indicated an acceptance of textiles and wallpapers as design-worthy objects in their own right, rather than as aspects of a wider scheme.
+
+This new-found confidence inspired many graduates to start their own firms or go freelance. Dan Johnson, Industrial Officer of the Design Council, observed of their work:
+
+'Some designers are so surprisingly versatile that they can work successfully for producers whose ideas of good design differ greatly from one another.'
+
+This resistance to design dogma is attributable not only to the general lack of consensus of the time, but also to the teaching of the School.
+
+# 60s TEXTILES
+
+The prospectus for 1962/63 advertized facilities that included 'a greenhouse for the study of flowers and plants'. By 1966 the facilities extended to a dyeing laboratory and photographic processing rooms. The teaching of surface design was also expanded to include 'additional study in the design of knitted fabric, floor covering, wall covering and design for plastics and new materials.'
+
+The possibilities of new materials and techniques became a focus at the RCA with the setting up of the Textile Design Research Unit in the mid-60s, led by John Foulds. Individual projects developed in collaboration with industrial companies and included the lamination of fabric for ICI fibres and the development of stitch-bonded, non-woven materials.
+
+In the furnishings marketplace, textiles graduates had a string of critical and commercial successes. Firms producing ranges by ex-College students included Liberty, F. W. Grafton, Tootals, Cavendish, Hull Traders, Bernard Wardle and David Whitehead. Eventually the design direction within some of these firms came from the graduates as well — Shirley Craven at Hull Traders and Eddie Pond at Wardle's, for example.
+
+![](images/c2c232f4da4cfa5729a014a9460c6e6971e32f3ab85e85b141fc2f1f857d5fd3.jpg)  
+Nicola Wood (b. 1936) Student 1957-60 Vibration, Heal's Fabrics Ltd. 1962
+
+![](images/240ca7908fa69a83d3550813c487a2df68c07bae4ce23662883eb67687154ca5.jpg)  
+Janet Taylor (b. 1936) Student 1958-61 Degree Show, 1961
+
+![](images/befa72150b1fde9fe8d097831b3df9aeb9b90481af026aa4de39c852a4f40e29.jpg)  
+Zandra Rhodes (b. 1940) Student 1961-64 Medals. Heal's Fabrics Ltd. c. 1965
+
+![](images/934cb1ef03af6d93e6096386665c3121a4a7cce36ace64be96471f9ba0d14a28.jpg)  
+James Morgan (b. 1935) Student 1958-61 Petit Point. Heal's Fabrics Ltd. 1971
+
+![](images/4bc2f9d9d1d4c486fb57f31a04d6d1cd4e67d7ec59e5c9c3f3dd98b4b61d7abc.jpg)  
+Peter Hall (b. 1938) Student 1959-62 Interlude, Textra Furnishings, 1970
+
+![](images/25c2a3549843e8e6b91cca968ffee5a9c3216306deae243fb3a94695e1e53b2a.jpg)  
+Michael Moon (b. 1937) Painting student 1962-63 Insulating Jacket, 1978
+
+![](images/299a754798bc7ba0afe3d99769b668e223395f37066bfec76e56e4f8db706301.jpg)  
+Natalie Gibson (b. 1938) Student 1958-61 Textile, 1980
+
+![](images/1ae8560f9350721f69a21969bdcd7df439d2a51447bca4c13c7dbc1e697ac26a.jpg)  
+Pamela Kay (b.1939) Student 1959-62 Before Harfleur, c. 196365
+
+![](images/f39dbb1aa7d8f51923a473f3707dd02b744e1ddc87df140f9b01d0fd96f17c3c.jpg)  
+John Drummond (unknown) Tutor 1956-68 Sabines, Hull Traders Ltd, 1958
+
+![](images/2889980a436fdaef9f71fd6a91c3534ff6f67719ac2c0b80c24f85ee08bd892e.jpg)  
+James Park (b. 1935) Student 1958-61 Staff 1986-present Hand-woven hooked rug. 1964
+
+![](images/2c1878056eed4e172418d0b6d50617df28e682571b7e26e9514a0ffff4136c02.jpg)  
+Howard Carter (b. 1938) Student 1960-63 Sunflower & Pansies. 196163
+
+![](images/1d0e0c7f90e54279781932ff398b9f195c6e9872f6eb49c609b33d3c70fa0d06.jpg)  
+Marianne Straub (1909-94) Tutor 1968-74 Fabric for London Underground, John Holdsworth Ltd, 1974
+
+With the 60s emphasis on dress fabrics  and on textile design as the bedrock of the fashion industry  the Textiles Department responded by building into the syllabus 'visits to fashion houses and the execution of printed and woven fabrics for making up into clothes and for use as furnishing'. One of the first students to anticipate the swing away from furnishing fabrics was Zandra Rhodes:
+
+'When I left the Royal College, it was fashionable to design furnishing fabrics; and, in fact, my degree print was bought by Heal's as a furnishing fabric. But it was during my second year at the Royal College that I became interested in the different discipline of dress fabrics. I was the first in the College's Textile School, for a long time, to turn away from furnishing fabrics to doing dress fabrics .. Furnishing fabrics tended to be large-scale, and in the 1960s frustrated would-be artists designed furnishing fabrics, painting such things as abstract landscapes.'
+
+# 70s TEXTILES
+
+The 'new crafts' of the 70s had an impact on the careers students that sought after graduation. Professor Roger Nicholson complained that 'the aim of most students is to become independent designers or producers rather than to be employed by an individual firm'. While print design for export entered a boom period, knit design established itself as a viable career destination for students: many small-scale knitting production workshops were set up with help from the Crafts Council.
+
+Within the Research Unit, computer-aided textile design systems were installed in collaboration with Deryk Healey Associates. The Research Unit was one of the first places to use computers to originate patterns, which were then constructed from digital information by a knitting machine. Between 1974 and 1976, the Research Unit also embarked on an investigation into the possibilities of using shaping and moulding techniques in garment formation that included an associated photographic anthropometric study.
+
+Such innovative projects, combined with the new emphasis on designercraftspeople, led to much diversification and specialization.
+
+![](images/d24fcc92b50131e2de887b6c00f9aba3cff15a6c402efb11b948d28dbffd14c4.jpg)  
+Lesley Sunderland (b.1947) Student 1969-71 Degree Show, 1971
+
+![](images/2a4f8b89621d13c048ed0fd6fdfe20d3f366073ff8f6d34f0f2460e94e28833a.jpg)  
+lan Simpson (b. 1952) Student 1973-75 Degree Show, 1975
+
+![](images/7201fddf047b1b050ef27f7c5505d72ab69940b6e8f8dc379783e5db1c84ddb3.jpg)  
+Helen Yardley (b.1954) Student 1976-78 Degree Show. 1978
+
+![](images/fd0ad9ae5b5fbd922c29e747e3540a129f5c0c83109bc9a90c25c42c114eef6d.jpg)  
+Kay Cosserat (b.1948) Student 1970-72 Degree Show. 1972
+
+![](images/0de9db412590bf3767747c272a7fc958e5139262c20669dded4f00555e98abed.jpg)  
+Val Furphy (b.1951) Student 1974-76 Degree Show. 1976
+
+![](images/53061004206277fed6f7ec85bad1a9a6703dc810bfa05efd05e3716669734193.jpg)  
+Beryl Gibson (b. 1954) Student 1976-78 Degree Show. 1978
+
+![](images/9bdf0e9d52b5a3f3e2571f0bbe9ba8d63bb5fc4b50b4b3ad7ca48e84bf7e6b94.jpg)  
+Philippa Watkins (b.1946) Student 1971-73 Staff 1997-present Degree Show, 1973
+
+![](images/6d141c80bfb02681e79607f726fc344499e5138ca9c74e8eb5de97f4ee3f3e40.jpg)  
+Diana Harrison (b. 1950) Student 1971-73 Degree Show, 1973
+
+![](images/4561db58255d0ac11ce345f68b93e4f2c72a4bf73ba4ea13b24a5a21913a0457.jpg)  
+Pam Hogg (b.1951) Student 1974-76 Degree Show. 1976
+
+![](images/5e1d1339531285363e3918f7d4ca43bbf54fe5364d8de3069b4c5cc6c2939bf7.jpg)  
+Hilary Scarlett (b. 1954) Student 1976-78 Degree Show. 1978  
+Lindsay Taylor (b. 1952) Student 1974-76 Degree Show. 1976
+
+![](images/0bf4558f2622ba81a7f1711049ec43af6e16f9ab8288d5f5f7a81d74f12dd81a.jpg)
+
+![](images/6a817b56370446edde70c0bb6b210970c12f0a0367f4a9491d1362595c975cb5.jpg)  
+Graham Fowler (b. 1956) Student 1977-79 Degree Show, 1979
+
+![](images/57aaaa8d432780ad1bbe457f675d323063697b5b2c4cb13eee5dda32280a61e7.jpg)  
+Mary Restieaux (b. 1945) Student 1972-74 Degree Show, 1974
+
+![](images/ba37866551d58e3eb5751a90a2054db1da70fa0fa0b4b804c78a0a48062eccce.jpg)  
+Sally Jenkyn-Jones (b. 1955) Student 1976-78 Degree Show, 1978
+
+![](images/ca378656681fff3505a935c817e5cf5ee1f42148d623c1d6ca0cfbd22c21298c.jpg)  
+Sue Timney (b. 1950) Student 1977-79 Degree Show, 1979
+
+# 80s TEXTILES
+
+Roger Nicholson stated in 1980 that 'the main target in the School of Textiles . has been to encourage better industrial liaison with the British Textile Industry'. Alexandra Buxton was commissioned to research possible areas of industrial collaboration at a time of decline in the manufacturing sector. Nicholson was succeeded in 1984 by Professor Bernard Nevill.
+
+The shift towards wearable craft textiles, often in the form of a scarf or shawl, became an important growth area in this period, while cloth colourists such as Sally Greaves-Lord and Rushton Aust spearheaded sitespecific commissions for interiors. Postmodernism infiltrated surface design at the RCA with a return to symbolic decoration and a tendency to use pattern in an explicit way.
+
+The continuing financial support of the Sanderson Art in Industry Fund established the post of a part-time Industrial Liaison Tutor. In 1987, the textile studios were rebuilt to install a new range of computer systems: this inevitably involved the abandoning of some of the hand machinery acquired since the turn of the century.
+
+![](images/597e383421fb517eb8841f70bede0b99f27124513f535f8147dd78ea4cec6249.jpg)  
+Sally Freshwater (b.1956) Student 1978-80 Degree Show, 1980
+
+![](images/2814228c35e3c6b3e18ec6f3df066012893bd6d3d1fcec6de668db20558db23e.jpg)  
+Brian Bolger (b. 1959) Student 1981-83 Degree Show, 1983
+
+![](images/03deb2d9a34fff4672071ec6efb4233575822ce2c0ef2272b4c1476aa8088ddc.jpg)  
+Patricia Needham (b. 1961) Student 1983-85 Degree Show, 1985
+
+![](images/3cb7329477113fe39fc0209bb6b043267a52026447495e265a0b251fdee9abd6.jpg)  
+Rushton Aust (b. 1958) Student 1979-81 Degree Show. 1981
+
+![](images/09eb98aedd0e1a387d4fa3224e7bde9ca83781a17e2e97881c85987bdc9aa0b0.jpg)  
+Lucy Sprigge (b.1960) Student 1981-83 Degree Show, 1983
+
+![](images/d864a33686a768f7d9355ed9d49358a99980f9a10410d7b112e6e8858d555d26.jpg)  
+Neisha Crosland (b. 1960) Student 1984-86 Degree Show, 1986
+
+![](images/2c4cc229d2cf5a1cdd9f7641028a9a6fefcc5715e4c2df2fe64c43953406107e.jpg)  
+Sally Greaves-Lord (b.1957) Student 1980-82 Degree Show. 1982
+
+![](images/9b41cb2b2830c053d433e7dc3ce17fb55cfdb511327963133f594b4b7ea043f4.jpg)  
+Sian Tucker (b. 1958) Student 1980-82 Degree Show, 1982
+
+![](images/7430e0d273eb50c4ee1801bb116a0cdfcb20648be6b307a9c798cf1843d515b4.jpg)  
+Carolyn Quartermaine (b. 1959) Student 1981-83 Degree Show, 1983
+
+![](images/a9274f9cf8e2321d6728e6a337c56319ac15bdc49ff9e7bf27d7cc3c5e37e04c.jpg)  
+Paul Wearing (b. 1959) Student 1981-83 Degree Show. 1983
+
+![](images/d02ea67be7a9f1adc4c71b0bb62be5796669ea496d968fc16400fd52a2c3bcff.jpg)  
+Carolyn Corben (b. 1963) Student 1987-89 Degree Show. 1989
+
+![](images/11768c5f087b9fc1ddd15b4b1170426757c77164843111beaba9bdd88cbdbf1a.jpg)  
+Freddie Robins (b. 1965) Student 1987-89 Degree Show, 1989
+
+![](images/7f2792fc2ba2832450e8f7140470936d6ca09a2f5ca77342ed1ae6391eefc713.jpg)  
+David Band (b. 1959) Student 1981-83 Degree Show, 1983
+
+![](images/8def54cedcc138193a41b8f9c28c5a21f62eb026a4d73f7b7da172b58d51c7d4.jpg)  
+Cressida Bell (b. 1959) Student 1982-84 Degree Show. 1984
+
+![](images/a1765511654f497128765129d90d4d42cb5fd888ff32d4c90e4200f3e3147549.jpg)  
+Ingrid Tait (b. 1962) Student 1987-89 Degree Show. 1989
+
+# 90s TEXTILES
+
+With the arrival of John Miles as Professor in 1989, supported by James Park, the Fashion and Textiles courses were amalgamated for the first time since the Second World War. Research especially into fabric technology and 'intelligent fabrics'  had become increasingly central to both.
+
+The Textiles area now comprised printed textiles and constructed textiles, subdivided into woven, knitted and embroidered. This diversity has resulted in an unusual range of responses, including applications as diverse as installation, interior decoration and car design.
+
+A particular focus has been the influence of Japanese designers, evident in student intake, making techniques and industry placements. Issey Miyake, when receiving an honorary doctorate, referred to the students on the amalgamated courses as 'a nourishment to the world'.
+
+![](images/bb84d0ffb5e0a38b89298972fef6afe3d0d1118dc6d4dc795e6ee0f9a1c32825.jpg)  
+Paul Simmons (b. 1967) Student 1988-90 Timorous Beasties, 1990
+
+![](images/989c1bdcc391b272491af45cfbbf1b0126717c813e9b34fb6faa44937525402b.jpg)  
+Janet Stoyel (b.1949) Student 1992-94 Degree Show, 1994
+
+![](images/e11eefbcacdc186a54e52a8e413d1913a7f19447acdb46eba85c7b8d8a789691.jpg)  
+Ptolemy Mann (b. 1972) Student 1995-97 Degree Show, 1997
+
+![](images/0227feca39ac36a37aac3c27f2da8148dac4a29f1b3aca848dedd62c8aee4def.jpg)  
+Karina Holmes (b.1966) Student 1990-92 Degree Show, 1992
+
+![](images/f8a17728ccedd3c938b354bcd9ab194e838ea0e1f6abcd56fc4f55b7cfdc2024.jpg)  
+Vanessa Doyle (b. 1971) Student 1994-96 Degree Show, 1996
+
+![](images/4f53637ee0899d9cb74db04b73584c6f056a368c3cc45005bfacf6fd2f6115f9.jpg)  
+Kerry Rudgley (b. 1973) Embroidery student 1995-97 Degree Show, 1997
+
+![](images/a2334dc2f04fac3a38b09f3bd8d482758d299268d187c16116ef367e5057ec72.jpg)  
+Sharon Ting (unknown) Student 1990-92 Degree Show. 1992
+
+![](images/fb91e340c886fdbb79a570491875ce05461e918e98da07617df175bb903cfae5.jpg)  
+Donna Payne (b.1969) Student 1991-93 Degree Show, 1993
+
+![](images/8d6d52a9c1d2c09bbf0e7084f69b8c28ea372e1d1c5f2c0641ad9fc0119f3d4c.jpg)  
+Paul Stamper (b. 1961) Student 1992-94 Degree Show, 1994
+
+![](images/282324a9199aa0fb547cd7c96446b4eedc2e67b12a7af31537ea85689cecf132.jpg)  
+Hiroshi Fukuda (b.1969) Student 1994-96 Degree Show. 1996
+
+![](images/4f1c7a541c4b03515c30060f4f979d623a0f52cbcea3231683680f2312eb23b4.jpg)  
+Frances Geesin (b. 1941) Student 1990-95 Degree Show, 1995
+
+![](images/b9fe73aa60316a57472f7e905b535b397fd1bf3f8badf8ba81098b8674bec1d7.jpg)
+
+![](images/b8fba8294c8c49e273532e056726417a3a7f64554274eb61df2ef041b03b36dc.jpg)
+
+![](images/52c1c6bbc0d64c98d61bdd227f3299ec02aea28d4044573cf8e2adc42aa600ec.jpg)  
+Mayu Yoshikawa (b.1970) Student 1994-96 Degree Show, 1996  
+Craig Wheatley (b. 1973) Student 1995-97 Degree Show. 1997  
+Jenny Wright (b. 1973) Student 1995-97 Degree Show, 1997
+
+![](images/ae1c4ff0489c663fc56d5b34a98a87bb0dbeadb5fe4721ead5323850a910002c.jpg)  
+James Bullen (b. 1966) Student 1996-98 Degree Show, 1998
+
+# 50s FASHION
+
+The Fashion School at the RCA began in Summer 1948 with the appointment of Madge Garland, a former editor of Vogue.
+
+Picture Post marked the event with an article that claimed, 'what once seemed a feminine priority is now dignified by university status London has just made history'. But London still looked to Paris for inspiration  Garland incorporated this into the curriculum in the form of reverential trips to the Paris fashion houses, where female students were expected to dress in hats and white gloves for the occasion. 'Paris, Kensington', wrote the press.
+
+The Fashion School was based in a large period house in Ennismore Gardens, some way away from the other design studios. In 1956, Garland was succeeded by her senior assistant, Janey Ironside.
+
+Ironside quickly established strong relationships with the British fashion press, and closer relationships with the industry. Thereafter, the School was seldom out of the papers, and the patronizing coverage of the early days made way for promotion.
+
+![](images/862f46c70ecc411a33194cce6a2fc33869aab1652f6015b3a3779da7346ac619.jpg)  
+Jean Matthew (b.1927) Student 1948-49 Dress, 1949
+
+![](images/7b3b3b1f2772a763668be29afac9b64ffc8ca918fba1e48b3342595c0529eb92.jpg)  
+Sonia Townsend (b. 1929) Student 1950-53 Ski outfit, 1953
+
+![](images/b00f7e28e7fccf2e31fd0bf2ceeeeb60e74b6fff12d4af3235b310e6455e0454.jpg)  
+Donald Julian Robinson (b. 1931) Student 1952-55 White kid suit, 1958
+
+![](images/323aa41a542c75d23e7c641700090cfbd351bb4a2b7d8978e6200aa87c2b5185.jpg)  
+Eileen Blackman (b. 1927) Student 1948-51 Dress, 1950
+
+![](images/24ee78b49e4b9d7146c9aecd6c5c6c6bb19fcb1576df41c76d5b08d4a3fa75bb.jpg)  
+Mary Lenanton (b. 1933) Student 1951-54 Satin top. jersey pants, 1953
+
+![](images/2175b07437d243d2765a92ec70b141a2358cc717466eac1751b677fe0ddd8bd9.jpg)  
+Richard Lachlan (b. 1933) Student 1955-58 Dress, 1958
+
+![](images/8cddf38e0f208638dd3459247b56d1579592aa9a3818ca818c1509ac628cef17.jpg)  
+Kenneth Burgess (b. 1928) Student 1949-52 Beach suit, 1952
+
+![](images/5d6288e1286598add9d98289921fcda654a967dbd54685868b64da074b2814cf.jpg)  
+David Watts (b.1929) Student 1951-54 Outfit, 1952
+
+![](images/349552813f57bc957b573d9123f7a83dad91e01519a1b1b2d896108c055f0977.jpg)  
+David Sassoon (b.1932) Student 1955-58 Evening dress. 1957
+
+![](images/bfdde13061512ddae9e671c291f5ef1aedac92193059814d279737225bdba6b4.jpg)  
+Joanne Brogden (b. 1929) Student 1950-53 Staff 1957-71 Professor 1971-89 Coat, 1952
+
+![](images/ba79a9e69296ac0ad621ed0ebd339987ec800d833fa69de862bee9c6bd05d383.jpg)  
+Bernard Nevill (b. 1930) Student 1952-53 Professor of Textiles 1984-88 Ribbon Dress. 1974
+
+![](images/6e3bd47ee0a3a3c0034069babf75ed8e10db5572bb920e8828ff3e457a1a3f55.jpg)  
+Bill Pashley (b. 1934) Student 1956-59 Evening dress. 1959
+
+![](images/ce40e2078800eca0c65be9f983999248e865eaa0f2846bdccf33c7fe5783f507.jpg)  
+Gina Fratini (b. 1934) Student 1950-53 Ensemble, 1970
+
+![](images/f41e7e20b7bf609d403d0660b4fe884af5c67a1c694aacb865eb959163c8bd65.jpg)  
+Juliet Grime (b. 1931) Student 1952-55 Playsuit, 1955
+
+![](images/5c7cafcc76fc07b25339a9dc6e52fcc572fb8a147278ae0d6dcc6926182ea115.jpg)  
+Sylvia Ayton (b. 1937) Student 1958-61 BEA Uniform, 1959
+
+# 60s FASHION
+
+Summer 1959 was when Mary Quant and Alexander Plunkett-Green decided to start selling a new and young style of dress at their shop Bazaar, on the King's Road. Like contemporaries at the College, such as Tuffin & Foale, they were typical of a new breed of young, creative professionals who were challenging the old guard, dressing a new generation of consumers and opening brightly coloured retail outlets.
+
+Janey Ironside noted:
+
+'The young people of today work; it is fashionable as well as in most cases necessary to work, and it is fashionable to be a designer or to take an interest in the arts, to paint, to design furniture.'
+
+The Fashion School fed the new colour supplements, particularly when it experimented at annual fashion shows with the possibilities of dress design. In 1964, at the suggestion of Sir Hardy Amies, a Menswear section was added with support from Hepworth's. Graduating students were now expected to add a 'swinging' touch to the ranges of commercial fashion houses.
+
+![](images/a17379b7a974c42bc8747c0fe48d1261248ba7aba6ec2b51ff877accdcce7b3b.jpg)  
+James Wedge (b. 1937) Student 1959-60 Waistcoat and breast jewellery. 1968
+
+![](images/57466c6a0408e4ee33922b25cf54b0f5ad3b42c4b6c9f505f02c7070c6c17ece.jpg)  
+Valerie Couldridge (b. 1940) Student 1960-63 Staff 1974-83 Water Work. 1963
+
+![](images/ff9e451608ecd5a3f67107f12f2fadc77d3670df9cd1433b4f93328568d49127.jpg)  
+Brian Godbold (b. 1943) Student 1963-65 Outfit, 1965
+
+![](images/1d454e23aab5615fa378846796fa799756755a59d9e6a409793413bc14c4fabf.jpg)  
+Lindsay Robertson (b. 1934) Student 1958-61 Outfit, 1960
+
+![](images/d7494c2bff77056ae3fcf690e7256dcb427c6fd4c2798a8c337509eb48568582.jpg)  
+Angela Sharp (b.1940) Student 1960-63 Evening coat. 1963
+
+![](images/cdae0b420012bc56d8d49fa53bd6f177495cb860a0bf6ffbd6b05bf217aad590.jpg)  
+Brian Walsh (b.1941) Student 1963-65 Menswear, 1965
+
+![](images/bf0ad118293063add8f03d6714e5853c0eb1d0a2bb85bea42703dd408598f2f3.jpg)  
+Sally Tuffin (b. 1938) Student 1958-61 Childrenswear, 1961
+
+![](images/eeb745ce5478a3935d3980c454787680bad4ff7a18b827fa258ebdb5e472b14b.jpg)  
+Janice Wainwright (b.1940) Student 1961-64 Outfit. 1962
+
+![](images/f1a743259fc7046597b4d02152c3564237eae71da25b2781193490485f22c534.jpg)  
+Bill Gibb (1943-1988) Student 1966-67 Outfit, 1966
+
+![](images/0094ca38317814a6c0b7a233df71fe13df539144d75dfbb29d7fc42e4a0562e6.jpg)  
+Marion Foale (b. 1939) Student 1958-61 Outfit, 1961
+
+![](images/f7f8513d4d228616c5e8c21129e31f56fc961c96ca8679f94b14d56baf313e99.jpg)  
+Christopher McDonnell (b. 1940) Student 1961-64 Outfit, 1964
+
+![](images/e84bcc409de9d4a405e7a8211f3d1051afb59469832a3a44ce93308a6bc1d9e5.jpg)  
+John Hicks (b. 1940) Student 1965-68 Menswear, 1966
+
+![](images/9c021b4ef2d49e6242fe80ff28e7fcccf747b1db1c1a70061ec657f000ebccb8.jpg)  
+Pauline Denyer (b. 1940) Student 1959-62 Dress, 1962
+
+![](images/d111f44f2912d4972868b3a135425619681687d9d8c581ac73eb8d52dad74ecd.jpg)  
+Ossie Clark (1942-96) Student 1962-65 Culotte Dress. Degree Show. 1965
+
+![](images/56070c99ad1f6ba09c0d61f1ea3d28e5438d9422c64e7b112e12162346b21177.jpg)  
+Anthony Price (b. 1945) Student 1965-68 Outfit, 1966
+
+Ossie Clark
+
+'Ossie Clark, 23. final year student, RCA' Photograph by David Bailey; model Chrissie Shrimpton. British Vogue. August 1965
+
+![](images/603e443efe78299dcc526d9b05fabbd626a41d0df5d374aa40f9106ff0ff4ee1.jpg)
+
+Printed silk culotte dress. Degree Show, 1965
+
+Silk gauze trousers and coat, blouse with silver paillettes, Degree Show, 1965
+
+![](images/e5ac445e7ff6447bf6d81df5786c34678b3d797bb19645a3dcc38add46905651.jpg)
+
+![](images/c41b457cf22683f893b980a7d905b00e92c31ef0e188fcd7e3b114b1f5e90198.jpg)
+
+The legacy of Ossie Clark as a fashion designer and flamboyant character encapsulates the growth and decay of Swinging London. The maturing of his designs  from sharp opticals to intoxicated patterns - parallels a scene that wished to burn ever brighter.
+
+Raymond Ossie Clark entered the Fashion School of the RCA in 1961, a technically proficient pattern cutter from his training at Manchester College of Art. Under the guidance of Janey Ironside (who first asked the question 'Who is that boy who wiggles his bottom when he walks?'), Ossie immersed himself in ideas. Trawling through Portobello Market for vintage finds, or marvelling at Mme Vionnet's bias-cut dresses at the Victoria & Albert Museum, he was entranced by the glamour of the past.
+
+Ossie met David Hockney through his flatmate Mo McDermott who was a life model for the artist. Hockney introduced Ossie to the brashness of Pop on a trip they took to America. The trip was to inspire his graduating collection of 1965 which captured the headlines with an evening coat whose collar was trimmed with batteryoperated, flashing lightbulbs.
+
+Lips dress for Quorum. 1966
+
+# FASHION
+
+Ossie Clark
+
+His first commercial break came with a paper dress commissioned by Molly Parkin, then fashion editor of Nova magazine, which sealed his creative relationship with his wife Celia Birtwell. Birtwell designed printed fabrics exclusively for Clark, and the first  an Art Deco design directly inspired from Poiret  struck a wonderfully unlikely chord with the modernity of the shift garment.
+
+Working as chief designer at Quorum on the King's Road before showing as a designer in his own right, Ossie Clark introduced a style of dress that developed the flat-chested and waistless androgyny of modern youth into a sexually confident romanticism following the contours of the body. Using fluid fabrics such as chiffon, marocain and crêpe de Chine, he cut the fabric on the bias so that his dresses emphasized shoulders, nipples and waist. Coupled with Birtwell's stylized floral designs, they defined a high point in ready-to-wear dress design utilizing printed textiles.
+
+![](images/60609b1937f3952a634a5bfc648283ca74953b68489ecce75e80eb9ee1fb706c.jpg)
+
+Crêpe fringe trouser suit and silk two-piece for Quorum, Nova magazine, 1969
+
+![](images/619720c1e3e77ea73eacb0ebf7b1924475d0f8d42f10cd3b5f888622f923ee62.jpg)  
+Throwaway wedding dress, Nova magazine, 1969
+
+![](images/a0c2620b4d3fba501e79576dc4cc975a339a0e84a96566a121b3ced1448f8770.jpg)
+
+The perfect foil to this look was a jacket or coat made from diamond python skin, a material Ossie personally unearthed in a Dickensian leather warehouse by the Thames. Claiming 'they sprung to life and lay opened before me', Ossie Clark used the skins to make the zippered catsuits that were favoured by Mick Jagger among others.
+
+![](images/ae82b378e65642334df91d7a908f8113eff90b9275d2a7af3804528bdb6f77d7.jpg)
+
+His fashion shows were spectacular events where the stars in the audience shined as brightly as the lights on the catwalk. Suzy Menkes described one such show at the Royal Court Theatre in 1971 as 'the most extraordinary moment in the history of fashion.' The moment was shortlived, though, as Ossie faded from attention due to a cocktail of mismanagement, poor business sense and economic recession.
+
+The posthumous publication of his diaries after his brutal murder in 1996 has re-established his reputation as a talented yet tainted figure of his generation; while Hockney's painting of Ossie and Celia in their Powis Terrace flat, Mr and Mrs Clark and Percy, has established itself as the most visited picture in the Tate Gallery.
+
+## 70s FASHION
+
+The beginning of the 70s was marked by Joanne Brogden's appointment as Professor of Fashion, and the introduction of the tworather than the three-year course. The change led to a move away from open-ended creativity towards more directed study.
+
+In the Annual Report for 1969/70, Brogden noted that graduates (as they now were) 'were very choosy about the jobs they took, some preferring to go into "boutique" work as opposed to that which could be termed industrial.' The decade was marked by the swift progress Brogden made in the professionalization of the course, and in establishing a closer relationship with industry. Projects sponsored by commercial concerns became a central element of the teaching, visits were regularly arranged to assess the needs of firms for RCA designers, and in turn, industry came to the College to source talent. In many ways, the Fashion course at this time was the most industrial' in the College.
+
+![](images/a8776779f13f4af8d37062b54d2fc4d50811660bbd194f8dc6d8652457546f75.jpg)
+
+David McIntyre (b. 1948) Student 1969-71 Degree Show, 1971
+
+![](images/d1fd92a222892d17df27ae40e2b438da067726f3b4eb54277e8f8354b3c4ac64.jpg)
+
+Laurence Roberts (b. 1947) Student 1970-72 Menswear, 1972
+
+![](images/e9218d935dc336f00050759559692e4994b73a6fda4a0c56dac19da096e40ba9.jpg)
+
+Ragence Lam (b.1951) Student 1974-76 Degree Show, 1976
+
+![](images/8b2c9903c9e60832bde078eb6eeb3e480a2cd5b2e7261d9f74f02bfe611a27cb.jpg)
+
+Lee Pring   
+(b. 1948)   
+Student 1969-71 Degree Show, 1971 David Emanuel (b. 1952)   
+Student 1975-77 Outfit, 1977
+
+![](images/c65662c403ae6e64cecdd551c91b4f007cd6cb0cfe2d4015efccbe30a9251676.jpg)  
+Roy Peach (b. 1950) Student 1973-75 Degree Show, 1975
+
+![](images/161c82c2aa4df827fdf804e67e1b726c1140c6a81db7c224bf06b826ec381861.jpg)
+
+![](images/f998a6586f9f73e1e822d6c59fe686dd50d50c927579c53a6de913a59991d517.jpg)
+
+Clare Dudley Hart (b.1948) Student 1970-72 Degree Show, 1972
+
+![](images/e647122464bfbc2217a8c9c0260833096e3fec9865ea639430183db51fc1a1b6.jpg)
+
+Bill Kadasis (b. 1946) Student 1970-72 Menswear, 1972
+
+![](images/5ad07cd7cf2371827f92ac894d670c1f6ba1c89d9316920b3c70faef17be67cf.jpg)
+
+![](images/17da13dbb876dcb9b4829458b1a3fc211dfac4c47aa92d1a44f6e6e942c0ac17.jpg)
+
+Felicity Clegg (b. 1952) Student 1974-76 Degree Show, 1976
+
+![](images/af553d2292e2f3b07a81b5868ab44781fc7e506b73c14fa2991af75e6cc7d1d4.jpg)
+
+Stephen King (b. 1948) Student 1970-72 Menswear, 1972
+
+Elizabeth Emanuel (b. 1953) Student 1975-77 Wedding ensemble (with David Emanuel), 1979
+
+![](images/36280a2e35c0875be288f0b42745c94350f48aa0cad1af2d6cf808b3af4f352c.jpg)
+
+![](images/d4214432154990114993585f714bf98a428093a74de68fb0c195f588fb14eb24.jpg)
+
+Sarah Dallas (b. 1951) Student 1974-76 Degree Show, 1976
+
+Lynne Burstall (b. 1954) Student 1976-79 Degree Show, 1979
+
+![](images/66662e0393bafa4fa1914f9bc209fbf615c895deab5dac8e6e94998fa8b98b3c.jpg)
+
+Liz Griffiths (b. 1952) Student 1974-76 Degree Show, 1976
+
+![](images/193739a0c6eec93e6e16014f4446207c6a63d4d793f55b60f38cec9de9ea1584.jpg)
+
+Anne Storey (b. 1955) Student 1976-79 Degree Show, 1979
+
+# 80s FASHION
+
+The Fashion School's networking with the industry, in the UK and overseas, reaped big dividends in the 1980s. Joanne Brogden wrote of how it was 'now easy to organize work study periods with French, German and Italian manufacturing companies for three-week periods or holiday periods.' Groomed for a global business, the students stretched themselves as far as they could. In 1983 alone, they worked in Switzerland, Scandinavia and Hong Kong, in addition to New Delhi, where they oversaw an RCA collection for Monsoon.
+
+The Fashion School celebrated the 150th anniversary of the College by launching the RCA Wool Collection for winter 1987, in association with the International Wool Secretariat. Organized by tutor Anne Tyrrell as a professional selling collection designed by the students, it sold in Paris, Milan, New York and Tokyo.
+
+All this was expensive and complex to run, and to raise extra resources the School abandoned the traditional format of the College fashion shows in favour of a glamorous, high-price gala event. At first this was held in the RCA galleries, and then off site.
+
+![](images/00baebfe0fb8d168e27623c47fece1b59d8a2448597e1f37cc301dbea1837335.jpg)  
+Elaine Chaloner (b. 1957) Student 1979-81 Degree Show, 1981
+
+![](images/772ec4cb7bed555e323142b9dffe19d492bdbb78fc2c5887c9151a0e98994f4d.jpg)  
+lan Griffiths (b. 1961) Student 1985-87 Outfit, 1987
+
+![](images/9393f89073b7c35afc0c7785f4f3caac376265e469f70ea75411d053c5258fe7.jpg)  
+Ann Hardiman (b. 1965) Student 1987-89 Degree Show, 1989
+
+![](images/ceb8ddb247b08f5f29b52fd652c1e9c17e73c3bb3309f78ffa02b29066cfdd77.jpg)  
+Eric Bremner (b. 1958) Student 1982-83 Degree Show, 1983
+
+![](images/518dc4743d6ac7d9b684790702f192423a93199edeb65efd25d53cae41b0dfc0.jpg)  
+Neil Barrett-Barber (b.1964) Student 1986-88 Degree Show. 1988
+
+![](images/d79d992a683408e634214b3f9df381f7d889f1dabead2086f06a1b1c1ad43267.jpg)  
+Charles Hunter (b. 1962) Student 1987-89 Degree Show, 1989
+
+![](images/474dab938a5067a1be198f89c9807c7b5f32992997aa618d6b88f5e780062fa5.jpg)  
+Nigel Luck (b.1959) Student 1981-83 Degree Show, 1983
+
+![](images/dd282569f4c6db4214c33cdad7c21b1119356272f58a2cfa9c6f41512bf41a07.jpg)  
+Kevin Carrington (b.1965) Student 1986-88 Degree Show, 1988
+
+![](images/4ee1b1af3eba0fd03e0f4af462708d035c4fb9b4e6d0fffa7442830dd13a0fe4.jpg)  
+Sarah Jane Wilkinson (b.1964) Student 1987-89 Degree Show, 1989
+
+![](images/27605b1c4bb5a822f363e51cacf0c978233fde5a9265cee395ca393406c5d471.jpg)  
+Karen Baker (b. 1960) Student 1982-84 Degree Show. 1984
+
+![](images/4e6bdac6d2b082816d5b0586951b08c0c4ae85b82ac4aca00ce6429c2628bcf3.jpg)  
+Judith Bremner (b. 1964) Student 1987-89 Degree Show. 1989
+
+![](images/c1daf2da61a97e1309ae4cfee7a41e675202d9933c3a48db70872093c3edad97.jpg)  
+Peter Witham (b. 1966) Student 1987-89 Degree Show, 1989
+
+![](images/5773afc68f68ea379c0def26714257b26a82a5d0d452b0bc58664c67a7c6f825.jpg)  
+Sara Sturgeon (b.1960) Student 1982-84 Degree Show, 1984
+
+![](images/5aefeb277200371997b2b1faa1da8c09797ed2ad9b07ea0f85dc717f433d6d6d.jpg)  
+Sue Chowles (b.1966) Student 1987-89 Degree Show. 1989
+
+![](images/e226651174d0a1e882f49eb918bda3347238e7c87fcc1e3832ed70fc4f2fc189.jpg)  
+Anne Tyrrell (unknown) Student 1957-60 Staff 1967-95 Visiting Professor Outfit for John Marks, 1977
+
+# 90s FASHION
+
+Rector Jocelyn Stevens was close to the world of fashion journalism, and in 1989 he appointed John Miles, a textile designer, as Professor of the amalgamated School of Fashion and Textiles. The intention was to integrate the two disciplines to offer a flexible model of interdependency that could parallel working practices within the industry.
+
+Miles inherited a range of fashion courses producing professional young designers who were snapped up by industry, increasingly overseas. He began to change this perception by stressing 'individuality as the key to the future'. This was reflected in the choice of students, the directions in which their work could mature and the emphasis placed on personal research.
+
+The approach has produced a crop of successful 'own label' designers who have helped refocus the Fashion School. Building on this energy, Fashion and Textiles have separated again while retaining their close links. The end of the decade has also seen the appointment of Wendy Dagworthy (formerly the very successful head of fashion at Central St. Martin's) as Professor.
+
+![](images/6328ef79ca8345a25dd797213da261312be1908afb17e3796fb36c6a9b7909ed.jpg)  
+Harvey Bertram-Brown (b.1966) Student 1988-90 Degree Show, 1990
+
+![](images/ba1b92aa937b0673dca65a1f3c6cf69f5caf9f7f29e8eb4c0a9c79d6a2d1301c.jpg)  
+Kait Bolongaro (b. 1968) Student 1990-92 Degree Show, 1992
+
+![](images/d539c3398256a0f81c799dec20bd28d77861c02db7ab384766ffca2d8c480a62.jpg)  
+Jane Whitfield (b. 1966) Student 1992-94 Degree Show, 1994
+
+![](images/1b08fe3a551c85d30ed693a278d40d8fbb3e109daa36c704093de040b2529a23.jpg)  
+John Crummay (b. 1966) Student 1988-90 Degree Show, 1990
+
+![](images/25794ef165f058a70fed16cf7aa44a2acd2d14cb18bd43a26fd1c22b248919f5.jpg)  
+Cathryn Avison (b. 1969) Student 1992-94 Degree Show, 1994
+
+![](images/a9b4876d68e72026c9a1e7fe3925f5ae8524294fb7bcd45b7398395ea4227a47.jpg)  
+Laura Watson (b.1967) Student 1993-95 Degree Show, 1995
+
+![](images/946d22e7800d426b075e8d47ba11c9a8dcb10ca54fbccfe0cc1c5f723e2c11a9.jpg)  
+Andrew Fionda (b.1967) Student 1988-90 Degree Show. 1990
+
+![](images/32ef8c9517567e0796200c54850b4ca063561ed84794d514a0b55374bf507e75.jpg)  
+Julia Jentzsch (b.1964) Student 1992-94 Degree Show, 1994
+
+![](images/041cb3b01e9ddcd4acc18ac1c7f4d209886053196ad1048c93a7c417b2c87837.jpg)  
+Roger Lee (b.1970) Student 1994-96 Degree Show, 1996
+
+![](images/e36166c209006ba090f9737b54d86164d944c4e61532e06e7ebd09047c98cd92.jpg)  
+Deborah Milner (b. 1964) Student 1988-90 Degree Show, 1990
+
+![](images/676cba3df97717b183cacbb438c166aeab29e7d5ea1bf379fb97f5ad649d65a5.jpg)  
+Brian Kirkby (b.1965) Student 1992-94 Degree Show, 1994
+
+![](images/0176ccf19bd1d0d3c6952c390e1c0791b878ffafb69204e7da19e44e62e43ca0.jpg)  
+Julien Macdonald (b. 1971) Student 1994-96 Degree Show. 1996
+
+![](images/a5d9935d7a0143ab464c62ca1b38c8c98db239222155e07253bee768ba637b8b.jpg)  
+Justin Oh (b. 1963) Student 1988-90 Degree Show, 1990
+
+![](images/2e595ebc6a14004a9ee1454d076e317b03f18a0d38177e121c4a9266ea71f1e1.jpg)  
+Aisling Ludden (b. 1967) Student 1992-94 Degree Show, 1994
+
+![](images/a958078b29f1653f802e46c83991009c1bc587eee50964185e99d7cccc3064a8.jpg)  
+Nancy Tilbury (b.1972) Student 1995-97 Degree Show, 1997
+
+# FASHION The hidden designers
+
+There are graduates of the Fashion School whose impact is not as visible as a name stitched into the back of a garment. Some call them 'the hidden designers', although this is to underestimate their importance. Their careers reflect well on the teaching they received at the College; they also serve to illustrate the diversity of the fashion business.
+
+Since 1976, Brian Godbold has been responsible for promoting design as an integral part of the culture at Marks & Spencer. As design director of the company, he has had a big influence on the structure of the British fashion industry from a retail perspective. In particular, his use of well-known designers as consultants and the establishment of M&S sponsorship of The New Generation of Designers at London Fashion Week (an event with which he has been deeply involved) have won him much respect.
+
+A student of the 60s, Godbold did not, in fact, graduate from the RCA. Instead, he managed to secure a professional design job in New York on the strength of his student portfolio. As there were three Brians in his year group at the College, Godbold had made a point of signing his fashion drawings 'Brian G' for identification. Fascinated by the shortened name at his interview, his
+
+![](images/1873ad0ad2acc881bd242c0e544f666c12e5194ff919441e0f5509a917ae5842.jpg)
+
+Brian Godbold Marks & Spencer outfit. Autumn 1994
+
+![](images/80b95addc46a90e447139b6adcbd74d8890bd6c0ea307baca263235eca2dfab2.jpg)
+
+![](images/7e6f78846b52e4ed2fd69eb5fcaae4f4133bb0341ed83e48d9e10b35da18486a.jpg)  
+Lynne Burstall Oasis Store Identity, 1999
+
+employers christened Godbold's first collection 'Brian G at Jovi', an early example of the use of a designer name at middle-market level. His Professor, Janey Ironside, had allowed Godbold to return to the course, although by the start of the next academic year his collection had become a commercial success, and so he stayed in America.
+
+The professionalism of graduating students in the 70s was underpinned by the ambassadorial role of Professor Joanne Brogden, who forged international links with industry. Keith Varty, a graduate of 1975, went on to form the highly successful design label Byblos, in partnership with Alan Cleaver (who graduated from Environmental Design in 1976). Varty was an excellent example of Brogden's influence  he was instantly snapped up to freelance for European fashion houses before starting a label that
+
+# FASHION The e hidden designers
+
+![](images/0e5cb6be17ff5e6d1233957341ce4169802cb9736c315b8e7e79036a243efec2.jpg)  
+Liz Griffiths Missoni, Autumn/Winter 197778
+
+became known for its mix of Anglo-Italian style rather than for the designers' names. He still remembers the anxiety that pervaded the College studios when it was time for the staff to appraise student projects.
+
+Graduating in 1976, Liz Griffiths was one of the first designers to be courted by the Italian fashion houses: her designs  with a strong flair for fabrics  came to the attention of Ottavio and Rosita Missoni at the Degree Shows. Griffiths was inspired by her aunt Muriel Pemberton, who studied painting at the RCA in the 30s and then went on to found the Department of Dress at the Central School of Arts and Crafts. Under Griffiths' influence, Missoni's experimental approach to knitwear construction and colouring took a new craft-based direction. She has remained with the company ever since.
+
+![](images/d11e29351bc899593a76e8739fc6ce73d9f334f9b2e50d940a1f6785432521e4.jpg)  
+Liz Griffiths Missoni, Autumn/Winter 197879
+
+![](images/432232070e580b0ecec651dad94e5e4e5a39bf5e2c0dec6a69e11fce6b94b03b.jpg)  
+Jane Whitfield Louis Vuitton, Winter 1999
+
+![](images/6b9dc169e9080ad45e989aaadfa8784f4fb4ba41f4d984e63b75234092ab3b89.jpg)  
+Keith Varty and Alan Cleaver Byblos, 1998
+
+![](images/09a9743ceed5696791080463ccabedea9d6d4b5dccae445b9bee191b80551e82.jpg)  
+Jane Whitfield Louis Vuitton, Winter 1999
+
+Lynne Burstall's talent as design director for Oasis and more recently Coast, was decisively shaped by her education at the RCA. She cites learning to see a project through from start to finish as fundamental to her ability to communicate product-based design across the whole retail experience. She believes her understanding of how a total look is formulated can be traced back to company visits and an emphasis on collaborative projects with practitioners from other fields while at the RCA. Graduating in 1979, Burstall was impressed by the School's strong work ethic and principles.
+
+Jane Whitfield is a freelance designer, who was taught in the Professor John Miles era. She went on to work for Gianfranco Ferre in Italy and, more recently, to assist Marc Jacobs in the setting up of a prêt-à-porter range for Louis Vuitton. Her work for Louis Vuitton involved streamlining industrial methods for designing bags: instead of a three-year cycle, high-end collections were produced in just six months. Whitfield recalls that a lot of her professional attitudes were gained from her RCA course.
+
+## MILLINERY
+
+Millinery has been offered at the RCA as an option within the Fashion Womenswear Course since the late 80s, and as such has only been studied by very few students.
+
+But from the beginning of the Fashion School in 1948, millinery has been an integral element of the School's teaching; as integral as a hat was to the appearance of Madge Garland, first Professor of Fashion, and to her students. At that time, and throughout the 50s and 60s, hats were designed and considered not in isolation, but in relation to the figure and to dress as a whole.
+
+More recently, the creation of a specialist option within the course has nurtured the craft and produced practitioners who have been responsible for the revival of millinery at a couture level, and a new attitude to the wearing of hats. Spearheaded by the work of Philip Treacy, much has been made of the transformative qualities of headwear. Especially important has been the work of milliner Dai Rees, who originally trained at the RCA in Ceramics.
+
+![](images/3d5203d956177b7003cf282f04e11065e0f69949093063626bdc553d18eb9c08.jpg)
+
+Peter Shepherd (b. 1925)   
+Student 1947-50 Hat, 1949
+
+![](images/2dd7eddde1a2622ac87932b666eeb29c90702b0c9fa15a61efaa95a8b1c558dc.jpg)
+
+![](images/6e5f5525acf19e4c4a5d71023b3d39ef8d78314e89daea5158876cba1f9f4d36.jpg)
+
+Philip Treacy (b. 1966) Student 1988-90 Degree Show, 1990
+
+Graham Smith (b. 1938) Student 1957-58 Fitting a hat, 1958
+
+![](images/abe8612515bbdbb7be776b3fe0ff29cb558ff9dc50f4a8babb92f3aeca177437.jpg)
+
+Rachel Drage (b. 1968) Student 1990-92 Degree Show, 1992
+
+![](images/4b8c65c630b5d987d4b1265a73b731ae8171348a08c0a4c16b8e51353d99b994.jpg)
+
+![](images/4574ce33d9cc4da5e241128cc45c5dcb489b07977aaaf8d3bf256bd3d63e1297.jpg)
+
+James Wedge   
+(b. 1937)   
+Student 1959-60   
+Staff 1975-78   
+Cowboy hat for Foale and Tuffin, 1966   
+(Image "Young Idea", British Vogue) Dai Rees   
+(b. 1961)   
+Ceramics student 1992-94 Pampilion autumn/winter, 1998
+
+![](images/6910bf75015cf6e2b4e6e6932b922142e98a6246df80188c547ee5f2c202dd7f.jpg)
+
+![](images/93c9ff5ceb1a8084f29187ad6948533a8796c780bfeb4d86edf15573a06b7658.jpg)
+
+Scott Wilson (b. 1966) Student 1994-96 Degree Show, 1996
+
+![](images/9b54c8c136889cefa0c24d79f4a1a275c2c03eef972ce4e3c249fcc4036e2613.jpg)
+
+Alan Couldridge   
+(b. 1939)   
+Student 1960-63   
+Staff 1972-92   
+Illustration for RCA Cookbook, 1987
+
+![](images/294d9a65835ca57376b4a3c8187bb46d1a23c75c7cf31e05c5a839c8ea519ba0.jpg)
+
+Jo Gordon (b. 1967) Student 1993-95 Forest, 1997
+
+![](images/ac950a95e5c94e53711bcd68a96efb7e6789b2a7630ccfe284296fa523aab910.jpg)
+
+Mayu Yoshikawa (b.1970) Student 1994-97 Degree Show, 1997
+
+![](images/7ddda0c686f351d2bbc383a42656f993a3b186890ab33a7ca88f34f558bc82f4.jpg)
+
+Roger Nelson (b.1937) Student 1960-63 Lurex hat and suit, 1963
+
+![](images/c056bb2fc4b39734fc29e9595cc03fbf6171df9a5d221d7aface922e1154aea3.jpg)
+
+Flora McLean (b. 1971) Student 1993-95 Degree Show, 1995
+
+![](images/61686599d0adbb806a8eeaa5a418f880b0136512119c640be10b38adfc8e2874.jpg)
+
+Karen Scott (b.1970) Student 1996-98 Degree Show, 1998
+
+# FASHION
+
+# Philip Treacy
+
+On applying to the College to study Fashion Design, Philip Treacy wrote:
+
+'Since I have a special interest in millinery, and have had no formal training in this field apart from two short periods at Stephen Jones, I would like to achieve international standards within this field.'
+
+In the space of just ten years, Treacy has elevated the craft of millinery to the point where he now sets, rather than achieves, international standards.
+
+Treacy has brought together progressive designs and British traditions. He was the first fashion student to benefit from the millinery course sponsored by the entrepreneur and chairman of the British Hat Guild, Bill Horsman. To celebrate the start of the course in 1988, Harrods invited him to design a range for the British social season. From this establishment starting-point, Treacy began a journey through modernism to his own brand of postmodernism.
+
+On graduating from the RCA in 1991 with a catwalk collection of hats that received a standing ovation, he opened his showroom in Belgravia with financial backing from Horsman and mass-market hat manufacturers, W. Wright & Son Ltd. In the first year of trading he launched a ready-towear line, and began to supply custom-made hats to couture houses for their collections, in the first instance to the House of Chanel.
+
+![](images/7e216ce4757121d0ebe5a8f7cc721a63a48778afc7b629018e8df2c5a5bdea8e.jpg)  
+Ship hat, 1995
+
+![](images/3762e5e267039b7d24e6704d35be4d35b1a65227a91e41bab6d7aae5a9b47b65.jpg)  
+Degree Show, 1990
+
+![](images/8100d34869d967d73888a9b066fcb599b33744c3ad20d71cc6068c51f2429e32.jpg)  
+Hat Collection, Spring/Summer, 1995
+
+![](images/a33ee6f69a4135c185a68d248b7f9b8dd77dd31c9ba96c8275975e4576642f95.jpg)  
+Green wind-blown hat, Autumn/Winter, 1999
+
+These commissions soon built his reputation as a consummate craftsman. According to Karl Lagerfeld, his designs have a touch of madness about them  a reference to Lewis Carroll's Mad Hatter. The Hatter's hat had been appropriated by Treacy early on in his career.
+
+His hats have often been described in sculptural or architectural terms, because of their purity of form and almost streamlined beauty. But Treacy's design process is rooted in drawing. When he states, 'You can tell if you draw it, if it's going to work or not,' he reveals that the supposedly extraneous elements of placing, pose, mood and gesture are actually embedded in the design, rather than added when the finished article is placed on the head.
+
+# INTRODUCTION
+
+Walter Crane was sufficiently impressed by the work of some of the students of the new RCA to use it as illustrative material in his collection of essays Ideals In Art (1905), and other polemics about the Arts and Crafts philosophy. But these were students of 'Design' and 'Modelling'. At this time, there were still no specific courses in illustration, poster art or graphic design: the phrase 'graphic design' was to be coined in America in the mid-20s, and did not achieve common currency in Britain until some 20 years later.
+
+A few students from the Crane era happened to specialize in these subjects after leaving the College: Harry Oakley designed posters for LNER, HMV and Bird's Custard; Sylvia Pankhurst, who hoped the RCA would teach her how to 'decorate halls where people would foregather in the movement to run the new world, and make banners for meetings and processions', decided at the end of her decorative painting course in 1906 to become the official artist of the Women's Social and Political Union, run by her mother.
+
+## The Birth of the Commercial Artist
+
+As with Fine Art, the beginning of the William Rothenstein era coincided with a chemistry between students and staff  and a receptive market  which led to important new developments. The students were from the Painting and Design schools, and tutor Paul Nash called them 'an outbreak of talent': they included Eric Ravilious, Edward Bawden, Helen Binyon, Enid Marx and the painters Douglas Percy Bliss and Charles Tunnicliffe. Rothenstein's policy was to encourage fine artists and designers to mix in architecture and drawing classes as part of 'a general education through the arts'. Bliss recalled, however, that 'We used to say "designers do bad drawings and mount them beautifully. We do good drawings and don't bother about mounts". [Us painters] felt ourselves to be the Elect.'
+
+Despite the traditional attitudes, these were the first students to make their names in the worlds of illustration and commercial art. They were preceded by John Gilroy who joined the 'Decorative Painting' course (as it was still called) in 1919 and missed a Prix de Rome by one vote in 1922. Gilroy produced illustrations for the RCA student magazine and, while still a student, designed a promotional leaflet commissioned by the Hydraulic Engineering Company. Shortly after leaving the College, he joined the agency S. H. Benson and, as one of their inhouse designers, worked on the Guinness account for over 30 years. Pevsner was to observe in 1936 that much British design was less serious than its continental  and especially German  counterpart: Gilroy's menagerie of ostriches, toucans and seals for Guiness advertizing posters remain excellent proof.
+
+By the mid-20s, the high spot of the design students' week was, however, 'Paul Nash day', when, as Helen Binyon was to recall, Nash would 'wear a bow tie and dark suit and look almost too smart for an artist. He would wander down the long room, looking carefully at what the students had to show him; he was witty and jokey.' He was particularly encouraging about watercolour painting, book illustration, woodengraving and lino-cutting. And, together with his students, he rediscovered the work of Samuel Palmer and William Blake.
+
+It was certainly imaginative of the Principal to appoint a well-known painter as 'a consultant to designers': Paul Nash was never, in fact, to teach the Fine Art students at the College. But then again, this was the era when Paul Nash produced his semi-abstract treatment, The Rye Marshes, which was attached to the sides of petrol lorries as they hurtled around the Home Counties, bearing the lithographed message, 'Everywhere You Go You Can Be Sure of Shell'. This was an era when 'art invaded commerce', and especially corporate advertizing, 'in no hole-and-corner way', (as Richard Guyatt was to observe) 'but with all the prestige of the avant garde.' Jack Beddington at Shell and Frank Pick at London Transport commissioned staff and ex-students of the College to create some of the most memorable interwar public images. For a brief period in the late 20s, there was even a 'poster design' option within the design course. Bawden designed a poster for the London Underground while still a student; Barnett Freedman did so after leaving, and later became an instructor himself in 1930.
+
+The student generation which immediately succeeded these pioneering students, had a more demanding attitude towards the design programme, and a much stronger sense of political commitment. James Boswell contributed Grosz-inspired caricatures to The Left Review (of which he was art editor); Peggy Angus drew political cartoons for the women's page of The Daily Worker; and Percy Horton sold his portrait drawings in aid of the anti-Fascist course, while helping to found the Marxist group, Artists International, which later became the Artists International Association (AIA). In spring 1935, for the Silver Jubilee of King George V, while Eric Ravilious was supervising design students as they turned Ludgate Hill Bridge into a baroque arch, the late 20s graduates put up an AIA banner declaring '25 years of Hunger and War' across the Strand. Barnett Freedman, meanwhile, designed a special postage stamp for the occasion  the subject of a GPO documentary, The King's Stamp, the first film to be devoted to the design work of the College.
+
+## Post-war Transformations
+
+When Robin Darwin introduced a major post-war exhibition of student work in 1950, he referred to the School of Graphic Design under Professor Richard Guyatt (with tutors Edward Bawden, Abram Games and John Nash) as one of the largest and most important in the College: 'It is a multi-purpose School', he went on, which aims to produce professional designers in commercial art, typography, lettering, bookbinding and - not least  illustration.' It had already come a long way since the reforms of two years before. Guyatt, who masterminded the transformation, rather touchingly was to recall: 'It was only after an article appeared in The Times rapping the College over the knuckles for the vulgarity of such a concept as "Publicity Design", that a serious quest for a name was made. With a sense of relief, but not much conviction, the name "Graphic Design" was chosen. No one was quite sure what it meant, but it had a purposeful ring to it
+
+He wrote this in a catalogue called Graphics RCA, published in 1963 to accompany a major touring exhibition celebrating 15 years' work in the School. Both were intended to show the results of the post-1948 emphasis on 'specialized, professionalized courses', and to promote them in France and Germany. Specialization was proving to be a spectacular success with several generations of ambitious, more mature students, who enjoyed the two-way traffic with the Painting School in the Exhibition Road studios. The show also demonstrated how the College itself was getting better and better at selfpromotion. Critic Bryan Robertson has referred to 'the faintly old-fashioned smartness within the College Corporate Style which hovered halfway between Heal's and the old Faber and Faber house style when Barnett Freedman designed charming dust jackets for Walter de la Mare anthologies.' But there was nothing old-fashioned about the student work itself, which by now included Printmaking ("'It is through the fine arts that the "useful" arts of design are invigorated' wrote Guyatt), Film and Television Design, the Lion and Unicorn Press, the student magazine Ark and photographic services.
+
+Graphics RCA now looks like a comprehensive history of British communications design from 1948 to 1963: posters and illustrations by David Gentleman, Michael Foreman and Brian Tattersfield; book covers, advertisements and bus streamers by Alan Fletcher; a cookery strip by Len Deighton; the set for BBC television's Quatermass and the Pit by Cliff Hatts; Bernard Lodge's titles for Z Cars; a still from Ridley Scott's student film
+
+Boy on a Bicycle; or the covers of Ark magazine 133.
+
+Mark Boxer (by then editor of The Sunday Times colour section) contrasted the pallid early days of Ark, when 'page after page was devoted to wet English romanticism and Betjemanesque collections of old trains', with Ark issues from the late 50s onwards when 'the concern has been for images and patterns of life today': photographic covers featuring Brigitte Bardot and bottles of Coca Cola, celebrations of New York streetlife, a linkup with the concerns of the Independent Group at the ICA and 'an end to latter-day Victorianism'. This contrast has recently been called 'the early development of a postmodern sensibility': Pop Art/Pop Graphics; Uptown Pop/Downtown Pop; grainy blow-ups/the origins of the colour supplements. Boxer continued: 'Often wilful, sometimes seriously naive, this is at its best one of the most hopeful performances on the English visual scene.' Some pages of Ark 22 had been printed in invisible lettering on brown wrapping paper and dayglo ink on cellophane  about which Robin Darwin commented, The more generally unintelligible Ark becomes both in matter and presentation, the better it sells.' Eventually, Ark would go down in the 70s with a review of the RCA drag-queen contest which began with the words: 'Life is decomposing in front of our eyes ... the first to be corupted are bound to be the artists, because they are the ones who are aware and will accept first.'
+
+As Darwin wrote in his Foreword to Graphics RCA, the School had become a focus for  and a way of getting into focus  the entire College. This 'early postmodern sensibility' coexisted comfortably with the old school approach of most of the staff: Edward Bawden was still a tutor, Printmaking was settled within the Graphics area, and the conviction was in the air that
+
+'easel-painting-was-good-for-you' and that 'the-restwould-follow-of-course'. Tutors, such as Bobby Gill, who had experience of 'Madison Avenue' were especially influential. However, it is as well to remember that many of these images emerged from a social world where Gordon Russell, of the Design Council, could  in his occasional moments of doubt  be reassured that all was well with the world when he received through the post the pink wine list, illustrated by tutor in Printmaking Edward Ardizzone, of the RCA's Senior Common Room.
+
+## Graphic Arts in the 90s
+
+Later in the 60s, the umbrella School of Graphic Arts evolved into a series of free-standing departments: Illustration, Film and Television, Graphic Design, Photography and Printmaking. Under the gentle guidance of Quentin Blake, who became head of Illustration in 1978 after many years' involvement, this small face-toface department produced a succession of influential illustrators including Dan Fern (who succeeded Blake in 1986), Nicola Bayley, Su Huntley, lan Pollock and Russell Mills. A branch called Natural History Illustration, under John Norris Wood (a graduate from the Len Deighton era), began to specialize in drawing and studying the natural world  increasingly with an ecological emphasis. Film and Television, which started life as a design unit and continued to offer a lively specialism in 'film design', added animation to its portfolio and came to focus on production, direction and cinematography. Graphic Design developed an important research unit in the 70s under Herbert Spencer, examining 'the readability of print'. Photography under Professor John Hedgecoe combined commercial work (photojournalism and advertizing) with a documentary tradition, before playing a key role in the rise of the artist-photographer of the 80s: eventually and inevitably, the course moved into the School of Fine Art, as did Printmaking. The Guyatt philosophy of 'Fine Arts inspiring the applied arts' now happened in less literal, more complex and convergent ways than it had in the 60s.
+
+All have come to terms over the last 15 years with the implications of digital design, and with what used to be known as 'the new technologies'. Walter Benjamin's famous essay on 'the work of art in the age of mechanical reproducibility' has been revisited and reworked from a variety of new visual perspectives. The Graphics RCA generations may have established the basic structure, but the teaching  and the relationship with the ecstasy of communication, with which young designers have grown up, and which they take for granted  have changed beyond all recognition. Graphic Design now touches, at its outer edges, industrial design in the post-black-box era, the presentation of performance, three-dimensional imagemaking and installation work, as well as digital versions of the more traditional skills. The borderlines between illustration, photographic image and text are constantly shifting. As photography pushes the frontiers of digital manipulation, the old chemical processes begin to occupy similar artistic ground to the old printmaking processes. Graphics and Illustration are converging again, under Dan Fern, while a freestanding Animation course combines traditional modelmaking with multimedia.
+
+Meanwhile graduates have successfully created spaces for themselves (often as teams) in and around the 'cultural industries'. Walter Benjamin was one of the first to coin this phrase, in the 30s, only he intended it as a pejorative: now the phrase describes one of the fastest growing sectors of the economy today.
+
+![](images/af3b78e92e739c971e87910ba44ecf26afc36b746e8997e60ba3492f71b151e0.jpg)
+
+# RIDLEY SCOTT
+
+'I was at West Hartlepool College of Art for four years  intermediate for the first two years, then I started to specialize for one year in painting. I realized that I would never make a painter  I was constantly told I would never make a painter, and there were these huge arguments about "But these are llustrations, boy, these aren't paintings  right?" And I couldn't fathom what that meant, so I decided to go for graphic design which gave me a much more specific creative target and also a broader canvas, because out of graphics would be photography, and already I was thinking, "How do I get into film?". And so I went for the RCA in graphic design and I got in, starting autumn 1958 and finishing in 1961. It was a time when "television and film design" and photography were just beginning to happen, and America was becoming a big influence.
+
+On the course, I was never one to kick against the traces. I was so grateful and so amazed to be there because the competition to get into the RCA then was like getting a place on a moon-landing, as I'm sure it is now. So I conformed to the system and realized very quickly that as soon as we were given a "task", 85 per cent of the students in my year  let's say there were 40  would empty the room. So there was me, on my own, sitting in the corner at my desk for the next three and a half to four weeks preparing my task, and I thought, "Wait a minute, there's going to be an interplay of ideas here  that's surely what's going to happen", and of course it didn't. I was trying to find my feet in London, because I didn't know anybody and for the most part it was southern England, and it was just me at a desk. And the shock was when the students would come in and put their presentations up on the boards around the room in the form of small exhibitions.
+
+# COMMUNI-CATIONS
+
+All of them were covered, so I didn't know who did what. Eventually the master would come in  whoever it happened to be  and say, "this row" and all the covers came off, and I gawped at the level of professionalism. And it was a wake-up call. I really think the most value was how much of a wake-up call it was: the level of professionalism around me, and above all things the level of competition. In some ways, it was a good thing to be left to your own devices. I remember one of the tasks was about the Festival of Britain, another was to think of a scheme for IBM. With the race to get in, you are so experienced and practised after four years in a provincial art school, that by the time you arrive, what can a member of staff really say? It has to be all abóut encouragement and evolution, if the person is clearly skilled already.
+
+By the second year I was beginning to leak into the Photography Department whenever I could, and it was quite difficult getting into it, so you had to spend a bit of time chatting everybody up, to allow you to go into that darkroom. The most valuable thing I did was to buy a camera and start on a real photographic vigil, so I was out every weekend, al weekend, taking pictures. Then the big trick was getting into the dark-room to do serious blocks of time. I loved photography. I was already thinking, "I've no idea how to get into film, but I think I can." I've still got the shots I took, which I put into my final year exhibition, funnily enough, and actually they were, and are, pretty bloody good.
+
+I was influenced at College by George Haslam, who ran Television and Film Design. There was no film instruction in those days, but I liked George as a teacher and I loved his passion for his job. He was a practising designer in a very successful
+
+# RIDLEY SCOTT
+
+television show, made at Teddington Lock studio. And George would give us scripts, and then we would flick through them and come back with a solution for a piece of set design and models if we wanted to. I was doing graphic design, but by then I was already into the Television Department as well, which was a one-year course. In that there was a steel wardrobe, inside of which was a wind-up clockwork camera and an instruction book and a light meter and, if we had to use it, we had to sign out for the camera  but we had to show George a script first. And that's finally how I got to have a shot at making a little movie. With Boy on a Bicycle, I may have been the first-ever student to submit a film for the Diploma examination. I managed to have, for £65, a 16mm film which ran half an hour, had a mix and had title on. It's about a kid who takes a day off school, and I introduced my brother Tony to film-making with it, by ruining his summer when he was a kid. He's six years younger than I am. I had no idea that the process of making a film was so painstakingly slow, particularly when there's just you and the actor who is also the chief bottle-washer and equipment carrier. But you never forget that process. My dad was in the film as well, in the sequence on the beach.
+
+What I liked in the mix at the College, which I think left its stamp, was in that corridor where there was the tea wagon at 11 o'clock and again in the afternoon. There would be the engravers coming out smelling of paint and turpentine, there would be the painters wandering around and smoking in the corner, so there was always a bohemian, Fine Art atmosphere  that was the real meat and potatoes of the Exhibition Road environment. The odd men out were the graphic designers and I think the mix was very interesting.
+
+With the earlier generation of people teaching graphic design, there could have been big collisions, but there weren't. Richard Guyatt was a very genial man and a lot of the staff had been war artists. Herbert Spencer was very approachable,
+
+though he, too, was of another generation. So an American character like Bob Gill coming in with button-down shirts, thick crêpe soles, tight black suits, and talking in this incredibly sleek, New York, advertizing, Madison Avenue way, was incredibly attractive.
+
+I got a travelling scholarship, so after leaving I went to the United States for nearly a year and then ended up working with a film-maker. Cliff Hatts of the BBC had come to my final exhibition  there were a lot of connections between the RCA and the BBC at the time. I went to see Dick Leven with Cliff Hatts who basically said, "There's a job here for you." I said, "Well, I'm going to New York." I'd never been, of course. Mecca. And they said, "We'll keep the job open for you," and they did.
+
+Bu it o a    e day now. I do my own storyboards every day. It's like writing music. Because I find I can pre-visualize better. You stick a piece of paper in a typewriter and start and it justcmes ut. I think the creative processart school is oganic, invy direction, because suddenly you discover music, you read different things. The healthy thing is meeting all these different kinds of people. When I went to the RCA, my world really opened up, whereas I think in the provinces the art school  whilst it was passion, it was wonderful  was more insular. The RCA suddenly was the big arena, there was a lot of competition, a lot of motherfuckers kicking around, who all knew exactly what they were doing, so it was like major league. And I'd go back home sweating. Oh, my God! It forced the pace. And that's where I discovered there's always a solution. It depends on how long you're prepared to fiddle with the canvas, and scrape it out, or start again. I was hopeless academically at school and I woke up when I went to art school.'
+
+# EARLY CALLIGRAPHY
+
+Edward Johnston did not consider calligraphy a profession, more a study and practice of religious devotion. He was single-handedly responsible for rediscovering the principles on which formal writing had been developed. Through experimentation he found that the nature and form of a letter was determined by the nature and form of the pen. Seemingly simple observations, such as the size of strokes being determined not by pressure but by direction, led to a knowledge of materials and their correct preparation that made Johnston a master of his craft. This understanding became the basis for his teaching initially at the London County Council Central School of Arts and Crafts, and from 1901 at the RCA where he developed a lifetime association. At the Central School, he taught specialists; at the College he taught all design students.
+
+Johnston was one of the first practitioner-teachers to give regular master classes, teaching by demonstration using chalk on a blackboard. As he stated at the time: 'I have a very big room, with a great black board worked by pulleys, and a platform with a railing, where I stand or sit and look down on the 17 embryo scribes sitting below.'
+
+Ater noster qui es in coelis? sanctificetur nomen tuum. Adveniat reg num tum. Fit voluntas tua, sicut in coelo et in terra + + + Panem nostrum qu tidianum da nobishodie. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribusnostris. Et ne nos in ducas in tentationem. Sed libera nos a malo. A M EN   
+Edward Johnston   
+(1872-1944)   
+Staff 1901-39   
+Preface to Writing. Illuminating &   
+Lettering, 1909   
+Dorothy Mahoney   
+(190284)   
+Student 1924-28   
+Staff 1936-53   
+Lakeland Flower Tapestry. 1971   
+oher ind wir geboren?   
+Qus Lieb.   
+ie waren wir verloren?   
+Ohn Lieb.   
+Was hilht uns uberwinden?   
+Die Lieb.   
+Kann man auch Liebe indene   
+DurchLieb.   
+Was liht nicht lange weinene   
+Die Lieb.   
+Was oll uns tets vereinen   
+Die Lieb?   
+Goerthe Anna Simons   
+(18711951)   
+Student c.1904   
+Woher Sind Wir Geboren by Goethe, n.d.
+
+![](images/1f1f623e423a7e6a744fe54e329f07d342dd789647c861305f960630e8a691f7.jpg)  
+Thomas W. Swindlehurst (1900-65) Student 1924-27 Arms of the Borough of the West Riding of Yorkshire, 1961
+
+![](images/5e0477c6451c3a4f5197725f330a1cf6c1b380f4db8faadcadf80b7ee29424d8.jpg)
+
+Rule, Britannia When Bntatn fingt at Howns commant. Arase from our the apure main. amse arose anse from out the ayure mai This wis the tharter the charter of the land. And Guandian anges sang the strum. Kule Brrama Brimui  the wus. Britous norr nor, nour sholl tr slaws. the nation Must in ther tum to vrants fall. Whte thou shat floursh great and fre. tThe dread and enve of them all. Kul Ba B Brtons nottnoce notrshat e slare Saull more mafestic shaic thou ris, A fore docadfut from cach foreign stroke As the loud blast that rits the skies. Sen  o Rue Bnrana! Bnmun th ws. Bnams worr, nor, norrshall he slaes. The muses sall with fredonfoned. Shall ro the hapy aist srpa Best de w matcs boute crowrd And manly hearts to guard the faur. Rule Ba Bri e t Brtons notr nonorsall beslas
+
+Irene Wellington (190484) Student 1925-28 Staff 1928-30 Rule Britannia, 1944
+
+![](images/51ce090e6a329298863adf25486c95f4aebe721e4a4f0ab3ce792302fc14438b.jpg)
+
+William M. Gardner   
+(b.1914)   
+Student 1935-39   
+Unfinished Song of Sandy the   
+Shepherd. 1955
+
+![](images/6721ee11038ce254b2c4df80e8885e5035d7134904a0c2f9914ba797bb91a624.jpg)
+
+Mervyn C. Oliver (1886-1958) Student 1911-1916 Lycidas, by John Milton, 1907
+
+SHILDREN LOVE TO LISTEN ware childron, w soatch thar anagina litde oes crept abot me the ohe vening w hear about thair great grand mother Fuedld, who lived in a great house in Norfolk (a hundred times bgge— than that in whuch chey and papa lived, whuch had been the scene-so at least it was generally beloved in that part of the counery—of the trage inadents
+
+Madelyn Walker   
+(unknown)   
+Student   
+Dream Children, by Charles   
+Lamb, 1924
+
+# Royal College gf Art. Kensington Gore, Condon, SW7.2EW.
+
+William R. Daizell (b.1910) Student 1930-34 Example of lettering, 1997
+
+![](images/0f4f71474689cb1b34921d7a4dcc28362f9eb9f6eef566f8740daa4962591cb6.jpg)
+
+Marie Angel (b. 1923) Student 1945-48 A New Bestiary. 1964
+
+![](images/9d7676c4f15513ea146c917c9b5297a9660d5230005f130702977ba1aa2dc15d.jpg)
+
+Margery Raisbeck   
+(b.1910)   
+Student 1932-34   
+Staff 1934-35   
+Freedom of the City of Lincoln   
+conferred on Lord Tennyson, 1964
+
+![](images/29af029ff3cf74186347c58fa619bd552b80aa5efe0e7b99f9df8b48c0656d4b.jpg)  
+John Woodcock (b. 1924) Student Alpha and Omega. 1968
+
+His need for everything to be honest and functional led to the dilapidated cane of the classroom wicker chairs being used, at Johnston's insistence, as the springs of pens to hold the ink. Such was the enthusiasm of the students that the chairs had to be quickly replaced with all-wooden ones.
+
+His pupils were to perpetuate his influence: Anna Simons, unable to study in Prussia as a woman, studied under Johnston and went on to lead her field in Germany; Irene Wellington became Johnston's natural successor, making inscriptions at his behest towards the end of his life; Dorothy Mahoney, who had been Johnston's assistant, continued the teaching of calligraphy at the RCA after his death. While teaching at the College, Johnston developed the famous typeface for the London Underground.
+
+# GRAPHIC DESIGN
+
+# Design for travel: 30s posters
+
+Commercial poster art of the 30s heralded a professionalism in the visual identity of companies in an age before graphic design. This form of advertizing came to be seen as having a value that went beyond commercial function, and was found in spaces that belonged neither to art, nor industry.
+
+Publicity managers such as Frank Pick at London Underground and Jack Beddington at Shell were keen to shape company image through the use of artistic images and elegant typography that conveyed a notion of travel and adventure. Commissioning established practitioners such as Edward Johnston and Paul Nash, who both taught at the RCA, while also taking a gamble with their thenunknown pupils, they developed the medium with avant-garde endeavour to new heights of popularity.
+
+Rather than problem-solving, the artists were invited to express themselves through the frame of company advertizing. The integration of image and type was often left unconsidered; in the case of London Underground the responsibility for lettering the posters was left to the printers.
+
+The alphabet designed for the Underground by Edward Johnston in 1916.
+
+ABCDEFGHIJKL MNOPQRSTUV WXYZ abcdefgh ijklmnopqrstuvw xyz (&£.;!?\*) 1234567890
+
+Edward Johnston Alphabet designed for the London Underground, 1916
+
+![](images/006740ab22b5135c6d8fdb5e5ce0679ad2ddb227d672724b33fd043577f5a6d9.jpg)  
+SEE THE SHOW OF DAHLIAS NEAR VICTORIA GATE
+
+HYDE PARK
+
+Edward Bawden   
+Hyde Park,   
+London Underground, 1925
+
+![](images/6b018a5517d3f7c6e3d1438b41904aefc195d6d5974d2cd44b0ce92ef94b15ab.jpg)
+
+THE RYE MARSHES
+
+# GRAPHIC DESIGN
+
+# Design for travel: 30s posters
+
+Focusing on metropolitan attractions or the British countryside, the posters made familiar terrain unfamiliar through the guise of modernity. The persistent use of a bold, centrally placed feature invited the eye to meander around the composition, the effect being to encourage exploration of the London Underground's recently opened stations, or of the highways and byways of Britain. The Underground used posters; Shell preferred 'lorry bills' attached to the sides of petrolcan delivery trucks.
+
+At the same time, the work of John (James) Gilroy for Guinness created campaigns using humour and characterization to endear consumers to the charms of Irish stout. His posters were an early example of the fleeting and charming advertized image, its message eventually understood through the persistence of the style. Gilroy's association with Guinness was to last for over thirty years, from 1925 to 1960. The walls, hoardings and lorries of the era were to be christened, in true inter-war style, 'the people's art gallery'.
+
+![](images/99be193342f3c6ce7f3d45fe90c93fa23dd9cd665c575e8c862301acf5491d17.jpg)  
+YOU CAN BE SURE OF SHELL
+
+Paul Nash The Rye Marshes, Shell, 1932
+
+## THESE MEN USE SHELL
+
+![](images/44d00b1c1d5aa1fc37185d2a0c6e6ae77b69583aa2a0b58ef9ab89ef461a5738.jpg)  
+YOU CAN BE SURE OF SHELL RACINC MOTORISTS  
+Richard Guyatt These Men Use Shell, 1936
+
+# KEEP SMILING
+
+![](images/30a467e91471b84919cf55c359030c00bb4d52d6e0cae59d53859b4a47e479a6.jpg)
+
+GUINNESS IS GOOD FOR YOU
+
+James Gilroy Keep Smiling. 1936
+
+My Goodness My GUINNESS
+
+![](images/0cec94c0cd619193b060acf95540d9a5b1e6ded0f323b31b2ad4fdef6ab8809a.jpg)
+
+James Gilroy   
+My Goodness my Guinness   
+Pelican, 1936
+
+My Goodness My GUiNNesS
+
+![](images/04a64dbb7328f88973df6432c4b65a53d3889f70b15313ae737d30149502c5ff.jpg)
+
+James Gilroy   
+My Goodness my Guinness   
+Ostrich, 1936
+
+# 50s GRAPHIC DESIGN
+
+In 1948 Professor Richard Guyatt established the School of Graphic Design. The aim of the School was 'to produce professional designers who combine in their work the highest aesthetic standards of design with professional standards of technique'. Originally it was planned to call the School 'Typography and Publicity Design', but this was deemed too vulgar. Within the new School there were to be three departments: Commercial Design, Illustration and Printmaking.
+
+The Commercial Design course primarily focused on advertizing media, such as press advertizements, leaflets, book jackets and posters. A mentor for many students in these early days was course tutor Abram Games, who had successfully designed the corporate identity for the Festival of Britain in 1951. A sense of national identity brought about an 'Englishness' in design, and the postwar years saw graphics reverting to neo-Victorian typefaces. RCA staff and students designed the Lion and Unicorn Pavilion for the Festival. This was followed by the Lion and Unicorn Press at the RCA in 1953, which produced a number of limited-edition books for subscribers each year, and emphasized 'experimental features'.
+
+![](images/c75d72e17a9b5ed6c42e1cb7084e762e1dc4fab3379b1add72cc7a086b4a3c4d.jpg)  
+Geoffrey Ireland (b. 1923) Student 1948-51 Staff 1953-68 RCA poster, 1948
+
+![](images/640e79f3caa478db7ad2aced4664462021dd5764aa6cf9ee7ff0e8f3fa433e40.jpg)  
+Alan Fletcher (b. 1931) Student 1953-56 Poster for IBM's Paris headquarters, 1960
+
+![](images/d8b556efbe9c04b647c6ee0119b985b374509a150f34ff8f42d484b2788833a8.jpg)  
+F.H.K. Henrion (1914-90) Staff 1953-56 Visiting Staff Harper's Bazaar. cover. 1943
+
+![](images/05fb706c0f0d20d78667b31fed737d31e9ef1586df4e661b25600e7737d72923.jpg)  
+Derek Cousins (b. 1928) Student 1950-53 Young Contemporaries Exhibition poster, 1953
+
+![](images/fc30871d0d4a796bd2a14dea748dcf140a3e22cbf07fe9886051dbd05912f791.jpg)  
+Romek Marber (b. 1925) Student 1953-56 Penguin book jackets, 196163
+
+![](images/eeb8291182375213b1027c94bb3957620fed8d6d088a3cc3bd7e027f9258a86f.jpg)  
+Herbert Spencer (b. 1924) Senior Research Fellow, Readability of Print Unit 1966-68 Staff 1976-78 Professor 1978-84 Typographica 7, 1963
+
+# COMMUNICATIONS
+
+![](images/3da053e4bc70cfa12f4bd07dfc2d95639632032029aafc683b5361c159263dbf.jpg)  
+David Gentleman (b. 1930) Student 1950-53 Coronation Year Exhibition poster, 1953
+
+![](images/bd1e4651243fe84a419b7f567f98930f5559a0641d05809169252bb2e5016a3e.jpg)  
+Anthony Bisley (b. 1934) Student 1955-59 Edge of the City. poster for the RCA Film Society, 1958
+
+![](images/02e567a2fcea869585de7e21924e4b4722851b438be17b3d67cbad5dba25aecc.jpg)  
+Berthold Wolpe (1905-89) Visiting Staff Staff 1967-75 Faber & Faber cover. 1955
+
+![](images/e861efe70740e8c3e9963926966c347779d9835d10cc68187f1396c7cc35e816.jpg)  
+Raymond Hawkey (b.1930) Student 1950-53 Evolution pop-up book. Michael Joseph Publications, 1986
+
+![](images/27a1e71703b5181189ebf665d957de06a56658601705e19f33cb406cadd27ef3.jpg)  
+Philip Smythe (b. 1933) Student 1955-58 Furniture Exhibition, poster. 1958
+
+![](images/0d46d2d03051f15777e4c32460b77cac07ec0f97db8e81dc64e186b9637be179.jpg)  
+Edward Wright (191288) Staff 1956-59 'This is Tomorrow', section with Theo Crosby. Germano Facetti and William Turnbull. 1956
+
+![](images/a51aa421db03a077733ec5ea4e03983e0cd72ad2ab602e46848c0952f143e3ee.jpg)  
+Len Deighton (b.1929) Student 1952-55 Visiting Staff Ark 10, cover, 1954
+
+![](images/92933edf2aa00d51db224e498900d01869a4014b26f66c888633c617647312fe.jpg)  
+Abram Games (1914-96) Visiting Staff 1946-48 Staff 1948-53 Emblem for the Festival of Britain, 1948
+
+![](images/66fea08aa1e6245f8f07f161c72e11dad3a9f261100291116cbece95fdc2dd6a.jpg)  
+Richard Guyatt (b.1914) Professor 1948-78 Rank Xerox Identity, with lan Jenkins, 1978
+
+# 60s GRAPHIC DESIGN
+
+The 60s were heady years for graphic design at the College. The student-run magazine Ark provided an encouraging platform for radical and abrasive experiments in design. The latter years of the 50s had seen the rise of photography as a College discipline, and Ark began to revolutionize its applications. These took their lead from American pop culture, celebrating ephemeral elements such as the comic strip  much to the annoyance of Guyatt and Darwin. Pop aesthetics and a familiarity with layout design saw many graphic design graduates take on the role of art editors on emerging Sunday colour supplements and consumer magazines. Rodney Springett, a graduate of 1967, was quickly snapped up by Queen.
+
+In 1965, the Commercial Design course was renamed Communication Design which allowed for a growing diversity of media under the one title. In the same year Jock Kinneir took over as tutor: with Margaret Calvert, who was to become a member of staff in 1966, he had recently completed a radical redesign of Britain's road sign system, which is still in use today.
+
+![](images/2fbe5741162cfd963d7674388b3f44e3bce6d66f7c6735f33642ab00dac87637.jpg)  
+Ridley Scott (b. 1937) Student 1958-61 Poster for SKF, 1961
+
+![](images/73790f887882868a71b52f28b2f7bd0ff4cd5f7d70a3ed5809fae6c461133e44.jpg)  
+Barry Bates (b.1935) Student 1959-62 'Loving Tea', student project, 1962
+
+![](images/1b0ad32fc24ed40fb82ad2f567935a3e207d4dcaa15c9833426f0af523c6efb2.jpg)  
+Neville Malkin (b. 1938) Student 1960-63 Advertisements for Bass, 1963
+
+![](images/e301b7e08a88519b99d7450e5371c6e0a43e0b9d260c30915dc3d51e45615a61.jpg)  
+Gerhard Dumbar (b. 1940) Student 1963-66 Professor 1985-87 Holland Festival logotype identity Studio Dumbar, 1986  
+British int o s Bnal 1963 h RA Ga Keon o SW7 Tdy na  y y Den weekdays 10 am to 5.30 pm and 8 pm Thursdays Sturdays 10 am o 4  Amission students
+
+![](images/a17d0c1d0e40b023029104bbc2a60c158051ef61a531d08dd39724a526cc3fec.jpg)  
+Stephen Abis (b. 1943) Student 1961-64 British Paintings from the Paris Biennale, poster, 1963
+
+![](images/dd02dfcfdf83fefff24df6bfff2382eb2516e7fb3496369a241cef2f9c75c716.jpg)  
+Rodney Springett (b.1944) Student 1964-67 Visiting Staff Cover of Queen, 1967
+
+# COMMUNICATIONS
+
+![](images/e1f73d708ee8189679945c13b3184f238c58ccebb5e1647780b28e78bca409a3.jpg)  
+Brain Tattersfield (b. 1936) Student 1959-62 Packaging for Giorgio Armani Swimwear, Minale Tattersfield & Partners. c. 1985
+
+![](images/cac238b54d053fd626e25448b771adb535f7081b5cfcac41385fb7e120d1f5ac.jpg)  
+Michael Foreman (b. 1938) Student 1960-63 Staff 1968-69 Meet the New President. poster. RCA, c. 1960
+
+![](images/916afdc37e20f8071b0a818ee6e9c1fce853d30b76f21173fad05de5ed28a2c6.jpg)  
+Brian Haynes (b. 1939) Student 1960-63 'La Notte' and History of Nothing posters, RCA, 1963
+
+![](images/4001339caaea699f0ffc54cc9c3ee2442184e104e08845471e12fea2dca8e9b0.jpg)  
+Thelma Roscoe (b.1940) Student 1961-64 Visiting Staff 'Graphics RCA' Exhibition. poster, 1963
+
+![](images/7104bc7829ab2b10c3ca4cc501b877b25cf49a7c6dd9bd39cdd53d1b5130fcf4.jpg)  
+Richard Doust (b. 1940) Student 1962-65 Visiting Staff Staff 1986-present Stationery, 1965  
+Roger Dean (b. 1944) Furniture student 1965-68 'Relayer', Yes album cover, Atlantic, 1974
+
+![](images/904d3067dc6aea639d80e181bbdcc2dfd0b33796e9c9a22f82d093680e3253e0.jpg)
+
+![](images/181b60598f5927e8da586d5b8e27abba8226723f3d9548a8a0020ad123afd348.jpg)  
+Anthony Froshaug (1920-84) Staff 1961-64 Typographic Norms, RCA. 1964
+
+![](images/babafdad9408d5325c540fd4fdd9e2011d7d8baa20e35253a0628a5fa41d31ee.jpg)  
+Stephen Hiett (b. 1940) Student 1962-65 Ark 36, 1964
+
+![](images/ff15f49f451d6db7bbb65dd145cd671f56dd35bcd33a28508d9561bbbfcb3dbc.jpg)  
+Jock Kinneir and Margaret Calvert (191794, b.1936) Head of Department 1965-68 Staff 1966-present, Head of Department 1987-1990 British road sign system, 1963
+
+# GRAPHIC DESIGN
+
+Ark and the rise of postmodernism
+
+Ark was a journal edited and produced by students. It was initiated by Jack Stafford in 1950, a student in the School of Woods, Metals and Plastics. Its aim, he said, was to explore 'the elusive but necessary relationships between the arts and social context'. While it never followed an editorial line, it did provide students with a prominent outlet for their work.
+
+Ark was produced within the newly established Graphic Arts School headed by Richard Guyatt. In its early years the journal  like the course had a distinct bias towards Fine Art. The first issue was designed by Geoffrey Ireland and, graphically, Ark tended towards an 'Englishness' mirrored in the 'New Elizabethan Age' of the Coronation era.
+
+However, Ark also revealed an aesthetic tension within Graphic Design: between on the one hand neo-Victoriana and a fascination with folk art, Victorian type-faces, woodblocks and line engravings; and on the other, modernist graphic design and an interest in the mass media. Alan Fletcher, student in 1955, recalls that the staff used to 'lock up the sanserif type', while Raymond Hawkey, student and art editor of Ark 57, rebelled against the status quo of graphic design at the College by including photography in Ark 5
+
+![](images/47700cbfc55a80b7099e7cb82e9e948dbd5f28caddf8333a621c4976afab6bef.jpg)  
+The launch issue of Ark. designed by Geoffrey Ireland. October 1950
+
+![](images/fae2e39848b28f6ec193833850c4df54ce7f03bb2df6c18bf2ead2517a2baea8.jpg)  
+Ark 7. 1953 This was the first cover o tilize a photograph,much o the disappointment of the staff.
+
+ARKtwenty-fiveJOURNALof theROYALcollege ofART3s-75
+
+![](images/d244cc645c704174ee2b4092f75956fc19eb111de2c10a0d85926a7622381ff9.jpg)  
+Ark 5, 1952  
+This issue was the first to include photography. The collaged cover was designed by Raymond Hawkey.
+
+![](images/628e634c0c092bbb5e3e2f1429dda8ae20539ced54227af935d8a00d9af7dd82.jpg)  
+Designer Alan Fletcher introduced a modernist typeface for this issue, a radical shift from decorative type.
+
+![](images/a27ff45017ff6564cee7778309366753a244ae3d1d99c59842021c59b1a8c386.jpg)
+
+![](images/c3b394fb5ba5d067367be983e41cea973375855da31bae2dc144a9ec5aebefbb.jpg)  
+Ark celebrated icons of popular culture, such as Coca Cola (Ark 20, top) and Brigitte Bardot (Ark 25, above)
+
+Joal   Rol Colle Sum
+
+## GRAPHIC DESIGN
+
+Ark and the rise of postmodernism
+
+![](images/28aad777e7ee13a9fdf274ae4416df53558eee604c2d6eb4d38e340ade81e3e8.jpg)  
+Ark 32, 1962 Cover of the seminal Pop Art issue designed by Brian Haynes.
+
+![](images/4255fa2a5b126faba585fd221e248e252222c07ba7a27b20cb7c6c14915a14dc.jpg)
+
+![](images/5294ddf4b3eee18abee45d2ece9554a2150a248566f067db02b83c50d2649154.jpg)  
+Do-It-Yourself Pop Art 'Kit of Images' for Ark 32 by Brian Haynes, 1962  
+DELICIOUS HIGH PROTEIN CEREAL
+
+(Summer 1952) and on the cover of Ark 7 (March 1953).
+
+Len Deighton continued the use of photography in Ark 10 (Hawkey went on to design Deighton's spy thriller The Ipcress File) and caused another wave of disapproval from the establishment with his inclusion of a 'Hopalong Cassidy' comic strip. Deighton's appetite for American pop culture had been stimulated by a trip to New York during his summer vacation. He later observed that 'the [College] staff were living in the 1930s, referring to Paris as the centre of painting, while the students were living in the 1950s who knew New York was the new centre'.
+
+In 1955 Alan Fletcher introduced a modernist typeface on the cover of Ark 13, a stark contrast from previous issues. This shift was inspired by Fletcher's former tutors at the Central School of Art, Anthony Froshaug and Edward Wright, who both began to teach at the RCA shortly afterwards. Roger Coleman, editor of Ark 1820, in Ark 19 (Spring 1957) introduced the reader to hip cultural activists, the Independent Group, and launched a fruitful relationship with the College.
+
+While images of pop culture continued to appear in Ark, the Summer 1962 issue, Ark 32, became the seminal issue which featured a wonderful pull-out section, a Pop Art 'Kit of Images'. This was art editor Brian Haynes' celebration of the work of what were then seen as British Pop artists Derek Boshier, Peter Phillips, Peter Blake and David Hockney. Of these heady years Len Deighton was to recall that 'the tatty mess of 1951 became the exciting mess of the swinging sixties".
+
+From the mid-60s onwards, Ark's graphic design became visually seamless and very slick, which in turn created a blueprint for the Sunday colour supplements. Ark continued until 1972, was revived in 1976 and then finally laid to rest in 1978: yet Ark's graphic styles were to have a huge impact on the British media, transforming advertizing, illustration, newspapers, magazines and, to some extent, the moving image as well.
+
+![](images/3221cb838a2f7cab3cf662babf095c443af79b626343bd49ca60613a2ec0715b.jpg)
+
+Pop Art 'Kit of Images' insert for Ark 32 by Peter Blake, 1962
+
+# 70s GRAPHIC DESIGN
+
+Towards the end of the 60s, Kinneir relinquished his role as tutor, and there remained a gap until 1972 when Lou Klein took up the position. In 1975, the College discussed adding another unit called Graphic Information, and by 1976 this had been implemented by former Research Fellow in the Readability of Print, Herbert Spencer. This new unit offered courses in the computer-aided graphic design, computer typesetting, photo-composition and information setting that was a precursor of the Macintosh-led desktop publishing of the 80s.
+
+By the end of the decade, many former students had set up internationally renowned graphic design companies (Pentagram, Minale Tattersfield & Partners, Delaney & Ireland Co). In turn, this led to greater links between the RCA course and professional practice.
+
+After a period of dormancy, Ark was rekindled in 1976 for two years before it finally became history.
+
+![](images/478aae02eceb60c447b09297edcdcb11c844f3154773f4e2c22b70355d44f6dc.jpg)  
+Darrell Ireland (b. 1948) Student 1968-71 Xmas Card, 1991
+
+![](images/ef48a309228d5b9aa280997b8a1eca7058160411c94ee1abb8af3a5681bdac81.jpg)
+
+![](images/fc6de77a26711eec9d6aa752ec800eb2b995c20ea36d8986e5096070447d8c41.jpg)  
+Brian Delaney (b. 1948) Student 1969-72 Ark 48, 1971
+
+David Freeman   
+(b. 1949)   
+Student 1970-73   
+Staff 1973   
+'Britain in the 30s', RCA. 1973   
+lan Delaney   
+(b. 1953)   
+Student 1975-78   
+Corporate Identity for Heal's, with   
+Minale Tattersfield & Partners, c. 1980
+
+![](images/0c6f91584e919df14c38e80053eb3cae22f8c525e719d5d273b9f2c64f44700d.jpg)
+
+![](images/37a5fe5a86973d413dc15da5e2198397efee7575a56468f7964f8b979b794f03.jpg)  
+Susan Huntley (b. 1949) Student 1970-73 Bring on the Night, Sting poster, 1988
+
+MARKS & SPENCER
+
+Gary Rowland   
+(b.1954)   
+Student 1976-79   
+Marks & Spencer logotype. 198689
+
+![](images/d19fae49f8236c1a55d537af327ddded0b8446d35e9c0a312964b895476028ac.jpg)  
+Raymond Gregory (b.1946) Student 1969-72 Poster, Fencing Club. RCA. 1971
+
+![](images/bf2e6dd481806c13964b5083b856db7bf0b155bcde61d1a0b3efd7524d5a76e5.jpg)  
+Ronald van der Meer (b. 1945) Student 1969-72 Visiting Staff Ark 50, 1972  
+Paul Leith (b. 1946) Student 1970-73 Wine label, 1988  
+Jelle van der Toorn (b. 1946) Student 1969-72 Ark 47, layout and artwork, 1970
+
+![](images/d98641c3ef8123afd137c782393e0c36ca97043fc801df695cf80efbfa53f3c0.jpg)
+
+![](images/7939bfea6bda072f5895518fc3bb79bc5923c127762c8f14080e3984118c6c79.jpg)
+
+![](images/5ae51af9bbb6ce0edf3ade59ef40e5d5f0d44440bfd8c4e271640646ff573168.jpg)  
+Nicholas Wurr (1950-1993) Student 1973-76 Staff 1990-93 'Fetch'. Silver D&AD Award, 1977
+
+![](images/9925a13ad902bedeeb5d93df44c00fa610f8dc172ecf08e1fef1f7c96bb3e608.jpg)  
+Liz McQuiston (b. 1952) Student 1974-77 Visiting Staff Ark 52, 1976
+
+![](images/c53223cdb4143c0d9bce6e1d6fd20860f0d08d35188d82e58faa75ca8687c42b.jpg)  
+George Hardy (unknown) Visiting Staff Wish You Were Here', Pink Floyd album cover, 1975
+
+![](images/f8f0dc18ace41f4ab5582e64622594384dcc00a4c1e1bb99c39139fd10455429.jpg)  
+Ken Garland (b. 1929) Visiting Staff 1977-87 Galt Toys logo, 1961
+
+![](images/05752abb54eba28538a9dace82a5f04b308089131167eaac51e25953f30c63b9.jpg)  
+Lou Klein (b. 1932) Staff 1969-75 Professor 1973-75 Book covers for Time Life; logotypes, c. 1975
+
+# 80s GRAPHIC DESIGN
+
+The most important influence on the teaching of graphic design in the 80s was the advent of the Macintosh computer. The digital revolution allowed a new freedom in the processes of graphic design and paved the way for a fresh graphic language. Gert Dumbar's arrival at the College in the mid-80s was also a key influence. The controversial Dutch graphic designer told students to 'think with your heart', encouraging them to break free of prescribed rules and conditions to express their own personality in their work.
+
+This combination of new technology and experimental creativity meant that graduating students were armed with a new confidence. Empowered by their computers, they were able to set up studios on their own, or in groups of two or three, and to deliver large volumes of highquality work, competing successfully with well-established design companies. A generation of RCAtrained graphic designers ignited the language of graphic design, subverting the old visual codes to create distinctive and highly individual work.
+
+![](images/ca0463bdf1ec9927e707494e7a1e053b5a1adb42c06745cc84f4e955fbcdcdca.jpg)  
+Moira Bogue (b.1960) Student 1982-84 Cover of i-D magazine February, 1986
+
+![](images/b11202cc5a8c28ec0fa5964369551a40f25fa54338cc9ecbc63cd5904f121413.jpg)  
+Sean Perkins (b. 1963) Student 1985-87 Corporate identity for the RAC, North, 1997
+
+![](images/53812a4a8726e9aecbd91b002bedbd5a0bdd3633843d6cfaab2c07793c98ba7f.jpg)  
+Jonathan Barnbrook (b.1966) Student 1988-90 'Delux' font from Virus catalogue, 1997
+
+![](images/f7b736dcd0a9b77d624192194f5be2245170995f074d0eb7d1089200ad6abea6.jpg)  
+Dirk van Dooren (b.1959) Student 1983-85 Spread for Alberto Aspessi summer collection catalogue, Tomato, 1998
+
+![](images/836d47c198b515acc2d37c06ca4891a9837d1d95ad18104975f5cf9eb9afe4eb.jpg)  
+Richard Bonner-Morgan (b. 1964) Student 1986-88 Staff 1996-present Print work for Accelerator exhibition. Arnolfini Gallery. Bristol, 1998
+
+![](images/0025accc71a6423e05a52cfdec21505400bf00348ef2112d9bb5fb55dd9577dd.jpg)  
+AmFAR/96  
+Martin Perrin (b. 1965) Student 1988-90 Front cover for the brochure for the American Foundation for AIDS Research, 1997
+
+# COMMUNICATIONS
+
+![](images/220d75a2df99b215649f126f7b3524b6567a20cb8f919859aac29f6d17908196.jpg)  
+Andy Altmann (b.1962) Student 1985-87 Poster for 'Sensation' exhibition, Royal Academy. London, Why Not Associates, 1998
+
+![](images/ec7aceaaa15a2b3706dc9e77c2cdf172ecf6c108b22b51d052db7ea8f23d5414.jpg)  
+Angus Hyland (b. 1963) Student 1986-88 Cover for the Book of Revelation, Pentagram, 1998
+
+![](images/e9dec932764b17c3dfaa873c04639e9d4378a4609c31decac972421b38f7dba1.jpg)  
+Peter Willberg (b.1962) Student 1987-89 you are here, cover for catalogue. 1997
+
+![](images/30de90c1ca1c35ec1aff33def1ce9597ed77d236cad59af03bf7115767ec6e3f.jpg)  
+David Ellis (b. 1962) Student 1985-87 Why Not Associates book cover, Why Not Associates, 1998
+
+![](images/0dfef8c50746275f6602d6eda61176f0d4ca16eb80f7aa658e00fe407a1d042d.jpg)  
+Morag Myerscough (b. 1963) Student 1986-88 Business card for Studio Myerscough. Studio Myerscough. 1999
+
+![](images/ce6e8a26f99a98c558a588a54513200a82c17ff5b5e37e8169606f91bfd9e448.jpg)  
+Paul Neale and Andy Stevens (b. 1966. b. 1966) Students 1988-90 Poster and sticker set for Paul Vogel Textile Design, Graphic Thought Facility, 1998
+
+![](images/fac6faeb82ded87bc0dffc227ff612768d42be01fce0deae9b61ff88ae29fdcb.jpg)  
+Phil Baines (b. 1958) Student 1985-87 Contribution to YAK magazine, 1987
+
+![](images/1a7beb7a13d741556524a1a90de781f70fe39de8f5275ea159beeb997c76fba2.jpg)  
+Russell Warren-Fisher (b. 1964) Student 1986-88. Staff 1992 Poster for Ave Maria. Théåtre de Complicité, 1991
+
+![](images/7bc8abcbfdc5be3af236b1f165f12a9375cbcc45e40bcdf2ddda40a2e6290e43.jpg)  
+Gert Dumbar (b. 1940) Student 1963-66 Visiting Staff Professor 1985-87 House Style for PTT Nederland NV. Studio Dumbar, late1980s
+
+## GRAPHIC DESIGN
+
+## Why Not Associates: the language of invention
+
+## the city conference
+
+the modern chair Twentieth Century British Chair Desig Thursday 4 August - Sunday 2 October
+
+A Symposium on Urban Design and (Post) Modernity   
+Saturday I - Sunday 2 October   
+Spcakers include Marshall Berman, Godfrey Bradman, Nigel Coates, Michael Graves, Richard Roger, Ruchard Sennctt Elizabeth Wilson, Sharon Zukin.
+
+![](images/06127a9bbfbb96f7466320228f7a47fd18a3417473087e7a41976849723d525d.jpg)
+
+![](images/c26fe9b38463ed502906e20215fbfe3645ad07e821a8bc389d4ae828f135c250.jpg)
+
+Metropolis and the Modern Chair, graphics and poster, ICA, 1988
+
+The day they put up their Degree Show in 1987, Why Not Associates Andrew Altmann, David Ellis and Howard Greenhalgh began their professional career. Why Not were given the opportunity to redesign Headlines, a magazine for a US-based cosmetics company, Sebastian, in the same year. It was, however, fellow student John Newman, a former London taxi-driver, who gave them
+
+Andrew Altmann Poster for Yak magazine, RCA, 1993
+
+their name after receiving a distinction for his thesis on Bob Gill. Newman had proposed that the 80s generation of graphic designers had a 'why not?' attitude, and the three designers were the perfect candidates. After their first commission, their accountant suggested they add 'Associates' to their name.
+
+1984 had seen the last intake for the three-year course, which meant that by 1987 the graduating year in Graphic Design had doubled in size, creating much excitement and tension. Graphic Design students experimented with new materials and threedimensional forms to create new modes of communication.
+
+For Andrew Altmann, a former student of the Central, a lecture by Dutch designer Gert Dumbar inspired him to apply to the RCA.
+
+# COMMUNICATIONS
+
+![](images/83996fad39499bdb21d2df965dcba6f6d0c539efd8034979b836ba43763b0b66.jpg)
+
+The 'Holland' school of design, including Studio Dumbar, Total Design and Anton Beeke, in turn inspired Why Not Associates in their professional capacity. Recalling his tutorials with Professor Dumbar at the College, Altmann said, 'he drank Geneva Gin and talked about women'.
+
+As trained typographers, Why Not Associates had the skills to break the ground rules of type. Fellow student Jonathan Barnbrook introduced them to the Macintosh computer, and they soon accommodated this 'polite revolution in graphic design'. In 1991, they were commissioned to design a new typeface for Midland Bank, using the software Fontographer and based on two existing typefaces, Perpetua and DIN. Why Not christened the new typeface 'Doddy', in homage to the comedian Ken Dodd.
+
+Their big break came with the commission for Next Directory 5 in 1988 and, working with Barnbrook, they created the multi-textured feel that has become their signature. In the same year, Why Not's exhibition designs and poster for the Institute of Contemporary Art's 'Metropolis and the Modern Chair' exhibition attracted glowing reviews. Their book Typography Now, written by Visiting Professor Rick Poynor, was an unexpected success, attracting a very large and receptive market that many did not know existed.
+
+# 90s GRAPHIC DESIGN
+
+The 90s have seen a questioning of the computer in favour of traditional graphic design techniques. This process had already begun in the College during the tail-end of the previous decade, most notably in the work of Jonathan Barnbrook. Students returned to the traditions of hand-crafted typography through the techniques of letterpress, and sought to combine new technology with the old, creating innovation out of the collision of craft tradition with the computer.
+
+Set up in 1992 and led by Alan Kitching, the letterpress course allowed students to become reacquainted with the tactile qualities of paper and fresh ink, and encouraged the creative possibilities that could be gained from the awkwardness of the operation. The advantages of 'getting one's hands dirty' meant that students gained an understanding of the intricacies of type and the printing process, skills that the computer had all but eradicated. Slick computergenerated design was tempered with a more human, hand-made aesthetic to produce fresh, simple solutions to communication design.
+
+![](images/80f09604185815c369f0404d408ebe000c68041f570c3f919268d4ea6aeca664.jpg)  
+Anthony Burrill (b.1969) Student 1989-91 Man & Shape (no. 3), from Men & Shapes, Bless the Artist, 1999
+
+![](images/0e36d4c4f531f00ef8f5243ee3fcfe2d91c567f2d7603e0a3698a9e249aa0907.jpg)  
+Andy Johnson (b. 1968) Student 1990-92 Cover for Blueprint magazine, 1998
+
+![](images/0d5f6924e4424f4033a01c10a457548d2ef579813b6eb9b2c9e7db922bf4b635.jpg)  
+David Revell (b.1969) Student 1992-94 Working model. 1996
+
+![](images/da4f21bdbe571747a61f0e962c5c9bda2f3b2ba036da0a9f61b186e093ff8b92.jpg)  
+Jon Morgan and Mike Watson (b. 1971.b.1965) Students 1993-95 Tea Leaf business card, Bump. 1999
+
+![](images/f876eca7512d683f224d7ca9e499debc1fcac667b73ea5c413c5378cff83db73.jpg)  
+Martin Carty and Ben Tibbs (b. 1969. b.1970) Students 1993-95 Spread from Tactical Cafe mailer/book. Automatic, 1998
+
+![](images/014ecbf08075e1c420e2a22b86d242b88e71075bd296e1cc3ee7963120a68e65.jpg)  
+Vera Daucher and Anna Subirós (b. 1971.b.1969) Students 1994-96 Spread from RCA Summer Shows. (with Frank Stebbing). 1998
+
+# COMMUNICATIONS
+
+![](images/e828dd04c9280900f9b1f548b85a38c6e9b2c443a513c77245503d6ac29acec4.jpg)  
+Peter Miles, Damon Murray and Stephen Sorrell (b. 1966.b.1967.b. 1967) Students 1990-92 Image for Fuel Hype magazine, Fuel, 1991  
+Jason Edwards and Tim Hutchinson (b. 1971.b. 1969) Students 1993-95 Billboard for Multimedia Degree Show. RCA, Bark, 1997
+
+![](images/e1b41888eb1fa8654a3a589d6e15c46701a6d7daa340c4109ce224addd348e53.jpg)
+
+![](images/d6785e06d85bfc25b656369116a56f6e8223bea69bf1c007ec8d8fe58ae121ff.jpg)  
+Paul Plowman (b. 1966) Student 1990-92 Logo animation for Simple, 1994  
+Tony Cobb (b.1944) Professor 1991-94 Visiting Staff Reader's Digest World Atlas, 1998
+
+![](images/973916763cd4a229319f2937a9bd767c756aea7bb3f685ac657d1ceadf41b88e.jpg)
+
+![](images/ffd62349c9d599328e00f495732887979fc2480a11c930dbccdc844d77d89e21.jpg)  
+Seonaid MacKay (b. 1970) Student 1993-95 Day. photographic installation, 1999
+
+![](images/51cb26575a1d02aa5f706a0f640999879fb9886eb16d50a21e1b5a3e4a9856ed.jpg)  
+Sophia Wood (b. 1966) Student 1994-96 Crossing Borders, Urban Outfitters, Fly. 1998
+
+![](images/6ebb9d9f8adeabc85259b9b0adbf125c30d9063979538b0762fdafa327ff8ebe.jpg)  
+Jayne Alexander and Violetta Boxhill (b. 1969.b.1970) Students 1992-94 Poster for New Designers' exhibition, Alexander Boxhill, 1997
+
+![](images/ab629fdbf91ae9a33b7cd4cabda118fcbc69c46e39e49d12f8c7473bf968dea4.jpg)  
+Huw Morgan (b. 1971) Student 1994-96 Tags for Jo Gordon Knitwear, 1998
+
+![](images/d48bc280c31e27a0256533fa8eeed83af2a7cba4a1b4507c490fdd67816c4eb9.jpg)  
+Alan Kitching (b. 1940) Staff 1988-present The Ring. letterpress print, 1998
+
+![](images/9e7e307babf00103547aaec5f1e9ae4374b2768efd3b051ad0b72e18424675bb.jpg)
+
+# GRAPHIC DESIGN
+
+Jonathan Barnbrook
+
+![](images/50bf6617223e857176f2f41f31f0da3e37f7ed13fbf40fcc9d75569a99878500.jpg)
+
+Since his graduation in 1990, Jonathan Barnbrook has attracted an international reputation as a graphic designer, font designer and art director. He has developed a visual language of dissent that has been employed in advertisements for the likes of Nike and Guinness: multinational corporations that are paradoxically the targets for his renegade agitprop typography.
+
+His fonts have cynical names, such as Nixon, 'the typeface to tell lies in', and Drone, 'for text without content'. So, lucrative advertizing contracts support the Virus Foundry's critique of consumerism.
+
+It was when Barnbrook was working on a never-to-be-seen commercial at Tony Kaye Films that he met Damien Hirst. This meeting led to him designing Hirst's first monograph.
+
+The epically titled I want to spend the rest of my life everywhere, with everyone, one to one, always, forever, now was expected to take three months to complete but such was its visual complexity that it was delayed by over a year.
+
+As a design for an artist's monograph, Barnbrook's work challenges many assumptions. The book is not linear but  rather like the periodic table mimicked on the cover the content is grouped. It can be read in many different ways: with devices ranging from pop-up to peerthrough, dipping-in becomes as rewarding as reading front to back.
+
+The artist's statements hover in isolation as slogans. Themes are played out: images of sculptures cut in half are matched by pages cut in half, pages are turned, quotes become misfits. The numerous versions of Hirst's spot paintings are presented as biological permutations, as specimens rather than special things.
+
+![](images/b047c8856f2b91afd8764eca446c993364906720b8d7436cf51b74cbb640b242.jpg)
+
+As Barnbrook said at the time: 'With most art books, you get large pictures on white pages and a piece of academic text which, unless you are writing a thesis, most people don't bother to read. We were trying to make an art book entertaining and a bit more populist.'
+
+He was trying to take the directness of Young British Art and apply it to the way it is documented: the graphic design of pharmaceutical packaging originally intended for clarity — becomes obscured by parody, multilayering and self-promotion.
+
+The collaborative exercise reached its logical conclusion in the graphic identity of Hirst and Marco Pierre White's restaurant Pharmacy. Such was the confusion of people entering the restaurant to collect their prescriptions that the British Medical Association was forced to intervene. So much for life imitating art.
+
+![](images/cfaf496c76da20e92ce393699a109f7403a7895875b0d7f1a346c483fabeeb42.jpg)  
+I want to spend the rest of my life everywhere, with everyone, one to one, always, forever, now, Damien Hirst, 1997
+
+![](images/f5bf9744a9a2ff72d118df5c20881618c8ea7adb3f35363ebf9509e62d9798ad.jpg)  
+Wine menu, Pharmacy Restaurant, 1998
+
+thiSis
+
+# MAS
+
+I ΠC LU DE Dinthe font are a numberofligatvres EXPRESSINGOFTENUSEDCOMPLETE WORDS. SUCHAS 'tHe'AND'to' ABCDEFGHIIK LMΠOPQRSTU VWXY Z
+
+![](images/ce3c07c99008fc85929935d7f56d9ae5795edad6e4ab88e9b61f0caaac04a941.jpg)
+
+Mason, Virus Foundry, 1992/93
+
+# 50s ILLUSTRATION
+
+Following the 1948 reorganization under Richard Guyatt, several changes took place. In addition to commercial design, typography, lettering and bookbinding as taught subjects, there was illustration which was 'treated as a fine art as opposed to a commercial subject'. The reason for this was that the staff who taught it initially, did so from the Printmaking Department, which gave a very particular slant to the work produced.
+
+Prospective students sat the entrance exam for the School of Painting and were then judged by the examining board for the School of Graphic Design. The small and specialized number of students applying led to the establishment of a Decorative Design Course in 1958 for both painters and designers. The interschool course offered pattern work, decorative illustration, exhibition and mural design and was taught by Edward Bawden, veteran of the British decorative tradition, while book illustration was supported by the presence of Edward Ardizzone.
+
+Both members of staff reflected in their own professional work the course's aim to produce artists as illustrators.
+
+![](images/bc676299bb46ded085f4ae2aaa8013af37b59200594e6ba7ea5f3a9a836678a0.jpg)  
+Sheila Robinson (192588) Student 1946-50 Staff 1964-80 About Britain, 1951
+
+![](images/4ce06005ba845fb72e3c57f09de948d39dda40f9314248bb1d5489e57b7bc98a.jpg)  
+Brian Keogh (b. 1931) Student 1951-54 The Compleat Imbiber. W&A Gilbey. 1963
+
+![](images/ba1d5d1148cbc2044c95e09d5a1cbc4317abc3dd2019407e9d35f3658d857d1a.jpg)  
+Don Foster (b. 1932) Student 1952-56 RCA Poster, 1958
+
+![](images/0698a6343cb8a9a78fe55a4f74ffc7ed9d88e630ba7fa3c485cb71db042dd237.jpg)  
+Philip Smith (b.1924) Painting Student 1947-50 The Art of Byzantium Binding. 1963
+
+![](images/119d3b0517627d60057013052fbb93ff7a327a3b0061415304500611f9e93601.jpg)  
+John Sewell (b. 1925) Student 1951-54 Illustration. 1956
+
+![](images/04e34bd8bb984937b9abd7b9ec6b484e2f6232f5ac7d52ecf8503bf82a01c00d.jpg)  
+Gaynor Chapman (b.1935) Student 1955-58 Aesop's Fables. 1979
+
+![](images/79b356121002602782ae7e04d5442a7610627c051a216c0dfa57fa5e597d1feb.jpg)  
+Royal College of Art sae dolole NCodit S W. Boombor Ro St 4  
+Dennis Bailey (b. 1931) Student 1950-53 RCA poster. 1952
+
+![](images/a4be4738f1089d4a0bf8adfa063322e1ec86d84c072ba62bcf13da01c7041407.jpg)  
+Derek Cousins (b.1928) Student 1950-53 The Merchant's Tale, Chaucer, Lion & Unicorn Press, 1960
+
+![](images/b85f27f718a20881e1828bdb22b61f842b6409e274794e9c38f7836e4bb78bc8.jpg)  
+David Gentleman (b. 1930) Student 1950-53 Illustration for Swiss Family Robinson, 1963
+
+![](images/74592ad03f72580b5dca4890dd0db6519211eb3f8c2ac91fc6e80018c37c5158.jpg)
+
+Len Deighton   
+(b.1929)   
+Student 1952-55   
+Cook-Strip. The Observer. 1963
+
+![](images/a3a54e5594763274cedab4ca4e0a48f7806d3d21edc39998136c4fa16b2c0a25.jpg)  
+Rosalind Hoyte (b. 1930) Student 1952-55 Illustration for The Ipcress File. Evening Standard. 1962
+
+![](images/70a1073d572ddf4fe47370e9ada9345cfd603d404c30ebb28d7954f8064902e0.jpg)  
+Roy Morgan (b. 1928) Student 1952-55 Sir Gawain and the Green Knight. Lion & Unicorn Press. 1955
+
+![](images/4f79433a7adb3f8cfbf111ff0d5253a56fa0c7806ce08559bab16e67d8878e23.jpg)  
+John Minton (1917-57) Painting Staff 1948-57 French Country Cooking. Elizabeth David, 1951
+
+![](images/78c8457077b4851c554c80f8c73cae7a851a339ff64eb945d5ed3be75da00196.jpg)  
+Edward Bawden (190389) Student 1922-25 Staff 1930-40, 194853 Barrow's Store Booklet, 1949
+
+![](images/5e41005dc6c1d387fe740bbe71d60f3344db1afee96e1802b4be8103bf705995.jpg)  
+Edward Ardizzone (190079) Staff 1953-61 Senior Common Room, RCA, 1951
+
+# 60s ILLUSTRATION
+
+The expanded potential of print production in the consumer market of the 60s made illustration a lucrative prospect for recent graduates. By 1965, illustration had gained a degree of autonomy at the RCA by becoming one of three core specializations within Graphic Design (the other two being Printmaking and Communication Design). The prospectus offered a course 'based on drawing for reproduction' that hinted at the possibilities of new media.
+
+The course was characterized by personal tuition that created strong bonds between staff and students. The work produced was a mix of commercial realities and hot-house experimentation.
+
+In 1963 the College put together a major travelling exhibition called 'Graphics RCA'. John Brinkley wrote of the learning experience:
+
+'Both parties are sustained by the knowledge that not only is their work needed, but that it can also bring genuine aesthetic enrichment to everyday life.'
+
+The optimism placed in new-found markets became aligned with an exuberance in the work itself  bright colours, airbrushed realities and happy endings captured the moment.
+
+![](images/ef14c817774f617e893142d4cb364d72927165f97983f3b2599e2e291bc0da27.jpg)  
+Peter Woodcock (b. 1939) Student 1959-62 Poster for Mahogany. 1960
+
+![](images/2dfde51b5c78fce3db34cabd1cac2c0650ab1e0391fe67cea3692245cdd6ae65.jpg)  
+Wendy Coates-Smith (b. 1940) Student 1960-63 Graphis advertisement, 1963
+
+![](images/f40551147493838a491ca907ee1836af76e20360c21c11592e296b893e660722.jpg)  
+John Riley (b. 1938) Student 1960-63 Wimbledon. 1963
+
+![](images/27422b7c7b033ffe5ecef5f4ee58fa330c8e6184132773e1a484f0586c56959e.jpg)  
+Crisp kippers fit for kings and queens, curled and crlsped on every morning plate, sharing table with eternal porridge and the Herald.  
+Ron Sandford (b.1937) Student 1960-63 Crisp Kippers. 196365
+
+![](images/27fdfd160d7fad7ca1472ae762d2e1ef8c2f2608b22d559e6c6a686d0749405f.jpg)  
+Adrian George (b.1944) Student 1964-67 Royal Mail stamp. 1984
+
+![](images/fb6351aa3431dfc119f642f57091131621634a7a6fc3eb7112a76083089d2fb1.jpg)  
+Diane Tippell (b.1944) Student 1965-68 Wool. 1986
+
+![](images/9fbaf9df5b5cf598788fff043a355bdfc5fb0486cd8418d5dcc5163ecc67ea9f.jpg)  
+Michael Foreman (b. 1938) Student 1960-63 Pelican cover, 1963
+
+![](images/516971eaed094c31ea228aa0ee7b38c340a9bfd9388c50d1b327ee9460d447a3.jpg)  
+Brian Haynes (b. 1939) Student 1960-63 Poster for Ark 32, 1962
+
+![](images/c719ae0b457147702484c5ce08a2bcc4774ee05c4cfbc8fef912d50941848405.jpg)  
+Anne Morrow (b. 1938) Student 1960-63 Children's Book, 1986
+
+![](images/6698d1349dca711e267c25025cc0b2115d6eadbd9ad6b1ce711d19e951875ecf.jpg)  
+Ken Sequin (b.1941) Student 1960-64 RCA Jazz Society poster. 1963
+
+![](images/6f091a331b7b7c6186cd43024d7179b84ae73d693e5af1ab7104941552b9a2c1.jpg)
+
+Dan Fern   
+(b. 1945)   
+Student 1967-70   
+Staff 1974-86   
+Professor 1986-present   
+BBC Design Awards, 1987
+
+Nigel Holmes (b. 1942) Student 1963-66 Degree Show, 1966
+
+![](images/02b538eda486fde1bb6d7689606b32affddaacd731e167e0e0524d74f7834ef9.jpg)
+
+![](images/05eba961b9f44ce47e4017536a75ef453bc3c6158550746a97d233a2844744d1.jpg)
+
+Philip Castle   
+(b. 1942)   
+Student 1964-67   
+Clockwork Orange film poster, 1971   
+Paul Hogarth   
+(b. 1917)   
+Staff 1964-71   
+Tower Hill, Bill and his mate "working   
+a flush', from London à la Mode, 1966   
+Quentin Blake   
+(b. 1932)   
+Staff 1965-76   
+Course Director 1976-87   
+Mr Magnolia, 1980
+
+![](images/450794ca795879291bc11f00ca8de02611544f9b3afb460b8e337b7e1587f6f0.jpg)
+
+![](images/10f3fd0a74f404525a06ed484d3090b23d7fe8835ba19c2433e151a04c2987b5.jpg)
+
+# 70s ILLUSTRATION
+
+In the 70s, the Illustration Department disseminated its work in distinctive ways. There was a policy of small exhibitions for both staff and students, both inside the RCA and out. They ranged from an exhibition at the Royal Court Theatre made during rehearsals, to one on the theme of love and hate, with specially designed Valentine's cards for sale.
+
+Student commissions, noted by the Head of Department, Quentin Blake, in his annual reports, included Penguin Books and Jackanory for BBC Television, while in 1977 the Department resumed printing informal publications, titled Inklings, illustrated and sometimes written by the students themselves.
+
+This quaint appeal was actually at odds with a social and political dimension that began to enter student work. This personally expressive approach was matched by the rigorous expressionism of the Fine Art School and the quasi-art status illustration was now accorded in commercial galleries.
+
+The influence of punk 'DIY' graphics revived collage as a medium and reintroduced typography as 'illustrational' when in slogan form.
+
+![](images/62c134b445f9fa02449ae3291679fd37d3373f0658bf132c0f57dfe73cd016a1.jpg)  
+Quay Brothers (Stephen and Timothy Quay) (b. 1947. b. 1947) Students 1969-72 Institute Benjamenta, 1995
+
+![](images/d3d16af5cfd71a023138af34741d01a973d4b76af39358448e41ed77be96e111.jpg)
+
+![](images/23d89ab1feb32691829882f5601ba64756f05f3ae4ea5fd401afcb128c2768f8.jpg)  
+Robert Mason (b. 1951) Student 1973-76 Picador cover. 1988
+
+![](images/6c8c5b0b901c5cc869f6bc7fc0cf88ff2831c36b03053b7574e97825524c5529.jpg)  
+Russell Mills (b. 1952) Student 1974-77 Bell, Book, Candle: Trace Elements, c. 1980  
+Nicola Bayley (b. 1949) Student 1971-74 I Eat my Peas with Honey. 'As I Was Going Up and Down'. 1985
+
+![](images/74436a674bfe102fc270744ab4ba889bfcfa705694ecde326be2bc783f351412.jpg)  
+lan Pollock (b. 1950) Student 1973-76 Macbeth RSC poster. 1988
+
+![](images/adbbad729c9f1e94b72ca2eb2264b3f40a9f1abec1a09a3cd7eb23709596ecba.jpg)  
+Laura Knight (b. 1954) Student 1976-79 Sector, Annual Report, 1988
+
+![](images/a77ba09c87e121f8bb082d9f76dcb88ec42772b111bdec3358bc94b152fd0621.jpg)  
+Susan Coe (b. 1951) Student 1971-74 New Scientist cover, 1988
+
+![](images/c3f44710c9517fbcd276858590b1bfb6777800ca54b88a615031c63142a4e90e.jpg)  
+Robin Harris (b. 1949) Student 1971-74 Signature magazine, 1988
+
+![](images/fb5263d7a82d872ba2dd7ed2c29d48521437a546626c70c4606267a8fa464e13.jpg)  
+Chloe Cheese (b. 1952) Student 1973-76 Poster for Seibu Department Store, 1985
+
+![](images/abf061149481540cebd62591f1419a1586c2a8718c7390b84d8747c8fa2565ef.jpg)  
+Janet Woolley (b. 1952) Student 1973-76 Faber and Faber cover. 1988
+
+![](images/ef186c0a15dbb11f37695389ecc5bbfba98694dbec958b5c52395c3ab062e991.jpg)  
+Anne Howeson (b. 1952) Student 1974-77 Tent Worms, c. 1981
+
+![](images/e2692c8f75892d79701c8c91521bf64a2f22ed6102f6dd3cf33d7e9a7f1f4638.jpg)  
+Clare Jarrett (b. 1952) Student 1974-77 Illustration, 1988
+
+![](images/1bf3786feb983077050feb328d96d76a7607c26b156bca6952ea3c13c2c0a30d.jpg)  
+Lawrence Mynott (b. 1954) Student 1976-79 Ark 54, cover, 1978
+
+![](images/cd0919c4c64f4874869c4c0f048a06062bb30f23ac74f32fa5fbeb8db65349e1.jpg)  
+John Norris Wood (b. 1930) Staff 1971-present The North-American Wood Turtle from Life, c. 1980
+
+![](images/49b09c0fdce0d157cd1f7775ac16d719a4612f6c21c627c5ff8a7d216fd1f985.jpg)  
+Brian Robb (191379) Staff 1961-66 Professor 1966-78 Celebrated Baron Munchhausen, 1947
+
+SPECTATOR NUMI PRICE NINEPENCE
+
+# ILLUSTRATION
+
+Quentin Blake
+
+For a large percentage of the British population under 30, Quentin Blake's illustrations were responsible for stimulating their first fantastical flights of the imagination.
+
+Since the publication of his illustrations for the children's book A Drink of Water by John Yeoman in 1960, Quentin Blake's output as a book illustrator has exceeded 200 titles. His reputation has been built on his own picture storybooks and his collaborations with writers including Michael Rosen, Joan Aiken, Russell Hoban and, most famously, Roald Dahl. In Dahl, Blake found a writer whose compact narratives of absurdity, violence and wonder matched his own graphic technique.
+
+With no formal art education, Sidcup-born Blake drew incessantly as a child, managing to have his drawings published in Punch while still at school. The idea of a child drawing for Punch is very characteristic of Blake as an illustrator  a mixture of the satirical and the nonsensical that is matched by the figures he admires: Ronald Searle, Edward Lear and Honoré Daumier.
+
+His later commercial work for Punch and The Spectator led to him being invited by Brian Robb in 1965 to start teaching part-time on the newly separated Illustration course at the RCA. A course directorship for Blake followed from 1978 to 1986; since then, he has devoted himself fulltime to illustration.
+
+![](images/4158d0ce651fffed352ed1caf34cdfc8aa65cfb38dbc40f3afa739bfb6319d9b.jpg)  
+Dancing Frog. 1984
+
+![](images/ebd034d208743659da432e91e61cefba8fe04e0f2579b76edea1cfe5ffd71476.jpg)  
+The Spectator Magazine, Spring Number, March 1961
+
+![](images/f8d03e7ae062b20fef068c2e639d39a56949023ec827c21443adc316005c4476.jpg)  
+The Twits, by Roald Dahl, 1980
+
+![](images/44ca1c6e954fb2c4bbd35c2ce20ba814a4f02654a646d83cb771405a6f6079ab.jpg)  
+Voyage to the Sun and the Moon, Cyrano de Bergerac, Folio Society, 1991
+
+His technique is to draw the entire story very quickly, developing delightful nuances along the way. The results are then further developed through the use of scale, timing and mood, before being redrawn over a lightbox using pen and watercolour. This theatrical sense of direction is one of Blake's strengths; rather than appearing as a frozen filmic moment, his illustrations possess a concentrated sense of drama, while the shallow, tilted perspective (reminiscent of the stage) directly appeals to the reader's eye. The awe, trepidation and wonder found in the expressions of all his characters appeal equally strongly to the imaginations of his young readers.
+
+![](images/857b9ee5dd77e049fcda48e952373c73248a3c3c4aa8f7838dc0af65b1a33a11.jpg)
+
+# 80s ILLUSTRATION
+
+By the 80s the Illustration Department had garnered an international reputation. In 1981 there were over 15 exhibitions by past and present students, and in 1987 seven international exhibitions took place in cities as diverse as New York, Colorado and Hong Kong. Students began to embrace international horizons, travelling widely and engaging in illustrative reportage.
+
+Quentin Blake's influence continued to be felt. Each fresh intake of students was treated to a cliff-top assault course in Hastings followed by wine and chips at Blake's seaside home.
+
+The appointment of Dan Fern as Professor in 1986 brought new perspectives: students learned the tradition of designing and making items such as trade union banners and Turkish paper marbling, and were given studio presentations by performance artists.
+
+The work being produced by student illustrators was, according to Dan Fern, largely apolitical, noisy, urban, crowded and colourful, often executed on a large scale'. A big question was how this painterly approach would mesh with new technological developments.
+
+![](images/e054ea0a81eb9304760f228080eaa16b569d71b9578055c49b85663754d9e110.jpg)
+
+Manday 10 17 24 11   
+Tunly 11 14 25   
+Winlnrday 1; 19 26   
+Thandin 1' 20 27   
+Iredly 1\* 21 2   
+Strv day i I 11 22 2   
+2 7 16 21 30
+
+Christopher Brown (b. 1953)   
+Student 1977-80   
+Libra, 1988   
+John England and Graham   
+Elliott (Thunderjockeys)   
+(b. 1961.b.1960)   
+Students 198386, 198587   
+Illustration, 1988
+
+![](images/500aff0c75a278969fe258065a5ad2c9cda1e51ee683e7363b10ccf3f8bb7e8e.jpg)
+
+![](images/061a1a3b4eb775139c7b4b3b3eabf82d4f0aef9f8c636874969b69eb8cb4969c.jpg)
+
+Christopher Corr (b. 1955) Student 1977-80 Penguin covers, 1986
+
+![](images/73999ba84813bb42b451502a46e5b0114bcad0ea658e58864e54638e7c9b26c4.jpg)
+
+Richard Caldicott (b. 1962) Student 1984-87 Illustration. 1988
+
+![](images/7d255ead0e3caad898396e78c87e3a52393c2490f70ae7217641ab7db235df8d.jpg)
+
+![](images/c8cb0ec1aa40d8b0089dd049755e986552f5463422ca98996aea0fad807b0164.jpg)
+
+Carolyn Gowdy   
+(b. 1955)   
+Student 1977-80   
+The Blemyahs: End It Now!, c. 1984
+
+![](images/19cfca033cc81638df0849298f4b841c5ad9109e0e5987524684e5b0d66b9067.jpg)
+
+Geoffrey Grandfield (b. 1961) Student 1984-87 Picador cover, 1988
+
+![](images/f0061715b7f92cbc73348761ab18f40654fbd7ad7989009fa9f751a2e4ee7bbc.jpg)
+
+Lawrence Zeegen (b.1964) Student 1987-89 Happy Head, 1989
+
+![](images/a326c6d81fb43a6b486dc0799cff5ebe6aebf757074e21fe482ac572dfa765e8.jpg)
+
+Steven Appleby (b. 1956) Student 1981-84 Illustration, 1988
+
+![](images/ec6fe450ee96353209b5b5e90073944dd76ec1e9c1fe6329fadd88c3a01169db.jpg)
+
+Andrew Kulman (b. 1963) Student 1985-87 Illustration, 1988
+
+![](images/9e809f4eaaf628ed472d42f66bb9511cc30f7c481a546e73c31d4ca9dde23aa3.jpg)
+
+Peter Brookes (b. 1943) Staff 1979-83 Radio Times cover, 1988
+
+## COMMUNICATIONS
+
+![](images/706aa0b6abdf77d83c572692ea43d59397efe5c72d9478acb6ac3ead48ecee68.jpg)
+
+David Blamey (b.1961) Student 1977-80 Staff 1989-present Know became Tell, 1986
+
+![](images/c74b105dc89a285d1f909bc693067f115e0d590a8e7d83a14f1a6c1d445f679d.jpg)
+
+Simon Larbalestier (b.1962) Student 1985-87 New Scientist cover, 1988
+
+![](images/f714ae184705eed2660cb786384c2ad0bc515566f82edd7b6bbc84ea3df31bd3.jpg)
+
+Linda Kitson (b. 1945) Staff 197983 Illustration, 1988
+
+# 90s ILLUSTRATION
+
+The donation of colour photocopying equipment by Canon at the start of the decade spawned the project 'Original Copies', which researched the creative use of photocopies. The results were exhibited in 1991 at the National Museum of Modern Art in Kyoto, with a parallel exhibition at the RCA.
+
+However, in many ways this was an exception to the technological trend away from illustration. Commissionbased work began to dry up due to the cult of the photographic image and a newly empowered breed of graphic designers who circumvented the need for illustrators.
+
+In return, the Department of Illustration became more pro-active: the staff formed a self-motivated team of individuals who commissioned themselves and disseminated their work widely. Dan Fern confirmed this trend in an interview in 1997 for Eye magazine:
+
+'The accent is on the development of an individual's talents and interests and obsessions to encourage a very strong personal aesthetic ... But to do that from a position of strength.'
+
+![](images/a39d979c544d75406aaa13292afdc26ebdb25feac9fb19ad7962c748942ac8f1.jpg)  
+Pui-Yee Lau (b. 1948) Student 1988-90 Degree Show, 1990
+
+![](images/8f039ffe79c6551bc0f4ed4fd0492a060e3e9b3f7a92c3acde4c20d35cc3f5f1.jpg)  
+Peter Nencini (b.1968) Student 1992-94 Michael. 1994
+
+![](images/c05596ac19de783b6afcaaa08027091e74256135f0daaf6eabfa297c07654c64.jpg)  
+Aude Van Ryn (b. 1970) Student 1995-97 Degree Show, 1997
+
+![](images/813b60460e3e2ce2741a1b8f1a87686e72fe189414c9f86fbdb35f850a2a6e8f.jpg)  
+Christopher Draper (b. 1965) Student 1987-90 Degree Show. 1990
+
+![](images/1ff81c5320a2433f936303055d76eb5ca7eff15de64188416b0483bd3eca42fd.jpg)  
+Graham Rounthwaite (b.1969) Student 1992-94 Untitled, 1994
+
+![](images/1e306d04c590efd5c12fe58594a7e24e152049228feb42a947547be5fa4d772b.jpg)  
+Claire Douglass (b. 1962) Student 1996-98 Degree Show. 1998
+
+![](images/3be0df65cd5e2229a6713ecd9ee56af8438bbac65e2e1d495dcde61306996d24.jpg)  
+Bruce Ingman (b. 1963) Student 1988-90 Degree Show, 1990
+
+![](images/8422bb90155d9db7c0a5a3568912b34db7a0f49bf024cb49d29f6d5edf0fd633.jpg)  
+Sara Fanelli (b.1969) Student 1993-95 Degree Show. 1995  
+Torsten Sachse (b. 1962) Student 1996-98 Degree Show. 1998
+
+![](images/52fd6677ab25884893201972768a41e97e7d86f0c58af253d3c168843c1171b7.jpg)  
+Toby Morison (b. 1965) Student 1988-90 Hat Tree in the Fall, 1990
+
+![](images/e5be1260619cc97a9c35dde6f9e54f8e2b1b45a25b904fd33d68f1ac27c272e5.jpg)
+
+![](images/c9b35b1eb25e2c50f1ea6567beaa6345ba4975a54abe1ce065b31a58180e6836.jpg)  
+Tatiana Karapanagioti (b. 1971) Student 1995-97 Degree Show, 1997
+
+![](images/f15f1e22373a96d72ead1d04032c9afefe00dc953cb98ae83cf8657d4fcc9d65.jpg)  
+Andrzej Klimowski (b.1949) Staff 1989-present The Depository - A Dream Book, 1994
+
+![](images/cf120f65e9ebf7b9db0213356b297f025aca82911790133f15e18dc934a75de8.jpg)  
+Sigune Hamann (b. 1963) Student 1990-93 Journeyman. set design, 1992
+
+![](images/f96037a333b79bd850e6d44534c905afbe355052e6086a2e247c89b72cd401be.jpg)  
+Reggie Pedro (b.1972) Student 1995-97 The Household. 1997
+
+![](images/e1f25f909f8b35c3a1d68aa209a1790e58eb065282e4555519290ee0a322f134.jpg)  
+David Penney (b. 1949) Staff 1990-present Island Records advertisement, 1980
+
+# 70s-80s ANIMATION
+
+During the 70s, before an animation course had been formalized, students had crossed over into animation work from other disciplines. Vera Neubauer began studying printmaking before creating short films using animation, that rejected the fluidity and perfectionism of mainstream approaches to the form. The Brothers Quay graduated in illustration, developing a surreal aesthetic in their work based on the lifelessness of puppet animation.
+
+In the early 80s, animation was incorporated within the Film and Television School; it achieved departmental status in 1986. By the mid-80s, graduates were already producing extremely successful work, gaining world-wide recognition in festivals such as Anneçy, Munich and Zagreb, in addition to selling (although the nature of the work was often far from commercial). Both Jonathan Hodgson and Susan Young made waves with their animations in the mid-80s. The later part of the decade saw a rise in students working in three dimensions, which reflected a tendency in the animation industry as a whole.
+
+![](images/e4ee61107f340753cb569e7dfe65f5182cc164c0295d55cfed7c779bd2517ad3.jpg)
+
+Vera Neubauer   
+(b. 1948)   
+Student 1968-72   
+Animation for Live Action, 1978
+
+![](images/1784f548f2a24eabdb351ac3f053b2183a016471cb98bdfcb3561ecf52eb4cab.jpg)
+
+![](images/7d366ed28c9d0ca51e261f575ca062447ce09aed0407fb46267f14bf2b3bc19a.jpg)
+
+William Latham (b. 1961) Student 1982-85 Biogenesis, 1993
+
+![](images/9b77fdd387badc074d171382294908766aeac23f84941ef84a05fda6e703c64a.jpg)
+
+Quay Brothers   
+(Stephen and Timothy Quay)   
+(b. 1947, b. 1947)   
+Students 1969-72   
+Visiting Staff   
+Street of Crocodiles, 1986   
+Karen Kelly   
+(b. 1966)   
+Student 1987-89   
+Egoli, 1989
+
+![](images/61d917839cec423652d8bbce92d86663c4256dcd84c805d1f0e1b9ce6038244a.jpg)
+
+Susan Young (b.1961) Student 1982-85 Carnival, 1985
+
+![](images/39f154412008cac65a364cfb6329140c190f7e41457bd53ed622c65b4fb24e95.jpg)
+
+Sarah Kennedy (b. 1965) Student 1987-89 On the Road to Europe, 1989
+
+# COMMUNICATIONS
+
+![](images/cdf3d252ae61f3fc5f31b24b65cf35bae4ff1857c4b89cbec2e7f87dca7ddc00.jpg)
+
+Phil Mulloy (b. 1948) Student 1970-73 The Possession. 1990
+
+![](images/5ad4843d9ed54da3cc1579d255cac386dab296ef11c96d26e8f3f751d0c0aa3e.jpg)
+
+![](images/1fbc4392d91094d8455542d93819f24167666dd55aa46dae19e0fb9508574bc6.jpg)
+
+Emma Calder (b. 1959) Student 1980-83 Madam Potato, 1983
+
+Jonathan Hodgson (b. 1960) Student 1982-85 Nightclub, 1985
+
+![](images/c3b459dac0444bf2935b58afc3d31ac057149ab3b42dedd7daf97b638500b6e0.jpg)
+
+Simon Pummell (b. 1959) Student 1983-86 Butcher's Hook. 1995
+
+![](images/0ebb3d4c3a6f11e70979b17150cef0687ed596a2fe38ad42b6e4b2ed2505a449.jpg)
+
+Andy Staveley   
+(b. 1962)   
+Student 1985-87   
+Strangers in Paradise. 1987
+
+![](images/234f867ae111171233e55f5c188454da6491c8b50db1c04ba1966b8558db32e9.jpg)
+
+Jonathan Bairstow (b.1960) Student 1986-88 Prophet and Loss, 1988
+
+![](images/165a405e748ae81c20f0a69e737cea6781f4102eafbcbb7185d1c6d66ba0d4e9.jpg)
+
+Petra Freeman (b.1964) Student 1988-90 Lion Mask, 1990
+
+![](images/434d7c0cd2d054ec3642ace7ec726a9bd95615cd379a6573ae155bbef4c7856c.jpg)
+
+![](images/e72644750858addce1d67d7b0eb98b7f0d5157c2e67cbc25025cc4247bf18ec3.jpg)
+
+Bob Godfrey (b. 1921) Professor 1982-89 Small Talk, 1993
+
+Richard Taylor   
+(b. 1929)   
+Staff 198689   
+Professor 1989-94   
+Icarus. 1970
+
+# 90s ANIMATION
+
+Professor Richard Taylor noted in 1991 that: 'animation embodies the purpose of the RCA, since it embraces both the fine and applied arts. Its capacity for imaginative expression is unlimited, but it remains an industrial product made for a specific purpose.'
+
+The students graduating during this decade have benefited from a teaching environment which has placed an emphasis on producing artists, rather than solely training professionals, and has thus freed up the potential for creative expression.
+
+The sponsorship of Channel 4 has encouraged and developed the growth of animated film nationally, and the series Fourmations has drawn heavily on RCA students' animation. In addition to building an appreciative audience, the Arts Council/Channel 4's 'Animate' scheme of commissioning work and providing grants has benefited emerging practitioners, such as Run Wrake and Stuart Hilton. Wrake's hard-edged graphic style is now well known in music papers and videos, including NME and Howie B. Hilton's uncompromisingly experimental work combines sound and abstract imagery, as seen in his student work Wrong (1991).
+
+![](images/147492129f75565fbd1355d93caff6150b68a34829c0bc149ae405debc20fc4f.jpg)  
+Andrew McEwan (b. 1964) Student 1988-90 Toxic, 1990
+
+![](images/d36ef8470c0f5f2e7c4fa51684ef45a5cec5f9e50e952232b0e043cc81ec18b3.jpg)
+
+![](images/6cdb31c6bd3727760da1176b9286749e3463cde943e89e9a496531259a7a6f9d.jpg)  
+Sarah Cox (b.1966) Student 1990-92 Reel to Reel. 1992
+
+![](images/a1e333bcfb07f179e622fc12218ebfe8eed138997d41b0a7b105fd01f46b19e7.jpg)  
+Brian Wood (b.1968) Student 1992-94 Mr Jessop. 1994  
+Run Wrake (b. 1963) Student 1988-90 Anyway, 1990
+
+![](images/2725862a518e59277cfe7effaff9004b1c4b30e1fba4c5e9e274ed65b4aca0a4.jpg)  
+Ruth Lingford (b. 1953) Student 1990-92 Visiting Staff Crumble. 1992
+
+![](images/d8e8b1e48e54556094377b379758717df3b044e08eee1baf2b0d14f93f88adf9.jpg)  
+Steven Harding-Hill (b. 1969) Student 1993-95 The Ticker Talks, 1995
+
+![](images/9a10cdaf6233e407cb19dffca0b3db387e9e9b64f2c2a60cb56b1a00d5d95b54.jpg)  
+Philip Hunt (b. 1966) Student 1988-91 Spotless Dominoes, 1991
+
+![](images/25dbe4e5dc5bc00fcdb26cc1aa9e8a5a6e36ac84954bc7ae74d619b57e2cfdaa.jpg)  
+Stuart Hilton (b. 1965) Student 1989-91 Wrong. 1991
+
+![](images/c863e3d1b92ca5030df9beed38d8f96577b4b40ab35d4db9a2060e6b228ba833.jpg)
+
+![](images/d3647b9d5618827d871fc513b564ebe22bcd5cb8eaa3bff6cf09215786c8942d.jpg)  
+John Parry (b. 1965) Student 1990-92 4 Something. 1992
+
+![](images/b5a5785ea483127a309ee0272cb43e0585a73ef237b66b35911cdb922316d2c5.jpg)  
+An Vrombaut (b. 1967) Student 1990-92 Little Wolf, 1993
+
+![](images/8373cf7742b519f0ae5f6e9b27c625781c667db20e0e017f996946a2f72be78c.jpg)  
+Alan Smith (b. 1967) Student 1994-96 The Itch. 1996
+
+![](images/e85a05ce1eab472309ed05207135b95e42ce94a03d89b73bf99131a8a6180d0d.jpg)  
+Sam Morrison (b. 1970) Student 1995-97 Balls, 1997
+
+![](images/b4d9805410dc1a2cc68b8ebb7c76b4ceba36bd3d015ca448297d9cefa383008b.jpg)  
+Debra Smith (b. 1962) Student 1989-91 Touch, 1991
+
+![](images/25c10eb09e9f66ab6c81212a96102ca388737c41428b432cbae8872c7cc892c1.jpg)  
+Anthony Hodgson (b. 1969) Student 1992-94 In the West Wing. 1994
+
+![](images/a6a099080442ce7e4ef7aa0b17f9b707a63837b6629e25b39bed23c7e439ba2d.jpg)  
+Joan Ashworth (b. 1959) Professor 1994-present Xmas on BBC 1, 1996
+
+# PRE-70s FILM & TV
+
+Initial forays into film-making at the RCA began in a back room of the School of Graphic Design, where, in 1958, George Haslam introduced a course in 'Television and Film Design'. During the 40s and 50s Graphic Design students had begun to develop talents that were later used in the television and film industries. Cliff Hatts, for example, went on to become Head of Design at BBC TV. The trend for College students to enter the industry without previous training led to the establishing of the Department of Film and Television at the College in 1962.
+
+Keith Lucas (an ex-RCA Painting student) became course director upon Haslam's sudden death, and gradually the emphasis began to shift from design to production. Although facilities were extremely modest at first, the course was structured to include a major project on film in the third year of study. Some of the earliest successful students from this period include the documentary maker Paul Watson (The Family), the director Tony Scott (Top Gun) and the set designer Anton Furst (Full Metal Jacket, Batman).
+
+![](images/905d58af0ea043ca92dc4ccff9ecb4166ac25175fbcc7aa7a9c5f0e42df6453d.jpg)  
+Richard MacDonald (b.1916) Student 1938-39 Set designer, The Criminal, 1960
+
+![](images/e5a1ff1ef17cae0f5b6ce1b7aca632c717a131ab39c27a11c7ec798684e5ca56.jpg)  
+Cliff Hatts (b. 1921) Student 1946-49 Set designer. Quatermass and the Pit. 1959
+
+![](images/d925443ff0bdd8c934699f685c0f931ad2ef6c4695b44a5f8b57602661c79345.jpg)  
+Norman Vertigan (b. 1935) Student 1958-61 Director. Metamorphosis. 1961
+
+![](images/8b13091e9aa92fbb3ddc41664cabe65affc76f3ed83ada5308d7f76a3b15eb21.jpg)  
+Trevor Preston (b. 1938) Student 1960-63 The Temptress (detail), studies in head-dresses and make-up. 1963
+
+![](images/6099d851a20dd05facdf0e2f77d3200714eaa9edb24c97ba3f359b99cdbc97ab.jpg)  
+David Larcher (b. 1942) Student 1964-65 Granny's Is. 1989
+
+![](images/190340ff1fa7f4c75ab5ce056f2d4bfe52284e450ce30d9df4fc264cad4f5876.jpg)  
+Anton Furst (1944-91) Student 1964-68 Interior of adaptable auditorium, 1967
+
+![](images/7b4f8aae78437af8cf1cb391dd2e0845e32bb1682be01017f2456c7c7a43ea31.jpg)  
+Peter Newington (b. 1922) Student 1947-49 Director. Monitor. BBC, 1958
+
+![](images/fad20556428d72d952bf12e0fd145edef6414f168d1d3ca77e2d17f99adfcb74.jpg)  
+Bernard Lodge (b. 1933) Student 1956-59 Designer. Doctor Who titles, 1963
+
+![](images/3565e82ecbfbb3a0242b17774ba71ed2630a06a1e6f6c47b526348ca567013de.jpg)  
+Ridley Scott (b. 1937) Student 1958-61 Visiting Professor Director. Boy on a Bicycle, 1961
+
+![](images/29adf024d3909889b68f5ec4716eb0260c466aca02d2311d5f0fa1b4af644f41.jpg)  
+Melvyn Gill (b. 1942) Student 1961-64 Film exploring animation techniques. 1964
+
+![](images/5bfb01fd3e7ef870263a05aeb0a96c764d4b4e8a749acabb354a2f22594bfa4f.jpg)  
+Stuart Craig (b. 1942) Student 1963-66 Visiting Staff Production Designer. The Mission. 1986
+
+![](images/09ee160104d363804b94b2e12d294f11985dc2b6f74b5fb3ef3aa37b40e3b27f.jpg)
+
+![](images/54b674cfb73889df2e03305fcfde67c1cb2f9fc0d8ec5e82e118512fcae7f5fc.jpg)  
+Paul Watson (b. 1942) Student 1963-66 Director. The Family. 1974
+
+![](images/da09acc1cdb7a6db9ff2417c58a2f274b3f720a275fc609914f6c400cc89dc6e.jpg)  
+Richard Loncraine (b. 1946) Student 1966-69 Director, Richard III 1995  
+Patrick Uden (b. 1946) Student 1966-69 Patrick Uden, 1970
+
+![](images/0681c347d86131a62b75f5da48d0a8179474f85a63cdbba0ee29527d4c869807.jpg)  
+Albert Watson (b. 1942) Student 1966-69 Henry Rollins, 1996
+
+## FILM Ridley Scott
+
+## COMMUNICATIONS
+
+![](images/27d828cf1683dcd82bd967ba0ba34aa7211bce8f2b861bd48bad1250423041b9.jpg)
+
+Ridley Scott was educated as a painter at West Hartlepool College of Art in the mid-50s. He then studied at the RCA from 1958 to 1961. Although Scott joined as a Graphic Design student, he became intrigued by photography, and quickly realized that he wanted to pursue film. His arrival at the RCA coincided with the start of a 'Television and Design' course, taught by George Haslam, in which the 'role of photography as a design medium' was introduced. Although facilities were extremely basic, Scott wrote, directed and photographed the 16mm film Boy on a Bicycle, which starred his brother Anthony as a daydreaming truant bicycling through a northern town.
+
+The course encouraged Scott to study design in an art environment, where crossovers were occurring between disciplines. Contemporaries of Scott's included David Hockney, Derek Boshier and Patrick Caulfield, at a time when Pop Art was exploding onto the British art scene. After graduating, Scott worked as a set designer for the BBC between 1961 and 1965, fostering his later commitment to close involvement with all aspects of set creation. Following the BBC, Scott directed television commercials for over ten years before
+
+## FILM
+
+Ridley Scott
+
+Ridley Scott, Alien, 1979
+
+## COMMUNICATIONS
+
+![](images/0e6a8f58b22eb7a67cb41463eaa0463dcda372449cc7c8339ffacb1be701c33f.jpg)  
+Ridley Scott, Thelma and Louise, 199091
+
+directing his first feature film, The Duellists, in 1977.
+
+The experience of working in advertizing proved invaluable to Scott, as it gave him an awareness of how to captivate the audience. The prioritizing of visual display and design is, in Scott's mind, the key to cinema, which he perceives primarily as a visual medium. Scott's second film, Alien (1979), won an Academy Award for its special effects, and the Swiss Surrealist Hans Rudi Giger's bio-mechanical alien lifeform has become almost iconic. Both Alien and Blade Runner (1982) have been described as key examples of 'the designer as author'. Blade Runner has become a cult film for its alternative vision of a not-too-distant future. Set in 2019, Scott presents a densely
+
+populated, pollution-filled city — a mixture of Los Angeles and Tokyo - in which a myriad of bars, noodle counters and massage parlours vie for attention. Hampton Fancher's initial drafts of the screenplay envisaged dramatic scenes centred in the interiors of buildings, but Scott was more interested in what lay 'outside'.
+
+Fritz Lang's Metropolis (1926) provided useful reference material for Scott, particularly Lang's creation of a stratified city with the 'New Tower of Babel' as an omnipotent vantage point, echoed in the monolithic pyramid-like Tyrell Corporation building in Blade Runner. The second film of significance to Scott was William Cameron Menzies' Things to Come, which expounded a bright, modernist futuristic Utopia. Scott reacted against this pristine cinematic vision of future cities, and aimed to create something more believable. Thus, he designed from the inside out: 'You wear your guts on the outside. That gives us a picture of a textured city.' Rather than deserted streets, Scott wanted visual noise, and he drew on his background as both an artist/designer and advertizer to create the unforgettable scenes in Blade Runner.
+
+The combination of the atmosphere at the RCA, Scott's work with the BBC design department and an insight into advertizing inform the unusually visual approach that he takes to big-budget film making. Subsequent features have included Legend, Black Rain, 1492 and Thelma and Louise.
+
+# 70s-80s FILM & TV
+
+In 1972, Stuart Hood succeeded Keith Lucas as Professor when Lucas became Director of the British Film Institute. Under his Professorship, independent work was prioritized over forging links with industry. Consequently much experimental work emerged from the course at this time. The work produced reflected an interest in political and structural issues and semiotics. However, the course still embraced a wide range of approaches, from straightforward documentary through narrative to abstract film.
+
+Although some important advances had been made in terms of equipment, the expense of film production, coupled with inflation, was proving problematic. Richard Guyatt, then Rector, was keen to see the Department return to the 'craft' of mainstream film. He set up a working party which recommended that an emphasis be placed on practical film, video and animation production.
+
+Dick Ross was appointed as Professor in 1980 to tackle the funding issue and see through the development of the course, and it was his shift towards narrative cinema and film production that saw student films gaining recognition at international festivals through the 80s.
+
+![](images/3cfff56e459970c3d78f4d72636720e015dbe2367b562973ad4e6942afc956e3.jpg)  
+Tony Scott (b. 1944) Student 1967-70 Director. Top Gun, 1986
+
+![](images/e498d2ec98254f50e18b69a85a5bd5c631395cb495d93a18958d35e06d251392.jpg)  
+Mick Csaky (b.1945) Student 1968-71 Director, Africa, 1983
+
+![](images/8df4cae0b53a2a814674039a2194a77e22efb73bf6c17a6e81238f7ab403ee5b.jpg)  
+Thaddeus O'Sullivan (b. 1947) Student 1972-75 Cameraman and director, Nothing Personal. 1995
+
+![](images/d479b8fef71afbdfdca50a83027061e8f6395cce230e81fbbbb8052ef1328d74.jpg)  
+Joy Perino (b.1960) Student 1984-87 Director, This Life. BBC. 1996
+
+![](images/5361060467397ecc2e2e8f9da1059e813fab70e3f662ad2a5474dab4f2f82cac.jpg)  
+Jamie Leonard (b. 1948) Student 1974-77 Designer, 1977
+
+![](images/f9e805c195d01552e1c7c12e4959307f5c5e86cf5f5875d47384b395bae49641.jpg)  
+Anna Campion (b. 1952) Student 1987-89 Director, Loaded. 1995
+
+# COMMUNICATIONS
+
+![](images/e4525934a503f925d17afa42f68565e9dc2ae6a8c64f334249b824558e390857.jpg)  
+Peter Gidal (b. 1946) Student 1968-71 Staff 1974-82 Director, Close Up. 1983
+
+![](images/229e0e342e8ae560e384eccb8d5e88d13df47aea4cf83859e7290e6868b306ea.jpg)  
+Keith Griffiths (b. 1947) Student 1969-72 Producer. Deadpan. by Steve McQueen. 1997
+
+![](images/3355cdf4ca4c25a702d78a000d6c9102cdda3a1538490bc39c89ff183b24cdaa.jpg)  
+Giles Foster (b. 1948) Student 1972-75 Visiting staff Director. Coming Home, 1998
+
+![](images/65c6e90da1cd61dac3ac102e7e04ff60dc44d78300430805cd257f3c0fcc341c.jpg)  
+Sue Clayton (b. 1953) Student 1976-79 Director. Disappearance of Finbar, 1997
+
+![](images/0066822a62f0776a0bc00c0f2d76b56bc524c9535a31fd27654b9ad8687dec83.jpg)  
+Bob Long (b. 1952) Student 1979-82 Executive producer. Video Diaries, BBC, 1990  
+Chris Newby (b. 1957) Student 1981-84 Director. Madagascar Skin. 1996
+
+![](images/668e1db01b1fd1c874ef8c1cd137001f6313a9d587792eaeac6f1a8e7811c3d8.jpg)
+
+![](images/64982f6434e99d14106352d46f9e54e8fa9d53a61078dcb236516a2efc9199c0.jpg)  
+Peter Cattaneo (b. 1964) Student 1987-89 Director. The Full Monty. 1997
+
+![](images/8b6d513b62ed47534868e4bda741f61737d5d4b00847a35771af042982e32f7f.jpg)  
+Carl Prechezer (b. 1965) Student 1987-89 Director. Blue Juice. 1995
+
+![](images/39b6ba8931c44feb75917f2d72da7fa0a1f1e8d9d031923bbebef5ee93b23441.jpg)  
+Gavin Bocquet (b. 1953) Student 1975-78 Production designer, Star Wars: Episode 1 - The Phantom Menace. Interior of 'Naboo', 1999
+
+# 90s FILM & TV
+
+In 1989, for the first time in the history of film teaching and study at the RCA, a practising film maker for cinema was appointed to lead the course: Professor Christopher Miles. His aim was to 'equip students with a broad technical expertise but equally to encourage them to be experimental in the one time in their career that is devoid of the heavy arm of commercialization on their shoulders.'
+
+An increase in the number of students interested in producing narrative drama, however, further highlighted existing funding difficulties within the school. By the mid-90s, the move towards a more vocational, specialized practice within the Department was becoming more apparent, with the introduction of seven distinct specializations: Cinematography, Design for TV and Film, Directing, Documentary, Editing, Production, and Sound Design. Documentary makers benefited from the specialized teaching of Elizabeth Wood and the BBC's continued support. Professional collaboration was encouraged in producing the BBC's documentary special Seven Young Artists and the documentary series 10 x 10, from which a number of strong documentary makers have emerged.
+
+![](images/55f9d58f2f211ec670a47e4edec5bbe0013bb6db2c914f88d16f2affae7a78fb.jpg)  
+Rajan Khosa (b.1961) Student 1990-91 Director, Dance of The Wind, 1998
+
+![](images/54176b814c618cd16fb89c000e876a89bd5125e1c57d23284759f06210f862a6.jpg)  
+Julian Court (b. 1962) Student 1993-95 Cameraman, Heart, 1999
+
+![](images/ab43c29b869600a7a8c8a794300327391caf0230d50c999f860f59fa1d95c8ca.jpg)  
+Henry Chancellor (b. 1968) Student 1991-93 Director, Oil on Canvas, BBC, 1997
+
+![](images/f8cbe0c9b4b95b705dd67c2f5c91023a9837689f47dba18314f322d9204aa0c6.jpg)
+
+![](images/8642be98e9b631b5837b41c3717c379a4a9808d43503e9186f53c207d5e9fda4.jpg)  
+Asif Kapadia (b.1972) Student 1995-97 Director. The Sheep Thief, 1997  
+Ben Hopkins (b.1969) Student 1993-95 Director, National Achievement Day. 1995
+
+![](images/3e5af2dd5f5ec6db4f6578596fdf6f9033e3d26ff378d85460b30c272d73641d.jpg)  
+Stuart Mitchell (b.1967) Student 1995-97 Director, Stood for this Massive, 1997
+
+![](images/52be110a890118e69daeb314a7beb6d4e9a5561d84ff3ad3b6b5b6ea1a5ec647.jpg)  
+Robert Letts (b. 1959) Student 1991-93 Director, Archie Gets a Clip. 1993
+
+![](images/d6b44cb338d73a8257ea293cee758a0e37cb01da84210b4f6b265f8986c2001e.jpg)  
+Charles Steel (b. 1962) Student 1991-93 Producer, Amy Foster, 1998
+
+![](images/7e1259f7d23e28633f2cd0c137291834c3465e46a9cd872b69514ee28b94edc1.jpg)  
+Kun Chang (b. 1969) Student 1993-95 Designer. Exterior Workshop. Concept Design for Lego Mindstorms/Lucasfilm Licensing: Droid Developer Kit", 1999
+
+![](images/78eaf1c813ed0b7d29955e3f0444e70ad902bdcfc6ba240712d1f41ede883fbb.jpg)  
+Claire Kilner (b. 1964) Student 1993-95 Director, The Secret, 1994
+
+![](images/acdb466c87e1b8f748f58e580de64a3b27bc542a3349b7cc5133239a1d25d9b0.jpg)  
+George Milton (b.1969) Student 1993-95 Director, Appetite, 1997
+
+![](images/63da538d75287baed0242d244efae1a383fef7b2d4d3fa1e3b555293fa469c1a.jpg)  
+Jamie Thraves (b. 1969) Student 1993-95 Director, The Hackney Downs, 1995
+
+![](images/b7860951daf6416d9a9e4f3af8aaa32bc32439ffa124f8120d9b56f2cad6a1ba.jpg)  
+Billy O'Brien (b.1970) Student 1995-97 Set designer. The Tail Of The Rat That Wrote, 1999
+
+![](images/7b0d587b9b8e0db82f93831c9bb3a9fb4a54a84844fa821a8ec9fa0445c0b674.jpg)  
+Christopher Miles (b. 1939) Professor 1989-92 Director. The Clandestine Marriage, 1998
+
+![](images/af1e3cc238b5ac9cb95ad84c5f2164aa8e7cee38301b4635f3407d8dafde534d.jpg)  
+Elizabeth Wood (b. 1943) Staff 1991-97 Director. The Future of Things Past, 1986
+
+# THE FUTURE
+
+At the turn of the millennium, just about all the certainties of the Robin Darwin era have turned into uncertainties: the structure of the professions surrounding the RCA, a vastly expanded international system of art and design education, the technologies available to young artists and designers, the link with manufacturing where the story began: all are in a state of flux. As David Harvey has written in his remarkable book The Condition of Postmodernity: The relatively stable aesthetic of the era of …. modernism has given way to all the ferment, instability and fleeting qualities of a postmodern aesthetic that celebrates difference, ephemerality, spectacle, simulation, fashion and the commodification of cultural forms.' The defining features of the Darwin era  rigid specialization, an emphasis on short-termism, a stable notion of function, an obsession with the social status of the artist and designer, an educational model where fine art's role is to stimulate design, and a splendid isolation from other related institutions  these defining features are clearly no longer right for today. Instead, the
+
+emphasis must surely be on the meeting-points between disciplines  still in a pre-professional context, not as an adventure playground  on research and development and especially action research, on close partnerships with related institutions such as universities, galleries and museums. Graduates or, more likely, teams of graduates should be encouraged to create a niche around themselves rather than slotting into niches which are ready-made or well established.
+
+Art and design graduates are in fact five times more likely than any other graduates to be self-employed, and, according to the College's latest statistics covering the fiveyear period from 1992 to 1926, on average 92.5 per cent of RCA alumni successfully find work, in the subjects they have studied, and at the right level. Put these two conclusions together, and you have new kinds of artists, craftspeople and designers managing to construct a world around themselves, in a very entrepreneurial and improvisatory way  a world where products and services seem to be blending together, and where in-house has become in-system, or to put it another way, wired into a complex mix of making, thinking, packaging, informing and distriuting. In such avolatile tng, the key word has to be convergence.
+
+Deel  eorgen rather than the divergent activity of Victorian times (thinking versus doing), or the Arts and Crafts period (doing versus thinking) or the 50s and 60s (specialization, and the devil take the hindmost). Convergent at many different levels: between the present and the past, as history is reworked to supply a culture of quotations. Betwen Finrnd ally as both activities, with the applied arts in between, become in educational terms part of a seamless spectrum, and as the Fine Arts no longer have or need to be justified for their impact on design. Between technology and design, as on the one hand engineers and industrial designers begin to work more closely together, and on the other, as digital technology in studios and workshops means that for the first time in the history of art and design education, the technology available to students is similar to the technology they will be using in their professional lives. Between design and packaging, in the post-black box era. Between the applied arts and design, at the levels of batch-production and architectural detailing. Between the world inside the academy and the expanding world of the so-called creative industries, where many students have more direct contact on their courses with the worlds they aim to stimulate than ever before, and where the industries will increasingly use the RCA as a research resource because they want and need to be stimulated rather than served.
+
+Perhaps above all, it is a convergence of the three main traditions which have made up the story of the last century and a half: the 'design as information' tradition of the Victorians, the 'doing is designing' tradition of the Arts and Crafts era and the expressive tradition of the post-war period. From the Victorian era of Christopher Dresser and Owen Jones  when the School was at the cutting edge of design thinking - comes a more thoughtful attitude towards design, design with attitude, and a new emphasis on research: the College as a think-tank for the creative industries, performing a similar role to the research and development wings of science and technology departments in universities. From the Arts and Crafts era comes a continued focus on a project-based, hands-on, practical approach, rather than on sitting in front of screens all the time or spending too much energy examining fundamentals: an approach where the punchline remains a well-thought-out product or body of work. It is also a concern with sustainability and social developments. New technology, yes, plus a healthy cynicism about its capabilities. I don't see the future as an educational global village where all the students sit in their huts, in a latter-day version of a Victorian tableau called And when did you last see your tutor?. But digitalization has self-evidently had a profound effect on the processes of both art and design. From the post-war experiment comes a very post-Victorian, and indeed postmodernist emphasis on sensitivity, self-motivation and imagination, as well as a concern with having one's finger on the pulse of what's going on in the wider visual culture: art in a design environment and design in an art environment, but not in a literal, programmatic way. As John Ruskin put it back in the 1860s when he was criticizing the regime of Henry Cole and Mr Gradgrind, 'thus we may bring out the whole person'.
+
+So maybe the Dodo isn't as extinct as it looks. And the Phoenix should look into the ashes even as it continues to regenerate itself and fly away from them. It could be that in time this convergence will itself become a model for higher education institutions in the future: a way of producing flexibly minded, self-reliant graduates who like practical results and who are being prepared for a very unpredictable world. Or maybe, like Robin Darwin in his lecture of 1954, I'm getting a little overexcited about the possibilities. But it is difficult not to, when looking back and reflecting on such a stimulating, varied and significant history of achievement. Most universities seek to understand the world: the RCA seeks to do that as well, in an inimitable way; the point, however, is to change it.
+
+ACKNOWLEDGEMENTS
+
+Richard Dennis and Magnus Dennis; Jan Murton and Dominic Sweeney, RCA Slide Library; Eugene Rae, RCA Archive; Stewart Drew, Photostore and Picture Library, Crafts Council; Nick Wise, Picture Library, Victoria and Albert Museum; Chantal Serhan, Prints and Drawings Department, British Museum; Guido Martini, Picture Library, Tate Gallery; Jane England, England & Co.; The Conway Library at the Courtauld Institute; Ray Galton; Alan Simpson; Chris Orr; Peter Kennard; Martin Smith; Michael Rowe; David Watkins; Amanda Mansell; Department of Goldsmithing, Silversmithing, Metalwork and Jewellery at the RCA; Al Rees, Research Fellow at the RCA; Moira Tait, Tim Miller, Jeremy Moorshead, Department of Animation at the RCA; Autocar; Richard Doust; Andy Altmann at Why Not Associates; Professor Ken Greenley; Dale Harrow; John Heffernan; Kate Trant; Shely Bryan; James Park; John Miles; Sarah Dallas; Audrey Levy; Brian Godbold at Marks and Spencer; Liz Griffiths at Missoni; Anne Tyrrell; Inge Cordsen; Mary Restieaux; Roy Peach; Ian Griffiths; Frances Pritchard at the Whitworth Art Gallery; Dai Rees and Simon Munro; Judith Clark at the Costume Gallery; Humphrey Spender; Jo Gordon; Pip Hackket; Philip Treacy; Jane Whitfield at Louis Vuitton; Keith Varty and Alan Cleaver; Lynne Burstall at Oasis; Andrzej Klimowski; Rick Poynor; Quentin Blake; David Hockney; Ridley Scott; Alison Britton; James Dyson.
+
+## BIBLIOGRAPHY
+
+For a much fuller bibliography of the history of the Royal College of Art, including primary documents, see Frayling, 1987. Listed below are outline books and items published or unearthed since 1987. For individual artists, designers or communicators, see monographs and catalogues devoted to them in the context of broader histories of British art, design and communications.
+
+C. Ashwin: Art Education  documents and policies (London, 1975)
+
+(ed.) Philip Dodd & Ian Christie: Spellbound (BFI/Hayward, 1996)
+
+(ed.) Dan Fern: Breakthrough  twenty-five years of work by RCA illustrators (RCA, London, 1989)
+
+(ed.) Boris Ford: The Cambridge Cultural History  vol 9, Modern Britain (CUP, 1992)
+
+Christopher Frayling: The Royal College of Art - one hundred and fifty years of art and design (Barrie & Jenkins, London, 1987)
+
+(ed.) Christopher Frayling and Claire Catterall: Design of the times (Richard Dennis, Somerset, 1996)
+
+(ed.) Irena Goldscheider & Alena Zapletalova: Metalmorphosis, 1880-1998 (British Council, 1998)
+
+(ed.) Paul Huxley: Exhibition Road  Painters at the Royal College of Art (Phaidon, London, 1988)
+
+(ed.) Paul Huxley: The Royal College of Art Collection (RCA, London, 1988)
+
+(ed.) Tim Mara and Silvie Turner: The Spirit of the Staircase  one hundred years of print publishing at the Royal College of Art (Victoria and Albert Museum, 1986)
+
+Stuart Macdonald: The History and Philosophy of Art Education (London, 1970)
+
+J. Minihan: The Nationalisation of Culture (London, 1977)
+
+N. Pevsner: Academic of Art Past and Present (Rept. New York 1973) ↓
+
+Alex Seago: Burning the Box of Beautiful Things (Oxford University Press, Oxford, 1995)
+
+(ed.) Keighley Snowden: International Drawing Congress 1908 (Office of the Congress, London, 1908)
+
+Julie Summers: One hundred years of the Sculpture School at the Royal College of Art (Unpublished typescript, RCA, 1997)
+
+Peter Webb: Portrait of David Hockney (Paladin, 1990)
+
+## CREDITS
+
+![](images/a92762641cf16a57d73a7d7eef9a4ab877277afdac0ae6a38899b921818661d2.jpg)  
+Piture credits: page number. followed by image number, unless stated otherwise
+
+## Copyright
+
+Illutrations the pappear yi perssion heollw n alphabetical order):
+
+Courtesy Peter Aldridge page 192 (no. 11); © The Arts Council of England page 45, 95 (no. 4), 307 (no.3); © The Arts Council of England/Channel 4, "11th Floor" 1989/90 page 297 (no. 3); © The Arts Council of England/Scottish Arts Council page 64 (no. 11); © Austin Reed Group plc page 38; Autocar page 152 (no. 6), (no.7), 153 (no. 5), (no. 9), (no. 14), (no. 15), 154 (no. 1), (no. 6), 156 (n 1), (no.6), 157 (no.3), (no. 5), (no.8), (no.9), (no.13), (no.14), 158 (no.), 159 (no. 13), (no. 14), 161 (no. 9), (no. 15); © David Bailey page 234; BBC, 1959 page 300 (no. 2); © BBC, 1958 page 301 (no. 3); © BBC, 1996 page 306 (no. 11); © Quentin Blake page 287 (no. 15), 290 (both), 291 (both); Blue Dolphin Film & Video page 306 (no. 12); Booth-Clibborn Editions page 282 (both), 283 (top); @ AlanBowness, Hepworth Estate page 1 (right), page 63 (left); Ian Bourn courtey Lux Distribution page 75 (no. 4); © British Architectural Library, RIBA, London page 141; British Architectural Library, RIBA, London page 195 (no. 14); © British
+
+Motor Industry Heritage Trust/Rover Group page 162 (left); ©British Museum o1 oo1, , London page 32; Car Magazine, 1992 page 152 (no. 12); Casson Conder 1965/Henk Snoek page 140 (top); Casson Conder 1965/Shel Centre pag 10 (bott; Chanel , 195 page 97 no); Chael /Fil Four page306 ) Cineovapage96 no.) Candetine Lt page309 o.1 Colub i 3cCalCol  , ur o,6no.oo., Cuo C Itroc r 7 1 o 78 o 1(n.7 (o.), 1(no.), 2 no1cK ui g86o) c Makyp0 n.); aF L p ux Ricra cury ux isu paCah ux y a Productions, 1986, page 301 (no. 9); courtesy Anna Fox page 87 (no. 14); courtesy WilliaGae a0choa entil Judith Goddard courtesy Lux Distribution page75 (no. 9); Bob Godfrey Films page o1)heGo n 9n 99 Grana Fil page08o) Gra Fil 17 pae011; GilMeRecap vHa u 15); Hawkins and Brown page 115 (bottom); courtesy John Hedgecoe page 79 (no. 1); HeyMooFo/MicMulg, acround,63 ottht); HolbueMus&Cr Suy Centre Bah 07 (no.4); Judith Clark Costume Gallery, London page 249 (no. ); courtesy Joan page 74 (no. 7); courtesy William Latham page 296 (no. 6); courtesy Michael Langford page 84 (no. 12); Steve Littman courtesy Lux Distribution page 75 (no. 10); London Transport Museum page 262 (both), 263; Bob Long/BBC page 307 (no. 9); Lucasfilm Ltd page 307 (no.15), 309 (no. 5); Manchester City Art Gallery page 61 (right); Stuart Marshall courtesy Lux Distribution page 75 (no. 15); Kate Meynell courtesy Lux Distribution page 74 (no. 11); MGM courtesy The Ronald Grant Archive page 259; Pier Gallery, Stromness, Orkney page 60/61 (background); courtesy David Penney and Island Records (EMI) page 295 (no. 15); Keith Piper courtesy Lux Distribution page75 (no. 13); Queensbury Hunt Levien, London page 177 (no. 15); Lisa Rhodes courtesy Lux Distribution page 75 (no. 3); courtesy Mary Robert page 84 (no. 7); Simon Robertshaw courtesy Lux Distribution page 75 (no. 14); John Rodgers/FSP page 307 (no. 5); The Ronald Grant Archive page 30, 31 (both), 33 (background and centre); © Ronald Searle, 1954, page 3 1; Royal College of Art Archives & Collection; Herbert SpeTypraphicMagaze, coverand pag266 1 Mar Smi 193 (no.14); © Sunday Times Magazine page 39 (top left); Mike Stubbs courty Lux Distribution page 74 (no. 12); John Tappenden courtesy Lux Distribution page 74 (no. 6) ; © Tate Gallery, London page 29 (no.13), 43 (no. 3), 58 (no. 11), 59 (no. 8), (no. 9), 63 (top), 66 (no. 1), 70 (no. 7), 95 (no. 3); Tate Gallery, London/© John Nash Trust page 27 (no. 13), 37 (no. 13); Tate Gallery, London/©Alan Bowness, Hepworth Estate page 63 (top); Tate Gallery, London/© Mrs D Mahoney page 28 (no. 12); Tate Gallery, London/© Keith Milow page 42 (no. 7); Tate Gallery, London/© Michael Moon page 41 (no. 13); Tate Gallery, London/© David Tremlett page 42 (no. 6); Tate Gallery, London/© Anthony Wishaw page 34 (no. RicarTaylo pag97no15); couryRt. Hon.heLordTe 260 (no. 7); Twentieth Century Fox courtesy The Ronald Grant Archive page 248; Uden Associates page 301 (no. 14); Victoria and Albert Museum page 88 (no. 1), (n. 6), (no.11), 89 (no. 3), (no.5), (no.15), 90 (no. 1), 92 (no.1), (no. 6), 93 (no. 5), (no. 10), 118 (no. 7), 168 (no. 1), (no. 6), (no. 7), 169 (no. 3), (no. 5), (nos 9, 10, 13, 14, 15), 170 (nos 2, 6,7, 11), 171 (no. 3), (no. 4), (nos 9, 10, 13, 14, 15), 172, 173, 174 (all), 176 (no. 12), 177 (no. 10), 178 (no. 1), 179 (no. 4), 181 (no. 14), 183, 184 (both), 185, 199 (no. 15), 223 (no. 14), 231 (no. 5), 265 (all); Warner Brothers courtesy The Ronald Grant Archive page 256/57 (all); ©Albert Watson page 301 (no. 15); courtesy Boyd Webb page 81 (bottom); courtesy Boyd
+
+Webb and Anthony D'Offay Gallery, London page 83 (both); Whitechapel Art Gallery page 64 (no. 2), (no. 12), page 65 (no. 10); The Whitworth Art Gallery, University of Manchester page 218 (no. 11), 219 (no. 9), 220 (nos 6, 7, 11), 221 (no. 3), (nos 8, 9, 13), 222 (no. 1), (no. 2), 223 (no. 8), (no. 13); Why Not Associates page 278 (both), 279 (both).
+
+Many film and video works from RCA alumni are available from: Lux Distribution, The Lux Centre for film, video and digital arts, 2-4 Hoxton Square, London N1 6NU. Where no acknowledgement is given, the source is the Royal College of Art Archive or Collection.
+
+Every effort has been made to acknowledge correctly and contact the source and copyright holder of each picture. The publisher apologises for any unintentional errors or omissions.
+
+## Photography Credits
+
+Illustrations on these pages appear by kind permission of the following (in alphabetical order):
+
+Alex Bailey page 301 (no. 13); 309 (no. 14); Richard Compton page 114 (all); David Churchill/Arcaid page 142 (no. 1); Mat Colishaw page 249 (no. 8); Magnus Dennis/Richard Dennis Gallery page 112 (no. 2), (no. 6), (no. 7), (no. 11), 113 (nos 3, 4, 5, 8, 9, 10, 13), 116 (no. 1), (no. 2), (no. 7), (no. 11), 117 (no. 4), (no. 5), (no. 9), 118 (no. 1), 119 (no. 10), 130 (no. 6), (no. 11), 131 (no. 3), (no. 13), 133 (no. 14), Richard Dennis page 112 (no. 1); Paul Rice/Richard Dennis page 168 (no. 2), (no. 11),(no. 12), 169 (no. 5), (no. 8), 170 (no. 1), (no. 12), 171 (no. 8); Richard Dennis Gallery page 176 (no. 1), 179 (no. 13), 196 (no. 2), 197 (no. 13); Robert Fairer page 251 (bottom); Jonathan Fisher page 307 (no. 15); Graham Gaunt page 147 (no. 15); Julian Hawkins page 127 (no. 4); Tim Hill page 187 (no. 13); courtesy Jay Jopling, London page 56/57; Andy Lane page 308 (no. 7); Liam Longman page 307 (no. 14); Keith Parry page 124 (no. 11); Louie Quayle page 280 (no. 7); Rocco Redondo page 277 (no. 4); Rocco Redondo and Photodisc page 277 (no. 3); Doc Rowe page 309 (no. 15); Phil Sayer page 164; Sham page 147 (no. 4); Lord Snowdon page 20, page 214.
+
+Every effort has been made to acknowledge correctly and contact the source and copyright holder of each picture. The publisher apologises for any unintentional errors or omissions.
+
+## INDEX
+
+Figure in bold show major
+
+references.
+
+Barnicoat, John 35, 49
+
+Barrett-Barber, Neil 240
+
+##
+
+Abbott, Mike 206
+
+Abdu'allah, Faisal Ammar 100
+
+Barron, Paul 170
+
+Ackroyd, Norman 94
+
+Adam, Jane 205
+
+Barry, Val 177
+
+Adams, John 112
+
+Adams, Mark 157
+
+Bartlett, Stephen 119
+
+Adams/Carter, Truda 113
+
+Adjaye, David 146
+
+Adler, Nick 85
+
+Agnew, Kenneth 106, 118
+
+Aikman, Nick 203
+
+Barton, Glenys 178, 179, 183
+
+Albeck, Pat 105, 220
+
+Aldridge, Peter 120, 179, 192
+
+Alexander, Jayne 281
+
+Allen, Lester 157
+
+Altmann, Andrew 277, 278, 279
+
+Allen, Susie 97
+
+Allsopp, Kit 144
+
+Allman, Debra 204
+
+Anderson, Alfred 88
+
+Allington, Edward 70
+
+Angel, Marie 261
+
+Angus, Peggy 253
+
+Bateman, Richard La Trobe 132
+
+Al-Ani, Jananne 86
+
+Ani, Michael 157
+
+Antoniou, Platon 86, 87
+
+Appleby, Malcolm 199
+
+Appleby, Steven 293
+
+Arad, Ron 107, 126, 138, 139
+
+Archer, L. Bruce 106, 119, 120
+
+Ardizzone, Edward 92, 96, 255, 284, 285
+
+Bates, Barry 268
+
+Astbury, Paul 178
+
+Armstead, Henry Hugh 11
+
+Atkin, John 71
+
+Arnold, Tom 116
+
+Atkinson, Paul 120, 135
+
+Ashworth, Joan 299
+
+Bates, Stephen 144
+
+Auerbach, Frank 18, 35, 36, 50
+
+Aust, Rushton 226
+
+Austin, Robert S. 17, 89, 92, 93
+
+Bawden, Edward 26, 104, 252,
+
+Batty, Dora 112
+
+Baier, Fred 135
+
+Bacon, Francis 18, 36, 37, 50
+
+Ayres, Gillian 51
+
+Bacon, Clive 132
+
+Bailey, Dennis 285
+
+Badmin, Stanley 88
+
+Azumi, Shin 127, 150, 151
+
+Ayton, Sylvia 231
+
+Bainbridge, Eric 70
+
+Baines, Phil 277
+
+Bairstow, Jonathan 297
+
+Baker, Karen 241
+
+Baker, Robert 105, 176, 177
+
+Baldele, Georg 127
+
+Ball, Lindsey 180, 188
+
+Ball, Ralph 121
+
+Band, David 227
+
+Barber, Edward 147
+
+Barnbrook, Jonathan 276, 279, 280, 2823
+
+Bawden, Richard 95
+
+Baynes, Ken 195
+
+Beech, Ian 198
+
+Baxter, Geoffrey 117
+
+Bayliss, Arlon 186
+
+Bayley, Nicola 255, 288
+
+Belsky, Franta 64
+
+Bennett, Ian 248
+
+Benney, Gerald 105, 106, 196, 197, 198, 203
+
+Bennett, Antony 178
+
+Bentheim, David 142
+
+Beresford, Robin 199
+
+Berg, Adrian 41
+
+Bergne, Sebastian 126, 150
+
+Bertram-Brown, Harvey 242
+
+106, 272
+
+Betts, Malcolm 206
+
+Boswell, James 88, 253
+
+Bevington, Russell 143
+
+Biddle, Howard 120
+
+Bingham, Juliet 7
+
+Binyon, Helen 88, 89, 252, 253
+
+Birch, Robert 201
+
+Birtwhistle, Peter 152
+
+Bisley, Anthony 267
+
+Blake, Quentin 255, 287, 288, 290-1, 292
+
+Black, Misha 106, 118, 119, 152
+
+Blamey, David 293
+
+Blanthorn, Brian 187, 188
+
+Blow, Detmar 15
+
+Bocquet, Gavin 307
+
+Bodo, Sandor 78
+
+Boty, Pauline 38, 39, 40, 194
+
+Boekhoudt, Onno 211
+
+Bogue, Moira 276
+
+Bourn, Ian 75
+
+Bohinc, Lara 211
+
+Bolger, Brian 226
+
+Boxer, Mark 254
+
+Bolongaro, Kait 242
+
+Bradley, Ray 195
+
+Braden, Norah 169, 170
+
+Brandt, Bill 79
+
+Brammer, Leonard 90
+
+Bratby, John 18, 35, 36
+
+Bray, Andrew 198
+
+Bremner, Eric 240
+
+Brenner, Judith 241
+
+## D
+
+Brisland, John 97
+
+Brown, Barbara 221
+
+Brown, Christopher 292
+
+Brickwood, David 119
+
+Bright, Amanda 205, 206
+
+Broecke, Floris van den 107, 133, 136
+
+Brogden, Alex 204, 206
+
+Britton, Alison 1647, 178, 179, 183, 184, 185, 192
+
+Brown, Ralph 64
+
+Brogden, Joanne 106, 231, 238, 240, 245
+
+Brown, Sheilagh 214, 216
+
+Booth-Clibborn, Edward 279
+
+Brown, Tim 125
+
+Boshier, Derek 18, 38, 40,
+
+Boontje, Tord 127, 138, 150, 151
+
+Brownsword, Neil 191
+
+Bruce, Jane 178
+
+Brunsdon, John 93
+
+Buck, Margaret 135
+
+Buckett, Fred 33
+
+Budd, Rachel 51
+
+Bullen, James 229
+
+Buhler, Robert 27, 29, 34
+
+Bullen, Duncan 100
+
+Burgess, Kenneth 231
+
+Burgin, Victor 41, 76, 77
+
+Burn, Rodney 29
+
+Burns, Colin 125, 129
+
+Burr, Clive 203
+
+Burra, Edward 24, 26
+
+Burstall, Lynne 239, 247
+
+Buss, Marianne 192
+
+Casson, Margaret 140
+
+Casson, Dinah 146, 147
+
+## B
+
+Calder, Emma 297
+
+Cadbury-Brown, H.T. 141
+
+Catling, Brian 69
+
+Callum, Ian 153
+
+Campion, Anna 306
+
+Caldicott, Richard 292
+
+Cave, Peter 105, 117
+
+Camp, Sokari Douglas 70
+
+Casson, Sir Hugh 28, 111, 140, 141
+
+Chadwick, Helen 85, 99
+
+Catterall, Claire 7
+
+Cattaneo, Peter 307
+
+Calvert, Margaret 268, 269
+
+Capey, Reco 104, 113, 11415, 218, 219
+
+Caulfield, Patrick 18, 40
+
+Carr, Alwyn C.E. 102
+
+Carter, Howard 223
+
+Carruthers, Robert 65
+
+Carpenter-Donnelly, Janette 137
+
+Carter, Richard 157
+
+Chang, Kun 309
+
+Chancellor, Henry 308
+
+Chapman, Jake 72
+
+## C
+
+Clark, Robin 146
+
+Clarke, Amanda 101
+
+Clarke, David 210
+
+Carter, Ron 105, 108, 130, 131
+
+Clarke, Dillon 176
+
+Clarke, Geoffrey 64, 194
+
+Clarke, Grahame 118, 164
+
+Clarke, Leigh 101
+
+Clatworthy, Robert 67
+
+Clausen, George 13
+
+Clayton, Sue 307
+
+Cleaver, Alan 245, 247
+
+Clegg, Felicity 239
+
+Clements, Eric 196
+
+Coates-Smith, Wendy 286
+
+Coco, Donato 156
+
+Coker, Peter 35
+
+Collie, Keith 78
+
+Cole, Henry 9, 1011, 1213, 14
+
+Colvin, Calum 80-3, 84, 85
+
+Colwell, David 133
+
+Compton, Ann 16
+
+Constantine, David 126
+
+Conway, Ros 201
+
+Cook, Christopher 51
+
+Cook, John 177
+
+Cooke, Jean 35
+
+Cooper, Eileen 49
+
+Coper, Hans 106, 164, 165, 174,175, 184, 176, 178, 181
+
+Cornish, Peter 133
+
+Corben, Carolyn 227
+
+Corbin, Anita 85
+
+Cordova, Denise de 71
+
+Corvaja, Giovanni 209
+
+Cosserat, Kay 224
+
+Couldridge, Alan 214, 249
+
+Couldridge, Valerie 232
+
+Court, Julian 308
+
+Courts, David 198
+
+Cousens, Cynthia 205
+
+Cousins, Derek 266, 285
+
+Cox, Jane 191
+
+Cox, Sarah 298
+
+Cox, Simon 157
+
+Cragg, Tony 18, 68
+
+Craig, Stuart 301
+
+Crampton-Smith, Gillian 126, 128
+
+Crane, Walter 24, 102, 140, 252
+
+Craven, Shirley 220, 222
+
+Crosby, Nick 126
+
+Crosland, Neisha 226
+
+Crowley, Jill 179, 183
+
+Crummay, John 242
+
+Crump, David 133
+
+Csáky, Mick 306
+
+Culbert, Bill 40
+
+Cummings, Keith 188
+
+Cutcliffe, David 156
+
+Cutting, Laurence 77
+
+Dagworthy, Wendy 242
+
+Daizell, William R. 261
+
+Dale, Jon 161
+
+Dallas, Sarah 239
+
+Dalou, Aimé-Jules 14-15
+
+Dalwood, Dexter 52
+
+Daly, Tim 84
+
+D'Ambrosio, Luciano 155
+
+Danino, Nina 74
+
+Darwin, Robin 6, 17, 18, 28, 40, 105, 106 graphic design 253, 254 industrial design 116, 130 photography 76, 77 sculpture 64, 67 The Rebel 33
+
+Daucher, Vera 280
+
+Davey, Andy 124
+
+Davies, Anthony 97, 98
+
+Davies, Philip A. 50
+
+Davies, Rebecca 100
+
+Davies, Robert 87
+
+Davison, Max 100
+
+Dawson, Nelson 102, 112
+
+Day, Robin 106, 112, 130
+
+de Cordova, Denise 71
+
+de Francia, Peter 19, 48, 49, 50
+
+de Graff, Eric 134
+
+de Grey, Roger 20, 22, 23, 42
+
+de Large, Edward 200
+
+de Quin, Rebecca 207
+
+de Rijke, Alex 145
+
+Dean, Roger 133, 269
+
+Deighton, Len 254, 267, 272, 285
+
+Delaney, Brian 274
+
+Delaney, Ian 274
+
+Denny, Robyn 37, 38
+
+Densham, Karen 189
+
+Dent, Margaret 110
+
+Dent, Robert 90
+
+Dépont, Joelle 85
+
+Fabian, Andreas 208
+
+Fanelli, Sara 295
+
+Deuchars, Marion 292
+
+Farthing, Stephen 49
+
+Devlin, Stuart 197, 198
+
+Fedden, Mary 43
+
+Dickson, Michael 144
+
+Dillon, Charles 108, 135
+
+Feo, Roberto 139, 150
+
+Dillon, Jane 132
+
+Dobson, Frank 17, 64
+
+Dixon, Jeremy 142
+
+Dixon, Stephen 189
+
+Dobbie, Tom 203
+
+Dodd, Robert 221
+
+Doherty, Mary Jo 193
+
+Doig, Peter 53
+
+Draper, Christopher 294
+
+Draper, Kenneth 67
+
+Donachie, Kate 52
+
+Drage, Rachel 248
+
+Dresser, Christopher 11, 12
+
+Dring, James 169, 170
+
+Donagh, Rita 53
+
+Doughill, John 40
+
+Dowson, Katherine 72
+
+Drummond, John 223
+
+Douglass, Claire 294
+
+Doust, Richard 269
+
+Drury, Alfred 15, 58
+
+Dumbar, Gerhard 268, 276, 277,278, 279
+
+Ferguson, Ian 208
+
+Dunn, Constance 169, 170
+
+Dunbar, Cecilia 104
+
+Dury, Ian 41, 42
+
+Dunbar, Evelyn 26
+
+Gill, Melvyn 301
+
+Dyas, Guy 127
+
+Dyson, James 10811, 121, 122-3
+
+Dytham, Mark 145
+
+Eastman, Ken 188
+
+Ecclestone, Harry 90
+
+Edwards, Jason 281
+
+Edwards, Jeffrey 96, 98
+
+Fern, Dan 255, 287, 292, 294
+
+Edwards, Maria 14
+
+El-Asmar, Nedda 208
+
+Eigen, Frauke 86
+
+Eglin, Philip 186, 189
+
+Ekselius, Jan 134
+
+Elliott, Graham 292
+
+Ellis, David 277, 278
+
+Elson, Anthony 198
+
+Elwes, Catherine 75
+
+Emanuel, David 238
+
+Emanuel, Elizabeth 239
+
+Emin, Tracey 53, 547
+
+Epstein, Jacob 62, 64-5, 103
+
+Epton, Charlotte 168
+
+Field, David 134, 193
+
+Esher, Lionel 107
+
+Ginsberg, Madeleine 216
+
+Evans, Louise 72
+
+Evans, Merlyn 42, 59, 90, 91
+
+Evans, Rachel 73
+
+Gilroy, John (James) 252, 264, 265
+
+Gobits, Rolph 78, 79
+
+Fildes, Luke 13
+
+Godbold, Brian 232, 2445
+
+Filmer, Naomi 212, 213
+
+Fletcher, Alan 254, 266, 270, 271, 272
+
+Fionda, Andrew 243
+
+Foale, Marion 233
+
+Fisher, Alexander 102, 112
+
+Folkard, Edward 65
+
+Forbes, Stuart 144
+
+Goddard, Judith 75
+
+Foulds, John 222
+
+Ford, Hannah 7
+
+Foster, Giles 307
+
+Fox, Anna 87
+
+Ford, Jason 292
+
+Fowler, Graham 225
+
+Godfrey, Bob 297
+
+Foreman, Michael 254, 269, 287
+
+Forsyth, Gordon 102, 113
+
+Fox, Richard 204
+
+Fratini, Gina 231
+
+Gollifer, Andrew 144
+
+Fox-Strangeways, Sylvia 168
+
+Gordon, Jo 249
+
+Francia, Peter de 19, 48, 49, 50
+
+Freedman, Barnett 24, 89, 90, 253,254
+
+Freeman, David 274
+
+Freeman, Petra 297
+
+French, Neal 117
+
+Goodden, Wyndham 220
+
+Gowan, James 144, 145
+
+Gowdy, Carolyn 293
+
+Garland, Ken 275
+
+Gardner, William M. 260
+
+Graff, Eric de 134
+
+Freshwater, Sally 226
+
+Garland, Madge 230
+
+Grayson, Roy 94
+
+Garbe, Richard 17
+
+Gray, Jane 195
+
+Gray, Roy 106, 119
+
+Friedlander, Uri 124
+
+Gaffney, Jo 78, 79
+
+Garrard, Clive 120
+
+Grandfield, Geoffrey 293
+
+Grant, David 179
+
+Garside, Mark 126, 147
+
+Grcic, Konstantin 136, 137, 138
+
+Frost, David 198
+
+Gebbett, Paul 153
+
+Goodden, Robert 106, 117, 141, 198, 199, 200
+
+Games, Abram 253, 267
+
+Frost, Terry 98
+
+Frost, Martin 158
+
+Frink, Dame Elisabeth 66
+
+Greaves-Lord, Sally 226, 227
+
+Froshaug, Anthony 269, 272
+
+Green, Terry 76
+
+Geesin, Frances 229
+
+Grant, Alastair 36, 94, 95, 96, 98, 99 The Rebel 303
+
+Greenley, Ken 154, 156, 157
+
+Greenwood, John 53
+
+Furst, Anton 111, 142, 300
+
+Hampson, Mark 101
+
+Hans, Ineke 139
+
+Gregory, Joy 84, 85
+
+Grey, Roger de 20, 22, 23, 42
+
+Gribble, Herbert 15
+
+Griffin, Peter 48
+
+Gentleman, David 254, 267, 285
+
+Griffiths, Ian 240
+
+Griffiths, Adrian 154
+
+Griffiths, Keith 307
+
+Griffiths, Ken 77
+
+Hansen, Castello 210
+
+Gibb, Bill 106, 233
+
+Griffiths, Liz 239, 246
+
+Hammond, Henry 170, 174, 175
+
+Grime, Juliet 231
+
+Gross, Anthony 92
+
+Guard, Mark 145
+
+Gue, Simon 126
+
+Guille, Frank 130, 131
+
+Hanson, Maria 207
+
+Gumuchdjian, Philip 145
+
+Gibbs, Evelyn 89
+
+Gunak, Murat 154
+
+Gupta, Sunil 84
+
+266, 284
+
+Gurney, Michael 134
+
+Hackett, Pip 248
+
+Hackney, Katy 206
+
+Hadcock, Charles 71
+
+Guyatt, Richard 6, 94, 255,
+
+Haigh, Paul 135
+
+Haile, Thomas Samuel 26, 169, 170, 174, 175
+
+Harcourt, Geoffrey 132
+
+graphic design 92, 2534,
+
+Hardiman, Ann 240
+
+Hall, David 66, 74
+
+Gibson, Natalie 223
+
+Hall, Nigel 18, 66
+
+Gill, Bobby 255, 258, 278
+
+Hamada, Shoji 174
+
+Harding-Hill, Steven 298
+
+Hamann, Sigune 295
+
+Hardy, George 275
+
+## H
+
+Harkins, Sarah 146
+
+Harpley, Sydney 65
+
+Harris, Robin 289
+
+Harrison, Steve 190
+
+Hamilton-Fraser, Donald 31, 48
+
+Hartley, Alex 73
+
+Hartnell, John 153
+
+Harrow, Dale 158, 161
+
+Hart, Barry 58, 62
+
+Haslam, George 257, 258, 300
+
+Hatter, Tony 154
+
+Hart, Clare Dudley 239
+
+Hatts, Cliff 254, 259, 300
+
+Hauldren, Jane 212
+
+Hawkey, Raymond 267, 270, 271, 272
+
+Hayes, Colin 20, 28
+
+Haynes, Brian 269, 272, 287
+
+Heatherwick, Thomas 139
+
+Hecht, Sam 126
+
+Hedgecoe, John 78, 79, 255
+
+Hogg, Pam 225
+
+Heffernan, John 157
+
+Height, Frank 106, 116, 121, 124
+
+Heiler, Roland 155
+
+Heindorff, Michael 49, 53
+
+Helfet, Keith 152
+
+Hellum, Alexander 139
+
+Henrion, F.H.K. 266
+
+Hepworth, Barbara 58, 59, 603, 218, 219
+
+Heritage, "Paul 136
+
+Holland, Nick 118
+
+Heritage, Robert 105, 131
+
+Herkomer, Hubert von 13
+
+Hewitt, John 98
+
+Herman, Sam 164, 176, 180,181
+
+Holder, Elisabeth 204
+
+Hicks, John 233
+
+Hiett, Stephen 76, 77, 269
+
+Hill, Graham 153
+
+Hollaway, Antony 195
+
+Hillier, Fay 220
+
+Hollington, Geoff 120
+
+Hirst, Derek 29
+
+Hilton, Stuart 298, 299
+
+Holmes, Karina 228
+
+Hobson, Diana 188, 200
+
+Himmel, Erwin 155
+
+Hockney, David 18, 203, 38,
+
+##
+
+Holmes, Nigel 287
+
+Hodge, David 121
+
+Hodgkin, Howard 49
+
+Hodgson, Anthony 299
+
+Hodgson, Jonathan 296, 297
+
+Hogarth, Paul 287
+
+Hogg, Dorothy 198
+
+Homoky, Nicholas 180
+
+Hompel, Simone ten 206, 207
+
+Hood, Stuart 306
+
+Hopkins, Ben 308
+
+Horbury, Peter 153
+
+Horn, David 67
+
+Horton, Percy 25, 253
+
+Howland, Robin 131
+
+Hoyte, Rosalind 285
+
+Hudson, Octavius 11
+
+Hughes, Malcolm 28
+
+Hull, Graham 153
+
+Hunt, Martin 119, 164, 180
+
+Hunt, Philip 299
+
+Hunt, Tony 109, 110
+
+Hunter, Charles 240
+
+Hunter, Tom 86, 87
+
+Huntley, Susan 255, 274
+
+Hutchinson, James 101
+
+Hutchinson, Tim 281
+
+Huws, Bethan 71
+
+Huxley, Paul 19, 50, 97
+
+Hyland, Angus 277
+
+Illner, Antje 209
+
+Ingelnath, Thomas 158
+
+Ingman, Bruce 295
+
+Ireland, Geoffrey 266, 270
+
+Ironside, Janey 106, 230, 232, 235, 245
+
+Irvine, Alan 105, 130
+
+Irvine, James 136
+
+Isherwood, Peter 106, 119
+
+Ishiguro, Takeshi 127
+
+Jacklin, Bill 42
+
+Jackowski, Andrzej 48
+
+Jagger, Charles Sargeant 16, 58
+
+James, Greg 138
+
+Jamieson, Stuart 160
+
+Janin, Stephane 160
+
+Jarrett, Clare 289
+
+Jefferson, Robert 117
+
+Jekyll, Gertrude 14, 15
+
+Jenkyn-Jones, Sally 225
+
+Jentzsch, Julia 243
+
+Jewell, Dick 97
+
+Joffe, Chantal 52
+
+Johnston, Edward 102, 103, 2601, 262
+
+Jones, Allen 18, 23, 40, 41, 42, 94
+
+Jones, Hazel 205, 206
+
+Jones, Julia Peyton 49
+
+Jones, Lucy 51
+
+Jones, Michael 145
+
+Jones, Owen 12
+
+Jones, Teleri 190
+
+Jowett, Percy 17
+
+Kadasis, Bill 239
+
+Kafiri, Fotini 201
+
+Kamali, Nazanin 138
+
+Kapadia, Asif 308
+
+Karapanagioti, Tatiana 295
+
+Kardia, Peter 68, 74
+
+Legros Alphonse 14
+
+Legg, Robert 202
+
+Kay, Pamela 223
+
+Keepax, Mary 177
+
+Keiller, Patrick 74
+
+Keogh, Paul 142
+
+Kelly, Rod 205
+
+Kennedy, Sarah 296
+
+Khosa, Rajan 308
+
+Kestelman, Morris 25
+
+Lehtonen, Timo 97
+
+Kiff, Ken 50
+
+Kilner, Claire 309
+
+Kilsby, Paul 86
+
+King, Philip 18, 70
+
+King, Stephen 239
+
+Kinneir, Jock 268, 269, 274
+
+Kirk, Richard 211
+
+Kirkby, Brian 243
+
+Kirkham, Edward H. 71
+
+Kirkwood, James 176
+
+Kitaj, R.B. 18, 20, 21, 40, 41, 94,95
+
+Kitching, Alan 280, 281
+
+Kitson, Linda 293
+
+Klein, Astrid 145
+
+Klimowski, Andrzej 295
+
+Knight, Chris 208, 209
+
+Knight, Laura 288
+
+Leischner, Margaret 220
+
+Knobel, Esther 200, 202
+
+Kossoff, Leon 18, 35, 36
+
+Kovos, Sotiris 159
+
+Krut, Ansel 51
+
+Kulla, Matthias 157
+
+Kulman, Andrew 293
+
+Kyffin, Steve 125
+
+Lacey, Bruce 34
+
+Lampkin, Ivan 158, 159
+
+Lamiquis, Christina 139
+
+Lachlan, Richard 230
+
+La Dell, Edwin 90, 92, 93, 96
+
+Langer, Claudia 210
+
+Langford, Michael 78, 84
+
+Larbalestier, Simon 293
+
+Larcher, David 300
+
+Large, Edward de 200
+
+Last, Malcolm 143
+
+Latham, William 98, 296
+
+Lau, Pui-Yee 294
+
+Lenanton, Mary 230
+
+Lavery, Peter 78
+
+Laws, Tony 197
+
+Lee, Jennifer 187
+
+Leach, Bernard 168, 174, 183
+
+Lenthall, Ron 130
+
+Lee, Rodger 243
+
+Leon, Nick 121
+
+Letts, Robert 309
+
+Lethaby, William Richard 24, 102
+
+Leung, Ming 121
+
+Levein, Robin 121, 180
+
+Levy, Audrey 105, 220
+
+Lewis, Barry 79
+
+Lewis, Timothy 194
+
+Liebmann, Katia 100
+
+Lindley, John 12
+
+Lingford, Ruth 298
+
+Little, Mary 136
+
+Littman, Steve 75
+
+Lloyd, Mark 156
+
+Lloyd, Michael 201
+
+Lloyd, Tom 138
+
+Lo, Anthony 157
+
+Locher, Heidi 142
+
+Lodge, Bernard 254, 301
+
+Loeb, Niels 158
+
+Loker, John 40
+
+Loncraine, Richard 301
+
+Long, Bob 307
+
+Longmore, Martin 155
+
+Love, Brian 95
+
+Lovegrove, Ross 124, 137
+
+Lowe, Liz 187
+
+Lucas, Keith 300, 306
+
+Luck, Nigel 241
+
+Ludden, Aisling 243
+
+Lunn, Dora 169
+
+Lutyens, Edwin 15
+
+## M
+
+MacDonald, Richard 300
+
+Macdonald, Jane 186
+
+Mach, David 71
+
+Machin, Arnold 113
+
+Mackay, Ken 145
+
+Mackereth, Sally 146
+
+Maeder, Suzie 79
+
+Mahoney, Charles Cyril 25, 28
+
+Mahoney, Dorothy 102, 260, 261
+
+Maidment, Simon 138
+
+Maine, John 66
+
+Makinson, Norman 116
+
+Malkin, Neville 268
+
+Malloy, Tim 143
+
+Manchot, Melanie 86
+
+Mann, Ptolemy 228
+
+Mansell, Amanda 211
+
+Mara, Tim 19, 96, 100, 101
+
+Marchant, Nick 121
+
+Martin, Catherine 209
+
+Marks, Geraldine 73
+
+Martin, Kenneth 27
+
+Marx, Enid 88, 90, 104, 219, 252
+
+Mason, Robert 288
+
+Marlow, Reginald 169, 170
+
+Mathews, Heber 168, 170, 174, 175
+
+Marsden, Robert 201
+
+Marriott, Michael 138, 139, 150
+
+Matta, Roberto 49
+
+McLean, Flora 249
+
+McNicoll, Carol 164, 165, 178, 179, 183
+
+Matthew, Jean 230
+
+McCann, Brian 70
+
+McNulty, Stephen 96
+
+McCallum, Alistair 203
+
+McDonnell, Christopher 233
+
+McQuiston, Liz 275
+
+McIntyre, David 238
+
+McEwan, Andrew 298
+
+McGovern, Gerry 153, 1623
+
+Marshall, Allan 76, 77
+
+Meadows, Bernard 18, 66, 67, 68
+
+Meech, Annette 176, 178, 180
+
+Meeson, Graham Boe 187
+
+Mellor, David 105, 117, 196, 197
+
+Mendoza, Charles 70
+
+Meynell, Katherine 74
+
+Middleditch, Edward 18, 34
+
+Miles, John 228, 242
+
+Miles, Peter 281
+
+Millar, Roger 199
+
+Miller, John (b. 1930) 110, 142, 143
+
+Miller, John (b. 1962) 101
+
+Milligan, Michael 199
+
+Milne, Brian 194
+
+Milner, Deborah 243
+
+Milow, Keith 42, 67
+
+Milroy, Lisa 51
+
+Milton, George 309
+
+Mina, Jacqueline 199
+
+Morrow, Anne 287
+
+Minkin, Robert 116
+
+Marshall, Stuart 75
+
+Minton, John 29, 34, 285
+
+Mistry, Dhruva 71
+
+Mitchell, Stuart 308
+
+Montag, Daro 86, 87
+
+Moody, Francis 11
+
+## N
+
+Moon, Michael 41, 222
+
+Moore, Esther 15
+
+Morton, Adrian 160
+
+Moore, Mary 77
+
+Moore, Henry 58, 603, 104, 218, 219
+
+Moore, Martin 191, 192
+
+Moss, Vera 170
+
+Moore, Raymond 76, 77
+
+Moore, Simon 193
+
+Mowat, Alex 147
+
+Morgan, Huw 281
+
+Morgan, James 222
+
+Morgan, Jon 280
+
+Moynilan, Rodrigo 17, 28, 34
+
+Morison, Toby 295
+
+Morgan, Roy 285
+
+Mukaide, Keiko 191
+
+Morley, Malcolm 36
+
+Morris, Roger 201
+
+Muntada, Cesar 161
+
+Morris, Rowland 14
+
+Murdoch, Peter 133
+
+Murkett, Steve 155
+
+Morrison, Jasper 125, 136, 138, 1489
+
+Murray, William Staite 104, 168, 170, 171, 1725
+
+Myers, Bernard 110, 111
+
+Myerscough, Morag 277
+
+Mynott, Lawrence 289
+
+##
+
+Neale, Paul 277
+
+Nash, David 69
+
+Nash, John 27, 37, 104, 253
+
+Nash, Paul 24, 267, 88, 104, 112, 252, 253 Gay tea-set for Foley's 113 graphic design 262 lithography 90 The Rye Marshes 264 The Shore 25 textiles 218
+
+Naumann, Peter 159
+
+Neiland, Brendan 43
+
+Naylor, Martin 68
+
+Needham, Patricia 226
+
+Nelson, David 143
+
+Naylor, Maxine 137
+
+Nencini, Peter 294
+
+Neubauer, Vera 296
+
+New, Keith 194
+
+Nevill, Bernard 226, 231
+
+Newell, Steven 179, 180, 188
+
+Newnan, John 278
+
+Nicolle, Ann 99
+
+Nicholson, Roger 220, 221, 224, 226
+
+Nixon, Job 89
+
+Noble, Tim 73
+
+Nuttgens, Joseph 195
+
+Oakley, Nick 121
+
+Oakley, Harry 252
+
+O'Brien, Billy 309
+
+Ofili, Chris 53
+
+O'Malley, Peter 171
+
+Oliver, Mervyn C. 261
+
+Odundo, Magdalene 187
+
+O'Neill, Alistair 7
+
+Orr, Christopher 19, 95, 100
+
+Morrison, Zsuzsanna 207
+
+Osborn-Smith, Jane 181
+
+Osborne, Malcolm 17, 88, 91
+
+O'Sullivan, Thaddeus 306
+
+Page, Martin 201
+
+Outram, John 142
+
+Over, Celia 201
+
+Ovenden, Graham 43
+
+Oyekan, Lawson 190
+
+Paley, Maureen 84
+
+Pachachi, Reema 202
+
+Packer, Sue 78, 79
+
+Padwa, Alex 156
+
+Pankhurst, Sylvia 252
+
+Panting, Ben 72
+
+Paolozzi, Eduardo 94, 95, 106, 164, 176, 181
+
+Park, James 223, 228
+
+Parkinson, Sue 170
+
+Parry, John 299
+
+Pashley, Bill 231
+
+Payne, Donna 229
+
+Peach, Roy 238
+
+Pearson, Ian 125
+
+Pearson, Jim 69
+
+Pearson, Luke 138
+
+Peart, Steven 125
+
+Pedro, Reggie 295
+
+Pelcl, Jiri 137
+
+Pemberton, Gillian 118
+
+## Q
+
+Pemberton, Muriel 2467
+
+Penney, David 295
+
+Perkins, Sean 276
+
+Perrin, Brian 92
+
+Perrin, Martin 276
+
+Phillips, Peter 18, 38, 39, 40, 41, 42, 272
+
+Piercy, Sioban 101
+
+Pigott, Hadrian 73, 191, 192
+
+Piper, John 26, 89, 92
+
+Piper, Keith 75
+
+Pitchforth, Vivian R. 25
+
+Pite, Beresford 60, 102, 140
+
+Plackman, Carl 69
+
+Plowman, Paul 281
+
+Poncelet, Jacqueline 165, 178, 183, 184, 185
+
+Prechezer, Carl 307
+
+Pond, Edward 221, 222
+
+Poynter, Edward 11, 14
+
+Popham, Philip 106, 203
+
+Postle, Denis 76
+
+Prendergast, Kathy 71
+
+Powell, Terry 68
+
+Powell, Dick 121, 152
+
+Powell, Ernest F. 91
+
+Powell-Tuck, Julian 142
+
+Price, Anthony 233
+
+Priestman, Paul 124
+
+Pryke, Sue 190
+
+Pummell, Simon 297
+
+Pye, William 18, 67
+
+Pye, David 106, 131, 134
+
+Quartermaine, Carolyn 227
+
+Quay, Timothy 288, 296
+
+Queensberry, David 106, 164, 165, 176, 178, 184, 186 Cut crystal 177 Tableware for Midwinter 1
+
+Quin, Rebecca de 207
+
+Raby, Fiona 147
+
+Radford, Diane 180, 181, 188
+
+Rainey, Clifford 179, 180, 188
+
+Ramsden, Omar 102
+
+Sall, Clive 147
+
+Sampe, Astrid 115, 218
+
+Stapley, Jack 197
+
+Starkey, Hannah 84, 87
+
+Ramshaw, Wendy 202, 210, 211
+
+Staveley, Andy 297
+
+Rana, Mah 207
+
+Sargent, Lol 99
+
+Sartin, Shelagh 96
+
+Tremlett, David 42
+
+Sassoon, David 231
+
+Savage, Mike 206
+
+Steel, Charles 309
+
+Scarlett, Hilary 225
+
+Rayson, David 84
+
+Read, A.B. 113
+
+Schaefer, Janek 147
+
+Read, Herbert 102, 104, 173
+
+Scharff, Allan 211
+
+Redgrave, Richard 8, 10, 11, 12
+
+Rees, Dai 190, 192, 248, 249
+
+Rhodes, Zandra 38, 98, 106, 222, 223
+
+Rego, Paula 51
+
+Rhodes, Lis 75
+
+Reichman, Marek 159
+
+Restieaux, Mary 225
+
+Richards, Albert 28
+
+Richards, Ceri 20, 24, 92, 93
+
+Rena, Nick 192
+
+Sternmann, Roland 153
+
+Revell, David 280
+
+Rey, Margaret 170
+
+Riley, Bridget 35
+
+Richon, Olivier 87
+
+Riley, John 286
+
+Ringe, Simon 98
+
+Robert, Mary 84
+
+Robb, Brian 289
+
+Roberts, Laurence 238
+
+Scheuer, Winfried 124
+
+Robertshaw, Simon 75
+
+Trey, Marianne de 171, 219
+
+Robertson, Lindsay 232
+
+Robertson, Valerie 203
+
+Robins, Freddie 227
+
+Rounthwaite, Graham 294
+
+Schreyer, Peter 154
+
+Robinson, Donald Julian 230
+
+Stevens, Alfred 10, 15
+
+Rowe, Michael 107, 201, 202, 204 20
+
+Robinson, Maureen 180
+
+Rodger, Ian 199
+
+Roddis, James 189
+
+Robinson, Sheila 284
+
+Rogers, Su 143
+
+Ross, Dick 306
+
+Rogers, Richard 77
+
+Romp, Oscar 99
+
+Rothenstein, Sir William 1617, 24, 62, 88, 1034, 112, 168 Sir William Rothenstein 27
+
+Rudgley, Kerry 228
+
+Roscoe, Thelma 269
+
+Sadler, Ken 106
+
+Rushton, Emma 73
+
+Tucker, Sian 227
+
+Safran, Yehuda 49
+
+Salazar, Fiona 186
+
+Russell, Gordon 130, 255
+
+Scott, David 181
+
+Russell-Clark, Peter 127
+
+Rylands, Patrick 119
+
+Stevens, Andy 277
+
+Tuffin, Sally 233
+
+Scott, Fred 132
+
+Stevens, Jocelyn 6, 242
+
+Scott, Tony 300, 306
+
+Stevens, Peter 152, 154
+
+Tunnard, John 219
+
+Scott, Ridley 254, 2569, 268, 301, 3025
+
+Sellar, Dawson 152
+
+Stevens, Ronald 197
+
+Stezaker, John 87
+
+Sellars, James 91
+
+Selvaag, Per 161
+
+Semper, Gottfried 12, 13
+
+Stockwell, Susan 72
+
+Sequin, Ken 287
+
+Stoddard, John 120
+
+Sewell, John 284
+
+Seymour, Richard 121, 153
+
+Stoeber, Nicole 209
+
+Sharp, Angela 232
+
+Stone, James de Holden 220
+
+Stoyel, Janet 228
+
+Tunnicliffe, Charles 252
+
+Sharratt, lan 142
+
+## U
+
+Straub, Marianne 223
+
+Shemitt, Elaine 97
+
+Short, Jane 203
+
+White, David 117
+
+Shields, Frederic 11
+
+Shillito, Ann Marie 200
+
+Short, Sir Frank 17, 88, 89
+
+Strindberg, Medeleine 50
+
+Sielaff, Stefan 158, 159
+
+Slater, Paula 188
+
+Skellern, Victor 112
+
+Skeaping, John 64, 65
+
+Simmons, Paul 228
+
+Slocombe, C.P. 11
+
+Slee, Richard 178, 189
+
+Simons, Anna 260, 261
+
+Slutzky, Naum 117
+
+Stubbs, Mike 74
+
+Small, John 137
+
+Sturgeon, Sara 241
+
+Summerfield, Christopher 71
+
+Smith, Alan 299
+
+Sorrell, Stephen 281
+
+Turner, Anne 187
+
+Spencer, Gilbert 17, 25
+
+Sutherland, Graham 29, 92, 93
+
+Subirós, Anna 7, 280
+
+Sunderland, Lesley 224
+
+##
+
+Smyth, Anne 186
+
+Smith, Erik 91
+
+Smythe, Philip 267
+
+Sneade, Jackie 191
+
+Spencer, Herbert 255, 258, 266, 274
+
+Solon, Leon 14
+
+Smith, Philip 284
+
+Smith, Richard 37
+
+Swinburne, Elizabeth 193
+
+Smith, Paul 86, 87
+
+Swayne, Dick 85
+
+Spiller, Eric 200
+
+Swindlehurst, Thomas W. 260
+
+Swindell, Geoffrey 177
+
+Spear, Ruskin 20, 27, 34, 37
+
+Sprigge, Lucy 226
+
+Smith, Graham 78, 248
+
+Smith, Leonard 204
+
+Spender, Humphrey 221
+
+Smith, Jack 18, 35, 36
+
+Sykes, Steven 171
+
+Sylvester, David 34, 36
+
+Smith, Martin 107, 153, 154, 180, 193
+
+Whishaw, Anthony 34
+
+Veevers, Joanna 187
+
+Veness, Alex 53
+
+Tyssen, Keith 196
+
+Tacon, Pamela 171
+
+Vaughn, Keith 18, 92, 93
+
+Tait, Ingrid 227
+
+Vertigan, Norman 300
+
+Vellacott, Elisabeth 25
+
+## T
+
+Vyse, Charles 113, 168
+
+Tappenden, John 75
+
+Van Ryn, Aude 294
+
+Vilhena, Manuel 210
+
+Spring, Daniel 206, 207
+
+Tattersfield, Brian 254, 269
+
+Taylor, Diana 195
+
+Wade, Robin 131
+
+Uden, Patrick 301
+
+Taylor, Gerard 125, 136, 144
+
+Springett, Rodney 268
+
+Umlauf, Ulrike 186
+
+Standige, Gary 176
+
+##
+
+Taylor, Giles 158
+
+Wadsworth, Edward 263
+
+Stafford, Jack 270
+
+Underwood, Leon 62
+
+Wadsworth, Philip 169, 170
+
+Stair, Julian 187
+
+Taylor, Janet 222
+
+Taylor, Lindsay 225
+
+Walker, Daniel 161
+
+Thomas, Alison 137
+
+Terblanche, Pierre 156
+
+Timney, Sue 225
+
+Taylor, Lucien 209
+
+Tilbury, Alan 130, 131
+
+Tchalenko, Janice 189
+
+Tilbury, Nancy 243
+
+Thompson, Jo 210
+
+Thompson, Elizabeth, Lady Butler 14
+
+Tibbs, Ben 280
+
+Taylor, Richard 297, 298
+
+Thumpston, Hazel 105, 117
+
+Thomson, Julian 155
+
+Walker, Derek 144, 145, 146
+
+Thubron, Harry 26
+
+Thraves, Jamie 309
+
+Wiener, Andy 85
+
+Tipler, Adele 208, 209
+
+Wall, Peter 117
+
+Walker, Madelyn 261
+
+Whitfield, Jane 242, 247
+
+Tippell, Diane 286
+
+Toft, Albert 15, 58
+
+Wallis, George 11, 14
+
+Tonkin, Michael 144
+
+Walton, Alan 220
+
+Wild, Rita 194
+
+Treacy, Philip 21417, 248, 2501
+
+Townsend, Sonia 230
+
+Waplington, Nick 86
+
+Ward, Basil 140, 141
+
+Ward, Esther 206
+
+Travers, Martin 104, 194, 195
+
+Wilkie, David 154
+
+Ward, Sasha 188
+
+Ward, James 200, 202
+
+Wilding, Alison 18, 68, 167
+
+Warren-Fisher 277
+
+Washington, Robert 170, 171, 174, 175
+
+Wilkinson, Kate 211
+
+Watkins, David 107, 202, 204, 207,210
+
+Webb, Boyd 78, 803
+
+Watkins, James 160
+
+Webb, Alan Boyd 68
+
+Wearing, Paul 227
+
+Wood, Sophia 281
+
+Weight, Carel 18, 20, 22, 23, 37, 38, 423
+
+Watkins, Philippa 225
+
+Wedge, James 106, 232, 249
+
+Watson, Mike 280
+
+Wilks, Sue 77
+
+Watts, David 231
+
+Watson, Laura 242
+
+Watson, Albert 76, 301
+
+Watson, Paul 300, 301
+
+Welch, Robert 105, 116, 196
+
+Wells, Reginald 168
+
+Wood, Nicola 222
+
+Woodcock, John 261
+
+Woodhouse, David 159, 163
+
+Wood, Julia 181
+
+Woodford, James 58
+
+Westhaus, Claudia 210
+
+Wheatley, Craig 229
+
+Williams, Christopher 180, 181
+
+Wheeler, Charles 58
+
+Whiles, Gerald 196
+
+Williams, Colin 134
+
+Wellington, Irene 102, 260, 261
+
+Woods, Henry 14
+
+Wentworth, Richard 68, 99, 108
+
+Williams, Glynn 18, 72, 73
+
+Wilson, E.B. 102
+
+Wilson, Scott 249
+
+Witham, Peter 241
+
+Woffenden, Emma 150, 151, 191
+
+Wood, Francis Derwent 15, 16, 17, 59, 60, 62
+
+Wood, Elizabeth 309
+
+Wolpe, Berthold 267
+
+Wong, Maria 206, 207
+
+Woolley, Janet 289
+
+##
+
+Wootton, Michael 99
+
+Wouda, Peter 160
+
+Wrake, Run 298
+
+Wright, Edward 267, 272
+
+Wright, John 218
+
+Wurr, Nicholas 275
+
+Wylie, Gus 85
+
+Yahooda, Verdi 78, 79
+
+Yardley, Helen 224
+
+Yeap, Po Chap 177
+
+Yeats, Jack B. 15, 24
+
+Yehia, Bakri 203
+
+Zeegan, Lawrence 293
+
+Yoshikawa, Mayu 229, 249
+
+Young, Susan 296
+
+Young, Dick 131
+
+Zellweger, Christoph 209, 212,
+
+SANDY SPRINGS
+
+707.11 FRAYLING SDY SP Frayling, Christopher Art and design
+
+91990573 Atlanta-Fulton Public Library
+
+SS
+
+DEC
+
+2000
+
+CHRISTOPHER FRAYLING is rector of the Royal College of Art and Professor of Cultural History there. Since joining the RCA in 1979. he has established pioneering postgraduate courses in the history of design, modern cultural theory, the conservation of artefacts, and visual arts administration.
+
+An historian, critic and award-winning broadcaster, Christopher Frayling is well known for his work in radio and television and has published numerous books and articles on cultural history and contemporary art, craft, design and film.
+
+Christopher Frayling is the longestserving Trustee of the Victoria and Albert Museum, a member of the Arts Council of England. Chairman of the Crafts Centre in Bath, Britain's leading archive of Craft History, and was a Governor of the British Film Institute. He lives in Bath and London.
+
+![](images/b8135ae82e6c1760bbc8f3e6853bab6984c74f876af89459ad518e24a943e4f9.jpg)
+
+Lavish fully-illustrated catalogue of the world-renowned artists and designers associated with the Royal College of Art, the most influential art and design school in the world.
+
+This invaluable sourcebook shows a century's development across every field of Fine Art, Design and Communications, from the Arts and Crafts Movement to the Postmodernism of the 1990s, through the work of more than 1,200 students and staff of the RCA.
+
+![](images/aa568fad27c56497ebfcb7c383fa26f0580fad4f399e673bcbf1428e70f40e61.jpg)
+
+![](images/9f736654758dd5b5a44e8f8e2fcee778c9315e89de6b4812fbaeea8ad7d46235.jpg)

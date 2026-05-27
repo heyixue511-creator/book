@@ -1,0 +1,82 @@
+![](images/1bb98070eefcf15e11ec6002cc37f5d8191d7357f156502e3bffd8c102639108.jpg)
+
+Russian Avant-Garde: Theories of Art, Architecture and the City by Catherine Cooke   
+Review by: Dmitry Shvidkovsky   
+No. 31 (Summer 1996), pp. 102-103   
+Published by: Architectural Association School of Architecture   
+Stable URL: http://www.jstor.org/stable/29544011   
+Accessed: 16/06/2014 04:07
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/info/about/policies/terms.jsp
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Russian Avant-Garde: Theories of Art,   
+Architecture and the   
+Catherine Cooke   
+by Editions,   
+208   
+I-85490-390-X
+
+From the perspective of Moscow, Catherine perspective a own research on Russian architectural history of the outcome a lifelong study of the Russian avant-garde. lifelong study St Petersburg have been very aware of the Petersburg at She has been at the main events regularly century architecture — conferences, exhibitions century her to Russia, Catherine Cooke has always been on the always look-out for the latest state in of leaflets and pursuit journals, everythingin architectural the and It is rare, a to enter so her - who and it to come to is about our archi? tecture, that of the twentieth
+
+particularly atherine Cooke's research in the at much the same time as a revival of interest in constructivist architecture was taking place in the famous architects and architectural theorists of the 192os were still alive, things were not easy. The destruction of the the Stalinist reform of art and led to the establishment of socalled socialist-realist aesthetics had been total and profound. Moreover Stalinist neo-classicism was profound. based on the traditions of in Russia at that time. Between the late and the mid a culture that was very largely opposed to avant-garde ways of largely opposed avant-garde not obstructed real revival of but also barred the to research on the avant-garde for several generavant-garde St That is the efforts of Petersburg. scholars were so when ere as Russians were to the of the
+
+During the 1970s and 198os attitudes towards somewhat in avant-garde Russia. work of was the of and manifesto texts by famous architects. S. O. Khanand V. F. Khazanova the in The of docu? leading re-publication ments of architectural also It at first the Soviet pened use years  on a the freedom of the late Brezhnev period and then the Gorbachev years.
+
+it be that the perestroika might supposed avant-garde, but that wasn't and still isn't the avant-garde, case. is of course Writing and can or exhibit what But economic crises of the past few years have caused a serious decline in scholarship, notably in such disciplines scholarship, disciplines as The rate has greatly diminished. Yet this is not the main reason for the slow-down in research into the Political have avant-garde. to the issue of national and brought - an in Russian and even architectural theory. Because of its international outside the avant-garde contemporary culture. A neo-Russian with an comparable to nineteenth-century historicism has comparable become fashionable in much to our of the im? damage understandin
+
+With luck this will pass, and we shall in due course come to appreciate what seems selfevident, that the constructivist period was the only time during a thousand years of Russian architecture which had real international signisigni? ficance. There were of course interestingfeatures at all the different in the develop? ent of Russian architecture and town-planning. no before the nor a in innovations in construction around the world.
+
+is no in building practice construc? tivist or a new once in some matters is the Russian avant-garde's whole frame of - more and less familiar in thought  interesting Russia and the West alike than their and designs. This is just the point that Catherine designs. in her many important texts by the leading figures of important leadin the
+
+The author correctly says that her work is 'a - came out a specific period and from specific people, but specific period specific people, which still have relevance texts in to original architects', their manifestos and commentaries on their own activities. Mostly she does so chronoand so that we a based and detailed good, cuts so that the issues with a context.
+
+eater clarity begins study of the Modern nineteenth-century Russian rationalism and its links with France. She next
+
+![](images/52a80dbc8bf0efb8e71dc5afe35d458ea362676c2b7d4e5d5e07c73fed3f7b55.jpg)  
+Modeniminsert in the clssial cityFactory kitchenan departent store complex, Leningra 192831, by A. K. Barutchev et al.
+
+Stresses the of the Art Nouveau importance for what was to in the and period happen new art tutions founded in St and Moscow Petersburg the author then moves to the enough, question avant-garde that the Bolshevik Then typified early comes the of what Soviet the architecture of the 'New People's State', to be. The main and associations ought groupings of the are all described in avant-garde along with their manifestos and the important designs; well-chosen illustrations are a here. are either to the They organized according like-minded architectural or groupings, to individuals like Moisei according outstanding Alexander less-known but Ginsburg, Nikolsky brilliant Andrei Ivan Leningrad for the dom-kommuna or 'house commune' and for modern-style factories), modern-style and then such as Konstantin giants Golosov (authors of the most Ilya interesting or Vesnin the main in constructivist Architects who figures ideology. their work before the Revolution as began then became involved in the Modern and later became leaders in Stalinist neo-classicism are not like forgotten, Alexei Shchushev or Ivan valu? Zholtovsky. Very several architects who an role at the time but do not feature much in Russian architectural have attracted the author's such as Boris who created Moscow's most houses in elegant neo-classical taste the Art Nouveau during period switched to the severest constructivism in the second half of the
+
+The classic problems of the Russian avant-garde are also presented: problems of functionalist presented: problems method in the of and the modern state of mind', the rationalization of construction, suprematism - all can be found in attention is to the constructivist to the while the relationship between constructivism and relationship as an
+
+analysed a not over Generally most Russian avant-garde in architecture, accompanied avant-garde original texts. From the Russian standpoint the original standpoint in time if it can help demonstrate the exceptional interest and present relevance of the architectural ideas of the and contribute to the between struggle modern and traditional idioms in architectural that is now no? tably in Moscow, where a new national historicism is becoming the dominant fashion.
+
+becoming from the West have arrived in Moscow with new commissioned designs as in always highest an to the the constructivist Back came answer Moscow that municipality no room architecture in Russia any more and that skymust be built in Russian taste. Nobody - hundred-storey or domes? I hope this will not happen. Though hope constructivism as a to style belong its ideas fruitful now and in the next millennium.
+
+Dmitry Shvidkovsky
+
+Architecture for the   
+First An into the Architect s   
+World   
+by Anthony Jackson   
+by Anthony of Toronto   
+224   
+\$56.00 cloth / 0-8020-0625-6   
+\$20 paper / o-802o-7584-3   
+A Theory for Practice: Architecture in Three   
+Discourses   
+Bill   
+MIT Press, 1995   
+179 pp., £18.95   
+0-262-082-357   
+Architects and their Practices: A   
+Profession   
+by Martin Symes, Joanna Eley and   
+by Symes,   
+Butterworth   
+229 pp., £25   
+0-7506-1299-1
+
+## ARCHITECTS' FUTURES
+
+has become a focus of interest, yet the business of architects has never been at a lower ebb. The RIBA the a of clients who innovation are recognize trated which The quality of students entering architecture schools is than that in of the other construc? higher tion seven on disciplines, entering some profession, they as as is between where a
+
+salaries and high vast local practices.
+
+practices.  two North America and one specifically concerned specifically chotomy between the art of architecture and the of architects. All three the question of the culture of architectural at its most instils the mind-set of a privileged position  architects as arbiters of privileged position  a structures can expressed In a where there is an that decision increasing be accountable the aloofness of architects from other members of the and the of the they use, are obstacles for clients and users.
+
+Architecture presents itself as an enquiry into the architect's world. His central theme is that architecture today is élitist and out of touch with those for today that reflect 'their own rather than the values of the communities they serve'. Their education and is to a set a which are based on an art more with values. (Here critics and art historians come under particular attack as those who, for the sake of the latest the to More? over, the schools are imbued with a culture which holds that the work of architects has a 'transcen? ... The results can from the to the from the absurd charming to the brutal. Far from transcen? ... all we is a random assort? ment vacuous
+
+images.' that the and planning imple? New was a of invasive intervention' by architects who were empowered to design their own ideals. Here he empowered design entire central area was conceived of and as one He reviews in an to understand architects so serve. In account of the the profession he describes how in the classical era the status of architecture as an art led to the of a of Orders and on a which embodied the structure underlying and the of Archi? tects and it was

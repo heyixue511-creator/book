@@ -1,0 +1,3299 @@
+THE/INVISIDLE ART
+
+SCOTT McCLOuD
+
+A REMARKABLE NEW BAEDEKER OF THE TOONS. TRUDEAU, NEW YORK TIMES BOOK REVIEW
+
+![](images/c9810f4b20455c5f3480f893907ccc46ff32c9a3b49425383a7a6b18c479cae9.jpg)
+
+WRITING AND ART SCOTT McCLOUD
+
+LETTERING BOB LAPPAN
+
+EDITORIAL ADVICE AND SELECTIVE EGO-TRIMMING STEVE BISSETTE KURT BUSIEK NEIL GAIMAN BOB LAPPAN JENNIFER LEE LARRY MARDER IVY RATAFIA
+
+EXTRA SPECIAL THANKS WILL EISNER
+
+EDITOR MARK MARTIN
+
+A paperback edition of this book was originally published in 1993 by Kitchen Sink Press. It is here reprinted by arrangement with Kitchen Sink Press.
+
+UNDERsTANDING COMICS: THE INVISIBLE ART. COPyright © 1993 by Scott McCloud. All rights reserved. Printed in the United States of America. No part of this book may be used or reproduced in any manner whatsoever without written permission except in the case of brief quotations embodied in critical articles and reviews. For information address HarperCollins Publishers, Inc., 10 East 53rd Street, New York, NY 10022.
+
+HarperCollins books may be purchased for educational, business, or sales promotional use. For information please write: Special Markets Department, HarperCollins Publishers, Inc., 10 East 53rd Street, New York, NY 10022.
+
+First HarperPerennial edition published 1994.
+
+ISBN 0-06-097625-X (pbk.)
+
+94 95 96 97 98 RIPON 10 9 8 7 6 5 4 3 2 1
+
+ANY SIMILARITY BETWEEN CHARACTERS/INSTITUTIONS IN THIS WORK TO ACTUAL CHARACTERS/INSTITUTIONS IS UNINTENDED ENTIRE CONTENTS COPYRIGHT SCOTT MCCLOUD UNLESS OTHERWISE NOTED UNDERSTANDING COMICS IS A TRADEMARK OF SCOTT MCCLOUD ALL RIGHTS RESERVED
+
+![](images/ec471c38ae4295e79f223b37bb0fc5bf5b5156657cefdcd95938170c4eeb2c9c.jpg)  
+nnamaa ? 1 . 手 7 ， T
+
+ACKNOWLEDGEMENTS:
+
+The book you're about to read took 15 months to produce and many of the ideas it contains had been on the back-burner for over nine years, so acknowledging all of those who have helped in its development may be next to impossible. Furthermore, since its initial publication in the comics industry, I've received tremendous support from hundreds of fellow travelers in all corners of the publishing world. My apologies to anyone who is not listed below and should have been.
+
+My deepest gratitude to Steve Bissette, Kurt Busiek, Neil Gaiman, Larry Marder and Ivy Ratafia who all reviewed my original draft in detail and offered many valuable critiques. Their contribution to the project cannot be overstated. I was also fortunate to receive detailed analysis from the talented Jennifer Lee and beyond-the-call-of-duty proofreading and good advice from Bob Lappan. Special thanks are also due to the magnificent (and magnanimous) Will Eisner who offered many words of encouragement and excellent advice in the project's later stages. Will Eisner's work has been an inspiration to me, and to thousands of artists, for many years. Eisner's COMICS AND SEQUENTIAL ART was the first book to examine the art-form of comics. Here's the second. I couldn't have done it without you, Will. Thanks.
+
+I'm deeply indebted to all of the friends and family who offered their thoughts on the manuscript as it was being prepared. Among this long list are Holly Ratafia, Alice Harrigan, Carol Ratafia, Barry Deutsch, Kip Manley, Amy Sacks, Caroline Woolf, Clarence Cummins, Karl Zimmerman, Catherine Bell, Adam Philips and the legendary Dewan Brothers, Ted and Brian.
+
+In the comics world, special thanks go to Richard Howell, Mike Luce, Dave McKean, Rick Veitch, Don Simpson, Mike Bannon (technical support), Jim Woodring, and all of the wonderful clan at San Diego '92. Thanks also to the numerous professionals who have lent their support and endorsements to the project. I'm particularly indebted to Jim Valentino, Dave Sim and Keith Giffen who used their own books as a forum on my behalf. In the retail sector, my thanks to the generous members of the Direct Line Group, to the many stores which played host during our first tour and especially to the Mighty Moondog himself, Gary Colobuono. Thanks, as always, to Larry Marder, Nexus of All Comic Book Realities, for his tireless efforts on my behalf.
+
+Thank you to the legion of journalists in print, radio and television who have been able to talk about this book without quoting sound effects from the old Batman TV show; especially Calvin Reid and the whole gang at PW.
+
+Early influences on the ideas in this book are harder to trace, but no less important. Kurt Busiek introduced me to comics long ago and was my best guide for many years. Eclipse Editor-in-Chief cat yronwode helped shape my critical faculties over seven years on ZOT! and is one of the very few people in comics who really understood where I was coming from. Art Spiegelman, like Eisner, offered me a role-model for serious inquiry into comics as an art-form and, in his short comicsessay "Cracking Jokes," clarified comics' potential for non-fiction and made this book a possibility. Other important early influences include Syracuse professor Larry Bakke, Richard Howell and Carol Kalish.
+
+My thanks to all the fine people at Tundra Publishing, Kitchen Sink Press and HarperCollins.
+
+Without Kevin Eastman this book might have never seen the light of day. Thank you, Kevin.
+
+Without lan Ballantine, you wouldn't be holding it in your hands today. Thank you, lan.
+
+And without you, Ivy, it wouldn't have been much fun. I love you madly. Let's take tomorrow off.
+
+![](images/a0788b50e1259da82098ceb401eb2358ce13945f0aa714dbbbad5be69038959d.jpg)
+
+Scott McCloud
+
+![](images/66328fdc390e5f307e10f3d2bba7b78329ec59605f2cb7131af53d0db094800f.jpg)
+
+![](images/c71ccb6de31da233598424fda9a13e1cb4664db8bc10e376666d350120937247.jpg)
+
+![](images/83ae56ff2ccf9ed130b429c065ca24e25d0bf9e78b56cecdf9f2a44cfe76fd0a.jpg)
+
+![](images/f70337727d8d05ed11a572eabf1e3451123bd484f5ec9fe67a1602092c8abc2f.jpg)
+
+## @INTRODUCTION7
+
+![](images/aa2033c9580aa87ab0bce30ae90fe966ef73c737c5c9156dda68be88c89e7b8b.jpg)
+
+![](images/bd90a44ec154d2532b60ca160b04d45428f2bb7e70727fe821841ab49c22fd79.jpg)
+
+![](images/99a8a4e4fa26793197f00e4fdd0e6e24d33147c1ca57bc96d478ff9e8f2b85c2.jpg)
+
+![](images/ee87da847bd82e88d9f3e1073bf756e37b4cd47651c6ad90d8db9e47e9baee80.jpg)
+
+![](images/ec7ede6fa5367194ea6ccec5e5074cb816f83f750b865f9e83ba95565d2ad0e1.jpg)
+
+![](images/45d53fb84bfc33bb0ef65fa7986cc8d7081b30f2dd940c5bdfd777721934e25a.jpg)
+
+![](images/c4157192463ff2cd6f29bf5db64bcc8499f781f019abb158b007921528045da1.jpg)
+
+![](images/d726298c279a5f15f0d049f6d397b9220174db9b5d28eedebf9214b6e74bc32e.jpg)
+
+![](images/aa65599cb56421b5fb9dde846ca7aa1b139c9656951df895ed73b76ec8de6b20.jpg)
+
+## UNDERSTANDING COMICS
+
+![](images/71b426bda6a0e9485e2f06f2b3454d8011bf92dc3c0cede2c3886a426342f332.jpg)
+
+![](images/797050de6449dfa5da3f6f73b12b58f06e609d543e35f2a349c8285ad640be33.jpg)
+
+![](images/33624b7038d2ebc46237dfd09537e22c46ce2ab79998a84ceb354642e885f56c.jpg)
+
+![](images/40832f96f2def02cd34819ab34428d581ae5dbc274a3adb96791cfd54a17f3f9.jpg)
+
+![](images/ef2b424581f18f2b016403ead4f546545b71d99c915b876e0daedf1ebe6f3fd7.jpg)
+
+![](images/3e76ba2ada6144952259ef3014342d4d9bfb28c0b7ad2166c1ee8f8f2bebe5c5.jpg)
+
+![](images/3de991ba1704c88fa2b8cba5e5ffd0e4ff83445d436dc1454e4d864d900004e7.jpg)
+
+![](images/4e565eee1bfabe41300574edb992e157ec0cb92216493595e3a31e29c6ddc679.jpg)
+
+![](images/1d46ef21b6af8b6493ea7f11e5e2dadb311111dedd5597042517eb2d010ff947.jpg)
+
+![](images/fbac048fc9dbe2fc500c9f31b3683a6fd2dd27b9f113470ce20abc80e4dd0e63.jpg)
+
+![](images/3de6dad7c58dd19ef9ce0d82fa0f44d9ae32eb058d98b32dc33e619ea617d3a9.jpg)
+
+![](images/9b115d5d5870e4506966e0816eacc20c9a11556af0c9f63ed4c579f5ae862a27.jpg)
+
+![](images/54602ab600d44c48d9321a623ba066a301ba4907cc862adc98c9435b93971965.jpg)
+
+![](images/c0dec1198f2f08fbeeeeea104bcc5edc4ee02d3382121d1c873748781215b8aa.jpg)
+
+![](images/e7b3ac96c4e7f3518ba29254dc1f67770faf90cbc455f6121a441ebc7d556679.jpg)
+
+![](images/c68e8988467206c94a1ceaf9a87e2cda1671009d090f8d44c11933d9cc7daa73.jpg)
+
+![](images/bbf580bf47a5137eb7efec144b96234d31a8d8f7b28762ad699f4f0ead81daa1.jpg)
+
+![](images/81702f8778265b0d61877f5a8e6537164bfb4be4bb5c1e886f9cb4e9aea6e526.jpg)
+
+![](images/99d17c1c3a6d15a7f036ec4921c1b2149032c0c8fbb912f01ca8f174fe1e3370.jpg)
+
+![](images/13a5a09febf63f03bad7381578207159905126632125e4e0678c5ed00754c3f8.jpg)
+
+![](images/582f585af009b3e7f5635e6fc6296e2f8aca6d45644c5b43bf5da5a7436ef045.jpg)
+
+![](images/60060cfc278835dd78211b1d905f7d476c56d67749ef5570da6240dda56511dc.jpg)
+
+![](images/b07e176e94df88a62ac602607f757973b4544f83c370d23cfa3c26035dbd9133.jpg)
+
+![](images/cf72e536baa2cab55905b87f4cdbbe9b7f0fb08e2338bd89a57f28654080e8c7.jpg)
+
+![](images/7f107f803557f5aad98ee68049cc88d45855ee262534f021e11c8d4ea0db2fcf.jpg)
+
+![](images/63fccd716a4829af67e89d8e9169e9026d69f41f0f9aeaa24dac00cf8f70ab96.jpg)
+
+![](images/fb6c39ecde51c067fce6a500babd47c05cabbc8c01558cb15be9838788d62f64.jpg)
+
+![](images/43361e3ba03996bfc6ffd15f2238d1e29e73c41868deb3bfab0636b1328ef78d.jpg)
+
+![](images/f206b1aa700394341babeb800f03a5d436d2f62214dc116b9ed9042ce067634f.jpg)
+
+![](images/c32bf03c6c8b64d4b8991854bf69a2e2a15ae0dc37571a497de85bc0c77e7df5.jpg)
+
+![](images/c566b85870c13faa6f78a8dd89fe02a2464d3a6e196bd01b6602793e6d393ac4.jpg)  
+\*EISNER'S OWN COMICS AND SEQUENTIAL ART BEING A HAPPY EXCEPTION.
+
+![](images/4c05a0110f70513af1c9e53ff8131032e85e77f26b1abc6b330cf8b01befab91.jpg)
+
+![](images/eaace475b59b3c4a53ebd55a0f3a35cd236e2a7b6662013b68a3d469a0c54c98.jpg)
+
+![](images/37cee013edb9dec6bca4dd92fcf8a0ca73449428a20a71c32bce13876cd676a4.jpg)
+
+![](images/278113adb88f3b94d853eb647e206880c9f7d2f6cfc3ac7bde007853dad879bf.jpg)
+
+![](images/00c17fa3f2f5672711d360aaac068d8d4e14ebdd0ec37d0dff0ad3315450d9fc.jpg)
+
+![](images/fd7b86ee9b708e9551fc4e15b34f81b217f88af11f3d78b78cdf9896dfa31827.jpg)
+
+![](images/b0a075cb626ed894ad9c01b9f942c450b12370b4ad9be98815a8170b8fa95f56.jpg)  
+JUXTAPOSED= ADJACENT, SIDE-BY-SIDE GREAT ART SCHOOL WORD.
+
+![](images/92aba62b38efc3d6a151e05b071fa523c6d0e0bef403dd646d9b11c8f0ed3f23.jpg)
+
+![](images/e298d39e7acfd6f65702d0b3d71207c1bdb099dffb6f3e79887c4b86cdd8aa04.jpg)
+
+![](images/4e7cf5ec2d3b39df30eac83b60c4aeb38793e4e85d1167f32fed12457d7ce955.jpg)
+
+![](images/bc8c0fc75c19a12a87ae983394ccd240bb2a6b9d7310cba042530132bc0e01ee.jpg)
+
+![](images/2059600f8dbc0f1d32fc46b4b71bca0131d1029f0315cf1bf1f07592e92e1560.jpg)
+
+![](images/9179949e73ce2f947870c0ad0652bb53b26c0a52f3aabfea13d7721b4bf9789a.jpg)
+
+![](images/ca3c2acaedf82f5368968fafb54891d00a243d6699243ae22292009a256df2de.jpg)
+
+![](images/444f6d3a6fe13bc9394e5e1644336e140f5b4af0d5e72d05af2b1d2f9d5c8de6.jpg)
+
+![](images/cf386fc6e09e7d35ae711c12d176a768f3c1249cdfb7cc1dc7c7299609e864a8.jpg)
+
+![](images/00459c2485c1b89a619d6f8c8d12b2c4be1c6434d12fdae9122407f71409ea2b.jpg)
+
+![](images/8917f70e1ad74cfaf8a769de88a1499a5245839d78cefb501fc6dfd7e5bd0665.jpg)
+
+![](images/3f3d095b2c0ff3ad60a7c920a5bf1f76078cffaba6487ca4d8a18ca3571c32f7.jpg)
+
+![](images/1318ecd63144c4aa1a4c9e754a56db05c9f95732753860758244f03ca5e0af2b.jpg)
+
+![](images/751fe70d559782c3fed970d409ae94d5a910b06eb4e375a16b0f0e4edd0a4c67.jpg)
+
+![](images/4f6f961462399fac0c6f5d90c6757be335baee51059bd1f4256f2251860fbb09.jpg)
+
+![](images/49cbc2571b5f25a1655e3ea841342e1d62faa19bcf03619b45a54e49940bec52.jpg)
+
+![](images/1daf16c47af115e018cc807d478588bb6d12433c701910ad9fec7138e853611c.jpg)
+
+![](images/e821ed29b4fe0ae4f63e7d868599d1a041b4458be6839cbbe130c4050790848a.jpg)
+
+![](images/5039f0cc5b9af1b3362e225a372beb7aab02c8c27b1f6f93ea1fc9e01aa61db0.jpg)
+
+![](images/9a802ae93485d7b45570c8e8f0daf6aa5ab3c653ecd1753baa7cb3c579ab064b.jpg)  
+(I'M TAKING The tRANSLATOR'S WORD oN THIS ONE.)
+
+![](images/8002736ff1afdaacb4bcc543c12927ef488ef991e24add0c28bee223703ddf71.jpg)
+
+![](images/888802785eb5f0515e6b45128bbbe7dd44dcd6d7c2ca694298530dbbdaeb995b.jpg)
+
+![](images/9cc71acb2f6a57504fefe6085e4915abcfddb9c8dd100c5338fa2c736aaa8e2c.jpg)
+
+![](images/140b9b2e7a2f89c359dcf68ee046567a17e26dce17be30430952adb1d68e4574.jpg)  
+\*WE KnOW the yeAR; I'm JUST GUesS/NG aT the dAte RepResentEd bY "12 MOnKey "
+
+![](images/7d0c73dc32a33c0e7599d4517d03ab4456f7d1c962512c6011624d58a466f6a0.jpg)
+
+![](images/257fff91526d767ec05b12dd2390e68c401823fc07834854ef5c83d198256d04.jpg)  
+TRANSLATION: THE BATTLE RAGE5  
+BISHOP ODIN ENCoOURAGES HIS SULDERS
+
+![](images/0ce02ef811c52386e2dab3e627bf8b4336cf6708448257f9a18e93c669c7f475.jpg)
+
+![](images/7f16b3af61a5296375a388af194d096eba3559782908def2320b91de27c55b9d.jpg)
+
+![](images/0f16626d3cf9b0568d79fe1953e66a0acb594d9e984dfcc51b86be779737c29e.jpg)  
+DUKE WILLIAM REMOVES HIS HELMET TO RALLY HIS SOLDIERS  
+HAROLD'S ARMY IS CUT TO PIECES
+
+![](images/53843b394c5ab335d120908330846fc21f6206d4caab94a471050fefb2d122a4.jpg)
+
+![](images/95bea1fb8f93abcdd1b8fbe506a52d5641e4e89557cdb5620b7298218fdf51aa.jpg)  
+\*MORE NEARLY COMPLETE, ANYWAY.
+
+![](images/1645179be5565856d323cf3d21fda678b0006d5f075ddcba5c761aa0e2b91925.jpg)  
+PAINTING TRACED FOR BLACK AND WHITE REPRODUCTION.
+
+![](images/2f6e7b5d9b245ed7b0a0609078366435a99776f6eb6767f326af95379cae2f17.jpg)
+
+![](images/0e98af7cdef03d3a03516738ec23c22b1411ff8a15ec4903278b09aca21c712c.jpg)
+
+![](images/fb8f37694d05e739198345be2f14c344f8be921834c620d8658127c6dd194390.jpg)
+
+![](images/0a597da5f9b4d56d090f397caf0f0fae711879e372ef676002e651ca1482f403.jpg)
+
+![](images/ba773ce41710b6a4bd534cdfd6fc017126a09be0f78c2d9ad409d44b80b5523a.jpg)
+
+![](images/dbcb2d39023142ace8d26e9496cda312c4246c2b090ae8f655bcb8619a9f6198.jpg)
+
+![](images/7bb7be0e0c00854640409ad263c4d288894db17032b2b9a8faaec6ef853ca179.jpg)
+
+![](images/932a17a9adf45b80823c7f58fdfeb4154f3d6136d8725ea5da1ed9457ae53654.jpg)
+
+![](images/8136b913db0b275feb26efbee036a170848f4d51da063344b7c022caeec3ed84.jpg)
+
+![](images/ed6c74b2b8e607840963a06d70941da9d6150a645b85122420352f3403f00ba4.jpg)
+
+![](images/a9e732490cbbcbe0a952d37df7f1d867a34492593ae3b29e55630fd6e3aca69b.jpg)
+
+![](images/c37c56c5e529e75a6172ff027acfe254f6dd396b574ff095e1e645a5ffe25c4d.jpg)  
+\*FACE GOUGED OUT BY FUTURE GENERATIONS OF LEADERS
+
+![](images/c2a1d8cf7e5c2f8e822094a01eae093fbc79622264c205ca134ccfcfba6e695d.jpg)
+
+![](images/5e9762656b973e53ee69e3771fbf8a032ebfa2cd0726967d966d8ba11970f795.jpg)
+
+POPULAR TASTES HAVEN'T CHANGED MUCH IN F/VE CENTURIES. CHECK OUT "THE TORTURES OF SAINT ERASMUS," CIRCA 1460. WORD HAS IT THIS GUY WAS A VERY POPULAR CHARACTER.
+
+![](images/f59d6975e4d01358a24a42a695485302185f54a84c978d566e266ba0ebe28417.jpg)  
+\* MAYBE I SHOULDN'T SAY "INVENT" EUROPEANS WERE A BIT LATE IN DISCOVERING PRINTING
+
+![](images/652fa88b37db6774ecb73330e0ce58ac227195be906a8acc0490f0bad00c893f.jpg)
+
+![](images/6bbab5ccabb37c9dee4f5a8805353aba27ed3c4e7ea8fa54c20230508f100e15.jpg)
+
+UNFORTUNATELY, TOPFFER HIMSELF FAILED TO GRASP AT FIRST THE FULL POTENTIAL OF HIS INVENTION, SEEING IT AS A MERE DIVERSION, A SIMPLE HOBBY...
+
+![](images/5ad2d520e69875305e4544ddaaf55b0cddf632d4bb0def2db1547289f4ea451f.jpg)
+
+IF FOR THE FUTURE, HE [TÖPFFER] WOULD CHOOSE A LESS FRIVOLOUS SUBJECT AND RESTRICT HIMSELF A LITTLE, HE WOULD PRODUCE THINGS BEYOND ALL CONCEPTION."
+
+![](images/94b8796c9706c2af04da1c9eda893fbe052a39f46384cd12b0e8cb04a0c7c902.jpg)
+
+EVEN SO, TÖPFFER'S CONTRIBUTION TO THE UNDERSTANDING OF COMICS IS CONSIDERABLE, IF ONLY FOR HIS REALIZATION THAT HE WHO WAS NEITHER ARTIST NOR WRITER-
+
+![](images/1d3b2c7be29c59f5cc4f9116bdad2756a290ec69901f249bda5e44161254eec2.jpg)
+
+![](images/676539832510e8b54449165753e36e97b36c78d8bb44d822322aaa3734793a23.jpg)
+
+![](images/a7029359b23d83c51f8b26087b7f6343e9f62516795624d5ae00c0a89b4baa0f.jpg)
+
+![](images/eebd2aac4baa7db0c679baf874d09b819096369147308145115c6e6bd4592ae6.jpg)
+
+![](images/88f4b84d2fcd056f787f2d80d585dd1060453a9c4bbcf07cf547fae222d2074d.jpg)
+
+AND SO, COMICS'   
+LOW SELF-ESTEEM IS   
+SELF-PERPETUATING! THE HISTORICAL PERSPECTIVE NECESSARY TO   
+COUNTERACT COMICS'   
+NEGATIVE IMAGE IS   
+OBSCURED Y THAT NEGATIVITY.
+
+![](images/74f09b1a90edd94c2fe1a9340565d8b45d06ee7241c25b74da0371c77d61791a.jpg)
+
+![](images/1684c57306d692a6320a32fc3a41d9b3129d7cad38cb2b503b02423209cd64d9.jpg)
+
+![](images/4af07523acf7f999423d52aa2b822cbe665b4bc5f4da5bc0d315867ac61ee88e.jpg)
+
+![](images/dd317cefc30260f9d612eb1428992e8011855040f17c98e194c37c9ee1dd693b.jpg)
+
+IF WE DON'T EXCLUDEPHOTOGRAPHY FROMOUR DEFINITION, THENHALF OF AMERICAHAS BEEN IN COMICSAT ONE TIME ORANOTHER.
+
+![](images/3f6d8c3c3b089262f921a8112200ad17e17413b3808e1b5da4e2b5719c2b5c21.jpg)
+
+![](images/fb85e5d99ea15095184511ff224bd0a030ba95ddc5083f3a3b4f5606a1621de8.jpg)
+
+![](images/7ef4bfcb6539a5625ce07b172b606b1bd751386b10b54f4ea7cf5ac0adb14a87.jpg)
+
+MEANWHILE, PICTURES IIN SEQUENCE ARE FINALLY BEING RECOGNIZED AS THE EXCELLENT   
+COMMUNICATION TOOL THAT THEY   
+ARE, BUT STILL NOBODY REFERS TO THEM AS COMICS! "DIAGRAMS" SOUNDS MORE DIGNIFIED, I SUPPOSE.
+
+![](images/c3a6939ab5c788ff8608bb5bf8d4dd7e3d05ca96fdb9273f8c6b69a245552b2b.jpg)
+
+![](images/783ec07342d04c213449e722c6494b551b4a37d1fde158c42ca8d85ff9953b6a.jpg)
+
+![](images/ce7b361989741a0256cb264a43f5f7aa29296189f1ad51dec9ea1cef30729737.jpg)
+
+![](images/2407001699ba4f1c5f1a35d34bc78d0db1ae7dcdc74333a47a3cdd6700463112.jpg)
+
+![](images/4ff4fd9c4d1cf23ecc2a03e0be19f60291a3d14959f98bfaf502e23d94c6fa6d.jpg)
+
+![](images/3a62053f6e61ebfd4d060f6d002fb178637b45ed20539e57aa578ee583c194f0.jpg)
+
+![](images/31a4cfb051667532da538cc73d0036380a4bdf62ed94e934ddf23d8b0e5fb55a.jpg)
+
+![](images/60ee6567fae7ad3c2a1aea98dd1d2867789c0a546cbe78b38adf3da9eb035ba8.jpg)
+
+IN SOME COUNTRIES,PHOTO-COMICS ARE, INFACT, QUITE POPULAR.
+
+com.ics (kom'iks)n. plural in form, used with a singular verb. 1. Juxtaposed pictorial and other images in deliberate sequence, intended to convey information and/or to produce an aesthetic response in the viewer.
+
+SINGLE  
+PANELS LIKE  
+THIS ONE ARE  
+OFTEN LUMPED  
+IN WITH COMICS,  
+YET THERE'S NO  
+SUCH THING AS  
+A SEQUENCEOFFONE!
+
+![](images/3b638e35ba14872708d363f8b324ab6bf558487c56eb33c3572b71af8e842893.jpg)  
+"Mommy, why ain't I Juxtaposed?"
+
+SUCH SINGLE PANELS MIGHT BE CLASSIFIED AS "COMIC ART" IN THE SENSE THAT THEY DERIVE PART OF THEIR VISUAL VOCABULARY FROM COMICS-
+
+![](images/36fc166ca89458f4438794cbf4e3b59caee225a1449bb411d6c286aea6da2610.jpg)
+
+![](images/12f1e11781edef85e725fe89b8de669324f7fa4b1b0103a970fa353a86cae795.jpg)
+
+![](images/62049990c971afb964e665f84cadeb20771e070d14905359e6b89d368c32f326.jpg)
+
+![](images/79126993378cc9db225009b140dcea9a2d6a7131f562fe18e7a2432a633b8eca.jpg)
+
+![](images/2db7e940f60090aaf06e673aeb9f783ddb77b584bce254282c3da44d6631877d.jpg)
+
+![](images/8f7540bac70f9c1621bff0353271a30478f4994292ef4724f9b5f5a76df7f1ea.jpg)
+
+![](images/d26167e551f8dc34f5796fb0c5101ecca0281d3dbab29a9266356b1accf1cc26.jpg)
+
+![](images/d5ec4d83990aa0ab2e0b38261aa6496d0478294dad4e05bc5cd721d9c6576e32.jpg)
+
+![](images/86a6bd3d68ca7f7e05f1dadbff10359f165be0874bb8d5f50a772eee3c7eb3ef.jpg)
+
+![](images/4f84489642a88b2eeab5c7618e1c692c2564a1817388d2c56a4912c3b2910595.jpg)
+
+THOSE OF YOU WHOMAKE COMICS FORA LIVING --ORWOULD ZIKE TO,SOMEDAY--PROBABLYKNOW THAT KEEPINGUP WITH ALL THEADVANCES INTODAY'S COMICS ISA FULL-TIMEJOB.
+
+THERE ARE SO MANY COMICS   
+IN PRINT TODAY   
+THAT IT WOULD TAKE   
+AN ARMY OF READERS TO STUDY THEM ALL.
+
+![](images/22180cacc2d85d3bc7d8a4c2cf8e75615a24f39cbd6032791a6c01689891561c.jpg)
+
+I'LL DO MY BEST IN THE FOLLOWING CHAPTERS TO SHED LIGHT ON THAT UNSEEN SIDE, BUT AS WE FOCUS ON THE WORLD OF COMICS AS I7 IS. IT SHOULD BE KEPT IN MIND AT ALL TIMES THAT THIS WORLD IS ONLY ONE--
+
+![](images/854c56187a33893ac76340a45b9a8e2f45ab91e9df6f8a5275f0d3f95fe7b405.jpg)
+
+![](images/c69e36f20828ae6a4cd48e186c96868d5871b7c0e16dc4a53224b3cc368d6644.jpg)
+
+![](images/54e0d0dabb8baf398e6822560048f2c63063a07442d8984af3fc6c4843b79c7f.jpg)
+
+![](images/1518bb29c84704fc5b632be86eb3c6ea68c94e2c03901a3da61c487862c0c085.jpg)
+
+![](images/b5420671432435b742b2e662c8d5fd480f69201e07923c6507049d70091a09bb.jpg)
+
+![](images/86acb0275647d041332b2754f21714b21b65144d2d3942f994a57d70faae08a8.jpg)
+
+![](images/176470f987ed9248b1ffcf17fb2eb029c096baa615b27c173031994157cc81fc.jpg)
+
+![](images/de590b7a5eb37eae139288b973ac2482cc690088a35cbdf2862766bb2b14b426.jpg)  
+SEE PAGE 216 FOR MORE INFORMATION.
+
+![](images/bfcb901b7d6ddf6bfc3878f0b11b3242c379aa3646540aeda8de8150cca983c6.jpg)
+
+![](images/b40dafc7e741431bb4254ff3af76d8e3972f1d72826b16b5e8d5fd4f418e0363.jpg)
+
+![](images/658868434af2a74bdecf2791447944b5709fe6bd29eec9a00f443f83d11b10f1.jpg)  
+THIS 1S NOT A MAN,
+
+![](images/f62d01a8e02f7e3215298311fba9578f09fa4d8ab216cf69450f98c6aab6f125.jpg)
+
+![](images/570e4fb53d7cc527fd1ae744aa73c06cbf8320326c342d7435d95f4501c0ba5c.jpg)  
+THIS IS NOT A COUNTRY.
+
+![](images/87fc29d569d378030e265906684a8a9e940054dc746588d3a289583deefceb75.jpg)
+
+![](images/5155c27692ae1a71f3aebcf1b3a07de6d31d5f2f3b9e2697d37e9c8e19b50025.jpg)
+
+![](images/6c80fb5ff6b9f6770bc95ff07014a49bac3a9fef8a3f8f1a2b15c55ff3a9d6a0.jpg)  
+THIS IS NOT MUSIC.  
+THIS is NOT A COW.
+
+![](images/29431bf16cad63b803fa8053a65312ea54422f052da7d61d97a175aff4855c70.jpg)  
+This is not/my voice.
+
+![](images/58575e7b2172e53819928a1c5b48ef3ddfce67acf49d499d02662f9fc4d92fc5.jpg)
+
+![](images/cca58b4ba98d74c97a535c97d42f041b3e2d9c1903cb2eaf2170b034ceb27335.jpg)  
+THIS Is NOT SOUND.  
+THESE ARE NOT FLOWERS.
+
+![](images/b09bbe02b73f877c88c2e5cdc2fca480061eea1b0c8580f02d25bdc233072ce4.jpg)
+
+![](images/516f8070deb366901091e76d0a0595f4d1208f5668e06cb099afdb87cb1fcb90.jpg)  
+THIS 1S NOT A PLANET.  
+THIS IS NOT ME.
+
+![](images/da5aa41876499b21d6ad658746ecd335ad4d1f9b766b4d857da169bcf49faf43.jpg)
+
+![](images/e4fd31990f1470a8137e6bdab4f9aed5505f651f02010ff34a7c60cda0c60048.jpg)
+
+![](images/7cf12ce347e7ad859ef07db27ac103eacd1e6ed219764a6327ca650e622c63dc.jpg)  
+THIS IS NOT FOOD.
+
+![](images/0fd5bb324cf797f82cc63c38e0a88fce62496f7cacf2385905e9d7c89c5467fc.jpg)  
+THIS is NOT LAW.  
+THIS IS NOT A FACE.  
+THIS IS NOT A COMPANY.
+
+![](images/4548477dfb1af2c10b11f50125421f1b38f6be60d3f1223d8cf17ac2cb484a54.jpg)  
+THIS IS NOT A CAR.
+
+![](images/4dfe4e4234d4699c4650b0887010df48a28c52bfc7f2bed8d6ab19165da17954.jpg)
+
+![](images/c35a61f0ae5eb2f4cc2e7f51aff720be960e1a6dafc0ba70664e4555165d888c.jpg)  
+THESE ARE NOT SEPARATE MOMENTS.
+
+![](images/dcb4448bd20c1f0de2c2de605fb602f89a2d4b507bddd3072c0ee28a161769a6.jpg)
+
+-
+
+![](images/8098fb963f9b288f3236472754622fc9696752ead69f4c54b5dfb58700b78604.jpg)
+
+![](images/a468d37e4e495b49969c5e5b9d5369d922c4e86f0a1b33fbcbe36777186cabe1.jpg)
+
+![](images/4e117c1459ba56e2991ce6bc4daccedd5c72fdffa6808c2f45abd3602e48e6f8.jpg)
+
+![](images/a5f79d050cfdc85e372cac40b489fa078589b3b1f1511123c1afce0b8adc5b8b.jpg)
+
+AND FINALLY, THE ICONS WE CALL PICTURES: IMAGES DESIGNED TO ACTUALLY RESEMBLE THEIR SUBJECTS.
+
+![](images/af0d9c0b45b00d15122246f4218701d084d44012c9b32596f46ae912143d540f.jpg)
+
+![](images/50497310768f8be28bd690583d56421ec5d9ab2de8a8a8f1a9285f1a455ad1af.jpg)
+
+![](images/47cd129ccd42839f6214e67fcd7767b4713c25abf23a001fc726bac2e8c70288.jpg)
+
+![](images/1ac91b41ecf331f84889f734102d7f87191d263b343320187a225a86c097d589.jpg)
+
+![](images/ffa26f2de04fd29c17fe0772bac5838947599a949a6707bbd6c5e03d693147c6.jpg)
+
+![](images/d00deb4612b50148e9fdead96d8814609e7a25f78003bf724b882f950820fb9f.jpg)
+
+DEFINING THE   
+CARTOON WOULD   
+TAKE UP AS MUCH SPACE AS DEFINING COMICS, BUT FOR NOW, I'M GOING TO EXAMINE CARTOONING AS A FORM OF   
+AMPLIFICATION THROUGH   
+SIMPLIFICATION.
+
+![](images/8b6109a6b2cc96264d412f914ea0ad89170f05de6d9b0afdbe9a39c70884bb68.jpg)
+
+![](images/d8cc73351fcffc8d324cee5f5ffe536d3b9efed7ba64bb99f17155736391916b.jpg)
+
+![](images/90798b8f9d593a76df36798853d68825f0a7f309dfcf4296ef1a0cc3a3a474a5.jpg)
+
+![](images/06649cd879adb2138cef309bdc9c47ce2b663c3d7f6c09bb464a27764f7f0aa6.jpg)
+
+ASK A FRIEND TO DRAW YOU SOME SHAPES ON A PIECE OF PAPER. THEY SHOULD BE CLOSED CURVES, BUT OTHER-WISE CAN BE AS WEIRD AND IRREGULAR AS HE OR SHE WANTS.
+
+![](images/ecb9ac1c5a5de05e2d67ead86c130cac033a85e36c8b1c05254b6881f664bd07.jpg)
+
+![](images/82f35e3e0a2f0f1ec6868de569e7842e39ec8ea82c08c3a09d5e5e1533931ef8.jpg)
+
+![](images/8e96f63389b06ca29f9edbb60d27cc3e318dd774ca32b66dbe927e53b52919cb.jpg)
+
+YOUR MIND HAS NO TROUBLE AT ALL CONVERTING SUCH SHAPES INTO FACES, YET WOULD IT EVER MISTAKE THIS--
+
+NOW-- YOU'LL FINDTHAT NO MATTERWHAT THEY ZOOKLIKE, EVERY SINGLEONE OF THOSE SHAPESCAN BE MADE INTO AFACE WITH ONE SIMPLEADDITION
+
+![](images/60af8370c1d105f8dc99fcab029cbbc19c9f80d38a55132557a084b84ea49cae.jpg)
+
+![](images/f053aed119d04959661f34fe8363f64525d14440eae8bace6abf0e3c42871617.jpg)
+
+![](images/5c906d1fd2d837a7cbd3913f21cfaa5c34b843d9613bd71cafa9b1965f80bedc.jpg)
+
+![](images/0379254e7d3439f8f49da3f4f2aec07b72adf1106b31e28c01b8ec7f455db4af.jpg)
+
+WEASSIGNIDENTITIESAND EMOTIONSWHERE NONEEXIST. 4
+
+AND WE   
+MAKE THE   
+WORLD OVER   
+IN OUR   
+1MAGE.
+
+![](images/f03f7dafab76440cc4ce9ef70d31a1d501c413038fbec22e9e72702a0f2f40db.jpg)
+
+![](images/327e265c79c15e904fbf22b422baefe7b8cb82b7587f5b8c8a92a1aaf8084b70.jpg)
+
+![](images/e125e5df4e69870fc6f68cb9b67601e96f4402e77c03a3c7af372a7986f90145.jpg)
+
+![](images/55ebb0086e5dfc219fb4fe151c6d9d090dc95f258c5a761ee74258e7b0be4c2f.jpg)
+
+![](images/b605382b0911c0d771a4b5436299ccb84976256fe2690cca6719ee7f857f3302.jpg)
+
+![](images/33e7db94d10af0499539053f4188575f232a7b8971e521a8a47706e871a6f1b7.jpg)
+
+![](images/6bd46db111ecf8044800921b8f3058148bdb7066aafd36c012503f159722fe8f.jpg)
+
+![](images/42747a33b1064fc63b784ae54f2ec405dd6b7b68b4e6ea8ab9c1d0bd581312c8.jpg)
+
+![](images/f7b52ba00885b647ce9b7718511dcdd831dad308b4bcda46b7e385e51a6f6e84.jpg)
+
+![](images/fb947f125af9d20a249b2c2067ce5548b2c6e6aa591fb3219d4cfa2336e2cd08.jpg)
+
+![](images/c5a19d9af55c69049461a2ee1d2abea49a11a66c46e7d399142781ae38d641b8.jpg)
+
+![](images/d99b67d45059fcf1b4d80cd9d2c7d34392c031c678875a2ca2271dbc30c02c18.jpg)
+
+![](images/624965bff9db4bce15609cb17c86c4fcd06f4850a259de132a26882bd658706d.jpg)
+
+![](images/3929f7088d7dd29a869d44cff73807d673d6614d41fa30334f4456c34a827ac0.jpg)
+
+![](images/1dd3611ffc587d45de64a7d0ffb50fa970be1bfd182b481b8f668c2cc5f715ca.jpg)
+
+![](images/758436a9b99d41d7150d93a06bb1112abdcdc53010effd97b4cb19d372a1cacd.jpg)
+
+![](images/8a94d90b295c8c06c83bbf67a9ed975dab8139d9ecb7a7bcfae9fb963cce96da.jpg)
+
+![](images/17a1e3a10be26216e3759cae5729851005fcef85b15fb7a0ee4e17c65f109606.jpg)
+
+![](images/3e945755284446c2c745862b81a327582df62c448aa3884febcd83ad4975164e.jpg)  
+WHEN TWO PEOPLE INTERRACT, THEY USUALLY LOOK DIRECTLY AT ONE ANOTHER, SEEING THEIR PARTNER'S FEATURES IN VIVID DETAIL.
+
+![](images/6def043512b52b3fc42e4d858c933eb700cb85cea87eeecb36a983de4fa1b8ec.jpg)
+
+EACH ONE ALSO SUSTAINS A CONSTANT AWARENESS OF HIS OR HER OWIV FACE, BUT THIS MIND-PICTURE IS NOT NEARLY SO VIVID; JUST A SKETCHY ARRANGEMENT.. A SENSE OF SHAPE... A SENSE OF GENERAL PLACEMENT.
+
+![](images/7cc97e282f5ff4c26909e3af5761523d1c900dcd07db290d417b498ae930c387.jpg)
+
+THLIS, WHEN YOULOOK AT A PHOTO ORREALISTIC DRAWINGOF A FACE--
+
+BUT WHEN YOUENTER THE WORLDOF THE CARTOON--
+
+SOMETHING AS SIMPLE AND AS BASIC--
+
+![](images/fcfde4d1658a5c801a7d940e3cabdc56ad35aa0432c6e15498cc50af770750be.jpg)
+
+--ASA CARTOON.
+
+I BELIEVE THIS IS THE PRIMARY CAUSE OFOUR CHILDHOOD FASCINATION WITH CARTOONSTHOUGH OTHER FACTORS SUCH AS UNIVERSALIDENTIFICATION, SIMPLICITY AND THECHILDLIKE FEATURES OF MANY CARTOONCHARACTERS ALSO PLAY A PART.
+
+![](images/71d5beb6b6476125d6681835d737511b73f6ff6723cc03fa136f58e75a4646ac.jpg)
+
+![](images/55343c87fe42e172a76c6056ef747857b9b09d13f24650bf99d044a08062f86b.jpg)
+
+--YOU SEE ITAS THE FACEOFANOTHER.
+
+![](images/575705b3fa3ce88d07669d1081654f95683c0b88a47c73d26b58ff3baab74c4b.jpg)
+
+--YOU\_SEEYOURSELF.
+
+THE CARTOON IS A VACUUM INTO WHICH OUR IDENTITY AND AWARENESS ARE PULLED...
+
+![](images/824af1b2130fdb13116a94a3d51f70a64a2ad75cf20bb41a4f1678dc7734a646.jpg)
+
+..AN EMPTY SHELLTHAT WE INHABITWHICH ENABLESUS TO TRAVEL INANOTHER REALM.
+
+![](images/3cf39ce040f9440292dcacc10e1d45d45bea9cc3d8eaef04f1a81c8a2c6523a9.jpg)  
+WE DON'T JUST OBSERVE THE CARTOON, WE BECOME IT!
+
+![](images/199fc380fedd0e3384d310165b86602b0327ad869ab17f7a221c916d2d4abf1a.jpg)
+
+![](images/6a81cfe0ec6c3c79fcea1f9eeebda65c702209ef601dfe8f6fdf1e91f39cad56.jpg)
+
+![](images/bf5ea0b299d913a23c92b4997e7554ff178a68157373632d5cdc8b17e9f01a26.jpg)
+
+![](images/fa68c9bd4b7d1a1c6f0b6cacda4b6649b8371bf0a3ab836279ef60289dd7c594.jpg)  
+THE WHOLE CAR-- NOT JUST THE PARTSWE CAN SEE, FEEL AND HEAR--IS VERYMUCH ON OUR MINDS AT ALL TIMES.
+
+![](images/d7c4156ecce82ad426a7204be0ebc04ced9e7c648d611bca2cce3e1da63e6f23.jpg)  
+IF ONE CAR HITS ANOTHER, THE DRIVER OF THE VEHICLE BEING STRUCK IS MUCH MORE LIKELY TO SAY:
+
+![](images/8c85710a8387c0d3fd1615695111b5750492883239a6b4b2a5f5894ff032d19b.jpg)  
+than "He hit my car,!"  
+Or "HIS CAR HIT My cAR", For that matter.
+
+![](images/f11cd8540252d3595fb4bf39513d6803db95ddaf39a30af8ba9c073069a6c57d.jpg)
+
+![](images/1a34f1f731423320beddec59b82160962bc37ea6d99bafd67c4c8091e5a26826.jpg)  
+OUR IDENTITIES AND AWARENESS ARE INVESTED IN MANY INANIMATE OBJECTS EVERY DAY. OUR CLOTHES, FOR EXAMPLE, CAN TRIGGER NUMEROUS TRANSFORMATIONS IN THE WAY OTHERS SEE US AND IN THE WAY WE SEE OURSELVES.
+
+![](images/71a50efcfbfa4b8872deb8fc037757e54a22160aef8105980d0f5be1884b36f5.jpg)
+
+![](images/4fda2320803c0cfcf8c9d630cbcf1ea79e1751a39a09384e41a5185b89a77641.jpg)
+
+![](images/49100df5f68dcfebf2571179a50f5f7cd4cfc82e4cad0dd60caf59a481e5c4a8.jpg)
+
+![](images/72d40fdb6390d933b8db4bba6e9a4cea2edc128b74fd8edadf027c838649b620.jpg)
+
+![](images/ca5298e491203e07d2bba6eab2bc371726e9f1569172855fa4c5004e780707b6.jpg)
+
+![](images/f0095ab28dec19781b83145099a32deedb46d3c39bd279282a779a406b0aa6b7.jpg)
+
+![](images/df339087b97ef55d1576a381e01a1f52e92fb821ee88ec7ca3c27df903a314ec.jpg)
+
+![](images/bfe6707124014e99bddea2bdbbc1fe38c2b367e42034b95c9a0b8c155e7de596.jpg)
+
+![](images/30aea771e0bbbe3a420a35b8ad86482827e986f59e27ac7cf2690a6aa3c21d04.jpg)
+
+![](images/12aebda07c093c4fb827193319120d77234fd8eb94c59f3a6a147f345b479585.jpg)
+
+OUR IDENTITIES BELONG PERMANENTLY TO THE CONCEPTUAL WORLD. THEY CAN'T BE SEEN, HEARD, SMELLED, TOUCHED OR TASTED. THEY'RE MERELY IDEAS. AND EVERYTHING ELSE--AT THE START--BELONGS TO THE SENSUAL WORLD, THE WORLD OUTSIDE OF US.
+
+![](images/be37aa9dc9fe63f38b1f6317d82676a90f6ef52783151c3296827176e7ecbfa2.jpg)
+
+WE ENCOUNTER THE SIGHT, SMELL, TOUCH, TASTE AND SOUND OF OUR OWN BODIES.
+
+![](images/22117c957013f35121d423c3a7452f6a6eb59b16f3fb2f3d7bc98e86d69cb5aa.jpg)
+
+![](images/73a6d518b72e8a4a2546861333a2fc24090a93ef04ac0d74fd4e38d591471b42.jpg)
+
+![](images/03e54ba019053efccba330af132d6b50e0a40028243664843c3e54af4bc3f5f0.jpg)
+
+![](images/016056afe6ad398fe37312bc63d67da06d21219b0975d1293c8539c8c5b5cc4f.jpg)
+
+![](images/2c1741e6c857c35dbe0fa0ad96be45647469b81f865a885af540e6f10d44eb8b.jpg)
+
+![](images/7997c40b57a16064ed4675447a79a5efd4981ab485443669e57bc2e7d49e92c9.jpg)
+
+AND SOON WEDISCOVER THATOBJECTS OF THEPHYSICALWORLD CANALSOCROSS OVER----AND THROUGHTHE CARTOON,THE WORLDWITHIN.
+
+![](images/18e99d95fad5738d636cd9c53a0f42d3c68a1a9e847d5209584db56073af9502.jpg)
+
+![](images/9f5af00748b4c26e36caa89d2ac68d97c336c456b5afc57c3aa439dd88c8961e.jpg)
+
+![](images/d0b9ce8370a177bca51e8b52c4667f52a8dbe3ec93ac6af5c7f8a090388a2cd9.jpg)
+
+![](images/587cab8f278ca363e39f9127c262d2ef0b8631fc19d72a6c6faa463c43e4a4f1.jpg)
+
+![](images/b9a228dc148b6beb05196df0cedf4738115b68060d6a379e1d24f96fe7b57527.jpg)
+
+![](images/60e67053cc6b83607003a2cc521598515ab10eed10b652435e48c30dd163ecda.jpg)
+
+THROUGH TRADITIONAL  
+REALISM, THE COMICS  
+ARTIST CAN PORTRAYTHE WORLDWITHOUT--
+
+![](images/c0d1cc158fd0c6cc0ab4aaccf10e81a5d3ecf8c6884970e8d27ec60a1722a0d2.jpg)
+
+![](images/dfc4ad063989513925eb7abb48050cb02bd74fda29713c24504696f70eaab321.jpg)
+
+![](images/4582085d7425b0d4f7d9d43c828e6db281c2785b12f30d7a7184776159f598d3.jpg)
+
+![](images/8b10a9db49270ac7cc71a74d868a67339bbc4655fa246232257462516975f2b0.jpg)
+
+![](images/b9f960a80816b14f895345f602bd9341beb9421b01a83c99a29fa15810e33e91.jpg)
+
+![](images/0f54327d923a3b87edf2a83707c185f6768f389a6706e1043d48d37c718259bc.jpg)
+
+![](images/ecc9645e57eebb45e99a1fd8db1a353a4108592b3a4db4557c7c92d3cdd84886.jpg)
+
+![](images/592315c26dfb5125483b2fb5178c8695735fb2c0235e3f975447fb32674d1e1c.jpg)
+
+![](images/f8b1a5e995e1a73aac9d71cde141d327e220ae10dd74b8ee144d1e5268d50147.jpg)  
+AND SINCE VIEWER-IDENTIFICATION IS A SPECIALTY OF CARTOONING, CARTOONS HAVE HISTORICALLY HELD AN ADVANTAGE IN BREAKING INTO WORLD POPULAR CULTURE.
+
+![](images/bacbc8865e60c5e9fdc809ad316c8f29a7972c78eb80df91aa41aaaeedfb456a.jpg)  
+IN SOME COMICS, THIS SPLIT IS FAR MORE PRONOUNCED. THE BELGIAN "CLEAR-LINE" STYLE OF HERGES TINTIN COMBINES VERY ICONIC CHARACTERS WITH UNUSUALLY REALISTIC BACKGROUNDS.
+
+![](images/e1b648f91286c0f52a454dc2c5454129eda68cdf29c629999c53132582e30792.jpg)  
+TINTIN © EDITIONS CASTERMAN.
+
+## THIS COMBINATION ALLOWS READERS TO MASK THEMSELVES IN A CHARACTER AND SAFELY ENTER A SENSUALLY STIMULATING WORLD.
+
+![](images/b773f4dfa6c02fb972900a8747bc222848fc0f49ce448cd606273bfef2fb1898.jpg)
+
+IN THE WORLD OFANIMATION, WHERETHE EFFECT HAPPENSTO BE A PRACTICALNECESSITY,DISNEYHAS USED IT WITHIMPRESSIVE RESULTSFOR OVER 50 YEARS!
+
+IN EUROPE IT CAN BE FOUND IN MANY POPULAR COMICS, FROM ASTERIX TO TINTIN TO WORKS OF JACQUES TARDI.
+
+![](images/038e526577aa6aa47de10f95b7b2a35fa435c5bd35c7fcd7be6a47a8d9831339.jpg)
+
+IN AMERICAN COMICS, THE EFFECT IS USED FAR LESS OFTEN, ALTHOUGH IT HAS CREPT UP IN THE WORKS OF ARTISTS AS DIVERSE AS CARL BARKS, JAIME HERNANDEZ AND IN THE TEAM OF DAVE SIM AND GERHARD.
+
+![](images/c2cbd93bb5a92760a15633196007ff36abb258d8d918cc4d445bdb4105f5db67.jpg)
+
+![](images/bc61e6e7795f87b9d2d7348a63c8e355ddc7d5de5aea882f28768b89dd63aebb.jpg)
+
+![](images/75e02ccf70afd229d07d9ff4d8c4eae3b3367d44bc8efd101cc49f72ba2055a9.jpg)
+
+![](images/13c9f2325c814df62ceccca1eca27a271f4418231a73890fb8ee53f9853b12d1.jpg)
+
+THANKS TO THE SEMINAL INFLUENCE OF COMICS CREATOR OSAMU TEZUKA, JAPANESE COMICS HAVE A LONG, RICH HISTORY OF ICONIC CHARACTERS.
+
+![](images/e06241ff582f22b34caf53eb16cb245e502f5c2d5667f8f85891e2667dcdcdcc.jpg)
+
+![](images/fcb02209dbbb8a1184d0c269a66c1563a7923256567a568e16ea99ea96e511fc.jpg)
+
+![](images/d784c87a473872cc085e0b5b6b27452433081f87e733b2eb2f1beacec98b2dca.jpg)
+
+![](images/eb0e6fc040f7e1b2183c8d6e2cc673ca6c401099e0c69072cce030ec40b22f44.jpg)
+
+![](images/19dec277aff8f4adc0b24c3ed55dc455dae725439647950b569f44c2d8a4b3b8.jpg)
+
+![](images/5e302ea8cea20098ac3198ba6c03a1781f8c27f32f1faea151eff9c2d8321c07.jpg)
+
+![](images/aad2f5c7bc58e72a37134b2685559a554d4a93fa4181f233ab90dc9507680f32.jpg)
+
+![](images/111a34a7bac2afc7ea65014bd5c521209743062cea7614ad3be8029e9471242e.jpg)
+
+![](images/eb733b988b59270cfb91ddfec4ffb4b003803b7dd274302d1e73cbe9a9df0f02.jpg)
+
+![](images/7923921004872e2fb829f02e10db2c0a6930020f491bc676ee2d0863e15d6d35.jpg)
+
+![](images/2bcee9d37d350d498383bd44a9867fe57a4a350bb4057920f447480d14457c70.jpg)
+
+![](images/29ee7c425091314bfb0cab1ce4f2c0fd4831d0a0f9440bba9e683c207269d748.jpg)  
+WE'LL RETURN TO THESE DIFFERENCES SEVERAL TIMES DURING THIS BOOK.
+
+![](images/05a4d223780de45609c84772a660a8a2fcc6b9108f16410def5b43fdbdfeae68.jpg)
+
+![](images/4faedb3b139ca89acb10567c61aefd38f9b7640058d4d46efc930e0f8a0f967b.jpg)
+
+AS I WRITE THIS, IN 1992, AMERICAN AUDIENCES ARE JUST BEGINNING TO REALIZE THAT A SIMPLE STYLE DOESN'T NECESSITATE SIMPLE STORY.
+
+![](images/79f2183343bc0339370309bbdee37c2312b0688bd9faf3bd0c0fd7480f70b43a.jpg)
+
+AND LIKE THE ATOM, GREAT POWER IS LOCKED IN THESE FEW SIMPLE LINES.
+
+![](images/92ce4554e7278382483fe05e4eafec68e1311380a8c95f30d431f4a0af8b6435.jpg)
+
+RELEASEABLE ONLY BY THE READER'S MIND.
+
+THE PLATONIC IDEAL OF THE CARTOON MAY SEEM TO OMIT MUCH OF THE AMBIGUITY AND COMPLEX CHARACTERIZATION WHICH ARE THE HALLMARKS OF MODERN LITERATURE, LEAVING THEM SUITABLE ONLY FOR CHILDREN.
+
+![](images/8e465d33d76ceb23dfff4ed40f6810b3435e176b6d54101699f76e0a2779bcc5.jpg)
+
+BUT SIMPLE ELEMENTS CAN COMBINE IN COMPLEX WAYS, AS ATOMS BECOME MOLECULES AND MOLECULES BECOME LIFE.
+
+![](images/c6d051459f3e39f4c8d3cb981ff12fd75bdd9024177a616f8bddd9ec4f4cc618.jpg)
+
+![](images/322d635d6cd5401bf386b25255da2b19327011474b2965ee865c5058bb82d655.jpg)
+
+![](images/daf6b2ca16eb61a633fe19db040c846e9453b4a1cb04def31cd96882d3a4d628.jpg)
+
+![](images/476f49f665d394c1989e1d997d3f76bbd71fad8b2e30214189234041a8aa3dd3.jpg)
+
+![](images/6adc4bcd80599dcd10d4b9994e827e7e85c30f81633958a2381bae8be3c54168.jpg)
+
+![](images/45ad899b6092e041e2eca93cf950c54a0c8c370f2b9df5a53d2f906ac7f09fad.jpg)
+
+![](images/89565e1a350df0417a865215e06c25f5aab351c181e65b15b748268da27878e7.jpg)
+
+![](images/1dc842a45da1d8d28dbac837302ef8164f210501bc514f38ab9553f8f484f2b8.jpg)
+
+![](images/589dfdb58ef3b56f935eef4c5a4e781653ca1deb80aecb11a4b8376aeea238cd.jpg)
+
+![](images/600818bbff6424ce1ed4c688d9730047a0006eb93e52f63526819a62f5b0ba75.jpg)
+
+![](images/eabb4fb6f90c1cfee78e314d3069e3ed72d001b04fe5016eaaa9e40bd47ea568.jpg)
+
+![](images/0e6fc507f32066edd7b3e18ebff96ce407203eea817096f52aace9273c26bcb6.jpg)
+
+![](images/cbd427703b834760758859c7bb771b8eca41371f12a998eb5f398c54fd183cfd.jpg)
+
+![](images/0d640b0358d43ffd1e17198ba3e3dec49c6d0b2be197c62f5d86c252ed849d26.jpg)
+
+![](images/f1626e37ae2766a1057aff9bb798002095864a330baae538c6536ba3e20e71f0.jpg)
+
+![](images/2d40438e72e9c79788c23f7b7eb9f4b22b8336659804d2d7042c0616470a94e4.jpg)
+
+![](images/ea676a9fe58598c6dd71622afcd81fac61bd1005b48092b0519e427af90eabb2.jpg)
+
+![](images/107ed63c3e1f4a37b404736f51f4522b6f100b8ba78cbea92e38728bf437c02b.jpg)  
+ART © EDITIONS CASTERMAN.
+
+![](images/904a60ed2126304022ec57258a08690d17f67768f2a49ef016eb59adc4e90b4c.jpg)
+
+![](images/723eb4d18ce69228f4b8195a4f308f222e2c54c70e3da24bd42861cce63007a1.jpg)
+
+![](images/8f124d3d58ce7d51dd16c276afca819f889424a76356e76366f0f4e02d9729c5.jpg)  
+ART: JACK KIRBY AND JOE SINNOTT (MY FACSIMILE) SCRIPT: STAN LEE.
+
+![](images/a453aa10e8f4176a37c835a8ac343f57464e9335ca638e43d607d4641be25d8f.jpg)
+
+TODAY, MANY AMERICAN   
+MAINSTREAM COMICS STILL FOLLOW   
+KIRBY'S LEAD FOR STORYTELLING, BUT   
+THE DESIRE FOR MORE REALISTIC ART   
+AND MORE ELABORATE SCRIPTS HAS PUSHED ART AND STORY FURTHER APART IN MANY CASES.
+
+![](images/37291df07b769eedb90c275ebc30b314e4fa18314ce9ad332c740702a5776b59.jpg)
+
+![](images/130c78c0fdf1c79b6de04460f94e8f9f925d0141833e77e5add8bad73a60be40.jpg)
+
+![](images/b5edb40bc5a69d4a8da4e07a89b9cc49e2a24310873b58c5c2d836fb0f3b326e.jpg)  
+SERGIO AND GROO © SERGIO ARAGONES.
+
+![](images/64c88cf0303d8213509f9fd8ca56e25827f16dddfe8fe394b0e401bcd7902f6b.jpg)  
+ART (LEFT) © DAVE MCKEAN, (RIGHT) © D.C. COMICS.
+
+![](images/8af1e853419b2c76771de5b579e575187176d606baccfa4d2ce853488d2af7ee.jpg)
+
+WHEN AN ARTIST IS DRAWN TO ONE END OF THE CHART OR ANOTHER, THAT ARTIST MAY BE REVEALING SOMETHING ABOUT HIS OR HER STRONGEST VALUES AND LOYALTIES IN ART.
+
+THOSE WHO APPROACHTHE LOWER LEFT,FOR EXAMPLE, AREPROBABLY ATTRACTEDBY A SENSE OF THEBEAUITY OF NATURE
+
+THOSE AT THE TOP BY THE BEAUTY OF AART.
+
+FOR COMICS TO MATURE AS A MEDIUM, IT MUST BE CAPABLE OF EXPRESSING EACH ARTIST'S INNERMOST NEEDS AND IDEAS.
+
+![](images/4c6dafa839f018dde63b22017fd052e53f662dbf066470b6e8f26c8d10e752b0.jpg)
+
+BUT EACH ARTIST HAS DIFFERENT INNER   
+NEEDS, DIFFERENT POINTS OF VIEW, DIFFERENT   
+PASSIONS, AND SO NEEDS TO FIND DIFFERENT FORMS OF EXPRESSION.\*
+
+![](images/401ebcdca13b4dec2ca879f39263ab6926fb9a71e1e893d2b8427883fd500b7c.jpg)  
+\* CHECK OUT WASSILY KANDINSKY'S TERRIFIC I9I2 ESSAY, " ON THE PROBLEM OF FORM.
+
+![](images/4da60a06909516b7962024c99a1a8add8aa58fa6d24554f2561c1fa8c5301def.jpg)
+
+![](images/65faa5eeeac63bf18f2868ccc4bb0def01a4ae79d6e4482fbc97ceccfc83fce8.jpg)
+
+![](images/ba4d163db6a3b14fb7d44b4a58d7cbcc4b2cdc61924387c5b8985c254b8da9ea.jpg)
+
+![](images/3873457c95936bca514af3b554e26774f6bb0d1ed698c850848ac519eb1839b9.jpg)
+
+![](images/d9a24703954c663dc24093237323af2f7ffacc5a98e0e836dbcfae198d8f2f88.jpg)
+
+![](images/8c08d56801a1a733f851506371aeb08668195dabba63a716e7590cdeac720d26.jpg)
+
+![](images/b8bb139cf6bf22456c4653ec60ccc86b0a5690d51ddfbd87d15a9dad83411ac9.jpg)
+
+![](images/3a3e9a3e11877a893e04667a0ea49ff77952d4ddb25e795e630e19be08357cbe.jpg)
+
+![](images/48b799b2b48dc083c6b63dc2133af1662333d2d663fc0834a60281047680d362.jpg)
+
+![](images/187b3b4d463a3fb6c20b169c39a99f9a80f987219837d8e31432b8871b5d70aa.jpg)
+
+![](images/11b3857ce28abbfd25b6cf95005577b6fcf0845b081b06357ebf5027da48b41d.jpg)
+
+![](images/83c85c95b54bc0deac055b0dd527d11da792383e1990d493610b0f1de0af052b.jpg)
+
+![](images/6be8756a30857e34fdefd66c26051fef38840409c8164afc1b9d8977a103fd1a.jpg)
+
+![](images/f7e440defdfb042b823b01e1d0e9e100627e514a8baf857f624a1bdd6fbe32b4.jpg)
+
+![](images/39d1abcb345a6e761c89deef8ee017aabe988c796f2e8136ad077e441b09ca13.jpg)  
+\* NOT TO SAY OUR SENSES ARE ANY KIND OF GUARANTEE!
+
+![](images/c57a231407231d23898937c86e42ce61fd1ee04c8010de03e32e1f1b26b4c3e7.jpg)
+
+EVEN THE MOST WIDELY TRAVELLED MIND CAN ONLY SEE SO MUCH OF THE WORLD IN THE COURSE OF A LIFE.
+
+OUR PERCEPTION OF   
+"REALITY" IS AN ACT OF   
+FAITH, BASED ON MERE FRAGMENTS.
+
+![](images/9b187c76364c4439d5d6d9ca8563c473823a447ee8b11979666f673cd037bee3.jpg)
+
+![](images/7fca92116ba30ed17043207511d6450a07ce0227933e33141350ccc7b943f3da.jpg)
+
+![](images/912adbbfeb7cc7cbf7db6535969f0da9842dfa459455fd984227969e82c0287d.jpg)
+
+SOME FORMS OF CLOSURE ARE DELIBERATE INVENTIONS OF STORYTELLERS TO PRODUCE SUSPENSE OR TO CHALLENGE AUDIENCES.
+
+![](images/a77c9943fad8e2f37fdef872bed8f128140e5ca81f2bcb78fd3c5b8788350ee1.jpg)
+
+![](images/6fa90d454f69f4b5b90a927cb60976d2c4979ec07218c4230361f8cc3561eb90.jpg)
+
+![](images/cf824f0b009a067c9bdc115004a1dbc218e468e4c21dd1418dc02b43af00b433.jpg)
+
+![](images/7ed64440fd043e8cb10a6c503da234480e6705a8914b06f503e3b72c197f46c3.jpg)
+
+![](images/7bbd19bd747afdbb46ade5b4bbc1da9eaab9d6b853a8dd02bcc3af3de9770b91.jpg)
+
+# CLUSUNE CLOSURE . CL S RE
+
+![](images/92185dbac029ba85c5c07266860437933baf70f22d9233b4eda05cbcddaab958.jpg)
+
+![](images/598b4ae87ef669cd0a13ac8fb1ff2172934502b24ff2bd1d242af397b34c6113.jpg)
+
+![](images/e595715467839fe8c8e47fc828d139e54a54c92cae43ff8925b322f57dd94f15.jpg)
+
+THE MENTAL PROCESS DESCRIBEDIN CHAPTER TWO WHEREBYTHESE LINES BECOME A FACECOULD BE CONSIDERED CLOSURE.
+
+![](images/bce96699f4feab248772c06f7592f176dd6cc9c5c46f52876cd1d86610a72f58.jpg)
+
+![](images/655adc9464b80ffcaf5e056226f29e2eb5b5e15e9a269a254379f6d14d0b5213.jpg)
+
+![](images/7aa1069a2c8bb4cf5cbd53489e320f405b9d4df9a9a9e39b28bd003718e5bd74.jpg)
+
+![](images/f33a56fe7c90fc4c4f31038dfce64821d14d61f758f1463d1e9d6836c0a20a28.jpg)
+
+![](images/f7282f7b65f1b7a441ca373cb88c339f3e612fe1ab1be7ed15c5fd12d3488920.jpg)
+
+![](images/0f3c6fadf37cdc2939de4cdf8e55470ac27062a7bfe61da98503a73c0a33e7db.jpg)
+
+![](images/2e76641b1929f97c18b78f003a84dce7c94b11c4346c6d887c3630d7272cf618.jpg)
+
+![](images/fb81077d4c4f24063d374c90d0e09c143fffe3eaa448ab72bcfbb2f7a0a8eb43.jpg)
+
+![](images/517c7f08f1f042a1760898414346b8e76abb5ae092780f94ae7d64823fdf1c6c.jpg)
+
+![](images/64f8f5969e5d352892981a4048b6997ee0c5569ba01d9eb33f3a47e7e56c380e.jpg)  
+\* MEDIA GURU TONY SCHWARTZ DESCRIBES THIS AT LENGTH IN HIS BOOK MEDIA, THE SECOND GOD, ANCHOR BOOKS, 1983.
+
+![](images/d564ffdf3322bb559dd8e35acf15b88bb7f43d59821f783f8a60da49e49e12ff.jpg)
+
+![](images/3333c0973b1e49b71d8ed30ee8a6739f71b8c6061f579736ea6a635f8cc29871.jpg)
+
+![](images/b08518151947fc026e00122414e98a686023afa1a2739b7bf1ca94ad79c4480a.jpg)
+
+![](images/13dd3126d0f0c4efb84e918851b29d06fd1d9b6fdbe7beb25db2823a40321d6f.jpg)
+
+![](images/5a4da09f321222a2088c9cd03ab4e5c8190390fef302c9780d02262c5911f278.jpg)
+
+![](images/9d270ead21e3b5c48ef1f9ca606a11d5edd87eafd36387309606b609c12ceed5.jpg)  
+I MAY HAVE DRAWN AN AXE BEING RAISED IN THIS EXAMPLE, BUT I'M NOT THE ONE WHO LET IT DROP ORDECIDED HOW HARD THE BLOW, OR WHO SCREAMED, OR WHY.
+
+![](images/2bb06daa53316fea5d6b679cd1763ade4a4c03775439012e7d232a371ec7eb4e.jpg)  
+THAT, DEAR READER, WAS YOUR SPECIAL CRIME, EACH OF YOU COMMITTING IT IN YOUR OWN STYZE.
+
+![](images/838b27f092132a9a4ddbe97e2b3f01607258336920ebe66e6aa850c12879d86d.jpg)
+
+TO KILL A MAN   
+BETWEEN PANELS   
+IS TO CONDEMN HIM TO A THOUSAND DEATHS.
+
+![](images/263cba9306738416973faeb7ad19805b7ba34f08203d0ff31cd1fe379ee42823.jpg)
+
+![](images/308b20b9905f1407900df4818257b99e42887ff04f7ba0fccaedabdd610c0243.jpg)
+
+![](images/bec7cbf64667e84e6541fb31b0bb46ac759291eb69a2df16b4ad1844bbb1b187.jpg)
+
+FROM THE TOSSING OF A BASEBALL TO THE DEATH OF A PLANET, THE READER'S DELIBERATE, VOLUNTARY CLOSURE IS COMICS' PRIMARY MEANS OF SIMULATING TIME AND MOTION.
+
+CLOSUKE IN COMICS FOSTERS   
+AN INTIMACY SURPASSED   
+ONLY BY THE WRITTEN   
+WORD, A SILENT, SECRET CONTRACT BETWEEN CREATOR AND AUDIENCE.
+
+HOW THE CREATOR HONORS THAT CONTRACT IS A MATTER OF BOTH ART AND CRAFT.
+
+![](images/9ed2cae9292683cd1a7f274565805fd0a661a1edcf3217daa8d34d05612b2dc7.jpg)
+
+![](images/9d9931b1199d220b91bca2455f724dd546fd483e4b022643239d0974f752b8a4.jpg)
+
+![](images/59af43a390535470b8a40458ff9087bf9d2f1b0635bd857cd52dd93d0bafa887.jpg)
+
+![](images/f8468095067c1a451e6e8c9bea965a84c9692b3afd025cdffb045de70c241cff.jpg)
+
+![](images/04acca0ec4591869d90cd5bb45d621918c403105e73d7c524643231b23c6d7ff.jpg)
+
+![](images/dbbd46f4f22b661e24316ff034b61f375c01bf9a80eaa9847dfa7e7ef6543aed.jpg)
+
+![](images/5231d511f7d0cd4d53442367d4c420a1ec3885a4189138398c9f014f5ea70f97.jpg)
+
+![](images/fe46dd2d71133acfac93af109ddb1f6809bc1447f8526d6b927be314b2997c66.jpg)
+
+![](images/016e5ae1b6bd2340b746704f16b65dbef7be692fc7f6b3acccd486a82fca4075.jpg)
+
+![](images/f24905d43d1cb987a5d18198dd283b9f7891ec627db4ca7ff2ef98b7ff73ca76.jpg)
+
+![](images/0e3f3d14e4e7f71dafba3a31994b91a77edb350b59b06be7f800d139c7423249.jpg)
+
+![](images/1696b5ed1773c89b4fca4baeea5461343e72dc6f0e24e6adac236719aff47be9.jpg)
+
+![](images/4c50efb431943e1b0fd0a02f8e8b2b285616d2e03830f831373ad5e01697b6a7.jpg)
+
+![](images/76b77275ca05d8b7d8ce248896458f1c74db9c6ca5bc9c011844594b6ae5d917.jpg)
+
+![](images/dfbdffe011d90056cc7780e929382b22765b1b2f5a8820034139d0654e8ecc17.jpg)
+
+![](images/e6cbab4baa433a183f70b4cec5c97a567c80edb177c679575adb0328636feccd.jpg)
+
+![](images/e6fbdc0765464d9ae06cf44e8b859a259b89df59a0bd9572511d5edba2acde8a.jpg)
+
+BY FAR, THE MOST COMMON TYPE OFTRANSITION IN KIRBY'S ART IS ACTION--TO-ACTION. I COUNT SIXTY-TWO OFTHEM IN THIS STORY-- ABOUT SIXTY-FIVE PERCENT OF THE TOTAL NUMBER.
+
+## SUBJECT-TO-SUBJECT TRANSITIONSACCOUNT FOR AN ADDITIONAL NIIVETEEN--ABOUT TWENTY PERCENT OF THE TOTAL NUMBER.
+
+![](images/e2dcb50f5ce61a9ffafd5a80f274a2b2928873ad8637a6e53c28a5e7a121b9ce.jpg)  
+[trAced and simpliFIed for clarIty's sake]
+
+![](images/29d34cfb99fa41abe70b15c12ec6755b68e49f79009bee2ceede71cecf819dcf.jpg)
+
+![](images/4dd2af5dd15137de016f81888e87f40f3f49d005345592a215ddb6588a72b875.jpg)
+
+![](images/cb3f74332306bff48aaca13d20980e8253c191279db167afd1506a14d502f98e.jpg)
+
+![](images/8d36d63741f3a5fcee6de35e2001ca9028a950385ca05c5ac9a9399cf8047e73.jpg)
+
+![](images/0438ed89cac1979fa59050f3a5b8cf22e951cc2e13b564d7d03d66cd3a5a9e6b.jpg)  
+STORIES FROM SPIEGELMAN'S ANTHOLOGY BREAKDOWNS:
+
+![](images/1c4e06c596989ee11167e817dfc1597c8f0a30bd1cc10a8c9c50ef846d8e91a6.jpg)
+
+![](images/73b9e2267aa700015dfe450a2394d1f4df205a6df4defa9957e3343fb2748baa.jpg)  
+"DON'T GETAROUND INTRODUCTION "MAUS" MUCH ANYMORE" (ORIGINAL)
+
+![](images/0d746486de2aa54abc67802a19794c9ca4ba83176b56394b032103d63118c99f.jpg)
+
+![](images/9a0163669cb3a44f06d94d8f62e4e57f8fda84ea486446c3aa014fbd0a98ef5a.jpg)  
+FRONT AND "ACE-HOLE,MIDGET "REAL BACK COVERS DETECTIVE" DREAM" 1975  
+"SKINLESS PRISONER ONTHE "CRACKING PERKINS" HELL PLANET" JOKES"
+
+![](images/c698ed8f5d2f98434965c9effdf8651e576e30188c85b3e454b6696618c6e074.jpg)
+
+![](images/023882fb588fb312d5d7dbef9db1b584fd7764503959810e78111241939ec6a9.jpg)
+
+![](images/2ef5cb956e692056dcb2a3adc86ec21461a86046436e51f2e27c80fb8c8ed298.jpg)
+
+JUST WHAT IS GOING ON HERE?
+
+![](images/eea934489153b2979ad60cbef53979541fb2be095c931ee6d941ddb77d1da208.jpg)
+
+![](images/7f5d59ab92d5a3bc715d4f89ef263a56d56a5924ce14f85aec3059a31ff422d0.jpg)
+
+![](images/ded88d0694d951c5a1e37a946cb0d09794f942f81e3901d5a342b136ef1bc946.jpg)  
+!TFEL OT THGIR DAER OT REBMEMER
+
+![](images/006b0acb194092d23f0d6d3cd8c81b3ad5e81bdd983984e170b464e460bd3338.jpg)
+
+![](images/1a8dd5db522b4a0e5a0dd213f8c5f30926bf4418a6cb92a18073c6e7e0addd5f.jpg)
+
+BUT, MOST STRIKING   
+OF ALL IS THE SUBSTANTIAL   
+PRESENCE OF THE FIFTH   
+TYPE OF TRANSITION, A TYPE RARELY SEEN IN THE WEST.
+
+![](images/06ac00aa7f61cdc953ad1d212e47210aba904435956ee5a458b75f6dd8eee735.jpg)
+
+![](images/9bafbaddcd56ffd451ac366947d2881901d0f366d4037fd688b363d9b238d076.jpg)
+
+ART © H. SATO.
+
+ART © SHIGERU MIZUKI.
+
+![](images/ede7e97daffb1e6b47633e790ea7ca49a5d21174ad756a84d140f2428756151a.jpg)
+
+![](images/d4c196a3837bbd8b14432fd68c1ced90e7ddb09411e4b0057fd419b84c1d8ab9.jpg)
+
+![](images/0de68251a93aa068da38a60b4f4e22a54a66ad20ee2cabdb1b7f10aed8250608.jpg)
+
+![](images/22ea6887c87f15837d6771f4c40f7eca2204a1759b67c30dfacb5965bfdf3fe4.jpg)
+
+![](images/c3b5e8eaccddca36eb0fee3ff7f64f916374544957d00da898d72326a2db8cbd.jpg)  
+750 RIDER (E#)
+
+![](images/9d068aaa0bdac1cd3ca88e94b2955baf944d8cb3ab51043f2aa274633277771a.jpg)  
+AKIRA KATSUHIRO OTOMO
+
+![](images/4f1630c1a50a1e5f0922685720c2cde308a0846f40f8e33e73760fa546213c3d.jpg)
+
+![](images/1c907f08b5aa70d2b284fc873c7e3948f1fd48e9c886ad638b6159a543b9dea0.jpg)
+
+![](images/8b921f39a9677c90442fe5c908127a6911ef15eefe299e2a01341f3f2b260d8c.jpg)  
+FATHERESON HAYASI &OSIMA  
+WOLF &CUB KOIKE & KOJIMA
+
+![](images/61b2b92395900dabe1feddc7398884efb09e7e475f3ed18332cb3d2a8f0cd1bb.jpg)  
+CYBORG 004 SHOTARO ISHIMORI
+
+![](images/839d855158873361ee7a89e9cff4de02b297aed016cc1bc0bf67e68fc1e6e8a1.jpg)  
+PHOENIX OSAMU TEZUKA
+
+![](images/51702a4e9753b2d22ae2f32ca3ea32174c7b256a8c274af4b7e18d6b4f5328b3.jpg)
+
+![](images/01c1fc0995ec6533dc52f411e8c18089124203ee9cdc49213e8631f12d1ca3d2.jpg)
+
+![](images/5e97742a0bde5ce74fb2a245b21e1f9ec34d79dac775a636e664d13ffd024842.jpg)
+
+![](images/c5866cfe7569bb620e6e705eb6943084b8d94fb5da2be3276e3eaee83e6d0747.jpg)
+
+![](images/bba9b11cb716a791dd369e3091db9c59c349feb73aa6e0a792ea5d5d7b36517b.jpg)
+
+![](images/d68971bfec3d496dcffbedd1018a4489ea7e636a9d50472a4357a0df9b54d58c.jpg)
+
+![](images/26ba28450fd2afd2b4121c2e9cfb262ad909243c42498907e7491d46c8acc9ae.jpg)
+
+![](images/3b2015b350dd4be530d735a72f13f84e9eff5b1fc04373770a739f15de70d80f.jpg)
+
+![](images/a1ddfeede9e6f161665cc58d29b0044ba6f8015ad6999902e51fa9b52f247e98.jpg)
+
+![](images/c94163252e9c187ba43653141bcbdf487966698b52b97268da74d70a4ce7fa61.jpg)
+
+## IN THE GRAPHIC ARTS THIS HAS MEANT A GREATER FOCUS ON FIGURE/GROUND RELATIONSHIPS AND "NEGATIVE SPACE."
+
+![](images/3f2c355183df69c9d43a5a3ff86d81d7a6de336cfdbb0cab2e6991386f1a18b0.jpg)  
+THE GREAT WAVE OFF KANAG'AWA" BY HOKUSAI (C.I829) TURN THIS PICTURE UPSIDE DOWN TO SEE THE OTHER WAVE OF NEGATIVE SPACE...NATURE'S YIN AND YANG.)  
+THE IDEA THAT ELEMENTS OMITTED FROM A WORK OF ART ARE AS MUCH A PART OF THAT WORK AS THOSE INCLUDED HAS BEEN A SPECIALTY OF THE EAST FOR CENTURIES.
+
+## IN THE LAST CENTURY OR TWO, AS WESTERN CULTURAL INFLUENCES SWEPT THE EAST, SO TOO HAVE EASTERN AND AFRICAN IDEAS OF FRAGMENTATION AND RHYTHM SWEPT THE WEST.
+
+![](images/ed48cb9d0b7648d3613b856e53e6fa2ceaf7a9a14c8673041442a3b9a092da16.jpg)  
+IN MUSIC TOO, WHILE THE WESTERN CLASSICAL TRADITION WAS EMPHASIZING THE CONTINUOUS, CONNECTED WORLDS OF MELODY AND HARMONY, EASTERN CLASSICAL MUSIC WAS EQUALLY CONCERNED WITH THE ROLE OF SILENCE!  
+WEST
+
+![](images/ab9254946d81d78971a0f223c4dbe52043aab27d5d9117c0b396d0aa2755e3d5.jpg)
+
+![](images/6890c39e592e3a42c4e8253c1694824705b21ecfdab289cbd364b52f31fb6a53.jpg)
+
+![](images/34e22cdc182726e753a44188427163fcd9025e74ba8a3a48c043ef08656aa4b1.jpg)  
+EAST
+
+## FROM DEBUSSY TO STRAVINSKY TO COUNT BASIE, WESTERN MUSIC HAS GRADUALLY INCORPORATED A STRONG AWARENESS OF THE POWER OF FRAGMENTATION AND INTERVALS.
+
+![](images/f32c182fe55aaffd7481870f37fa75c117703c51d360d61126ef998121b6ef0a.jpg)
+
+![](images/044fdc58a5f745246b8baea0d3b29a8579c1aa519995b7cebe95855affcb5345.jpg)
+
+![](images/35b67fa4a359c7c4cb353971ae89222b8bce4ce94992aefe3fe405f31990e72f.jpg)  
+THE TRADITIONAL EMPHASIS IN WESTERN THE TRADITIONAL E ART UPON THE PRIMACY OF FOREGROUND ART UPON THE PRI SUBJECTS AND SUBJECTS AND CONTINUOUSNESS CONTINUOUSNESS  
+OF TONES GAVE WAY TO FRAGMENTATION AND A NEW AWARENESS OF THE PICTURE PLANE.  
+FACSIMILE OF FIGURE BY PABLO PICASSO 1948
+
+![](images/f89f646615125c248dccd1cf3d45cb219eb81451dd6fe44af2d52f39f046ec77.jpg)
+
+![](images/cdacbd29c73dd9002161e62c2ef4d8bf8da9319806de75d2adddf9ac188f78ef.jpg)
+
+![](images/c3ac8f0020733dd09652193b78370b9a735f3420156c221bc57558e2bfa0c17e.jpg)
+
+![](images/64500b4b778a250374943326806831eaffe75d12e48b3510ac34b6f0a24a64bc.jpg)
+
+![](images/37c4bb335dade2d8557f6a0e06d7f928b26a0601560030cfa00eada078859389.jpg)  
+ANSWER: THE BIG N [SEE PAGE 216]
+
+![](images/08ed738781712578d6953d3ee654d6ded8cdda8acc9e743cd33b9d6a5d611bac.jpg)
+
+![](images/f7ac04ff6c2a5539949d5f6048b59861f8a2ebb10ad1990ce6d3cc759460bdd3.jpg)
+
+![](images/7b20b3ca1858dda048e40586d8d0841526413ee96b3bde088c261b2955f544dc.jpg)
+
+![](images/7c068b9ee58b3fc125a28089c6f14deea496f3e435587d9d06555714e14a3834.jpg)
+
+![](images/b65f63a200a0a6a885683247fa674f3232444343a1c985738625d7b8144a7974.jpg)
+
+![](images/c126f6c1310e9aa33c82892a99119706c6edde1aa62541d43cbedb5ff6fa4daa.jpg)
+
+![](images/1544a8d2dc825d800360000ef344acad4fd56bfa9a326b4ee7dfdded035e03a9.jpg)
+
+![](images/c55c09a92ef5db8a0e9d0879102edf64c80d54e91815985d32b99d6e0d1cf656.jpg)
+
+![](images/9c81a1c294f2ff6deb75ff7338c2bdb29c92c9986fa8e77dd89ceda4a492fa4f.jpg)
+
+![](images/78d0de13460fe38df97ff53bd843724c2d3353e3a28a71dc59eaadd9e6e7a7a9.jpg)
+
+![](images/511015fa5855a3d681d637348697e5216ba8374fae652cf5103899952028205f.jpg)
+
+![](images/f3e13d3472f17f3bff7729046493b1c427729c4d0cd1d4b71d8986324211e3a6.jpg)
+
+![](images/0819975369eb1ad6200f050d7204f929fa65dc4876a1b96f213ec6be469ead04.jpg)
+
+![](images/73cfaf0bf0a65e0a2a98e50c4e23eddb508af2bdd9557da49304f30911cd6f07.jpg)
+
+![](images/22d36976dc314285f7d0b8451766112243d3b7b63bd24543dab1645812e94d7f.jpg)
+
+![](images/74b4f48121166a83ab516d5f0c60b1caa19bff30b3f051c6c23d38e2b991bf23.jpg)
+
+![](images/0065a74e881d84458d94252af31873b7a21cba603ac64c01c017d1f0cee340b4.jpg)
+
+![](images/ad7d723d9d961d03f9e48bc41fa611e29a8c1fbed104488a2c324a24d3957c83.jpg)
+
+![](images/49ff39a18e35002d7c5ff2cdaebaeb57fc5c921163e5e2baba33d07735c1f439.jpg)
+
+![](images/ffaf0a16021cd028bdfc368361c8731344e2e245a88ef0cf1ab375bee1bc929a.jpg)
+
+![](images/0a5f70f3082c26b39b6ec012e2d6164d3158ef6f3523a08458bbb62cb5247232.jpg)
+
+![](images/0f71b59aa413533a05bdda0dcf89a72491443f7cb91eee311c479372e55d4e27.jpg)
+
+![](images/da9f4a842057cf6eacc1b34ac908e4f4180bc0caf5ead4db050eb283e6424a39.jpg)
+
+![](images/2b5b2fee9a0bdb5b6628da16f9aecd0de41d7bf6d0319863c50eb3d03b58aec1.jpg)
+
+![](images/6c2cdaba2a27ffa5bd112d993f928fed8f9e30e5a1883ad308663078bfb927d3.jpg)
+
+![](images/854ca32829654513008e7d7d6a565c5132f98797c8b49e169bda054631b163fd.jpg)
+
+![](images/f33c9bc4e22c37aa8c7cffe2ab25351b6ce0c0659c2b9b726c9f474f22f899db.jpg)
+
+![](images/fdbf2d3ce59e7f34a9de6406b081474b0ca47574975e97cc4777b9923dfab7c8.jpg)
+
+![](images/f4bb74b220c8c9662ec4e50d9d889afffc6c733707df8407943867487a2e4db0.jpg)
+
+![](images/a9945cfb61dfa08e3d791ef1951a6b887590a0d2a91c8709af08e2b5922cef1c.jpg)
+
+![](images/a424fb32ef28592604b95a94225e1e26cc6cd705791883186c9809c254f716a5.jpg)
+
+![](images/7bfc89a54d94aaeb37e8981525eac8fc76d192bf851f2cc24186a1aca22dd8cf.jpg)
+
+![](images/734109fe66e37f0dee37d5e6f4b13bc6ccd82cc0764354f944e64ec3915c6fcf.jpg)
+
+![](images/3d86c3f5fb225e7cd0227d82013861820469cde1c6808081d79084dc60d0f38c.jpg)
+
+![](images/748f02097edb6850f201cad4f50f93d959b476ce873a9ff8e0c560b3aa6d247f.jpg)
+
+![](images/717af027f5dc972c054cc6a7402171d772a611295a2ab073a9f68f081c07824a.jpg)
+
+![](images/80f09a111b9d5efed94659df163a0cfddd502ea2b825447d127ba09729ddd24c.jpg)
+
+![](images/674225d951e99b3391e1835541916ac62feed49f31da1b46c7772eae4ad8af9a.jpg)
+
+![](images/961d2dcc3e5681220a50749995079debef9ae75af243525b54563a1ad9024970.jpg)  
+\* "BRUM" APPEARS COURTESY OF M. FEAZELL
+
+![](images/8492fcfbb813a799bb287e2aeb8af4d975edcee44391ae97d68697dd04c20b0f.jpg)
+
+![](images/b0c467f6c2ef17fafec349d5f51d6bed874a3b6ffd34c728c32f9f02af79d529.jpg)
+
+![](images/c168c7db8b6e51f81130a48e33cffa51f15eda9074a568e9086780e13fadfaef.jpg)
+
+![](images/b2a8e792e872366087950b27e0f69d00fbd539f540b6386c0a441c151b005b8a.jpg)
+
+![](images/2e646bd6bbc6bd40abb79cfe9750ef7c0144d250ff98d902a675c72f3713cd4c.jpg)
+
+![](images/2ac8f10ec80bc2176501873d2ee1e1d5d2e5d6ce90b4223688f40cab017e48b3.jpg)
+
+![](images/7bf5bb390c9ccf78f471f6c33162dfd4f0857e350394fe5c474225fbc1684af9.jpg)
+
+![](images/ed6baee52eb2d0eacc1bc0225de39cb7b64c5130a10c4c586d196ead61463074.jpg)
+
+![](images/fa79cbb5f73c00177f94c2f868764a49e0c3f520f6dd44b4a8bb5c893d721dda.jpg)
+
+![](images/9ee258889ff92f316f47023c51f38cee5f1e686cfb134001a42315d6bc743303.jpg)
+
+![](images/6642de835d39d221c94ea2a893003896e3a270469c2bcda43648cb16a8c903b8.jpg)
+
+![](images/1d41da6bb39aa79f0ed4d5938fa22b66f71da6fa3334529460007bd34d2690aa.jpg)
+
+![](images/5a35e47f3f89f8cc0a627a6655ab083bbe648ec50ed8bce429e06efc3a4d770e.jpg)
+
+![](images/3957ce25ac4ccf52a1a3ac24c5128ae62120018399855bf72d396064b669108c.jpg)
+
+![](images/2c3e594990d7bc4343ce049c94c68f40a26212199a816ac570be64aa231ce9b7.jpg)
+
+![](images/9149fecfb9daf73d40f248faf4f41684ee10e6e1c33d78c21b9cc21705a628e2.jpg)
+
+![](images/c137324ef1d7433b912b747920ec7523f916436bb5adf91c305c303cd45bd965.jpg)
+
+![](images/3217418145449378231b65580cc152dd654b27ce4cc4c54d24625252628d344f.jpg)
+
+![](images/f6a798f0c214b5039b98f7921ded176f85d3b204443c33983813598e6c278dbc.jpg)
+
+![](images/aada122548c89c2c393e14b8e90073ab5dd75ab51dfa320e2eb625ad27407571.jpg)
+
+![](images/9022ba5aa6eb9f92596b4b2622c2fa706fcc9be8e733fa621b65a7d2acee9160.jpg)
+
+![](images/ee331428db35e01fbd520c275889801f40c9abf9f5640fdeb66d488443d9327f.jpg)
+
+![](images/4f53746ff77c318e726ae7531596d0a2f0f9ff184751ef30473ce8a8c796a6e1.jpg)
+
+![](images/174436166dabacc22e56cd38318fadacead669d6e5a0f307cda62ee2317df7ac.jpg)
+
+![](images/458523bcc9075587ae3ad5bc09f8fc5be0dd5a0a4b9f092d5c6001786ad7b48e.jpg)
+
+![](images/4d004ed59ba115c7a05f492d6d2899b2f0b56d861612ee5cc91d8bc2b33119ee.jpg)
+
+![](images/35475d7b5b11d61d63635e657c3321b795d3628fdbf19a7c8233a5de31c785a5.jpg)
+
+![](images/43f692318ec9893e9ba743f47d8f924ae69d6743f536d17596bc0c4805ef9780.jpg)
+
+![](images/9df6953134585e2b20d0c225462ba6f760cd1333c4250a4187daff91e7cb2d8c.jpg)
+
+![](images/a965c2a9f40916b1328026c7b7ed6af9a87395d973d7233514506c3b7f5f6649.jpg)
+
+![](images/7cb8626dd092169ee2a72499d19c149076e8d931fb8036f83721f2d1573b06de.jpg)
+
+![](images/f6e53c359264a5d6f709abc7d7c000b31988a83596e689f2aa7db96e6fd406f8.jpg)
+
+![](images/e50dc3568ec90e5ea3e90b8fa153a87286963ad8268bf4c2c5f66cce98bcf636.jpg)
+
+![](images/011af7761426de0c3f8a3667854dbd0b88a29ea0fcc42a9a6d7a4bc13b83885e.jpg)
+
+![](images/2130ba10763008b5db4068b54035e98ed4100d1e801969f832ae1448d3bfa895.jpg)  
+AS CLOSURE BETWEEN PANELS BECOMES MORE INTENSE, READER INTERPRETATION BECOMES FAR MORE ELASTIC.
+
+![](images/ddf87b6c876f602c8274a53dafd77590c48edfe9f634c5021d248281d4f69966.jpg)
+
+![](images/040178e246cad7b882e68dbe4ac5b62c67ebd08c824807bdc8b7317497739321.jpg)  
+AND MANAGING IT BECOMES MORE COMPLICATED FOR THE CREATOR.
+
+![](images/5d9e529f1a7b75b08dd2589400ade0be2f493dee2bd002809b87b7d50b712d1b.jpg)
+
+![](images/60b5b57f053a62c1a18fbc9644645b7a76fbc60ac7cba26bbc0e0f7468bcd8e7.jpg)
+
+![](images/399218ec199fc81ade88dda956d9bdfdedd4889823cc6620e7530c9939f12926.jpg)
+
+![](images/ea7abdd4239c3c9de6ee696cdc8b41ceb3d4cc883b9da2952513dda6f218138d.jpg)
+
+![](images/8206195fcf0d0151e87bd1595c26d4afcb75040959ae728d9465dd8a91e54524.jpg)
+
+![](images/d8cb93b3d169583458750f0f45e16156eb6f82186de19caaff63bffcea85fcd5.jpg)
+
+![](images/97b47f2a1a515274c72c24e4e769ab1eef4af6a7153cce139ae4d249ed3f9131.jpg)
+
+![](images/3c59bc1c7d22b0723bdefcd437cafdd64994f6815a73b8bf28cf4e413c122530.jpg)
+
+![](images/34d832ef551c9d79e3e532e7a589cab62a838acecd0d28db9a4163ff2c7c0ca4.jpg)
+
+![](images/8723e2ab95acd628a6330e9e5d180cf51d0487947f5d170c5f67334479545e2e.jpg)
+
+![](images/d9c7033e70d4ba5d0ef199f7d751197836464541fbdc4942bebc22173c915e39.jpg)
+
+![](images/ab05afd0a4b992bd8d1e4941f856578396f084f23e570620fff18ae263053426.jpg)
+
+![](images/4ee0a9a513db8a0985c4112aee7efc14196941b1075f210711cea529aa09a1c8.jpg)
+
+![](images/a2202576250b751095949e2fc5c6fe6cdd4964a9828264fb93629270ea2dac27.jpg)
+
+![](images/d87e3bbfa81358cd8a3893f17b7646280c7f212dda53cea5e1dae7fee36a4b71.jpg)
+
+![](images/cff852fa28f313a1fb0fb45dd4007ef4f99976544d289b6465a53289896e3251.jpg)
+
+![](images/2fb4b57aa16d18fef59ef208513f89163f09431ce3581c5ced983bff2c299a16.jpg)
+
+![](images/215b98eb10d9c3aed7b121b2ddb25dd4596cba51565e0cc9d8d3c24ff794b8f8.jpg)
+
+![](images/2b35b65658179352dfa28f37bcc1ad4000a9b73ab3b674eff2b187d8e0ddcb97.jpg)
+
+![](images/8687101813f1077148a0ba5a68582bc910a50196ef8dee7b6acb37d36d098c39.jpg)  
+COMICS ISA MONO-SENSORY MEDIUM. IT RELIESON ONLY ONE OF THE SENSES TO CONVEY AWORLD OF EXPERIENCE.
+
+![](images/0a53ee66054a22cb1437a882d239bae52704d5f86899b1e9392e9fb529235d8e.jpg)  
+BUT WHAT OF THE OTHER FOUR?
+
+![](images/facd6c1254662f867a721e0485b8f5af822dc274202e7376c5145d2b5463c346.jpg)
+
+BUT THE SCENE YOURMIND CONSTRUCTSFROM THOSE FOURPANELS IS A VERYDIFFERENT PLACEFROM THE SCENECONSTRUCTED FROMOUR TRADITIONALONE-PANELESTABLISHING SHOT!
+
+![](images/cb8740efb62a2463b7523e856d8fd770a3067b1d2b95c2a0504116afdcb3f169.jpg)
+
+![](images/bdd9d2ef9fb19b3ac10b79a1a4da4a7dd487c1a884c5e33dd615b792a5099457.jpg)
+
+![](images/5841f6e64d3c66b599b54fedc0ee63d6415f71165be216a455b465b8cfbb53a5.jpg)  
+WE REPRESENT SOUND THROUGH DEVICES SUICH AS WORD BALLOONS.
+
+![](images/ef3d5d0f1e091a9fe6b68870b47760f8568470bc132a2a58b017621072c59fe6.jpg)
+
+![](images/e39d5ede3e29d40d04392d2786f522acfad3ba10c9f32746c39d197e92850302.jpg)
+
+![](images/3fdf8fe981826b745f4e90493c69dbd5b6fafa0e28a71a739a033e40fa99f333.jpg)
+
+![](images/247f83b8e3a42a718e93d2880f42b5d859d5d24e056aea7b4bb37198674daf12.jpg)
+
+![](images/c836a08da4ec883af4c5e4edeed776a0159ff9cdd943fb7b53feb1409fe44179.jpg)
+
+![](images/6b9ec492f70bd8352e2f1effe32665ef7c568089ff83879c41ebba51095399c0.jpg)
+
+![](images/b7885e01b54d5f262a4b4f099c85c480704d1d43ce39e017401a63184ad44a88.jpg)
+
+![](images/466e3e2205a00faa5a24732ee07132597abaa8e68f7e09b5576ea0a8d9258f45.jpg)  
+SINCE CARTOONS ALREADY EXIST AS CONCEPTS FOR THE READER, THEY TEND TO FLOW EASILY THROUGH THE CONCEPTUAL TERRITORY BETWEEN PANELS.
+
+![](images/9ebf40f7428c745e5d89ff5eb02aa47e133d9e5075335bf50f86721d4eb8a3c9.jpg)
+
+![](images/df6b95a2b209463cf28e4cf06137387d85ba6f9b45b6aa49d7b4b81b11aa516e.jpg)
+
+![](images/ebf85d62c5e0602f7d545474b7e1d35f7c9680b59aa7475758532f4e26dfe4d1.jpg)
+
+![](images/6fcc04c6050a7f2238ad588653d400a93339a4f6c9880f9e62609eaac10b0db0.jpg)
+
+![](images/6c18a210891bb9d8a4c73f9cbb1151be1e0b41c8643d54a864e5a5f946f71a1d.jpg)  
+IDEAS FLOWING INTO ONE ANOTHER SEAMLESSZY.
+
+BUT REAL/STIC IMAGES HAVE A BUMPIER RIDE. THEIRS IS A PRIMARILY V/SUAL EXISTENCE WHICH DOESN'T PASS EASILY INTO THE REALM OF IDEAS.
+
+![](images/d56cb96b46b42c609f9aa252bf27380c222744365fcca1c917f74caf6d4198b1.jpg)
+
+![](images/0bf0b5c56068292ed4333c63cac7fb6bd4758ae64e11a328c1f38d5e0599c04a.jpg)
+
+![](images/3033644cd5ed3566ceeff491000a2a61010e1cbe712fc039d435b7f0adf75a32.jpg)
+
+![](images/eaa58642e629461075f6dbf9134ee0791203c1df8a8f10372de3b06da2d58984.jpg)  
+AND SO, WHAT SEEMED LIKE A CONTINUOUS SERIES OF MOMENTS IN THE LAST EXAMPLE, HERE LOOKS A LITTLE MORE LIKE A SERIES OF STILL PICTURES...
+
+![](images/f3a077e84d6962f0483c788ed0d471f2e873a01d08e53a74d21908dbee3237b9.jpg)
+
+## SIMILARLY, I THINK WHEN COMICS ART VEERS CLOSER TO CONCERNS OF THE PICTURE PLANE, CLOSURE CAN BE MORE DIFFICUILT TO ACHIEVE, THOUGH FOR DIFFERENT REASONS.
+
+![](images/eec269cf2a47546873b709471c62733b2186e82c75aa9c7deef0f52215a3660b.jpg)
+
+![](images/181a05614f79254eb77431b79945ffc87783e1184d4bf348da53b04e105f13d2.jpg)
+
+![](images/ee79b9468336300c5914d58c1993ad20e4f7a9430405dc882113c2922fb4c93e.jpg)
+
+![](images/b5c2f418316b382aa613238ff86fcf8573ab39b319d975b71cfc0c4cba8441f8.jpg)  
+NOW IT'S THE LINIFYING PROPERTIES OF DESIGN THATMAKE LIS MORE AWARE OF THE PAGE AS A WHOLE, RATHERTHAN ITS INDIVIDUALCOMPONENTS, THE PANELS.
+
+![](images/87fb490bb9cd8a16c34c9da853bfb06f84fbb150f467541eee4863aeff37674f.jpg)
+
+![](images/c68060df350baab22cbb37996780ce3f4e559221133497261571e76a8c1b0b9a.jpg)
+
+![](images/32322949b12383f92f5c5b543ea9bf7d80ea657e3719114cfd5e87bfadfaecc7.jpg)
+
+![](images/e7045ec30e78971160ab31688764c38dd35d654f37206ec76324012a5392757a.jpg)
+
+![](images/3718b8b535750a4a237f098f36bae20be7932bb22d40bb759fbc0adb0cf6f60f.jpg)
+
+THIS IS WHY I THINK IT'SA MISTAKE TO SEE COMICS ASA MERE HYBRID OF THEGRAPHIC ARTS AND PROSEFICTION. A
+
+WHAT HAPPENS   
+BETWEEN THESE PANELS IS A   
+KIND OF MAGIC   
+ONLY COMICS   
+CAN CREATE.
+
+![](images/a06657e615a6fed08b378c85993019e994a9902f9e60f85094fe6ba884692948.jpg)
+
+![](images/9d691f1e9e15104ced8b14cfd4925507986d60b087de5aef5e4421ab386d0149.jpg)
+
+![](images/fdc6b80bed32115e018ea491ef54aca91b8755a31080d755fa178329fff01661.jpg)
+
+![](images/49db1693f0bd4b795c71724abc97af066aadb026a27363bd629ee02b6bf37c7e.jpg)
+
+![](images/91ac14ecc5741757f9172fc705c7ac21ff43bd622995b45ce7385814fdc8fdcd.jpg)
+
+![](images/149103109789c189395794294bbae8dce18d8b362b204ac52b818feacc5c8c9f.jpg)
+
+![](images/103c73331f954c17b5e84b4875b1f98ea8318faba13f43ecdcadb831436e59b8.jpg)
+
+![](images/cdd45441833bba1a8d163e0392feb6141818735847a7c4d92140e01ced4d1885.jpg)
+
+## AND BETWEEN THOSE FROZEN MOMENTS--BETWEEN THE PANELS--OUR MINDS FILL IN THE INTERVENING MOMENTS, CREATING THE ILLUSION OF TIME AND MOTION.
+
+![](images/59945b99afbd0b85984d89d0bf043ce5b682c2d20f346728f9fce76c0d46688a.jpg)  
+LIKE A LINE DRAWN BETWEEN TWO POINTS.
+
+![](images/4d3d8ce76a180269dd023b918b8a4541987b1326d70a59272beef24deb2324b9.jpg)
+
+![](images/7eaae3b00811bdbed63fe3cf913586c0748bf3427f034d676b87a117b60ddef2.jpg)
+
+![](images/0a6859162bdae48a858760a4263b05e18f3bbf5947c714191912776956ed5e82.jpg)
+
+![](images/c77cdba5e185562d3350023b3e0ab864e65aed3e2b149329706e42ee6e4d6f4c.jpg)
+
+![](images/b69ded9df7e6a6116af94c3b69e57f97d5b80025b136d820f0ffb106b9bfb5b6.jpg)
+
+![](images/59b1db5bb4b9b07f0a2690bbd690dd060c1f963f2df82d72d657f6eb8b7d80b7.jpg)
+
+![](images/a6081dca0daf6ac75b2e004cc162ea2da9d212aff6ec810ce0ceee47bf0d41f3.jpg)
+
+![](images/4b62bf3a86032dd450e74f572afc89d0c7151712d63f01adcc9622a09e177232.jpg)
+
+![](images/ba0856ed1113dbbaf9859d1fbd7a946f7321956afc4adea9fb60600439ba85fa.jpg)
+
+![](images/fc77462f4e7f7ef140c45c066e596bb18da5f9f772375bb3864f85349402daa9.jpg)
+
+![](images/83b5968b015d9b4eafd7004f22d68b90155eebcfc3f530400a41e81d5958b2a6.jpg)
+
+--THOSE FIGURES, FACES AND WORDS ARE MATCHED IN TIME AS WELL.
+
+![](images/2849712fd75756c24e2210bd34ce64f7b2274228f311c4d326d90e14b9d5a020.jpg)  
+THE PROPERTIES OF THE SINGLECONTINUOUS IMAGE, MEANWHILE, TENDTO MATCH EACH FIGURE WITH EVERYOTHER FIGURE.
+
+![](images/5292489c137f04735a4b801147ab0e6a78a4358e5a121edad34a1901a660ae1d.jpg)  
+SINGLEIMMAGE.  
+SINGLEMOMENT.
+
+PORTRAYING TIME ON A LINE MOVING LEFT TO RIGHT, THIS PUTS ALL THE IMAGES ON THE SAME VERTICAL AXIS.
+
+![](images/1ae0e218812c6771c2843b3b2dc5edfdb64cdbe0c34b8447bc9941b72e40e08c.jpg)
+
+![](images/3dd18431eea1cbd56e95ae11b866c30e857a41e8ddac984673e034a8d24cf388.jpg)
+
+![](images/29a7784a96b0673f1142b7476e6b66f39c10037c2358fa47347e1f62ebff07f1.jpg)  
+1N SOME RESPECTS THIS PANEL BY ITSELF ACTUALLY FITS OUR DEFINITION OF COMICS! ALL IT NEEDS IS A FEW GUTTERS THROWN IN TO CLARIFY THE SEQUENCE.
+
+![](images/e18007427aadb0bc3a85b2d27fc1192a0e1a607b4f38f266f4a0174975f40cef.jpg)
+
+![](images/897ece6c3daff4391a909045820d9a3bac03377f11ca104af5dba118c833d793.jpg)
+
+![](images/62010625ff5f4e15b87cf5a155ace81f80a02c26351d7031f970ab4cae38b984.jpg)
+
+![](images/cf9bcd98cae7cbcb587e1742475858b5877ba502ff38f8856bb676b5b33fd0bc.jpg)  
+ONE PANEL, OPERATING AS SEVERAL PANELS.
+
+![](images/619123f5f97297f30a603bc7039e0b19f94914859572a64205c719ef8c31d1c1.jpg)
+
+![](images/9aadf438477eae03159e18eed78ea1c0896acdbc2e0827cd6189ba357672bb28.jpg)
+
+![](images/722989ec079a0c44b562c361a323bff6a606f9efe3ab1d766b0d1cc984287e1f.jpg)  
+THESE ICONS WE CALL PANELS OR FRAMES" HAVE NO FIXED OR ABSOLUTEMEANING, LIKE THE ICONS OF LANGUAGE, SCIENCE AND COMMUNICATION.
+
+![](images/9d934a440f21b0817d1d71f6f517f6f4869d1452827cac38db28af80ffbc51cf.jpg)
+
+![](images/cfa4d84d8be44084c06a76e356a1f0e3748e6bacd49a82817edd48648fb40480.jpg)
+
+![](images/7922ec3b00496c85ac035e57d64159635b898777e7ce17544325fd950987eced.jpg)  
+THE DURATIONS OF THAT TIME AND THE DIMENSIONS OF THAT SPACE ARE DEFINED MORE BY THE CONTENTS OF THE PANEL THAN BY THE PANEL /TSELF \*
+
+![](images/40d908724f54800131b9d7167c9974e87f62684aced419e0fc60b0d1a0a05287.jpg)
+
+![](images/ce8729630b2b626064830c17b270b4b6a142979a6c1cf08dcd72aa0bf4348e51.jpg)
+
+![](images/c0803f96f5ccae4bb7d263b2608d45b803904015edc398ca6866ff4b57b41c5a.jpg)
+
+![](images/f4560cdf82166696dd082e701790e5069ebe7537f4b351ddaeeacb606f17ad74.jpg)  
+\*EISNER DISCUSSES THIS UNDER THE HEADING "FRAMING TIME " IN COMICS AND SEQUENTIAL ART.
+
+![](images/5870de2aba9ae49aeab29d55692c8fb75706482459f65bdccfb99b7b72cdebc3.jpg)
+
+![](images/178c273cea3264a6f5706fc85eb19ca5fe523466fac4ef0871c9cc091d7a79e0.jpg)
+
+![](images/113487a43b2e50edbbe8c776d2fed78786a00d326889bc8ffd276de9038fbafb.jpg)
+
+![](images/247212b52ab783e531d1d0b7947eb4206a65710e3279e5d8400e39f2227b2ce4.jpg)
+
+![](images/f3820662b58688938cfe0da1fa9acfd17dc355883be04e8017bba321ba2c2fbc.jpg)
+
+![](images/46acbdce5e4c8876d0dda936312d921f0585a80609466ad05240d00937805842.jpg)
+
+![](images/6cd1f38f4010d362a4c8a062f770419f1df279847f6df2a1fbd176e81b8609e4.jpg)
+
+![](images/5ece4eee0b3af924c00be027e211c196de26173340271d7bbf4d1c30e046cf30.jpg)
+
+![](images/6ddbb0647ef34da630f9e0af40b6038fba74ebb34df88b94f00a4371deae54ca.jpg)
+
+![](images/7d8330ccad40223ef64e8c67ef6dbec43e9b6f2cab876a67ced73db0422983b8.jpg)
+
+![](images/bc6417bf099ea3796a6a7001b86390201241c0ad0f5b6b1906499783e2d178ed.jpg)
+
+WE'VE SEEN HOWTIME CAN BECONTROLLED THROUGHTHE CONTENT OFPANELS, THE NUMBEROF PANELS ANDCLOSURE BETWEENPANELS, BUT THERE'SSTILL ONEMORE.
+
+![](images/a9bfa02c3fafeea976b12f9107479e87c3af98b76c25178ff008ebe89f13d4b2.jpg)
+
+![](images/bcf878ac242382cde7093247fc4b75de383beeed4594f6456ce68c60c4ba5da7.jpg)
+
+![](images/960f62517e6aab4d498903c567969a18fb05ce17454540ba56cf4f6b2b2b576b.jpg)
+
+![](images/afabb113b81d7422eb01144c8890e1e0bca2990357a80af5a43a73bad71a5f81.jpg)
+
+![](images/49280e8ecaacbaa495cae0013e190c725afa1b70dc6ea414ffef646ee1f2cc96.jpg)
+
+![](images/b154c2bcec3355a4f8f4b3a7e3ad650579668766dfd08b19bef91ad10ab6584f.jpg)
+
+![](images/dfb98a5a38bbbf0f5e4601aa2c4f70bc11e269c5ea46faa25737ea3e76031aee.jpg)
+
+![](images/4f16b68974058b887d68dae5c32f7c5cc6fbea1c85b33277d7fcd74f9676d1ab.jpg)
+
+![](images/f83733d81ae10875d84b58022030df54141380d1da9fb1465335add044f5e63f.jpg)
+
+![](images/bc6c51cfa154bb98ccc2bb5b9fc255b24163c6a73fe8642890bbd08521f4737d.jpg)
+
+![](images/39af572e0258be3b840bcbf8f005b24d31337797703f9992a96325610b6682f0.jpg)
+
+![](images/f2831c25a9cbf444ee3e528fe831c378ae9e3df413d30acc372dd3285fe51fec.jpg)
+
+![](images/ee6f8d3a51ccb4750db290c54539f764f4a32f51dbd804f1264fd02109aa642f.jpg)
+
+![](images/81a950ab53eddaf9dc12ea54f0fe915def9765cf46fb210445f49ccc767c831d.jpg)
+
+![](images/745c75b3b1a0fff0da741e58c0c75441a1f450749a951881ddf8a843bea0bb03.jpg)
+
+![](images/4940bfdc4d33fc3c205f20f0a6aa839fba511f4940a5687f12212f014f5b3930.jpg)
+
+WHEN BLEEDS" ARE USED-- 1.E., WHEN A PANEL RUNS OFF THE EDGE OF THE PAGE--THIS EFFECT 1S COMPOUNDED.
+
+TIME IS   
+NO LONGER   
+CONTAINED   
+BY THE   
+FAMILIAR   
+ICON OF THE   
+CLOSED PANEL,   
+BUT INSTEAD   
+HEMORRHAGES   
+AND ESCAPES   
+INTO   
+TIMELESS   
+SPACE. IN THE LAST QUARTER OF THE NINETEENTH   
+CENTURY IT SEEMED   
+LIKE EVERYONE   
+WAS TRYING TO   
+CAPTURE MOTION THROUGH SSCIENCE!
+
+![](images/1a2cd84cecdbf6954639d47bd07e5bd5ac2cf20196ed15d0b7bc97f8a564d2f0.jpg)
+
+![](images/cd905590d25f7afba16eed6bcbf23d3fd2852ab5a3c429961216e3ce1892d3cc.jpg)
+
+![](images/3e541e84fea2324493af7a6691aa072d7f425e9b64f0a436013b128b68d0a5df.jpg)
+
+![](images/745aab6d36639699b5c98fd8b06ae2d35a4c4f0261488dfd9a77106f68a278ce.jpg)
+
+![](images/847fef3b7ed9604d51ac1930c69f1db08d760b6e91b6e5f4f30be9cefccde40d.jpg)
+
+![](images/20a96818d6000ac90410facce368976bf8deda0a75f3419e963bd1137371a8aa.jpg)
+
+![](images/a6650bdaaa44c5c3c67e2e734cb0253e5e1bce06d8c5dc4db49175455329c902.jpg)
+
+![](images/74361e7860691b8cb909c6b9a3d97dbafb99e46df68ef7840571580596f47113.jpg)
+
+![](images/78855340963d8dba41a3978fe6ecb46f372f326aeb7653768af9cc1eeffec809.jpg)
+
+![](images/fa43950fbcf874c9fe3f49b621b00a64c97257058d1fc270583931bcec646a9e.jpg)
+
+![](images/697cd89f2aa9ad3427e402e5d32431cf9c6abb85e4c6e06bcf2c89137b0b98ac.jpg)
+
+![](images/297506e9fc9ccafc149530bed4dfd4fcf995afcd23b7b09f6a425997416f31fb.jpg)
+
+![](images/9fd57ebc659c889829242edb13c739c2a5665c4ba2e76cdbb62375c0a407985c.jpg)
+
+![](images/78ad94b2fe607cfa0184f4a54cc16634505d87113119a81780447d331fa0b4fc.jpg)
+
+![](images/d50459f3ca3967994dd434128b8fbf8a37841eda9f59b066282f9e33d0563e15.jpg)
+
+![](images/69fd9758006eb7f75774c4b99c671264d3e9ae4e4d8cab5786f04c79e6d57e1c.jpg)
+
+![](images/0434061df2efabf76f7e701a0933d745b3e5df4c56e65964d4c955b38a76206d.jpg)
+
+![](images/f000b947b7eeb797d01aad21dd179429d3efac6ab7715d2a5ff441f68324a788.jpg)
+
+![](images/c712352bfa36f2a2b37690a3413bed2de0e9714c5d9769849cff48cbff9b3e5f.jpg)
+
+![](images/3a51c3d5e9ce5607efc78e0103eeefaff9c0d8a050853cb5183d454a8874d3bb.jpg)
+
+![](images/e111e56a5377d330f9fabd1759ea4e2a1381360d0011ca1eab87a83ac3283a83.jpg)
+
+![](images/c79667986b04df467fd71241648fa3ab9ea46cd8e04b4c98e3ac0a854dea80d7.jpg)
+
+![](images/519eac138f8cfb05f58cefec3c306684023aadeba2a971221caa717c273c3fb5.jpg)
+
+![](images/45049d17c1e977c633ff83dda4f0adadc6fdd896a487732a72ff037489896fc1.jpg)
+
+![](images/030d39e0fba6d37e5c10db762f775ed3964987ff1d8d1ba7e5c2029591b9a150.jpg)
+
+![](images/c8131d956869176185d21af9c0812c1e6363f84577c6e4ee056a78f60c6e6ddc.jpg)
+
+![](images/44f76c25cf9d8b2a4706af797b41a365260d05a89d8771bc51cb8b2dee13761e.jpg)
+
+![](images/f88896cb4910050af9e11d7341533c1d072b34343add272e95605a08689e62be.jpg)
+
+![](images/7017580afb2da1c2e11d8f66f6b329be544a162d1b7d53f84199c907531e4c39.jpg)
+
+![](images/55bb830c32543d41575434b63b0ed4d2e71a79891e6adf361bdd126bc3fee2fd.jpg)
+
+![](images/abceff879d4f1a94670c0b1772ca4637bfe9d91aa5f876fbbc8f7cf84dba970d.jpg)
+
+![](images/e430617f6096e4712ac24508c20955fdbc675ff59bd6815524af3c2c88c7f5cf.jpg)
+
+![](images/6f4c73ffd964929a2deca9aa79a0becff5db50246b31510a8527a107957d5fce.jpg)
+
+![](images/2a9f29a1a71e48d3cd885d6e7ad5c3253ca0509619fd5bba63de8067bce43d8c.jpg)
+
+![](images/adea3b4641907c5447376eddeacba0b4135d53a0a10e33583a05093afc117afe.jpg)
+
+![](images/dba1eeacd21df1e588e913e1eaed2ec220fabf3ab48c6536fa3eadb65948a6ab.jpg)
+
+![](images/e52e08ae597624b08e8436ab45cfa75c52783240b433628591d4e40864d3f137.jpg)
+
+![](images/ab797c4d157990b9e680b2c57c2a325bb3fafdb4b4e241fc6203f6d061ed8c80.jpg)
+
+![](images/49fba7957686fd14dce99aaf35aeecf2cc1919192faec1f42e74a59a2ccf00bf.jpg)
+
+![](images/888ad3b0fca406cd6794908441b5450b97aa1fd774aa4621053f42ce472d23a1.jpg)
+
+![](images/a10f40adff6c6df2ae568aca3d67fa16ddfb61f10d5d63062849dcccdb59634d.jpg)
+
+![](images/b753df3ca60bbfba0d7a64ae98f3d72b55a458e0a7c281dda99f309da659d629.jpg)
+
+![](images/dbe64f6e26860d23209a92c6f04e4f71e863998099fda0c830d5b2dfa8de86d9.jpg)
+
+![](images/8b7a402191c075595e6a34886fb5771554580443cf578fa1f50f260f3bed9e51.jpg)
+
+![](images/6aca44dee7b1af5ed720ae31dd017a778dba6fa85ff86bac152eebef74906047.jpg)
+
+![](images/44c64d963a9f6194496cfdd447874e9dfd4906fa5b0d9dada0b0497bf0fb5bf0.jpg)
+
+![](images/7d0bf98e11c0196f5d16f7da348f39bc2aaafc792236ea1d8d8bc183312206d4.jpg)
+
+![](images/c42f1c3a877e1cdb78c72e85142fd9d9b8b24589e9b051dbed0ec6002ed3961b.jpg)
+
+![](images/655af6fb32dad5a8571b007aa2fff790175a4777a313a11bb18ecebaad037c29.jpg)
+
+![](images/81b0b9b6b63f28a964d3cdbab067d38ba13a0b1fd5fd5233bb02e7307e67a818.jpg)
+
+![](images/efdef56fb8b79e3446fba53f3a6243ff2d34ecbd70472453741e196d62ef237d.jpg)
+
+![](images/74701ca7884642559001198897cbc9dc9494a44b55277779e25c29bab1a2a002.jpg)
+
+![](images/2522e5c025c7612758b078f7591e9f61fd19642238349f3208caa6b74b001763.jpg)
+
+![](images/41bccd3cc5d4fcdf937654b19c557271e1336cb86199bbb8902e6210aa5ad056.jpg)
+
+![](images/7528a4648c6aa8d7d2d15ff2427718e3891669326d0ff7f9d37727c8cd923643.jpg)
+
+BY 188O, INVENTORS THE WORLD OVER KNEW THAT "MOVING PICTURES" WERE JUST AROUND THE CORNER. EVERYONE WANTED TO BE FIRST!
+
+MY STROBOSCOPE IS SUPERIOR IN EVERY WAY TO THE OBSOLETE ZOETROPE!
+
+BAH! MY PRAXINOSCOPE IS BETTER!
+
+FOOLS!MY KINEMATOSCOPE WILL SHOW YOU!
+
+HA!CHILD'S PLAY! THEY ARE BUT MERE TOYS NEXT TO THE AWESOME PHANTASMATROPE!
+
+EVENTUALLYTHOMAS EDISONTHAT OLD SCALLYWAG,FILED THE FIRSTPATENT ON APROCESS USING STRIPSOF CLEAR PLASTICPHOTOS AND FILMWAS OFF ANDRUNNING!
+
+![](images/1e9880d609e4d332afc4bb95ec344bf953113ee6eaf3c6466b784ada1b927d96.jpg)
+
+AS THE MOVING PICTURE BEGAN ITS SPECTACULAR RISE, A FEW OFTHE MORE RADICAL PAINTERS OF THE DAY EXPLORED THE IDEA THATMOTION COULD BE DEPICTED BY A SINGLE IMAGE ON CANVAS.
+
+THE FUTURISTS IN ITALY AND MARCEL DUCHAMP IN FRANCE BEGAN THE SYSTEMATIC DECOMPOSITION OF MOVING IMAGES IN A STATIC MEDIUM.
+
+![](images/79d8e2214b9153607e2f54cf9a090cdb4524a72156c040babbf3fb7e55528e24.jpg)  
+Girl Running on a Balcony by Balla
+
+![](images/7d28e6fc792c783ba053b90ed8dd0ffcb2a44178ec1692ce0004f9427077c5fd.jpg)
+
+![](images/d790a88e0f492fab5d07a6dcf8c7d81b51bdfa70cc97efb09da1a4faedae9fcf.jpg)
+
+Nude Descending a Staircase #2 by Duchamp
+
+## IT WASN'T A BAD IDEA!
+
+![](images/ac7cb053d12d6945433b388b4a1df7799714aab4cd3129c1c2bae12e3fdfa0ac.jpg)
+
+![](images/4913729e583086ac1b20999e5c2a3fc927abc96c3283f425ad98cacc85205186.jpg)
+
+![](images/a7c6efdeb56959daae18b4a8f994ec1adde42a27a1e4e6a7b8ef0c7b0a740240.jpg)
+
+IF YOU'REGOING TOPAINT AWORLD--
+
+![](images/d6df29c20a8aea950d7962f9f8e7ebfb77d2ded1bc0ef1ce1cf5f9dfd2f76fae.jpg)
+
+![](images/44f28db7feee1633d1a13e5aa168af75133260c619c6d7ad1cac83773852c166.jpg)
+
+![](images/5e5d67ea632f7c7eb63572f1519975441057a8ab2dc35bdac1fd53f39b9a7703.jpg)  
+COPIED FROM PHOTOGRAPHS TAKEN BY EADWEARD MUYBRIDGE
+
+DUCHAMP, MORE  
+CONCERNED WITHTHE IDEA OF  
+MOTION THAN THE  
+SENSATION, WOULD  
+EVENTUALLY REDUCE  
+SLICH CONCEPTS ASMOTION TO ASINGLELLINE.
+
+DUCHAMP SOON MOVED ON, THE FUTURISTS DISBANDED AND FINE ARTISTS GENERALLY LOST INTEREST IN THIS OTHER TYPE OF "MOVING PICTURE"
+
+BUT THROUGHOUT THIS SAME PERIOD   
+ANOTHER MEDIUM, LESS CONSPICUOUSLY, HAD BEEN INVESTIGATING THIS SAME AREA.
+
+I'M SURE YOU CAN ALL GUESS WHICH MEDIUM I MEAN!
+
+![](images/fef1401e5c41a0b3da5757cb7ee4b10dc0b8ed85e26ef901e2b221f197de7f9e.jpg)
+
+![](images/b4baf002168654b8e1c75e9a97aa35b23a2c644fcba4b4eb6b2836fafab63f86.jpg)
+
+![](images/f839d1a7813b58ecc0b7e2f3db2a75a44e396d7d92693eb833698cf6db7048f3.jpg)
+
+![](images/81ebe591912146b1e64e01c95963143597b429a6f1643eea2c999f50c195ec1f.jpg)  
+FROM ITS EARLIEST DAYS, THE MODERN COMIC HAS GRAPPLED WITH THE PROBLEM OF SHOWING MOTION IN A STATIC MEDIUM.
+
+![](images/c9c33832f056468bbdf272362010effcf0436c3a4164b460da05d49fd47d1994.jpg)  
+HOW DO YOU SHOW THIS ASPECT OF TIMEIN AN ART WHERE TIME STANDS STILL?
+
+![](images/458d2c8b5ab2e65267f4009328f49d485da1e1a9745e783e4d3d5d8a62dce79c.jpg)
+
+THOUGH SEQUENTIAL ART SURVIVED FOR MANY CENTURIES WITHOUT DEPICTING MOTION, ONCE THE GENIE WAS OUT OF THE BOTTLE IT WAS PERHAPS INEVITABLE THAT MORE AND MORE EFFICIENT MEANS WOULD BE SOUGHT. AT FIRST, THIS SEARCH CENTERED ON MULTIPLE IMAGES IN SEQUENCE.
+
+![](images/137c0dd17709b405321d2257b84ad3fc594a4ec6f27d919542a95f6ca4c23221.jpg)
+
+![](images/5d3988f8b69939f7994a59e76c275b0542e12d1ce792f5113c1d91a173175d91.jpg)
+
+![](images/8c0929c7ce361d5b8228dc7ac98b19d69a4184974e348872bb114e9e9fb2396d.jpg)
+
+![](images/297b7b7abb4e68946578687ef8090008cc41d21ba6ae8494decb5b3645c55e83.jpg)
+
+![](images/c5eac2c2f65f945f19dac2ae72f1f1982a9d02c83e81ff6a4cf2d3ed413f8de2.jpg)
+
+![](images/93a2de2829b23b49ed6bb71964f6c28f0be6d709836d0b56e95e9eeb53581fc3.jpg)
+
+IN THE BEGINNING, MOTION LINES--OR "ZIP-RIBBONS" AS SOME CALL THEM--WERE WILD, MESSY, ALMOST DESPERATE ATTEMPTS TO REPRESENT THE PATHSOF MOVING OBJECTS THROUGH SPACE.
+
+![](images/5bb64d9d4f04aaa19cd4a658e6fdae4f0e283123062cb65b90b5188619f959e5.jpg)
+
+## OVER THE YEARS, THESE LINES BECAMEMORE REFINED AND STYLIZED, EVENDIAGRAMMATIC.
+
+![](images/c5d16d29552618c5f1ee0ddd7016eb451d1746b0dade5e85585778f4e1388345.jpg)
+
+![](images/de244aa34fb48169e7d73d0ff97ed310705f2278d90b83e665c6bb8c4b632d76.jpg)
+
+## THOSE SAME LINES BECAME SO STYLIZED AS TO ALMOST HAVE A LIFE AND PHYSICAL PRESENCE ALL THEIR OWN
+
+![](images/a53f5c0471fcfceb6c9d882415c54e90bf81165ea39ce2e481713b1716c479ba.jpg)  
+ART (CENTER AND ABOVE RIGHT)  D.C. COMICS (LEFT AND RIGHT) ©MARVEL ENTERTAINMENT GROUP INC.
+
+![](images/b8707ff46be01f869cf4f93890d23ad60b186dbff6d42ef08778d9c0c42f7d34.jpg)
+
+![](images/6e1479380cc308108ced24ed4be8abf24e6f8030d426dee6164af5fd0530110d.jpg)
+
+![](images/3eb357cda3eb3d1869ce1202ff33d45d378a3b406ea6ae3dd5c50fedf52404a8.jpg)
+
+![](images/c022483782683fb67f22e586a3b6f6158a5265ea413a99358fa16ea0f2085f00.jpg)  
+MULTIPLE IMAGES CAN BE FOUND IN THE ORK OF KRIGSTEIN, INFANTINO AND OTHERS.
+
+![](images/ba3101e49286fcbe7a3438ec4063890544c28be151baa1678d9ae8b8895b2f07.jpg)
+
+![](images/d6ae039221c265c722b34fba0049a55e97a1e2a32610e4ca01029ed5cfa13474.jpg)
+
+![](images/498b5ef9a9e33fe1d9b568a5dd774d9d9033f5ed694349fea0b134dfa1a7199b.jpg)
+
+![](images/8910dc16abf7081668e36c51b31d561bb3268d1eeaaaed5305cf4f5b9440e47f.jpg)
+
+![](images/d58d754999392cfc369e2e5df4079024f59cebcf6edb89338c631221c8aa84b6.jpg)
+
+![](images/bc1451b1bd7aeec018e27f9f5e07b0476903954cc0dcbf868b0de469dac5c3f5.jpg)
+
+"SUBJECTIVE MOTION," AS I CALL IT, OPERATES ON THE ASSUMPTION THAT IF OBSERVING A MOVING OBJECT CAN BE INVOLVING, BEING THAT OBJECT SHOULD BE MORE SO.
+
+JAPANESE ARTISTS, STARTING IN THE LATE 6O'S, BEGAN PUTTING THEIR READERS "IN THE DRIVER'S SEAT" WITH PANELS LIKE THESE.
+
+AND STARTING IN THE   
+MID-EIGHTIES,   
+A FEW AMERICAN   
+ARTISTS BEGAN TO   
+ADOPT THE EFFECT IN   
+THEIR OWN WORK,   
+UNTIL BY THE EARLY   
+NINETIES IT HAS   
+BECOME FAIRLY COMMON.
+
+![](images/346be9fdf325771a6b8df4619c1da4079b623605de4e0152ed419d38aabed187.jpg)
+
+![](images/cdeb705e4720508a5d3b1410867326528394fc41d856d7bab329ccd963c33e18.jpg)  
+61#9
+
+![](images/3dedb79d6f290d46a9a2676c3e4405c585c97cbc311ebdc9e517c644d4e87df6.jpg)
+
+![](images/82520bb9be250e4b0de9df73fcc0e12b018a0f3ed00ba3eddd18bf84ebd02735.jpg)
+
+![](images/c2916f3facdf6ee3aed77b16a3b357cb80c52ca1a8a2d40e729771fb3f5406ff.jpg)
+
+![](images/c81d666074849d9929f32a636e2d97d04a03be3fb7f030eb1bfaa4d137c855d7.jpg)
+
+![](images/18a84d54698768b9a686293b60278279cb647724bb872089319e8b7e6f3a8710.jpg)
+
+![](images/c065d5a41fc7bd331f309126c49fb13f8c19262be2370002bd5b35854851fa04.jpg)
+
+## THE OTHER TYPE -- MOTION WITHIN PANELS --CAN BE FURTHER DIVIDED INTO SEVERAL DISTINCT STYLES. I'VE COVERED THE ONES I KNOW, BUT THERE MAY BE MANY OTHERS. TIME WILL TELL.
+
+![](images/7eaf5f950bccec0a6afceaaa235e6913a5ac7b63b0a8025645c142380b2ef612.jpg)
+
+![](images/997168f256146cc5c5b36090f32300541e3a708d40aa5c862394bb7d202fc733.jpg)
+
+![](images/cc2c75d1285ace552bf662508765dec669579cd8e44e7635e250575657765bea.jpg)
+
+![](images/cd63f8e83a39a07f7282081783e97cc271848d894be95e6d262108f78364a155.jpg)
+
+![](images/d489f5a33925ac0308f545b0232c4fc58f62dc88a199757f8fbba399504bc2bb.jpg)
+
+![](images/b316d8cc531e443646d0c61a16d7b0e15bcc2f893b67a5bc9c7e3499850995d3.jpg)
+
+![](images/81de9ca575f09122e948421d704e75279fb6d1cf6ca58974ef642d16a3167d84.jpg)
+
+![](images/5f0f246a170a98b08efb0d4cfbaf8a6e29d4b1d48132f7c7f6955327546b21a1.jpg)
+
+![](images/584e23f06be0f9f3d989c98cded85fe72a235cc15c377e7e7197088139c5710f.jpg)
+
+![](images/b67d5fe9f2d2eb445b2bfc600593f6908952a393ca7d6b68de2de50f0b83d9ec.jpg)
+
+![](images/4b496b47cf64e56da3b26d6171fd28da59004eb298a493280e0c670d56dac991.jpg)
+
+![](images/54cfa8e811a6b2458503bd9eadd811bc21a533b94d656863aa8162215e7cca9c.jpg)
+
+![](images/541e08ddd8b747dc3a8e2a39893fe74295cd977c82d7ff3ad18860b4b6b4f882.jpg)
+
+![](images/3ddaa283765722ad659094aa23efd5fe493be281ef95480adaa0e8b7aef4e007.jpg)
+
+![](images/8518e7f31e9dafc75e525040cfe165a68a4d58fb2ffc52eff5fb506d81fad04b.jpg)
+
+![](images/46f3ff3554df28364d5685517e3d27b9c2448d56317ef2fb2f8ea114e04b3396.jpg)
+
+![](images/0404abcf52b772799946d48fe0ea0d30128d851a628fdfbe08128e929a306df1.jpg)
+
+![](images/e4981a28e1dac7287444c70f2dad3e868a48c4f61f025de0c2ea6761bebe464e.jpg)
+
+![](images/fe27e23de28e246875b9fb0155c2b876dd3df78cd256320c56ea88ca882066e8.jpg)
+
+![](images/cd7d966a7171fefe3fdf6ef62d9dc79a1d0f30ca4825b6a35a37bea1a6fb45b6.jpg)
+
+![](images/1107e496f2c35cc2624756ebca2ae36470d8a0bd77f979da4dbfee3e6aac12bd.jpg)
+
+![](images/b26692b4fa4dd931ab5e05048da37e71c0b2fbab0500d0aaa107e54ee8dacbc8.jpg)
+
+![](images/05c38acdb3a7505b72695a8318c46691ddcc1719a89f47c61f5148e34483f5d3.jpg)
+
+![](images/63530b047d7f3ef9d264cca79ce7714c918c64f347745815bd9acbb3bedefba7.jpg)
+
+![](images/3554b4e2580af01bc799f4ebbce57b94f510bc05e977c80a602d903e19ac6ca7.jpg)
+
+![](images/b76ae8b9be38c4439dd973b6b775c263f52497c75564e15758d52658743dc1a0.jpg)
+
+![](images/af45d966f34850ad7625cd9239127db707f8b7a93bd7e6385cb31db0a05db9d9.jpg)
+
+IN THE WORKS OF EDVARD MUNCHAND VINCENT VAN GOGH, THEOBJECTIVE STUDY OF LIGHT SO PRIZEDBY THE IMPRESSIONIST MAINSTREAMWAS BEING ABANDONED IN FAVOR OF ANEW, FRIGHTENINGLY SUBJECTIVEAPPROACH
+
+![](images/173a910d45b43f70335365ee81c43688ed9d503647a909000ec2f6ead90e90ba.jpg)
+
+![](images/cf511238c29f9779994e44dbfc511f4f8ccfa22e9c5b3e7b0a9c357d8ed51e76.jpg)
+
+EXPRESSIONISM, AS IT CAME TO BE CALLED, DIDN'T START AS A SCIENTIFIC ART, BLIT RATHER AS AN HONEST EXPRESSION OF THE INTERNAL TURMOIL THESE ARTISTS JUST COULD NOT REPRESS.
+
+![](images/9ce2f5eb3d09c7ab4e929d4127ac5fb910312a0e99062135e6bb586446afee69.jpg)
+
+NO SOONER HAD THE IMPRESSIONISTS FINALLY CONVINCED THEIR PEERS THAT THE WORLD THEY SAW WAS THE WORLD AS IT IS TRULY SEEN--
+
+![](images/ff50b2b7bc73ddb9c8924428ee584e081575bf0c1f052ac1b68a2bc4b3071dd5.jpg)
+
+![](images/4a9cf0c719990cf37451b9584254e66b9fd0c5a1d3cd2fdee4863351ef4bc247.jpg)
+
+![](images/6262d81aa727d44985d7feaa74631af482dfa6ea12690f978635b290d85e613c.jpg)
+
+![](images/4051e8b161b779a50c9d73b3e97d3be2a29e3832491b460b82d63444fb20ecf4.jpg)
+
+![](images/3bd0fed8ec340f7893171548c7162479b6635133a4e515c57bc7c3b6b7eefc12.jpg)
+
+![](images/c35b2d6b32dca0809c5620843162fbc88ecd51095f32b12bcdd17974785bb5d7.jpg)
+
+![](images/9be282c0407f080ad079f1a6c9f997b3b66937b3eebb232bd1971a2a7d7a7605.jpg)
+
+![](images/8fff1648ad7326f1aea215353fd443a73bee0b9046b0005c1a3fd95fc5ca2bdc.jpg)
+
+![](images/4358270607cc6d69207de91c1a447d4efcfff769553820fc0309b93c1510b38a.jpg)
+
+![](images/c0f3ec50cbcc4ee17ae4b8f1b1dc99d011a5c4f19fbeecc6564c7ba3ee84b773.jpg)
+
+IN DICK TRACY, FOREXAMPLE, CHESTERGOULD USED BOLDLINES, OBTUSE ANGLESAND HEAVY BLACKSTO SUGGEST THE MOODOF A GRIM, DEADLYWORLD OF ADULTS--
+
+![](images/a8e0ffc99ca2f4dea4bbefa86380182ebd430e5cb53443a7265cf623d6b55e24.jpg)
+
+IN THE M/D-/960s WHEN THE AVERAGE MARVEL READER WAS PRE-ADOLESCENT, POPULAR INKERS USED DYNAMIC BUT FRIENDLY LINES A LA KIRBY/SINNOTT.
+
+![](images/2191aa4f60628c30608ceae020022227ba42c59306b134d282b3fd494bfbe79c.jpg)
+
+IN JOSÉ MUNOZ'SWORK, DENSE  
+PUDDLES OF INK ANDFRAYING LINEWORKCOMBINE TO EVOKEA WORLD OF  
+DEPRAVITY AND  
+MORBID DECAY--
+
+![](images/a0562a94cc555f466b02eee5c8b582f746f47d7ced9ac6185c89574af9f826db.jpg)
+
+-- WHILE THE GENTLE CURVES AND OPEN LINES OF CARL BARKS' UNCLE SCROOGE CONVEY A FEELING OF WHIMSY, YOUTH AND INNOCENCE.
+
+![](images/e648f4652456a40b02262bcf69d0cb0f0060e61647c1a109e82ce41969735dd0.jpg)
+
+BUT WHEN MARVEL'S READER BASE GREW INTO THE ANXIETIES OF ADOLESCENCE, THE HOSTILE, JAGGED LINES OF A ROB LIEFELD STRUCK A MORE RESPONSIVE CHORD.
+
+![](images/d9be6fca5cdf62580dcd18631a50a624c95c2832128e2efc124d4c364c5d0ffa.jpg)
+
+--WHILE JOOST  
+SWARTE'S CRISP  
+ELEGANT LINES  
+AND JAZZY  
+DESIGNS SPEAKOF COOL  
+SOPHISTICATIONAND IRONY.
+
+![](images/0ec03e76faca55f5aca1de4cefac4bf33117c56c55658aecf21c302216ad5dde.jpg)
+
+IN R. CRUMB'S WORLD, THE CURVES OF INNOCENCE ARE BETRAYED BY THE NEUROTIC QUILL-LINES OF MODERN ADULTHOOD, AND LEFT PAINFULLY OUT OF PLACE--
+
+![](images/86b50e29b3d69366964f5560617e2df6808dd2e4075535c4fe52f025e72fd520.jpg)
+
+FOR DECADES OF COLOR COMIC BOOKS, THE SIGNATURE STYLES OF INDIVIDUAL ARTISTS LIKE NICK CARDY HAVE INFLSED PERSONAL EXPRESSION INTO EVERY STORY
+
+![](images/ccf4eeb5af612b25fdfff552e2df81bcc6be74446471096f69106110d427b013.jpg)
+
+IN SPIEGELMAN'S "PRISONER ON THE HELL PLANET." DELIBERATELY EXPRESSIONISTIC ZINES DEPICT A TRUE-LIFE HORROR STORY.
+
+![](images/63659648a2e6226b58a2a6bf8f93e46d7591837bee9ec2300aef3ea022774d39.jpg)
+
+--WHILE IN  
+KRYSTINE KRYTTRE'SART, THE CURVES OFCHILDHOOD AND THEMAD LINES OF AMUNCH CREATE ACRAZY TODDLERLOOK.
+
+![](images/283ef34a0b524399a66c7f85c1b4bfd6025b1a5176f6524e1f4813e791dfea80.jpg)
+
+-- WHILE JULES FEIFFER'S UNEVEN LINES DID BATTLE WITH THEMSELVES IN A PANTOMIME OF THE INNER STRUGGLES OF MODERN LIFE.
+
+![](images/6436047f14e5e8ebb3cce04818bfb50f0f9b5068267dcbce71de6341796aa71c.jpg)
+
+AND IN E1SNER'S   
+MODERN WORK   
+A FULL RANGE   
+OF LINE STYLES   
+CAPTURE A FULL RANGE OF MOODS AND EMOTIONS.   
+EVEN WHEN THERE IS LITTLE OR NO   
+DISTORTION OF THE CHARACTERS IN A   
+GIVEN SCENE, A DISTORTED OR EXPRESSIONISTIC   
+BACKGROUND WILL USUALLY AFFECT OUR "READING' OF CHARACTERS' INNER STATES.
+
+![](images/460dfe89a66637ad04afff31e7045cab7d07c8382bdf9e48c4989fca21c990e6.jpg)
+
+![](images/80d504bcc3eba193c9a0e7cce0d03800cf106708906ee9f46a92c70c61d6c0d8.jpg)
+
+![](images/07a92d08c17f4521a2adaef5f589a672063c3a7385cdc8a154bc879da7b9fc59.jpg)
+
+![](images/4ddf254026c5b6b27899776e98f5db897c57faeb9fb0dab0a58557b9efce4037.jpg)
+
+![](images/3cf2a02e284e9cb35e18a5f69280cf08822aa6ad09579c2037175ad700ccb9a3.jpg)
+
+![](images/640e8e44fb2406d2f749de7c418fc909b901862caa7cf9403508a3d569865ea3.jpg)
+
+![](images/7dd344bfb90ea758b3b669ac519d58d54cafa5459785376ca4d2f9f43015bbb7.jpg)
+
+![](images/3932fc3048bfcd100f9d5e467a996def626e774b209d6f87f96e796371f3d3de.jpg)
+
+![](images/fd22e46abe182998c42ae9a8ee7e09cbe5a9434d80d6b982910345d879f27e24.jpg)
+
+![](images/b5ca2199d24825b0ff219aa8b9d4e63fd5cb072725d169e337b002ee60557cd3.jpg)
+
+![](images/0de6a6eeab42c0fc715d3ef08c6c6c9234daf0499003bd5d7f0252fe11b53588.jpg)
+
+![](images/5ad96d7b023dda2baf1cbe35d64c1185b575359cfac781c3247f44e9b961fa5b.jpg)
+
+![](images/dd27f282b2658c17aa31085731571ed2be1777bf1741ce2a132cd69bd4ed6ee5.jpg)
+
+![](images/625fe04613d1003ccf4eb1019b886dc4d876dbc804c8a1f406d3d48b29947eb9.jpg)
+
+![](images/c5a5bdd79c3689a3dc5679aebd222b0fc41ffd649b18919ea61ed4ead122aee1.jpg)
+
+![](images/ff03e21d7db495e4675f19cf7a46a5b61bd8060507c10f93404a98f6828e0e8d.jpg)
+
+![](images/6f5cff1a4f0da78487dc9e70d33f930f96f6a1bf50f36d6f2bce4ec619e64e2a.jpg)
+
+![](images/0f09f6d7bf70354c1733d4b1b6569fc3bcb6030a363f38c24f4836547d6e9bf8.jpg)
+
+![](images/429da259884b83652f7b2f12597af81fb513bfd87aabb643374f4db1607ea881.jpg)
+
+![](images/5ed3ec49b58f584aaac0730aeca120a973067bf712fe48245ec0a9a4f2b739ef.jpg)
+
+![](images/c0a3aeead20e826e3a5f44fff8bad0491d13b2da981131c170c891c8da383f79.jpg)
+
+![](images/cd9e982eb837103778ca59fd2899a48a5f23215ec28da81f63c8a83c8e0a1180.jpg)
+
+![](images/b4da06538b00ea2a55cadb71c5a3cb6b1a92eba97e159798f8d85bdfab30832c.jpg)
+
+![](images/77e182e2d2e91bad7a6e13fdc0b641bf173681459b03a6ed92296159d4be5d86.jpg)
+
+![](images/6f327dd0c795ef5c4bb2976ac56f0c57da4612ac4641345851541b9f77cac3bf.jpg)
+
+![](images/d2f0d79e47f493601e228405e84f429016e1e6bfa46615d5b6615e1d334e2eaf.jpg)
+
+![](images/7627774df4588c4322be4bb64808f70e1ec29b92b41ddad6da04ec4343ee89d4.jpg)
+
+![](images/ff1c78b42ed1a2de922f45fa30c8561ecf1296a548c131b1a9c9be2bad7d7bd1.jpg)
+
+![](images/df693add41940b61ae1cf0cb365781dafc674955c9c42f727d6ed0ba2d535bb3.jpg)
+
+![](images/756477b2b0074f3fe4de43190db79f3e4829efc6606c82eb2d8b85fa5981a85e.jpg)
+
+![](images/c187ac3c072b0e7bda3dd044d7421588b280cf146831be41158a0a195b5d212c.jpg)
+
+![](images/d224fba8413dcee15c509cc6f72c849a59a50a0e3890074f7f25d3fbabe738c8.jpg)
+
+![](images/d75773331cc67908608933ac418a9d36bd9fb3c815fc276605789a065ac34435.jpg)
+
+![](images/1eb2ade84ad0576550fbe49caed3f70d1d108bfcf5ad7213493960ede596a1c6.jpg)
+
+![](images/f48b0cd61c78ec9dfd8d6d5aab50afda551a135dc14d81cd2adc2a3c4c9814e5.jpg)
+
+![](images/ba659d53a9c2b4dc64bba8c6383476b8a1f16ef0e0ecce235fa0d7351831028f.jpg)
+
+![](images/3bb3a8b7a208c474ddbd0160e3b1ee42eca40dc86e195bbf228423cfceb64fc0.jpg)
+
+![](images/9bc9e1e96512aa9a47898852a96763b17b9871a489fc21b75501413507cf5116.jpg)
+
+## I SAT BY THE OPEN WINDOW, HOPINGTO CATCH A WHIFF OF THE OLD CHARCOALGRILLS. FROM NEXT DOOR CAME THEOTHERWORLDLY HUM OF TELEV1SION.THE OLD CLOCK STRUCK A LAZY EIGHT.
+
+![](images/be6ecef99b6e820b0ddba362ad39d037319fe79ae7dd4b24135999994b543391.jpg)
+
+## WORDS, ON THE OTHER HAND, OFFER THAT SPECIFICITY, BUT CAN LACK THE IMMEDIATE EMOTIONAL CHARGE OF PICTURES, RELYING INSTEAD ON A GRADUAL CUMULATIVE EFFECT.
+
+![](images/47c762634fe48ef35047f0b93c5a5ad03c4e135de929eddd02921a611739fb7f.jpg)  
+WORDS CAN TAKE EVEN SEEMINGLY NEUTRAL IMAGES AND INVEST THEM WITH A WEALTH OF FEELINGS AND EXPERIENCES.
+
+![](images/e1c9593573025d3ba1663329ffc02c071bf1b67d11400995fe69ea82ffd2ecf8.jpg)
+
+![](images/f073fe676142e5f69a2b906126eae28ee3281cdeccc440299a63524eaf9fdfd5.jpg)
+
+![](images/2252d20f9d94147b71d5577b510a7cbb431e5eed7f993d8ae3ce6ff312572b1b.jpg)
+
+![](images/89e6300b660f3780b54ec647a325a84e79fd462ea6d309183d7a935dd4d22717.jpg)
+
+7PTHAUCHT ASK OF ONE SENSE PERHAPS THAT IT BE RESPONSIBLE FOR CONVEYING SUCH A WIDE WORLD OF EXPERIENCES.
+
+![](images/1a19858d4803bcf3131cc59387cb93c5c0d280dbd7ae973c4bb4d9cf3f2416cb.jpg)
+
+![](images/d0007aa1b779a84e95c093e7b5acfb31e2c3b00c9210d1665a52db4483f26c26.jpg)
+
+1 BUT WE MAKE THAT PROCESS WORK BY BRINGING THE FULL POWER OF OUR OWN EXPERIENCES TO BEAR ON THE WORLD OUR EYES REPORT.
+
+![](images/56c1b76346720a4fd388d27516663e9244c051778a79774db05c7bf208282d29.jpg)
+
+![](images/46d2f28098b62432c10c293393a10a5205bd37491b37cb8f1a3d5a2c4781a887.jpg)
+
+![](images/703e97712303cfb6360ce88994d5ed1022937182b9c1367790ce4e298cf4cf71.jpg)
+
+![](images/e4548e9dcaa4c00416da0e069a3dd47016a7018534a70047ff4132670d282c8b.jpg)
+
+![](images/fef87a97d9b7019d31cbd1f9117704878caac2429df4b08165051274159d5e73.jpg)
+
+![](images/10e8bf69764d9a6c345d832dc35246773af6e44b22cc152eae5bad9742450819.jpg)
+
+![](images/2ad008eb3a389dc0a0e2186f21f916d886f1ef1457f15fa22ee4da50eb00e174.jpg)
+
+![](images/2543f88db7029cfbd948cda3ae383479afd41e84d864b126f52c680ddae2d6b5.jpg)
+
+![](images/32eb1623bea2fe6515aa8b56265e83d80395e7653ecc2c5ba19ac065a7ab7860.jpg)
+
+![](images/673370c611fdd4bad7ebfef150c978c07d554b57f00c2b196a283a3fc2045c2f.jpg)
+
+![](images/3b6fd3687a986428c742f0315cd9a9372518f74bbf7c3647304f28cfbfb8b22d.jpg)
+
+![](images/06b436f94ab79888bc1c1d47fd2e54cc3024878f57424a8668c7726ab3e44486.jpg)
+
+![](images/df47ae2783b42c546c394e5a197d49e51789c856ca88004a238d70aa0a47c2a6.jpg)
+
+![](images/0bff596f0d02a2fda076449b71facdbac7a50055da42a5f077c676817f515dbe.jpg)
+
+![](images/1b4ee04b728ec5d9d983440e5b80ced23c38e0942e9c37ea05486976b6f961f3.jpg)
+
+![](images/99fc5074063d79ea30f898442a4aa76e9e06d9c1d024144016d1ee739de8236d.jpg)
+
+![](images/c2de72d64bb88930539390562b5cca133d70102164666a746d3e7a5dd609c81a.jpg)
+
+![](images/62eb96ed9575ca70d6460886ef87e81cffe782e6f64bfb9c9b188c65f8488868.jpg)
+
+![](images/cfb746f86d71972b3e006f2a24dc745e3c927b62ecc9ec663ac88ad83852e2b4.jpg)
+
+![](images/c396d32329bcbc90727481b1784a92b5dc6ea76619bf14211c568ef95fb948a0.jpg)
+
+TRADITIONAL THINKING HAS LONG HELD THAT TRULY GREAT WORKS OF ART AND LITERATURE ARE ONLY POSSIBLE WHEN THE TWO ARE KEPT AT ARM'S LENGTH.
+
+![](images/540b33c0cd41dba691c3b472faff068e082e5db0062dde822f1c4e803697f639.jpg)
+
+![](images/4adc1e39b1e7304e87bc45ec90585ded11b81639384497b118f46b7f49ffe8a1.jpg)
+
+AS CHILDREN, OUR FIRST BOOKS HAD PICTURES GALORE AND VERY FEW WORD'S BECAUSE THAT WAS "EASIER."
+
+![](images/9be11ca8386a1667f82f99bb436bffc316755ffc0dc8ee3a6b312828c1fd0d10.jpg)
+
+THEN, AS WE GREW, WE WERE EXPECTED TO GRADUATE TO BOOKS WITH MUCH MORE TEXT AND ONLY OCCASIONAL PICTURES--
+
+![](images/2cc741db6d29f133ba1faf85053d5dc160362443731d7eb4a5b65261612fb7e8.jpg)
+
+--AND FINALLY TO ARRIVE AT "REAL" BOOKS -- THOSE WITH NO PICTURES AT ALL.
+
+![](images/f6d9ed8e074885350576a69bce86a26465c00e575a47774964ba4349b9b62714.jpg)
+
+OR PERHAPS, AS IS SADLY THE CASE THESE DAYS, CO NO BOKS AT ALL.
+
+![](images/406e928dd396c7ed3415ad0ad1660e04314041e8be372bbe1f193dd6fe37e246.jpg)
+
+![](images/78018472fff8ddc135038e7f62f00aec70a2d3943ed4a19bc47acfbebfcb556c.jpg)
+
+![](images/4d7815c588497f0f8fe0cd07a49b6cd619e0cdf0547785a6bf1ffca5f4d0fd29.jpg)
+
+![](images/16a90348a3d751a30ba0ea8b8baccce7125a8a31b174398ed1a15656de9ded14.jpg)
+
+![](images/8ac4136ba5318f38141f54e24bfc41dc39e38adb2d84b7c15f4b8ff7ddc09b02.jpg)
+
+![](images/a51ac36131d20fd0fdf63d945cffc3493011197970a3ff526611e1421ec82a90.jpg)
+
+BUT OTHERS WERE VERY ICONIC,   
+ACTING AS SYMBOLS RATHER THAN PICTURES--MORE LIKE A PRIMITIVE LANGUAGE!   
+BUT THOSE   
+INSTANCES WERE   
+BECOMING THE   
+EXCEPTION,   
+NOT THE   
+RULE.
+
+![](images/4fdfa82240571545fa3c0c30dae638b1b337c1f62a875b0e8e4fa8ff9738573a.jpg)
+
+![](images/2ad63370006788e0bcbc7e73ce1e0995c2c817929419188b41d042f845b70900.jpg)
+
+![](images/7d4abb700168ecace4995a4a8ae93da1c6902085ac0056ee3d8b84cda4bae1f6.jpg)
+
+![](images/a0cfde9492b35f724ce20d360eda8267fcb2f8d7f00835e134400f85279ec67f.jpg)
+
+![](images/a76fff23cb001d7857b8b68c89e8d6f8ef0403b351f8dee2b22a4c0f3c0ff2fc.jpg)
+
+![](images/0421a47777db3d812258b05c71d761bb7b4cdd96e7b7505d7cf828ed4683aec1.jpg)
+
+![](images/827df854aaa2294f5773e7f39dd4f8d025274f3796145428a6ab1aef90789ce6.jpg)
+
+![](images/058e79f90c91e1d65e34765024e660f8021611324d81b28d9074931872593c5f.jpg)
+
+![](images/76a566b6a002a515f3643cb3edfa26e9f42999bd06eaa128cc8d1c839f3aab0f.jpg)
+
+![](images/4fb537b779c8e3e0c2def0589040a80b1197fd1936a0e26cef0f6291dc0b4706.jpg)
+
+\*IN ILLUMINATED MANUSCRIPTS, FOR EXAMPLE.
+
+![](images/df1852eb872109d20e06e35f5d851e353c5aab343fc665312cedfcfbcbc975af.jpg)
+
+## PICTURES, MEANWHILE, BEGAN TO GROW IN THE OPPOSITE DIRECTION: LESSABSTRACT OR SYMBOLIC, MORE REPRESENTATIONAL AND SPECIFIC.
+
+![](images/f8e90faf7831b0ff983c26c528e286a6a3b20e6ab60ebfe23cc145a1fc515190.jpg)  
+FACSIMILE DETAILS OF PORTRAITS BY DURER (1519) REMBRANDT (1660) DAVID (1788) AND INGRES (10-15).
+
+![](images/88e6bd8c7493906687054ea839c9dc87da5430e53c87a5f3ebb3ee1fb6641ae8.jpg)
+
+BY THE EARLY 1800's, WESTERN ART AND WRITING HAD DRIFTED ABOUT AS FAR APART AS WAS POSSIBLE.1
+
+ONE WAS  
+OBSESSED WITH  
+RESEMBLANCE,  
+LIGHT AND COLOR,  
+ALL THINGS  
+VISIBLE....
+
+John Keats 1819 Ode on a Grecian Urn
+
+Thou still unravish'd bride of quietness, Thou foster-child of silence and slow time, Sylvan historian, who canst thus express A flowery tale more sweetly than our rhyme: What leaf fring'd legend haunts about thy shape Of deities or mortals, or of both, In Tempe or the dales of Arcady? What men or gods are these? What maidens loth? What mad pursuit? What struggle to escape? What pipes and timbrels? What wild ecstasy?
+
+![](images/1f3b5257d33ce451a89fb7adaff28a733bc6f4c66bfc88d14ac1fec20649fc3f.jpg)
+
+![](images/f13ef3139f20c4c6a068fbb1c58f2cfa2e00f2b9b945b4cca6c31ccf565ac561.jpg)  
+H R UALITY... PH
+
+![](images/9bcfe3cf0c2a6baedfd6023b07ebaa5aee9d010dc5f59e4f7d65447be6425f75.jpg)
+
+![](images/94d32c481848b5cdaafd848214af4d7c0e4d7eb5cec8d5e4b278ef0bb2e83082.jpg)
+
+![](images/9e8bb86539ff35b3d95aeaeb912f6b389e55149cde955887a76ff67d70258b03.jpg)  
+IMPRESSIONISM, WHILE IT COULD BE THOUGHT OFAS THE FIRST MODERN MOVEMENT, WASMORE A CULMINATION OF THE OLD, THEULTIMATE STUDY OF LIGHT AND COLOR.
+
+![](images/9119fe95a1b914b0757d645d782071373655a84583b40316174a6a5d6090f79d.jpg)
+
+![](images/fb29ec8a1cf583aaf9e0708981a1b14516522eb380db161a128af64ec9e25061.jpg)
+
+![](images/77e6fd42dcfaa2fbd512d83815b35f468dea88519ac2a6440036739cea8255d9.jpg)  
+STRICT REPRESENTATIONAL STYLES WERE OF LITTLE IMPORTANCE TO THE NEW SCHOOLS. ABSTRACT/ON, BOTH ICONIC AND NON-ICONIC MADE A SPECTACULAR COMEBACK!
+
+![](images/ee5263e925f9b66b2149a588ab814f5d211729bbd9f6b96f5cf8d8037590efbe.jpg)
+
+![](images/8db6a1edd545b3c34aad82abbb07bbc6795e302e5aeb18d6ae60b63b17aab987.jpg)
+
+![](images/70e6515807912d0c83401e17d4f7bfa3f73f50c122597f9237ff7ee323a9e216.jpg)  
+FACSIMILE DETAILS OF PORTRAITS BY PICASSO, LEGER AND KLEE.
+
+![](images/009128fad744582091d7b5871eb3efef158606d7f3d6c333e31a857250292e47.jpg)
+
+MEANWHILE, THE WRITTEN WORD WASALSO CHANGING. POETRY BEGANTURNING AWAY FROM THE ELUSIVE,TWICE-ABSTRACTED LANGUAGE OF OLDTOWARD A MORE DIRECT, EVENCOLLOQUIAL, STYLE.
+
+John Keats 1819 Ode on a Grecian Urn
+
+Thou still nravish'bride of quietness Thou foster-child of silence and slow time, Sylvan historian, who canst thus express A flowery tale more sweetly than our rhyme: What leaf fring'd legend haunts about thy shape Of deities or mortals, or of both. In Tempe or the dales of Arcady? What men or gads ore thosel What maidene logh?
+
+Walt Whitman 1890 Facing West from California's Shores
+
+Facing west, from California's shores,   
+Inquiring, tireless, seeking   
+what is yet unfound,   
+I, a child, very old, over waves, towards the house of maternity, the   
+land of migrations, look afar   
+Look off the shores of my Western sea, the circle almost circled:   
+For starting westward from Hindustan,   
+from the vales of Kashmere, From Asia, from the north, from the God, the sage, and the hero, From the south, from the flowery peninsulas and the spice islands, Long having wandered since, round the earth having wandered,   
+Now I face home again,   
+very pleased and joyous;   
+(But where is what I started for,   
+so long ago?   
+And why is it yet unfound?)
+
+![](images/ef4ba52488c9c2166b30ea79af9e857164f1c606e89150b30b62972c91d89321.jpg)
+
+![](images/959a727876de71e38ebf8fde347d6c765c6f519ec15c73e55c489c5a79c33111.jpg)
+
+![](images/df8a8821e63b41573bf103082ad6b386accb1203339523f5fc1117ac5ab227b3.jpg)
+
+![](images/e7e1c9927ca3305af4e9e73aae12494269363c0bae3cc2fffb0e3c8db500cfe7.jpg)
+
+![](images/00229ceb3e5b89570f77be4898217bd647c3647c525003fff31c0ea28ce6077d.jpg)  
+DADA POSTER FOR THE PLAY THE BEARDED HEART
+
+![](images/d4e9481d1a507b5391688bbbf6918482b4a347ccc8739f999258a7f27b8c1b72.jpg)
+
+![](images/9217783fed8d29a8850a56674330556a80353b8a7c0eed27a3ef42e250d8ca77.jpg)  
+WHILE SOME ARTISTS ADDRESSED THE IRONIES OF WORDS AND PICTURES HEAD-ON!
+
+![](images/8e7989279e2255924778ad36911766f68035a7aebd5827e58dbc8646e8d0615c.jpg)
+
+![](images/fcd8d062de60b8465b65c90b5a744b19f11a6a1b7afae4df21c421f561fcd10a.jpg)
+
+![](images/85b15afb544d1f6a9205025454688431efff33b0a1f9ab30c9627d04dbd70942.jpg)
+
+UP TO THAT POINT, EUROPEAN BROADSHEETS HAD OFFERED REMINDERS OF WHAT WORDS AND PICTURES COULD DO WHEN COMBINED.
+
+NOWHERE IS THIS COLLISIONMORE THOROUGHLY EXPLORED THANTHE MODERN COMIC. AND IT'SNOT A RECENT OBSESSION.
+
+LET'S   
+GO BACK TO   
+THE EARLY 1800'S   
+BEFORE ANY OF   
+THIS HAPPENED,   
+WHEN WORDS AND   
+PICTURES HAD   
+DRIFTED AS FAR   
+APART AS   
+POSSIBLE.
+
+BUT AGAIN IT WAS RODOLPHE TOPFFER WHO FORESAW THEIR INTERDEPENDENCY AND BROLIGHT THE FAMILY BACK TOGETHER AT LAST.
+
+![](images/891500e42762c21f1ac6c86b9e32f29f29b53e3e9d463612e51b5f805afa5ba3.jpg)  
+M. CREPIN ADUERTISES FORA TUTOR, AND MANY APPLY FOR THE JOB.
+
+--BUT THE FACT THAT THE MODERN COMIC WAS BORN JUST AS ART AND WRITING WERE PREPARING TO CHANGE DIRECTION IS AT LEAST INTRIGUING.
+
+![](images/03034b7b177aff5e0d037c62ec290001369c6ff34785f435a03bc170e5b3e302.jpg)
+
+AND PERHAPS THIS COMMON THREAD OF UNIFICATION DID GROW OUT OF A SHARED INSTINCT OF THE DAY...
+
+![](images/eb55c4068a439e21cdf8a2d9315afa8e05bd0e1e576bea544fdc627237e5dce3.jpg)
+
+.. AN INSTINCT WHICH SAID THAT WE HAD REACHED THE END OF A LONG JOURNEY AND THAT IT WAS TIME AT LAST TO HEAD FOR HOME.
+
+![](images/6905ec766bdfff3a47a4fc48a190c0c6761c2409d1fb08c551697dac13481fab.jpg)
+
+![](images/5000b6464acaee722137645360e89e231c08715f62ded7619947807148d99895.jpg)
+
+IN FACT, THE GENERAL PUBLIC'S PERCEPTIONS OF   
+"GREAT" ART AND "GREAT" WRITING HASN'T CHANGED   
+MUCH IN I5O YEARS.\* ANY ARTIST WISHING TO DO GREAT WORK IN A MEDIUM LS/NG WORDS AND PICTURES WILL HAVE TO CONTEND WITH THIS ATTITUDE.
+
+![](images/e3a554dfb0018fb8b40ab4433eebd22713b5b1e408a5a8494b3389aa45c46fa0.jpg)
+
+Thou still unravish'd bride Thou foster-child of siler Sylvan historian, who cans A flowery tale more sweetl What leaf fring'd legend h Of deities or mortals, or In Tempe or the dales What men or gods are th What mad pursuit? What What nines and timbrels
+
+![](images/c97a0a358b8b9b963ed4c8b84a3cd8a4654513894a471b94a4e7055f6723826d.jpg)
+
+..BECAUSE, DEEP DOWN INSIDE, MANY COMICS CREATORS STILL MEASURE ART ANDWRITING BY DIFFERENT STANDARDS AND ACT ON THE FAITH THATGREAT" ART AND GREAT" WRITING WILL COMBINE HARMONIOUSLYBY VIRTUE OF QUALITY ALONE.
+
+![](images/1059004604dd76605d9640ee0c0da73ad6f9649dc5a83b0bc13786ff7046181d.jpg)
+
+![](images/29f87544989bb7a6e1abe57e5e99448f616c3278aede69df0235cb05cf368835.jpg)
+
+![](images/f27644300545f31f0dd8fa46644764345525c9a3178c8ec544350c915ad1b185.jpg)
+
+![](images/3a12e363e4d19579fd491d95e4a64deadb256220c7dde5794cf0985b51759047.jpg)
+
+![](images/c6f20c28d3739966338af8ad23ae1a0e82e5d9efbb0666cd750aee2962543006.jpg)
+
+![](images/8701e53d02476bc421b7171c6be9488935768b258ab4a045b40ee4a7ae9b6377.jpg)
+
+![](images/012578a7acd9b0217d5edea580a9711f1b42620fb6ce28238f13de5e48172180.jpg)
+
+![](images/96a1d5e08a982b00537cca4eb4d3248fc0037b4a6dd616dc208f1944157d2339.jpg)
+
+![](images/75a7c5c5bc8a420c65fed719aeae8d70806f335bf07bc45b81f2646783fc9d74.jpg)
+
+![](images/e814526af0a24537bdb0ad46e9869a22798bd4c60ad770d0ea16ea876b7fef76.jpg)
+
+A HUGE RANGE OF HUMAN EXPERIENCES CAN BE PORTRAYED IN COMICS THROUGH EITHER WORDS OR PICTURES.
+
+![](images/1fe1fa0ef2c08195a7411aa53d9a2c26615d08de915162d6700d4954f6c44bb8.jpg)
+
+![](images/fac9930bcd7e8c0a935e83c9fc686c22e745cefc46cfdecdeb4d8ddd43452005.jpg)
+
+![](images/34f9d378f5a75bda2fb6ff3c68c73ae6a502bdeba8c389fc93f97b36d53378f9.jpg)
+
+AS A RESULT--ANDDESPITE ITS MANYOTHER POTENTIALUSES -- COMICSHAVE BECOMEFIRMLY IDENTIFIEDWITH THE ART OFSTORYTELLING.
+
+![](images/2e681e43e3f850fe4d0ba5065602b725a6f8c80af35f9a8dd229e7bc62320969.jpg)
+
+![](images/22f559824bc747f04d9df5450410fbfe8e74cd7332a103d818c0b2d07b5e8c98.jpg)
+
+![](images/47f4bb94bbe7515ca213ff71c6c4331668a6819445a5079f3db00496e1986bdd.jpg)
+
+![](images/20c196685d190c9358a7e78af69c13b06c60b93500da5eebfb5babe8b9c81d2e.jpg)
+
+![](images/237036f437514f3ca12fe8dd9d9fb4600f3f31a22b02c0d52f7fd2d2c68af51b.jpg)
+
+![](images/f186e910e60da5f78f9e37f86ec73f38eff92b0462917ca3e3bb4fc583972a9e.jpg)
+
+![](images/e65deaf7a67e4f73f0c7ecc3f5a28d93a1f208d77f27ad64d539b50507309f40.jpg)
+
+![](images/8b1c26442968528c2ded1b518a0ddf3e8688338759ba9a413718907ce5184095.jpg)
+
+![](images/fa77a3a9983b84e12412b6fd811227ebe672fff5846cc20fa7018fa9097a0992.jpg)
+
+![](images/5f004f4b59cbd2456abb92de4a81978323e4f94535aca638e2c3a71a8f9262b6.jpg)
+
+![](images/36804ff4ff4625f9a93ff2b4a33968631a901be1b1747285102cacb934416405.jpg)
+
+![](images/4ec24f2f89ffc307f208578857916dad8ccd585b52625fa932d29e401f8c9e26.jpg)
+
+![](images/f6dc613813b8ed461e73d222bcf8d844b3acfcb3394d18c3be152c922453269e.jpg)
+
+![](images/a0afde3242f358b893621278dbbd64000d84bf730089cb5f54735e0409c767fa.jpg)
+
+![](images/284069439d4d2b9b96afcf70f1fc7c6267b5c316ddc848ee2abecb47dfdc8ba1.jpg)
+
+![](images/ce52d208f8cfeeadb0f63b7eba2414785ae0992725a6014e594f037e47642df2.jpg)
+
+![](images/2452b1f41611b000c0372554a5148030182f41cdc429da9180351a919a64ab0f.jpg)
+
+![](images/cb79a580a91f762448189e9abe6cf02ad439e54a3e080d351492391f3587739b.jpg)
+
+![](images/97473d126fc822583714a2569b411377f56afcc51ccc5000fef2ce7de66016e3.jpg)
+
+![](images/631f10347b2b085ce755f57cf965c5547f0d27757e6faa43f37bcca2f970bf52.jpg)
+
+![](images/22055cf456de48c8d9a99d1e0b9bdcc3b053dd441679a702cc9b714ee64e8225.jpg)
+
+## IT COULD BECOME AN INTERNAL MONOLOGUE.
+
+## (INTERDEPENDENT)
+
+## PERHAPS SOMETHING WILDLY INCONGRUOUS
+
+![](images/4d9f3b0c7869f883fd410393d192d15c1502570f83a61308fd697e98438d5e61.jpg)
+
+## PARALLEL)
+
+## MAYBE IT'S ALL JUST A BIG ADVERTISEMENT!
+
+![](images/dad5f32e35f5e27c3875c0371d9eba8d2e87c546eb65c328207cf2f5f57a1ada.jpg)  
+INTERDEPENDENT
+
+## OR A CHANCE TO RUMINATE ON BROADER TOPICS.
+
+![](images/296dc486fc93b4651cc79a5061a6e8aa4034e2db28b9998fd2a37101c2a64ab4.jpg)
+
+## (INTERDEPENDENT)
+
+![](images/998b24bc478757db2355171df1aff317827c5832f71710573a5cdec2b4acee5e.jpg)
+
+I CROSSED THE STREET TO THE CONVENIENCE STORE. THE RAIN SOAKED INTO MY BOOTS.
+
+I WENT BACK TO THEAPARTMENT--
+
+![](images/3fb3bd23657e73c029d4978f35e1865f0d25994a0bfd3944cf86c1d757b1331c.jpg)
+
+I FOUND THE LAST PINT OF CHOCOLATE CHOCOLATE CHIP IN THE FREEZER.
+
+THE CLERK TRIED TO PICK ME UP. I SAID NO THANKS. HE GAVE ME THIS CREEPY LOOK..
+
+--AND FINISHED IT ALL IN AN HOUR.
+
+ALONE AT LAST.
+
+![](images/fdaca0d31fc6a06fcf8b431a9dda25c91793a4a3f4485f4a4878d2f8735da0d1.jpg)
+
+![](images/da47132a84b824978430932a1d47f81145a8614553333be143081b0dec3c4f5e.jpg)
+
+![](images/e884ff2c5f2fef4c8440fb421c40acc5834904fca5430963e120085620bffab4.jpg)
+
+## IF THE ARTIST WANTS TO, HE/SHE CAN NOW SHOW ONLY FRAGMENTS OF A SCENE.
+
+(WORD S SPECIFIC)
+
+## OR MOVE TOWARD GREATER LEVELS OF ABSTRACTION OR EXPRESSION.
+
+![](images/ec2270b575d463e9e2a812b891b46b4cea30184b9984f45028f146e169f1cae1.jpg)  
+(AMPLIFICATION)
+
+## PERHAPS THE ARTIST CAN GIVE US SOME IMPORTANT EMOTIONAL INFORMATION.
+
+![](images/1812bfc69482927c5704feef08e4530ffecaf7a6c848eac3c398b4bd30468980.jpg)  
+(INTERDEPENDENT)
+
+## OR SHIFT AHEAD OR BACKWARDS IN TIME.
+
+![](images/2105c5504ef4f2f88b932930b8b32b5594792ddee6c67064c3efe15992bbcac3.jpg)  
+( WORD SPECIFIC)
+
+![](images/a8c24f6613acc14c11493c6c7264f5199da3e4c787227bbb7b892dd5d8f3885a.jpg)
+
+![](images/bc9d332b00e4fde3ff09df5b32f94e1d8782a5996d8eff2768164468b252263b.jpg)
+
+![](images/71c363b047f8b011fc63f69952e0dc9f52eb4c8de612107aae93bac93e8891aa.jpg)
+
+![](images/946e94315671e8059c41b785d95b6868203f12844bbd6db3d138ada85fd2d44c.jpg)
+
+![](images/dba7f1840bf855087c072a3b3936e0f1b0377dafd2f759f0d1b35f6fae8688d3.jpg)  
+-- WHEN TO TELL WAS TO SHOW--
+
+![](images/7161ecdbc47c9cd709e90e851f4861881b0ce791a0e754700b1c48bbec35776a.jpg)
+
+![](images/5d4862b55bb32e08f97c7db39baac72d0c1370e3342c62fe35d03af33fb154cb.jpg)  
+--AND TO SHOW WAS TO TELL.
+
+![](images/866ce3015cb60627aae94b61ecbefd105cecbe1c907a78d82d9245fecb6d6a9a.jpg)
+
+![](images/c54492c2b2edb08cf450d7b0218a667b673ef1f213134753f72bcd6e6dfd399b.jpg)
+
+![](images/eeaccf209075768ecaca0687c053a6bdad4ee107325e354ea38df3642ab99a27.jpg)  
+CHAPTER SEVEN  
+THE SIX STEPS.
+
+![](images/29df0ae8324d9323f651f56e8f23d4a6543ae0e84b2d3f5a70f1615b6fdd90e4.jpg)
+
+![](images/b9e5f26109813e7187c816f4feabb36b6fb9d6a7a878dd4220d005cc420eb401.jpg)
+
+![](images/f63688cd6d0669cb69d2518e67b91f046e683a60b37bdfdc25d1c9c122e44801.jpg)
+
+![](images/e7720cdeca9cffdcdc8569f011ec28c9f4704855d3ef06ef08c97541d8aa693d.jpg)
+
+![](images/befea305220a7f94270422719ba8fea8b5df186dddc75b9e3b3a53ee5ce7ebcb.jpg)
+
+![](images/a781e247bc24b8ca8637b1d94c2b0ecb6e9f0e6a9cb3d0e4381f67002cedec25.jpg)
+
+![](images/71a63149a48e60eb43adbb06df4f0fc58521f337c022a8018cf6247fe2e4f38c.jpg)
+
+![](images/09c8b9f3b19af8131d4a6bb0065cf9f8ffcc6cc4ace5720b4d01ebfee4bee79f.jpg)
+
+![](images/5c7c9b6394b2e2c2e5a8933f892462bc441a8615c3a0ebfaa41565ed53918987.jpg)
+
+![](images/ed34530f5b61763ebcc06756c4dbc946194138a78bb407106661a7663cbd79fc.jpg)
+
+![](images/e17b6d22a231b5cfca0aaad3b28e5fcbe555aae0968b680096656765ff9cedd4.jpg)
+
+![](images/4ce7f52b8f274528c98e43d2fc172ec4ac323915289d1662576c025e351ecd6c.jpg)
+
+![](images/a46c15bcc24242b9775607ecfb1d98cdaa3f422c6394bd243be1dbf3c1bf8700.jpg)
+
+![](images/96ef25b3736fd681ea5ba6a170ac89a603eb62c176137f40334dde635c64bcb8.jpg)
+
+![](images/d8619ee4f3992568a827d045f0963c84f64744f0c0d1b7fb72bb5d622856fff3.jpg)
+
+![](images/f3911bc9b5f6a86e31fe164c1fb903355a1d078f38452d0dc26c27316d0240e8.jpg)
+
+![](images/89f6221d04e8c6376c67697ea44dc527d9c5db1d579fdbc5401bced07ce3e4ce.jpg)
+
+![](images/a832230a3a30a8c511f70556193395dc70508718dfa39017ef8bfd61494290dc.jpg)
+
+![](images/e9ba8f2c2a6400009fee56a7b957d043391d1dafb94a8a09c82f8ecff6ab00dd.jpg)
+
+![](images/de880f5cf739c1fe66266dbb3e7607ace2eca7411f2b7bb5eb331497f6abdf51.jpg)
+
+![](images/c6b631ff20abb68394b7fa4e8a3a2580f2d503b1ee523743d65be9d2c95d32ee.jpg)
+
+![](images/3c5ba3c8f6d7507310164a3a32c90e6bdbde461d9d2e42dd6ec26297ee49d732.jpg)
+
+![](images/9e392b4dfd55e78a7df94629d5baebc0a310e634b7b0133bd7103ebe40419986.jpg)
+
+![](images/f24111bc5f5de1c93635da5a2346466280f1624cb88c8e2f58feead1248e7b4b.jpg)
+
+![](images/c6dde6960a7cbc1ca0b2c05f8dfe01126b1b07674dc5752b387fc69c17b5d229.jpg)
+
+![](images/b2c7dc99da8bde9c812b896cb44e0e16428006654177808090a02927c811c684.jpg)
+
+![](images/0c4fd1baa875b49c833a46070d380e5e6d23ae0170eaeb4d16f0ebb05f4feceb.jpg)
+
+![](images/d292829809d9ed768560da1cc1bce6d66f9ab796c0af46a31732c041893979a0.jpg)
+
+![](images/e843fdc3e7e4f935eed84e341093067211dab80f6ea3bf164702675b7baf5dbb.jpg)
+
+![](images/791cbaf759dc1de461a43e11ff307112b952a98ccad89a21c46e43d11f231c51.jpg)
+
+![](images/2458f15d7c2facc9c9239fab0b0beb35dfca8a7eb2386fe7a58220f2815a195b.jpg)
+
+![](images/04ef2297de56d1746195f5a521823d57acf58e036ddee52a0c2001d194ffafa5.jpg)
+
+![](images/d66101dadea2c89620d898dd8e93101580e354f098730a7bea7a6fa9da32ea6f.jpg)
+
+![](images/b2aea0df56ed58cc2a2182df5937658fbed6901d1285653659cdd247617577f5.jpg)
+
+![](images/ce047106034d2b9b20d3b90eb268b732df39055b42226a19bcb3f6817801e4ee.jpg)
+
+![](images/df97f935995ba73a7fbf80fe7c888e0c205a12d9b28223bf6f208e9b0ef3fcd1.jpg)
+
+![](images/9e17ef30446541cc597c7490461b4eac2f624ba219fe3457cf258d985baa9de8.jpg)
+
+![](images/ce1316f7c8b6c0243b05225ed08958b91d679d4f3cc4f7bc6dab23aa3f969cb8.jpg)
+
+![](images/3a4badef87696b09a36944f68425453e0907d86cbcf55f17b275a31f768ee50d.jpg)
+
+![](images/e1fa22703450480592b2e224330f705a2802951325f8a7abda6c31384ef1a7a0.jpg)
+
+![](images/32412b3afb5655a112fed74cb67fb1e509f50a1a76fb6758fa5c5e624c1637d7.jpg)
+
+![](images/96c84144c276c485c29b58a390dc8a0ae3ed6d467a20457f3b714207ee1f4c65.jpg)
+
+![](images/33d3152fee33b3608b53247216f607f00b3d3f19e204950b18ba8b8427a0a745.jpg)
+
+![](images/710b02dacc662c56d28acf38eca142e4164bdbe92861c0c9c7fe9df0cc1e1ea9.jpg)
+
+![](images/9596b06a2da22e25184da4cc29ab8113c4efc70c8316c7798f03cd2f02d13084.jpg)
+
+![](images/08f711830f99474cf6a8a92e7475ce0e3a929b659d2618820bf7fc1f7116c622.jpg)
+
+![](images/41d73cca1ff3d64434bfa4b98648a6f05dc50dad02513eb7dcb9afdb31610a22.jpg)
+
+![](images/95e2e2a583d3c5da52d10d17264ede539522b75b2cbd36d9143dd2114bcef57b.jpg)
+
+![](images/19fb0766ddf2a09d35266906a6840e125e49c568d88f1efe3cdf0d1c545e92bf.jpg)
+
+![](images/33fc50917fed6aba7f6d678cfc587e631772d64e02f2256fd752ede8f432f92d.jpg)
+
+![](images/86b99bca402ed2501f03c99db049d351ac1198d90bd483cc692dc2b64b9d3047.jpg)
+
+![](images/302b12d81ca3f9a013ac39a4a8fb5c29bb2794c3af4891d28f1499ae326f82e6.jpg)
+
+![](images/f59a066f0543b1083ce63a43d26343d0d5fc8124028cb440375ac49665ee94c2.jpg)
+
+![](images/86409ebd52843808afd62a2b85c7a1a60d6e6662925b06e28094b57adf7b5511.jpg)
+
+![](images/501b0b887a13b6fb61595c8dbd8381962379997a4968bbbc75c50f047acb6712.jpg)
+
+![](images/aa964c9f780560fe7953bf26bbc1d3b959a2b7105a4c305997bda11f69766b78.jpg)
+
+![](images/9a8e94994b9f7b65942ee23c2c23f54d43846fd81b069d1df02b17983c0463f5.jpg)
+
+![](images/657cb8ed5054296511d9c470556228966c5e6c985755013e09503ccd26203e5d.jpg)
+
+![](images/90408a4662d7e76339520526cfb68bcfcf17795159ff744c481bf875d534a98e.jpg)
+
+![](images/3b4e9123bac1cf2837de5894df1cc9cd50314b7456f943a9d76f8a9495b313dc.jpg)
+
+![](images/328310bef7f6581306798a1ab7bce24f02d77d04de27ea22c755c861150232ae.jpg)
+
+![](images/e12ab7b1231e24181a9c694b9dbf4b8e665163558734245b83c52098c0117bd1.jpg)
+
+![](images/20c5e379cce391049d9b74bb17f3a406ab3c758019e338c5b21d3f13ee1b64d6.jpg)
+
+![](images/9749f8192fd4cca10cda5510700dbe3b421cc05fa5115d6adccd7285897cb7c1.jpg)  
+ALONG WITH THEIR MANY RELATED FEELINGS AND CUSTOMS.
+
+![](images/67b4683785c72b84fd7f01dbd309818b440bc4d22658d9b02610ec6f554091cd.jpg)
+
+![](images/7cf77b5b25bfc2b382f24221db5a026790fc84e3f80b7be80f8c7b5b1e906072.jpg)
+
+![](images/8412a7283de37a85af41cb4a0077fd11fcd75f6f037336e96a540ec817aa3d11.jpg)
+
+![](images/7b9e54873b9fb71f344a43be739df75689afcda67bc2070eb6b215e6c01d3367.jpg)
+
+![](images/90d323d68a7ab89dd99f35a1bda26b1d751e8c04d69ab1ea17598fbec438ad91.jpg)
+
+![](images/a80560e941418d28656eb1aa34131e9f0a71d75fae22991910d9c27748960d11.jpg)
+
+![](images/21440b45d9e50e741a0c5a6c08ab734ffbe047f8cd26368efbaa87f82eef086e.jpg)
+
+![](images/b36c0705c9e6576a1897f910aeba753149be04a5ea3e761726f17cd8dc11020c.jpg)
+
+![](images/448c570ea0e9ce76623d3a6e5c7009d29d5059218708ca218a96976f6f799fd9.jpg)
+
+![](images/ca1fb04fe7688da06ff718f1deff4d70b30a3b84b4d50748d44f3a224d353e76.jpg)
+
+![](images/3b901f321eb3971c2aedb9e7440f6b487f9667995da04ec2771243d35f2f8230.jpg)
+
+![](images/9f36d70d9978acb8fbeb1b7d0fa07499feb4bdc35956047cc941de503db2d2f1.jpg)
+
+![](images/5149a552775aadd12a01d8be97cb55d31233b15fa05b6245d4772caecf73cfbf.jpg)
+
+![](images/b4e52cf0ef513202203eaab2ae617577b5b35745109ed24c9ed27c1f6deff1bd.jpg)
+
+![](images/3c91879bd4f11031adb1b93ef5c2bf8ea5590c30a284e72633b1d80defd4a103.jpg)
+
+![](images/0c72a2cf247f9debbda03ccae279d76af358ce432036877895ecd8e0fc49a698.jpg)
+
+![](images/e073743c48e353d868ba5c4f5602d0d91d8f179e901f483655930d463f251979.jpg)
+
+![](images/e20fd9edf28bd64b509ceb390eca9c4beaa7f8ae0b93d4e2c13f4c37d0f6f5e0.jpg)
+
+![](images/7f7d03bf1efeb5ba08aaf8ff5cf6dcc0dbe2010b8f5151491e9b04fce06ee655.jpg)
+
+![](images/dade6e285a5dcad34aa6ae6cddcc99be74b3b2dfaad6196435f3d53b5913614e.jpg)
+
+![](images/5ebff5b7c9f4b0511fc81fbb9dab4d12167f0cf7554f9d80dee669a9b424cd2b.jpg)
+
+IN THIS EARLY STAGE, THESE READERS ARE EXPERIENCING THE CHARACTERS. IDEAS, EVENTS AND EMOTIONS OF THE STORY DIRECTLY
+
+![](images/53fcebb61dc728c5f53c74d34ea1feef22fc86157afb9a4fe4c518176a9b92b9.jpg)
+
+BUT IN SOME, AN AWARENESS OF THE FORM BEGINS TO DEVELOP, AN AWARENESS THAT ALL COMICS ARE JUST INK ON PAPER-
+
+--THAT MAKING  
+THEM ONLY  
+REQUIRES  
+CERTAIN  
+SKILLS--
+
+--AND THATTHOSE SKILLSCAN BELEARNED!
+
+![](images/ac5bd2f9c79048772e90dac21a12688a6de8320c5c143dfe9faa5d8d15beec9f.jpg)
+
+![](images/4679e260c17401e2fd6178f5f14687f02a884a8ada06c45366d795554bdd4990.jpg)
+
+![](images/e17efa7f8d08ec3332d351bf4673be8ee2620cc7d781f1b9e722a2e14579f34f.jpg)
+
+![](images/b4aa7efc877f3ad59095311dc7ae249e13a73e2e3f56192cd19478b9688e0492.jpg)  
+BUT PROBABLY NOT.
+
+![](images/4c3829c42118be015342e468afe7689594ab86c0b73b96fb09a611ffe98b03cf.jpg)
+
+![](images/a5175173dd33abdb2eb08d6030b8470b3a5a6abb62e09dafd045affaa88c7731.jpg)
+
+BUT SOMEHOW, IT NEVER QUITE "CLICKS FOR HIM. MAYBE HE JUST DOESN'T HAVE ENOUGH SKILL... MAYBE HE LOSES INTEREST...MAYBE LIFE JUST GETS IN THE WAY...BUT FOR WHATEVER REASON--
+
+![](images/ae1d0f65735d37f49fe756dc03006aaf5b1f0be0ccdd65b0d1453e8802c274b3.jpg)
+
+ONE OF THEM IS NOW READY TO TAKE THE NEXT STEP! SHE'S STUDIED HER CRAFT ALL THE WAY THROUGH HIGH SCHOOL AND INTO COLLEGE.
+
+![](images/6fb2fc597cfe747cf9514379f144234ccc8892a86e73e5fd92ed369fcede32ff.jpg)
+
+![](images/6315a03b19b0e2d1c6c324565dea75d771e785117858d67d862ae2483ff55add.jpg)
+
+![](images/dabf298564d5995420b47efd68819703210f406c3e5206175f1c7908bbdfe34c.jpg)
+
+![](images/ac944d391abaa1c91999e346351ded2199ab11b8aecbe0a30d4886546d504f23.jpg)  
+HER SKILLS CAN GET HER WORK AT THIS POINT, BUT ONLY AS AN ASSISTANT TO OTHERS. UNTIL SHE UNDERSTANDS THE STRUCTURE OF COMICS BENEATH THE CRAFT, THIS IS AS FAR AS SHE CAN GO.
+
+![](images/8afb4f4a1b53d9e4ecea37f87f912be69eb88aaf38298922340aea6540aa75c7.jpg)
+
+BUT MAYBE THIS IS ENOUGH FOR THIS PARTICULAR ARTIST, ENOUGH TO JUST BE PART OF THE ART, BUSINESS,AND COMMUNITY OF COMICS WITHOUT NECESSARILY CALLING THE SHOTS.
+
+![](images/a85cee3a5daef2ecb15075acf0442d6a995581717ab9963c7b21039a21512987.jpg)  
+HE SPENDS HIS EVERY WAKING HOUR WORKING OUT THE DIFFICULT PRINCIPLES OF COMICS COMPOSITION AND STORYTELLING, THE KIND THEY DON'T TEACH IN BOOKS!\*
+
+![](images/dbe80064157e0b02030a3e16561bbe2f507ea70b0e3cc6d8d831c350a927abed.jpg)  
+HE LEARNS TO SEE BENEATH THE CRAFTS OF DRAFTSMANSHIP AND SCRIPTING TO SEE THE WHOLE PICTURE-- PACING, DRAMA, HUMOR, SUSPENSE, COMPOSITION, THEMATIC DEVELOPMENT, IRONY-- SOON THEY'RE ALL AT HIS COMMAND!
+
+![](images/3d2344f211ac8fcb71ae2ab2fc9bf5a718b01e00753cbf4ae4a1a666b448103c.jpg)  
+\* WELL, OKAY, ONE BOOK! EISNER'S, AGAIN.
+
+![](images/2ca8a063fe92fa7e57e86f1bb6db6533eb42ae4b537af202a7c42cd394adc1c1.jpg)  
+HE DISCOVERS THAT HIS FAVORITE ARTIST WAS ACTUALLY JUIST A WATERED-DOWN VERSION OF AN OLDER, LESS-POLISHED ARTIST WHOM HE HAD ALWAYS TAKEN FOR GRANTED.
+
+![](images/3d0c8648cff44da20145073cb6108217c3e8e876517d1c43d48e00b8994d45d5.jpg)
+
+![](images/51fc36f7df003a2a86f28c13899a0f78a0b604ed401b24ce7e705e3851eb0892.jpg)
+
+![](images/5c136bab136f9a4f6a0c81f7792857a69a405098fcc1450ac82d52fb0939224c.jpg)
+
+![](images/54265a338eb7ea2105725c6e078feca2f709492c1abcf2526b77faf2a3a4749c.jpg)
+
+![](images/332a8e22d4470e98b329826ba1158fa98a943226e696a7b7989f117c6f1a3872.jpg)
+
+![](images/d2b657992dd6bdf5f0e0f75dc0b7a6b17f6e6d0bb5ca81ca3f97ee5417d931a7.jpg)  
+SHE WONDERS IF HER SUCCESS REALLY MEANS ANYTHING WHEN THERE ARE SO MANY OTHERS DOING THE SAME THINGS IN THE SAMIE WAYS. SHE WANTS AN IDENTITY.
+
+![](images/041855c672e6ea2bb2e9fca984032ea4ff5bf33773ff5e7105e6cd0fd7c47373.jpg)
+
+![](images/44b33ae133ede4844e0c602a1b3b742d9a9ebf6b6de50fe14cef524bd8bd484d.jpg)
+
+![](images/d2f03ffa9fcf5c90ddf2bb96632a3bc4c3eb42d78be3f9e5b81b91b7f8fad6f4.jpg)
+
+![](images/f36f6a1f4c86c33d15ad6bbd10263d24737ebe07d4425729ef4f6c8f7b1b8063.jpg)
+
+![](images/839274997f46769307b0f0e8b4af9d9d34e929026af28f6176d3d1fe6ed336cf.jpg)  
+LET'S SAY THAT FINANCIAL SUCCESS AND THE RESPECT OF HER PEERS SOON FOLLOW.\*
+
+![](images/eb0c854b0e7cc4c6926e9a7a4beca6dbc3bc4e5a375fa03999ddfb295a00f2c0.jpg)
+
+![](images/93fd33a764c53bd86e4d1b816dbba1ae6591c6e6e5d977abc8e6b9558471e4be.jpg)
+
+<table><tr><td></td><td></td><td><img src="images/41025aab5b096d39cd02885a7c9b7e6e46153ae39826d312eecd40727691f1a9.jpg"/></td><td></td></tr></table>
+
+<table><tr><td rowspan=1 colspan=1>1IDEA/ URPOSE</td><td rowspan=1 colspan=1>2FORM</td><td rowspan=1 colspan=1>3IDIOM</td><td rowspan=1 colspan=1>4STRUCTURE</td><td rowspan=1 colspan=1>5CRAFT</td><td rowspan=1 colspan=1>6SURFACE</td></tr></table>
+
+![](images/1dc812524c08aaa74915e906901dce558332f40b94e6a8e71e26d3e19a80540c.jpg)
+
+![](images/9efaf27d2ed25a4221eaa76885702fc2f84a3e46f0efb2d9bfb0a86150eb2ad5.jpg)
+
+![](images/905b02a22ee46a76c7c645837e87d84fa95e23674216d53d1c467599a6c07c97.jpg)
+
+![](images/7578c49bbb15a032bea8c8d5e2ccb81840d71ff19357787a758d794e04e5f44e.jpg)
+
+![](images/b651d7cf9b4bdfb530691a978ddaf80fa7b2a489e01555dc3791264489ced85e.jpg)
+
+![](images/bf31c85e40cd8b26aa54c6d7b74930e181c6838467410033700d6e782cffcd3f.jpg)  
+HIS ART WOULD JUST BECOME HIS PURPOSE AND THE IDEAS WOULD ARRIVE IN TIME TO GIVE IT SUBSTANCE.  
+CREATORS WHO TAKE THIS PATH ARE OFTEN PIONEERS AND REVOLUTIONARIES-- ARTISTS WHO WANT TO SHAKE THINGS UP CHANGE THE WAY PEOPLE THINK, QUESTION THE FUNDAMENTAL LAWS THAT GOVERN THEIR CHOSEN ART.
+
+![](images/af7d352bcd6aeeb6aee9371156caea3e71af7b2ad6ee20aff08241b3e46dab80.jpg)
+
+![](images/896527586ec4fa28df5a4d5fb4284f081eaa7f4ef3056360b657012e55f03161.jpg)
+
+![](images/99f1ff58799d48fa0441b8eee632f72a89903edaddf6ccb7952372e590c2a47c.jpg)
+
+![](images/98e291cbfba80dda7f9d665ac5ab770d17426683193596364ddc485eb30668d1.jpg)
+
+![](images/bda5ec15ee95ba5bde1b8aa7943c92375beceb5209ab026d9930b12003558195.jpg)
+
+## IN OTHER ART FORMS: STRAVINSKY, PICASSO, VIRGINIA WOOLF, ORSON WELLES, ETC.)
+
+![](images/6f967cb6852deb55309b259560f46a93951bf85452eaa40471c813a39e62cb19.jpg)
+
+![](images/6cfefcbadf597c25cb1fc863ff11f8a1c465dcccf8ed3ee988f749d74004120b.jpg)  
+BUT TELLING A STORY AS EFFECTIVELY AS POSSIBLE MAY REQUIRE SOME INVENTION. IT OFTEN DOES.
+
+![](images/567cf1f55fdee634d491fec04556fecf647ecd91bf6d1b1bbf8dd7bd7754f9ac.jpg)
+
+![](images/59876ef254fe365c2dc411030b5005380613d4fac5e2f36bf91f41cf7f31f093.jpg)
+
+![](images/eac82e5673721f0f092ca888437e04b5462451e81add9a6c7ed0baaadf812344.jpg)
+
+![](images/f780a21e727f9ae606115e661e28d959bb0133c8c5a6fbb7db2f3dbb1420084f.jpg)
+
+![](images/c9aeda51b9bd0da6e1507e6618303f125e0a677a618149fa43aa658695181f9e.jpg)
+
+![](images/b799f8bc53a9fd4808d02f2a0927899019f6cae4426f07cf06673c39efe50933.jpg)
+
+![](images/5345c98386f9e0977ff3df1fc93160dc9957d0f5cc69e56c2023051f97f481b4.jpg)  
+SURVIVAL — REPRODUCTION
+
+![](images/3f4d9e020b4103ceee983c6cca0ba69622f1613f47f9618b82a213d4a47dde66.jpg)
+
+![](images/ee59e074593397c3df2afb8615f255a52b85678cd5ac3826e6af4089870f85a0.jpg)
+
+![](images/d96d9a5f076c97d812103c0d25b2be0bc3bff67a454d51df89bece49a3c65cf9.jpg)
+
+![](images/25211826e4c22156f62dae8c77cf1fe03b96e91996357b2d6bd44ee519425424.jpg)
+
+![](images/7c4af823dffb561b7eeba056ef037781edc3fe23aaebecb576d2eddd4a33cded.jpg)
+
+## FROM SURFACE TO CORE.
+
+![](images/610af2d23e4b8e64ce4d78e1a8f0c09dc8e08c04eee9af5994420fddd4003fd0.jpg)
+
+STILL, THE LEARNING PROCESS FOR MOST ARTISTS IS A SLOW AND STEADY JOURNEY ROM END TO BEGINNING,
+
+![](images/02a137c04251d37f554af3bb003a42c180d8e173c09a54c4b54b96462345cfe7.jpg)
+
+AND IT'S AT THE CORE OF ART THAT THE MOST IMPORTANT QUESTION IS FINALLY ASKED:
+
+IDEA/ PURPOSE
+
+"WHY AM I DOInG THIS?"
+
+## WHEN FORM RULES THE WORK, IT MAY SEEM SOMEWHAT ARTIFICIAL AT THE CORE, LIKE A SEEDLESS FRUIT.
+
+![](images/7c44898f0145f8a309a0ada02ed726a3481e60a7780645afac7d1d900a30fb26.jpg)
+
+## BUT SUCH WORKS DON'T TAKE THE SHAPE OF ART FOR GRANTED AND BY QUESTIONING OUR FUNDAMENTAL ASSUMPTIONS--
+
+![](images/0732ff8f17088a1fbb13381910568583b2079489fcb7fd042c3d4c48eb537f02.jpg)
+
+![](images/1fdfb932d26a98bcdfdda8d126248249d3f6e44dbdcb72b24d253c1ddf091b4b.jpg)
+
+<table><tr><td>WHILE IF IDEAS RULE THE WORK AND DETERMINE ITS SHAPE, COMICS CAN HELP PLANT THOSE IDEAS FAR AND WIDE.</td></tr><tr><td></td></tr><tr><td></td></tr></table>
+
+![](images/2e2dd9ee6d367a25183fb11929eea11f99808adbc7a0366f02a94e4c0b860d2d.jpg)
+
+![](images/95bd62e64a71bd6b1505dcadd5631ff8302ef2ef40829a27beba1226e4081952.jpg)
+
+![](images/b06e8af0b7fab3bcfa49e31915d152c1c872b052530b83a44d2515427101f3e7.jpg)
+
+![](images/29bf2f650fc09c4de27f62ce27dd3cfcbd4218ed7dd41e927521d3135a432072.jpg)
+
+![](images/e2423441d26ef7afd89c7ba1b764dfbb0be3a6945dc3c0c6009921468e7839ba.jpg)
+
+![](images/79487513bbf6929bf6e23c59d2f4fa869613f68c3800fa2f33cd1d70060a1d48.jpg)
+
+![](images/073956dbbf1c68cdbe4e55aa5a33ea744086b53cc83e9bbc0baa5698ae3d8b31.jpg)
+
+![](images/f2301dfd43f4edef6922dc4b99a8f99682d5eeee49a77a8da47c0d90d023d2b3.jpg)
+
+![](images/644121227d23c57ec363ec516748bbd5ff0de03323ee2909f4b55d00da03c1d5.jpg)
+
+![](images/630a585201a3e2a13c6cf03c085957fa03aedcc22acb503af62f02e8e63ccafb.jpg)
+
+![](images/005aaa94e450dff44f48147397c8078517add89f76cbb0f565f1a735cda16c17.jpg)
+
+![](images/b5fcfdc7eba3813c16a567f0a273452b2dbca3000693e1dd1949a579ce1de622.jpg)
+
+![](images/0c858a3a9d16c963d2ebb84277833277b95d3b8172c5f7490b1187df460c6f9c.jpg)
+
+![](images/952de978b672a9075997a334eb5af090dd5f35d59f36ce29babccbb5a9cea6ed.jpg)
+
+![](images/4abd8ac2342f9b641453904fafdb1aeb2e99033a04730bb4791673a3abd66fb9.jpg)
+
+![](images/7749ed6e464a0dd1f66a9c989fdea4caa741d6865c1e0695936cf41563495772.jpg)
+
+![](images/e7a8310f5faf11e3d4d1ec7705d7fc07242a94836f9f5f1c52ba5d8bc0d52a8e.jpg)
+
+THEY WERE CALLED ADDITIVE BECALISE THEY LITERALLY ADDED UP TO PURE WHITE LIGHT.
+
+EIGHT YEARS   
+LATER, FRENCH PIANIST   
+LOUIS DUCOS DU   
+HAURON \* DEVISED   
+THE IDEA OF THREE   
+SUBTRACTIVE PRIMARIES.
+
+![](images/506a21ff8e16945acb6096bb9856245d92d101924f41a36d29a34cac05ffa417.jpg)  
+\*WHOM I DON'T HAVE A PICTURE OF
+
+![](images/9f07bb9578abaa643f7b29e02300ac4037115577568b2e7d1b8d04e95cc6cf06.jpg)  
+THESE COLORS -- CYAN, MAGENTA AND YELLOW--CAN ALSO MIX TO PRODUCE ANY HUE IN THE VISIBLE SPECTRUM, BUT RATHER THAN ADDING LIGHT, THESE THREE DO IT BY FILTERING IT OUT!
+
+![](images/44715daf6ec7c0398e6f64ff6eb6ca979fe7be91547c0d243fa291c2de34ddca.jpg)
+
+![](images/ba8c889e4ef96ed779040b60c101c27b3f6c40da1312ef701fa08d95610fe971.jpg)
+
+![](images/c52c1a7b922282cb064c72fd5b08f2f8df03d8d55940698c7b80ab22b78cec52.jpg)  
+\*FOR OPAGUE PIGMENTS: RED, YELLOW AND BLUE. I KNOW, IT'S TOTALLY WEIRD.
+
+![](images/10d6256083bb5f16d9c1e2f3e8d661bfc72b3cc3e5f1ec07dc472858749dde26.jpg)
+
+![](images/3a62475947d4741ef803ede5f8fe3fe57d843a03e053e28bcc3747382b8e3b26.jpg)
+
+![](images/0ac5b3577323d069b47ad0cdbe6b4a0b8c158bdc1c6af5373640dc0d6608f21d.jpg)
+
+![](images/2ba073b381a076bd88a07d2f187c6c5544ca59c5b9b9b2d0d1c0cdc3a1c05520.jpg)
+
+![](images/39ed843021da57079b25faa8b040af8821ae40f1f2ed7574381ee6d6557a0cb8.jpg)
+
+![](images/0f4dd8103d2e255111017eaa46fd06b664979b80a64447041998d96aede85a57.jpg)
+
+THE COLORS WERE PICKED FOR STRENGTH AND CONTRASTED STRONGLY WITH ONE ANOTHER, BUT ON MOST PAGES NO ONE COLOR DOMINATED.
+
+WITHOUT THE   
+EMOTIONAL IMPACT OF SINGLE-COLOR SATURATION, THE EXPRESSIVE POTENTIAL OF AMERICAN COLOR COMICS-WAS OFTEN   
+ANCELLED OUT TO AN   
+EMMOTIONAL EY
+
+AS ALWAYS, THERE WERE SOME EXCEPTIONS, BUT THIS WAS THE OVERALL TREND.
+
+HOWEVER, WHILE COMICS COLORS WERE LESS THAN EXPRESSIONISTIC, THEY WERE FIXED WITH A NEW CONIC POWER. BECALISE COSTUME COLORS REMAINED EXACTLY THE SAME, PANEL AFTER PANEL, THEYCAME TO SYMBOLIZE CHARACTERS IN THE MIND OF THE READER.
+
+MANY SEE THE SUPERHERO AS A FORM OF MODERN MYTHOLOGY. 1F SO, THIS ASPECT OF COLOR MAY PLAY A PART.
+
+SYMBOLS ARE THE STUFF OF WHICH GODS ARE MA
+
+ANOTHER PROPERTYOF FLAT COLORS 1STHEIR TENDENCY TOEMPHASIZE THESHAPE OF OBJECTS,BOTH ANIMATE ANDINANIMATE
+
+![](images/c0faa2a338d9d07cf4b894e763fd9dc1edca455a5900da4d948f1739e0a3cedd.jpg)
+
+![](images/49d1bcef335db5cdb46ccaf0d8bcd72e7032a19a6f7a84fc9d3b57bd661b34ed.jpg)
+
+![](images/ed97eaaf96ee59abb89ec33e43d630c0af3d5b79e6db0f3694b6cdc75e71aec4.jpg)
+
+![](images/86da242460b22be33fe4df80eae0a659976bb11ec5c46ab148b7fbfebb28a0ef.jpg)
+
+![](images/61b68cbb23f1ff2b00b9b3bb1549518b9e5c7c492e52a0ac6764a3335df56a1b.jpg)
+
+![](images/9d73d198fd26e9d11a0a1daca0f20f9c9591fd305f23edd729fde239c313af50.jpg)
+
+![](images/48c8af60e501e57387fc5071bd6c98a9ffe5c6b9d21fb297ba76460819e84cc3.jpg)
+
+![](images/112e6d6cbc2e1874f4b7571fb029c5cbe08375d93f2c71cadf479f8ad195ed4d.jpg)
+
+![](images/6ff7fdb62dccf849a6286e0fb3d43627f52e7c0c0810cd765afaf73e2d10753d.jpg)
+
+![](images/5c5b4ec71be035daa8dbffa3a65668769880762a6cacd05222640a6ab8d77578.jpg)
+
+![](images/8c23aa4bbc11a085fb8bebccfda388ebcfaba04b9975af3d4f35fde23eb14c6e.jpg)
+
+![](images/06c0b2ff2a5dabdad8161b7094113cc2973e9585ad65bd1e8cc714162dea2c8e.jpg)
+
+![](images/57beb932da5aa8f79556cc7e14e15a967f3251c7f95fb08721eac8052e0b79e7.jpg)
+
+COMICS PRINTING WAS SUPERIOR IN EUROPE AND FOR HERGE, FLAT COLORS WERE A PREFERENCE, NOT A NECESSITY.
+
+![](images/43ac0555859986de398dbaadaa98f32400250ff8d1089ea269173488828363cd.jpg)
+
+![](images/e378159d4a5523c19e4c247498c6d86cd0265a216a3c2f29949610ee90146365.jpg)
+
+BUT OTHERS SUCH AS CLAVELOUX, CAZA AND MOEBIUS SAW IN THEIR SUPERIOR PRINTING AN OPPORTUNITY TO EXPRESS THEMSELVES THROUGH A MORE INTENSE SUBJECTIVE PALETTE.
+
+![](images/017b77df82a406ae1fe1a6a05880c403ed0c8a63dd7b4bd1e7c604e77bbe7af9.jpg)
+
+![](images/bd99da39a1db138f633816b8606eed0b349578064cdf55bfccafec250ff44ee7.jpg)
+
+![](images/ac268e02936c8d308daea8ead45ae593d3c48391cd80e1484fec8a21f3932806.jpg)
+
+![](images/fcf99969deefc33edea1356f9f63383edcefd2d0cd15de3db6fc328f4361350c.jpg)
+
+![](images/2a282ee601561d99089db2e934f7be663d15a57f04d22273d9b748cc967a7c2b.jpg)
+
+![](images/73f87e5fce5ca9a2b1d4cacfd451585b1d6bb9c14f0f759744335718e1436dd7.jpg)
+
+SOME OF THIS WORK BEGAN REACHING AMERICA IN THE 70'S INSPIRING MANY YOUNG ARTISTS TO LOOK BEYOND THEIR FOUR-COLOR WALLS.
+
+![](images/bc2c8528477bcc05c37558ddf3c3c87dfbccf59b4605688e400a4a8f6c27656d.jpg)
+
+![](images/4b40ef3df9cddd171264239bf6a3623fa3989c7b726a0f3cb30d10b5cde8150b.jpg)
+
+![](images/3012e91138f71d1ccad5676dd672365efc4e125e51433e42c114c396ef4115a9.jpg)
+
+![](images/b5d21b5697e76542663ec9440712752f99509ea19d587a6dc1d3bc3b9ac30061.jpg)
+
+![](images/14ca72d6d57aea2a4540047034c8576613019f619508b8f6737dfe65f0dbe402.jpg)
+
+![](images/bd1139700f2fd51a85e56608532c57d39389348056ccf7f9c33a23f729e8e93e.jpg)
+
+![](images/8e0330d3589f9f491725a16e0117d731cbebd6c867533c8664f456dfa6fa6bca.jpg)
+
+![](images/c117c54473d168286645db3451cad747eb34e79af077d11035f00f215facbb60.jpg)
+
+![](images/d0118c8e9e35051153f5cfa812957fde675ae30eaa27a47ac5d3f6abfe14fc4e.jpg)
+
+![](images/f73d847dcd8cf9b16f02e86709dbd431873583fbef941acd01811d68ebd6b9cf.jpg)
+
+![](images/0c77b2587fb26d3536dd4dd470b77f4492e3192475f022fb37c8a4ae6396f026.jpg)
+
+THE DIFFERENCES BETWEEN BLACK-AND-WHITE AND COLOR COMICS ARE VAST AND PROFOUND, AFFECTING EVERY LEVEL OF THE READING EXPERIENCE.
+
+![](images/5d3529add6603a2f21cecacc06d10051f86e139d1f5a333068b17580ea6805d8.jpg)
+
+![](images/c7aca30bab16f8332f7221b870e63c05a6a58bb1b6bd3ae65f263d72111c5081.jpg)
+
+![](images/41ec74231cb03d1cb1877d6e517c3a8637dd249e9e241a78d73672de58c9296e.jpg)
+
+![](images/0e28272430e192451ae63682312fe2158cc17cf70c1de08032d9b1cd83ef3262.jpg)
+
+![](images/389c59554566e1b2cafec40d7c2077ad80961aa6f319023bb5a38294dd09655a.jpg)
+
+![](images/e38d498b429e047ec880a12d23537647e1f82b6b1d278ae3474f4545111f33b6.jpg)
+
+![](images/7ec77754b6db9a0ca6348487bd1d819a8605a43cdf5ea41b5f8d02a4ae32fc04.jpg)
+
+![](images/eb97d65fd2646aaf309fec836232ed7dedf3eab7cbe9cf0133ef591bc4ebc8e8.jpg)
+
+![](images/e1ed28b259885d23d90947ff7173de7a25d7e08b5af001afa2068145d6faa421.jpg)
+
+CHAPTER NINE
+
+PUTTING IT ALL TOGETHER.
+
+SO, WHY IS THIS MEDIUM WE   
+CALL COMICS SO   
+IMPORTANT?   
+WHY SHOULD WE   
+TRY SO HARD TO   
+UNDERSTAND   
+COMICS?
+
+I THINK THE ANSWER LIES DEEP WITHIN THE HUMAN CONDITION..
+
+![](images/2dcda245620d48ba116d8d4bf293987e4966e7871e54e5ec8e3007ae551b00d4.jpg)
+
+![](images/f52f079523189b1dc57f2b406196d7332b1c6728f70e0c888244deb056665f29.jpg)
+
+![](images/33c4eef9081fbf06a16b75314f7d19f32b417714fe6ae2008d7d536421f9cd64.jpg)
+
+![](images/1576186289e31b4f5fd54fd61ae01f101008f62266c18aa43087ad570382ad99.jpg)
+
+![](images/7d07aa3ca6162f744c10abbfc176cebea7ccdb748e01ddc311b5ca3c47b05421.jpg)
+
+SAD, OF COURSE, BECAUSE NEARLY ALL PROBLEMS IN HUMAN HISTORY STEM FROM THAT INABILITY.
+
+![](images/b25c746ec22b36ffac9f010cf195bcce571158971aadbcb194ac7f57e0498be7.jpg)
+
+EACH MEDIUM (THE TERM COMES FROM THE LATIN WORD MEANING MIDDLE) SERVES AS A BRIDGE BETWEEN MINDS.
+
+![](images/5b4107007d7ee3c72eeacf6bc9ec7a5a0894bcf6f4d45620363391eb6a0561e8.jpg)
+
+![](images/2f84bc41df5da5ec4e9a04c2c4b5f62044f2d5f68e09265eef1b22a6420c0518.jpg)
+
+![](images/e96aadac52757eca1d7ce54c7881e03a3744ae3c371a21157ff013ebc9a55d81.jpg)
+
+![](images/a99ee7f1238943cf8c5ac53f7a702d1dba38b459857da11d0676ec0665588780.jpg)
+
+![](images/06b7454b9711ed7da5c3f49c462e38a571b37d12d8b6d9a1a4dff82a7ca35e0f.jpg)
+
+![](images/68afd1e45eb6156d9c04bd09ee3d9552c452d02d814f8289f01a22dad2a78ef7.jpg)
+
+![](images/8f1c75d1c29f946b1f567f3bbb0a9a7c0fc7e54ce98277fb4b8ccf1005d7f887.jpg)
+
+THROUGH THE WORKS AND WRITINGS OF THESENEGLECTED MASTERS, WE SEE THE FIRST GLIMPSESOF COMICS' LIMITLESS POTENTIAL AS AN ART FORM--
+
+![](images/5a3866697f9933274b8c043264c5ec9fc4ee7d9e9896baff38581ef1ad368e81.jpg)
+
+"..the ppicture  
+story, which critics disregard and scholars scarcely notice, has had   
+great influence at   
+all times, perhaps even more than   
+written literature."
+
+Rudolphe Topffer 1845
+
+AND THE ATTITLDES THAT WERE TO OBSCURE THAT POTENTIAL FOR MANY YEARS TO COME!
+
+"...in   
+addition, the picture-story appeals   
+maily to   
+children and the lower   
+classes..' ",
+
+Rudolphe Topffer 1845
+
+![](images/57f38fa2a905db2203bc7f0b03860340877363d5555b16bee65960548cccc13b.jpg)
+
+![](images/b67f328de26ed193b310af9ee3ba5d4ab8f0ade461457b31e49be5bead9936b5.jpg)  
+SEE PAGE 216 FOR COPYRIGHT INFORMATION.
+
+![](images/d690029e6dc1f6b42166635f66ce08406b9d20c7b92208d303475040bfcf6784.jpg)  
+DANVNO O SIGT OFCO DRS! 记神乐 FACE
+
+![](images/ebe19dee5c5909a5b42b3cf0499daa08fd3f5ac9b3d529894b95a0601affb866.jpg)
+
+![](images/5143efa018c04001342a908eac0502932b96d069a7abdfad7ce28bb93e646b4a.jpg)
+
+![](images/b57c5668acc2ff5108a32a9a10e55cff5a37bca6df4ab2d3cd0a018fb9abe04f.jpg)
+
+-- AND REALISM TO CAPTURE THE BEAUTY AND COMPLEXITY OF THE VISIBLE WORLD.
+
+![](images/87b89d79e49bcab8c0b535c0fae871c3f41f01168a881d8fb0971b48e9d212b1.jpg)
+
+![](images/1ac394a14a2f14988d0731e3305b99316d753c659f6f281cb9b83a65278f4ece.jpg)
+
+![](images/e1b95b6da28dc5f8d0015d19421ec3d1cb561c2082016d1952eefa79512f89b9.jpg)
+
+BUT NOWHERE IS THE BALANCE BETWEEN THE VISIBLE AND THE INVISIBLE MORE CONSPICUOUS THAN IN PICTURES AND WORDS...
+
+![](images/1c612e4360b4d317f0e12cebf69dcae59eb95f5ca13dc679d434952add9612da.jpg)
+
+![](images/de6c472143c2992c658d99caa1f42faa3fe9800a9d166e6a135d3a62a084a983.jpg)
+
+gro geuit in  nepch challuim d i  capth uit rdoum
+
+![](images/a471e87b9aa9f3febe83a2bd08a77125e6decdfc1bf86c74fb9b2135b5b2886b.jpg)
+
+![](images/a9b30a890d4fb56b7ee5ffcb7e77b425a97bc0c95d96f922dab83191897aba05.jpg)
+
+ill unravished ild of sifonce n,who canst t re seethy the d legend hau mortals,ofel on the dales d gods are thes
+
+ACE FACE
+
+![](images/1529ffe254f77fea6e0c1425024a0099d3b727daf26c4f9e634a0d686b7fdfaa.jpg)
+
+![](images/1484a936400a93a804f41fa16ace85f4e0bae94ba1eb1109bd24b6bb33220eff.jpg)
+
+![](images/dca51b75ecea83d9dca31a3f2ffb61b9a9e2bd131a13142245722a432f1c9a6c.jpg)
+
+![](images/76e1952e36eb634fb5d0a8c6801f57ea61226d10ab7d38207273caee1a1790ed.jpg)
+
+![](images/b06a2f114d7144e2ad780cf497163894b49350e27033cd6c6ca048dcc7293ad4.jpg)
+
+![](images/3bebc06dcbee380f7a253082684354f02bc953107e3bec465b9efe401c17108d.jpg)
+
+AS COMICS   
+GROWS INTO THE   
+NEXT CENTURY,   
+CREATORS WILL ASPIRE   
+TO MANY HIGHER GOALS   
+THAN APPEALING   
+TO THE "LOWEST   
+COMMON   
+DENOMINATOR
+
+![](images/434fcde3e0917b6c7bcd8494818046656a6750f5d4a9430849d8df11c541b94b.jpg)
+
+![](images/6c92be6bf25e0de5a704d96a193a4e5c122c559fd78eb81a46d80fa6d29bbdbb.jpg)
+
+![](images/18bca4247b00726a81c44db2153fa79a1c12cca7d8c624a9da5d4ad618c803b8.jpg)
+
+![](images/1d5b45a10276b0bb90416d5c72daee343ec2fb8124eef605436fd8d5c4e5eede.jpg)
+
+COMICS OFFERS TREMENDOUS RESOURCES TO ALL WRITERS AND ARTISTS: FAITHFULNESS, CONTROL, A CHANCE TO BE HEARD FAR AND WIDE WITHOUT FEAR OF COMPROMISE...
+
+SEQUENTIAL ART
+
+IT OFFERS RANGE AND VERSATILITY WITH ALL THE POTENTIAL IMAGERY OF FILM AND PAINTING PLUS THE INTIMACY OF THE WRITTEN WORD.
+
+![](images/4cc4c15104aa55247ef3ab879bd7583cc57a75ed041ff3abb3df0f71cab81064.jpg)
+
+![](images/d0d3d1809b9d6bf52040aa0b600ee5a54b35a01125d18bd86c2971c030416f08.jpg)
+
+![](images/c908f82e63519ce21fe3c200d4812196aeb18d4cc8fb67439d3ebba73592a582.jpg)
+
+## wordswordswordswordswordswordswordswordswordswordswor
+
+## Selected Bibliography.
+
+Chip, Herschel B., editor: Theories of Modern Art (Berkeley: University of California Press, 1968).
+
+Eisner, Will: Comics and Sequential Art (Princeton, Wi: Kitchen Sink Press, Inc., 1992).
+
+Kunzle, David: The Early Comic Strip (Berkeley:University of California Press, 1973).
+
+McLuhan, Marshall: Understanding Media (New York: McGraw-Hill Book Co., 1964).
+
+Schwartz, Tony: Media: The Second God (New York: Anchor Books, 1983).
+
+Wiese, E., editor, translator: Enter: The Comics--Rodolphe Topffer's Essay on Physiognomy and the True Story of Monsieur Crepin (Lincoln, Ne: University of Nebraska Press, 1965).
+
+Special note: Kunzle's book (see above) has gone virtually unnoticed by the comics community but is an enormously important work, covering nearly 400 years of forgotten European comics. Check it out!
+
+## Copyright Information.
+
+Page 4: El Borba © Charles Burns; Mister O'Malley, Buster Brown, Miss Peach and Nemo Field Newspaper Syndicate, Inc. David Chelsea himself; Cynicalman © Matt Feazell; The Dragon Lady, Little Orphan Annie, Dick Tracy and Uncle Walt Chicago Tribune -- New York News Syndicate; E. Z. Mark, Flash Gordon, Jiggs, Hi and Popeye  King Features Syndicate, Inc; Alley Oop and Bull Dawson NA Servie I Felix  Ca Polly and Her Newspaper Feature Service; Li'l Abner, Charlie Brown, Gordo and Nancy  United Features Syndicate; Shazam! (Captain Marvel), Death, Superman, Wonder Woman, Batman, Plastic Man and Alfred E. Neuman D.C. Comics; Gen @ Keiji Nakazawa; Colin Upton @ himself; Betty Archie Comics; Beanish Larry Marder; Danny Terry Laban; The Snowman Raymond Briggs; Adele Blanc-Sec and Tintin Casterman; Arale © Akira Toriyama; Alec © Eddie Campbell; Groo © Sergio Aragones; Dan Clowes @ himself; Cerebus the Aardvark © Dave Sim; Micky Mouse and Scrooge McDuck © Walt Disney Productions; Jack © Jerry Moriarty; Cardinal Syn Steve Bissette; The Spirit  Will Eisner; Mike © Garry Trudeau; Heraclio © Gilbert Hernandez; Asterix and Laureline @ Dargaud Editeur; Reid Fleming @ Boswell; Theodore Death Head © Pascal Doury; The Torpedo Catalan Communications; Frank  Jim Woodring; Vladek and Art © Art Spiegelman; Omaha © Reed Waller and Kate Worley; Krazy Kat © International Features Syndicate; The Thing, Wolverine and Spider-Man @ Marvel Entertainment Group; Harvey Pekar himself; Maggie © Jaime Hernandez; Astroboy Osamu Tezuka; Cutter © WaRp Graphics; Leonardo © Mirage Licensing; R. Crumb © himself; Zippy © Bill Griffith: Arzach © Moebius: Wendel © Howard Cruse; Flaming Carrot © Bob Burden; Ricky © Kyle Baker; Ed © Chester Brown; Julie Doucet © herself: Amy © Mark Beyer; Concrete © Paul Chadwick; Pogo © Selba Kelly; Bitchy Bitch © Roberta Gregory; Piker © Mariscal A. Mutt  McNaught Syndicate, Inc.; Mark Martin himself; Carol Tyler © herself; Morty the Dag © Steve Willis.
+
+Other Art © Sampei Shirato, Koike-Kojima, Mary Fleener, Matt Groening, Riyoko Ikeda, Joost Swarte, Harold H. Knerr, Albin Michel S. A., Dr. Seuss, O. Soglow, Jose Munoz and Krystine Kryttre.
+
+Page 12: To the Heart of the Storm @ Will Eisner.
+
+Page The Original painting The Treachery o Images" by Rene Magritte resides at The Los Angeles County Museum of Art. Our thanks to the museum for allowing us to imitate the image.
+
+Page 30: As on page 4, plus Kermit © Henson Associates; Bugs Bunny  Warner Brothers; Bart 20th Century Fox; Mrs. Potts Walt Disney Productions; Jughead © Archie Comics; Casper Harvey Comics; Beetle Bailey © King Features.
+
+Page 45: Savage Dragon © Erik Larsen; Tumbleweeds  King Features; Gizmo  Michael Dooney; Jenny @ Ivan Velez; Nancy © United Features Syndicate, Inc.; Shadow Hawk © Jim Valentino; Bob @ Terry Laban; Portia Prinz © Richard Howell; Dr. Radium ©Scott Saavedra; Spawn © Todd McFarlane; Mr. Monster © Michael T. Gilbert; Cutey Bunny © Joshua Quagmire; The Maximortal © Rick Veitch; Raphael Mirage Licensing; Panda Khan  Monica Sharp and Dave Garcia.
+
+Page 56: As on pages 4, 50 and 51 plus: Steve Gilbert Hernandez; Art  Mary Fleener; Checkered Demon S. Clay Wilson; Bear Rory Hayes; Micky Rat © R. Armstrong; Art © Kim Deitch.
+
+Page 83: AL HELD. The Big N. (My facsimile). The original is synthetic polymer paint on canvas, 9'3/8"x Collection, The Museum of Modern Art, New York. Mrs. Armand P. Bartos Fund.
+
+Page 126: As on pages 4, 50 and 51 plus: Reed Richards and Cable © Marvel Entertainment Group; The Teen Titans © D.C. Comics; Tantrum © Jules Feiffer; and art © Munoz and Sampayo, Jooste Swarte, Art Spiegelman and Will Eisner.
+
+The Rose f Versailles Riyoko Ikeda; other art © H. Sato and (?).
+
+Page 199: Daredevil, Ghost Rider, The Punisher, X-Factor, The Amazing Spider-Man, Thor, X-Force, Wolverine, X-Men, Hulk and Iron Man @ and tm Marvel Entertainment Group; Superman, Batman, Robin, Sandman and Lobo @ and tm D. C. Comics; Aliens @ and tm 20th Century Fox; Dark Horse Presents © Dark Horse Comics; Spawn © and tm Todd McFarlane; The Pitt © Dale Keown; Youngblood © and tm Rob Liefeld.
+
+Page 201: As on pages 4, 50 and 51.
+
+Page 208: Batman returns tm Warner Bros.; Linus U.F. S., inc.; Action Comics © and tm D.C. Comics. The Yellow Kid © Scripps-Howard Newspapers
+
+## Originals for Sale / Letters of Comment.
+
+For information on original art, write to: Scott McCloud, Box 798, Amherst, MA 01004. Letters of comment are appreciated (if seldom answered due to overwhelming commitments), but I would especially appreciate a public discussion of these issues in comics' trade journals, art magazines, computer nets and any other forum. This book is meant to stimulate debate, not settle it.
+
+I've had my say.
+
+Now, it's your turn.
+
+## CARTOONS/ART HISTORY
+
+In one lucid; well-designed chapter after another, he guides us through the elements of comics style, and . . . how words combine with pictures to work their singular magic. When the 215-page journey is finally over, most readers will find it difficult to look  cmics in quite he same way ever aga
+
+—GARRY TRUDEAU
+
+## NEW YORK TIMES BOOK REVIEW
+
+![](images/67058484d68a99c353131ec9e57a9a3886f0983853acf6116347ffecfd28a6dc.jpg)
+
+![](images/9210dd4c2d25dab54bcd6fb5f1c2fdf883a626cd85d0811b7bc3bc7b10aef921.jpg)
+
+![](images/81ad3ee55ae0b54ff6e6efcb1bf7cc2470caf7a3ddca0266fe669abd599fc28e.jpg)
+
+![](images/47b735b44dfd52224de7d54582dfa3ae1ba9bf1048c181315cb5b233dc5e1048.jpg)
+
+![](images/5f6ba13451609b5a46c34fed7912e6cf3028e35a05b1808832890c1450f14b40.jpg)
+
+![](images/7dacc769f49abd3a98f336f298afe09a75ea84c484296e4690dc9e6500ee66ed.jpg)  
+AND MOST OF ALL, SEE WHY COMICS CAN BE AS VITAL AND IMPORTANT AS FILM, PROSE OR ANY OTHER ART FORM, THROUGH THE FASCINATING PROCESS THAT LEADS TO REALLY UNDERSTANDING COMICS.
+
+A Kitchen Sink Press Book for
+
+I you've ever felt bad about wasting your life reading comics, then check out Scott McCloud's classic book immediately. You still might feel you've wasted your life, but you'll know why, and you'll be proud."
+
+— MATT GROENING
+
+Understanding Comics is spellbind ing! Scott McCloud's witty and loving analysis of comics should be in every bookstore, every library, every teen center, every waiting room, every university, and most especially every home. McCloud is the McLuhan of comics!"
+
+— JAMES GURNEY, DINOTOPIA
+
+Cleverly disguised as an easy-to-read comic book, Scott McCloud's simplelooking tome deconstructs the secret language of comix while casually revealing secrets of Time, Space, Art and the Cosmos! The most intelligent comix I've seen in a long time. Bravo." — ART SPIEGELMAN
+
+".. . a rare and exciting work that ingeniously uses comics to examine the medium itself."
+
+—PUBLISHERS WEEKLY
+
+. one of a kind, a combination of everything funny and profound, cool and quirky."
+
+— CHICAGO SUN-TIMES
+
+".. . a fascinating illumination of a major aspect of the rapidly progressing visual revolution."
+
+—IAN BALLANTINE
+
+BRAVO!! ... Understanding Comics is a landmark dissection and intellectual consideration of comics as a valid medium. Everyone. .. anyone interested in this literary form must read it." — WILL EISNER
+
+If I knew half as much as Scolt, this would be the book I'd write!" —JIM LEE
+
+![](images/8a1b3b800be5e4602726f69ed8b5e67811c2bd5b60bf96758f42df57a6ccf2db.jpg)
