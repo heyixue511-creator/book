@@ -1,0 +1,11 @@
+> 来源：The Principles of Harmony and Contrast of Colors And Their Applications to the Arts (Michel E. Chevreul)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\The Principles of Harmony and Contrast of Colors And Their Applications to the Arts (Michel E. Chevreul)\The Principles of Harmony and Contrast of Colors And Their Applications to the Arts (Michel E. Chevreul).md
+> 识别方式：一级强章节标记
+
+# CHAPTER II.
+
+ON THE LAW OF SIMULTANEOUS CONTRAST OF COLOURS IN RELATION TO PAPER-HANGLNGS WITH FIGURES, LANDSCAPES, OR LARGE FLOWERS OF VARIED COLOURS
+
+(448.) The study which I have preacribed (446.) to artists occupied in fabricating paper-hangings is in some measure that of the generalities, and at the same time the spccialitics immediately applicable to every composition, which reminds us of & picture, or, in other words, the tapestry of figures and landscapes ; but, whatever be the merit of paper-hangings of this category, and the difficulty which has to be surmounted in executing them in a satisfactory manner, nevertheless, they are not sought by persons of refined taste, and they do not appear to me destined to be so in future any more than at the present time ; for the twofold reason, that the taste for arabesques painted upon walls or upon wood, and that for lithographs, engravings, snd paintings is every day increasing. For if these three last objects do not absolutely prolibit, as do arabesques painted on walls, every kind of paper-hangings, they exclude at least all those with figures and landscapes in various colours.
+
+(449.) The applications of the law of contrast to the fabrication of paper-hangings of the first category are so easy when we thoroughily understand the divisions of the book to which I referred (446.), that, in order to prove the advantage to be derived from knowing this law, I shall be content to refer to the bad effect presented by contiguous bands of two tones of the same scale of grey (serving as the ground to the figure of an infant), in consequence of the contrast of tone arising from their juitaposition (333.); for we cannot doubt that theartist who consulted me to remove the ill-effect of which I speak, would not have produced it at all had he known the law of contrast, beoause he would in that case have made the dark band lighter, and the light band darker at the contiguous parts.

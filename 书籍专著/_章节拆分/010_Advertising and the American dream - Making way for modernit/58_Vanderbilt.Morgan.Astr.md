@@ -1,0 +1,16 @@
+> 来源：Advertising and the American dream - Making way for modernity, 1920-1940 (Roland Marchand)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Advertising and the American dream - Making way for modernity, 1920-1940 (Roland Marchand)\Advertising and the American dream - Making way for modernity, 1920-1940 (Roland Marchand).md
+> 识别方式：一级标题
+
+# Vanderbilt.Morgan.Astr..
+
+![](../../Advertising and the American dream - Making way for modernity, 1920-1940 (Roland Marchand)/images/4f262679ebdcdb9788332cb06da445449d3c44e96b4e2194774dde701fb9f3a1.jpg)  
+Yes, Breessts Yasptsany, be Geis Mergan, wa the w fe of the thind se of the ie Crndes Yandebde, Sime her Ahn i ceath dhe bu ived n Paris ahere the ha- gyvatead French vnciete, Sher has  
+Miss Axse Morois, daughrer of the famonas innde, dhe lar J, Borper Mugpn, "s widely knams as the pesident of the Ameriran Woman's Asacistion, Wises Morges is s extremedv dastinguisdel figure, with her jark sye, silvery huir abd clear damp-ievton  
+Lr Vouet Aron, dauglict of an Ead, s sne of the lrvelicet of I agband's ooblewnmcn, chatming, grainus, 4 brilirnr bretes, ative in gonad sorka, umiveraily belored, Hery a thecsic Faglih beavty hair le un go, ests vxoiet-lulse anst ewyubise rese -beaf skon.
+
+affictions, the depression parables also made the other end of the social spectrum more dramatically explicit. Advertising tableaux now contrasted the rich not merely with "women of modest means" but also with laborers, truck drivers, and even scrubwomen. 26
+
+One might question the advisability of associating one's product with such blatant economic distinctions during a time of depression. But two possible answers to that objection proved persuasive to many advertisers. First, as several observers argued, people had never been so eager to enjoy vicarious experiences of the life of the wealthy. The movies alone proved this conclusively. Moreover, women in particular had never surrendered their ambitions, despite hard times. "You see her wearing a plain little house dress," related the Hoover Company in explaining its new 1932 campaign to its salesmen, "but she sees herself someday in velvet and ermine."27 Second, as the strategists behind the Democracy of Goods parables clearly perceived, the more dramatically the contrasts between millionaire and common man were portrayed, the more ultimately satisfying was that resolution of polarities in which consumers learned that they might share the same significant satisfactions or escape the same miseries that beset even a "wealthy dowager" or "a Big Shot in Steel."28
+
+The Hoover vacuum cleaner campaign, which continued through March of 1933, demonstrated how the parable of the Democracy of Goods might reconcile middle-class consumers to an eclipse of economic mobility and still retain an upbeat flavor. Such tableaux as "Just starting out or 'arrived'" and "One thing she didn't have to wait to own" took the sting out of sharp class contrasts by making the wealthy woman much older than the young surrogate for the consumer. Thus, readers might cherish the expectation that the young housewife, in a "modest home" with "no corps of servants," would eventually realize her ambition "for the things riches can bring." One ad optimistically introduced the young

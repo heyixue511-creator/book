@@ -1,0 +1,9 @@
+> 来源：Kopytoff 1986 The Cultural Biography of Things -
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Kopytoff 1986 The Cultural Biography of Things -\Kopytoff 1986 The Cultural Biography of Things -.md
+> 识别方式：一二级标题
+
+## The drive to commoditization
+
+F  peiv ucenti   ha Tiv is not an exotically complicated rendering of a straightforward only three spheres and not, say, a dozen? The commoditization seems to be pushed to the limits permitted by the Tiv exchange technology, which lacked a common denominator of value more convenient than rass os.One priv  this  ivent n vey ex m towardti oditizatin  the ive to exted the monetized societies and its inexorable conquest of the internal econunhappiness about it an unhappiness wellillustrated by the moern Tiv. Hence also the uniform results of the introduction of money in a wide range of otherwise different societies: more extensive commoditization and the merger of the separate spheres of exchange. It is s theinteal log xae t pdaptsll to seize upon the new opportunities that wide commoditization so obviously brings with it.
+
+One may interpret Braudel's recent work (1983) in this light - as showing how the development in early modern Europe of a range of new institutions shaped what might be called a new exchange technology and how this, in turn, led to the explosion of commoditization that was at the root of capitalism. The extensive commoditization we associate with capitalism is thus not a feature of capitalism per se, but of the exchange technology that, historically, was associated with it and that set dramatically wider limits to maximum feasible commoditization. Modern state-ordered, noncapitalist economies certainly show no signs of being systematically exempt from this tendency, even though they may try to control it by political means. Indeed, given their endemic shortages and ubiquitous black markets, commoditi-

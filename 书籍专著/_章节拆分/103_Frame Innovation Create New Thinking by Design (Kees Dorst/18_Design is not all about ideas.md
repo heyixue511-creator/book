@@ -1,0 +1,9 @@
+> 来源：Frame Innovation Create New Thinking by Design (Kees Dorst)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Frame Innovation Create New Thinking by Design (Kees Dorst)\Frame Innovation Create New Thinking by Design (Kees Dorst).md
+> 识别方式：一二级标题
+
+## Design is not all about ideas
+
+This is another great and intransigent myth, and to be honest, it is one that the design professions have been reluctant to dispel. The popular notion about design is that it works like this: client gives brief to designer, brilliant idea is born, client is happy, designer becomes rich and famous. This virtually never happens. Only novice designers who haven’t yet developed the skill and amassed the experience to work in a much more deliberate way will have to rely on “the idea” to save them, resorting to the superficial scattergun approach of brainstorming to hopefully catch it (Lawson and Dorst 2009). Such a trialand-error process is time-consuming, confusing, and hugely inefficient. When creativity techniques like brainstorming are used in a professional design context, it is always in a very specific manner, to explore solution possibilities within a constrained setting (see Sutton and Hargardon 1996; Sutton and Kelley 1997). Professional designers do not focus on the generation of “the idea”:
+
+they approach problems in a very strategic, deliberate, and thoughtful way. This approach involves a lot of hard work, where inspirational ideas are helpful but never yield a complete shortcut to a quality solution. Yet the myth of the wonderful, magical, “divine spark” idea that suddenly occurs to the brilliant mind of the incredibly gifted has been quite irresistible to designers, and many of them when interviewed will readily reinforce this image. Unfortunately, it is too good to be true.

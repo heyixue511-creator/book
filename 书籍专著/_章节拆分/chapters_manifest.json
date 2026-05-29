@@ -1,0 +1,2999 @@
+[
+  {
+    "book": "1000 Chairs (Charlotte Fiell, Peter Fiell)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\1000 Chairs (Charlotte Fiell, Peter Fiell)\\1000 Chairs (Charlotte Fiell, Peter Fiell).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\001_1000 Chairs (Charlotte Fiell, Peter Fiell",
+    "method": "一级标题",
+    "documents": 5,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "A bibliography of the Kelmscott Press (Peterson, William S)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\A bibliography of the Kelmscott Press (Peterson, William S)\\A bibliography of the Kelmscott Press (Peterson, William S).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\002_A bibliography of the Kelmscott Press (Peterson, William S",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "A century of design design pioneers of the 20th century (Sparke, Penny)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\A century of design design pioneers of the 20th century (Sparke, Penny)\\A century of design design pioneers of the 20th century (Sparke, Penny).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\003_A century of design design pioneers of the 20th century (Spa",
+    "method": "强章节标记",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "A color notation (Munsell, A. H. (Albert Henry), 1858-1918 etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\A color notation (Munsell, A. H. (Albert Henry), 1858-1918 etc.)\\A color notation (Munsell, A. H. (Albert Henry), 1858-1918 etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\004_A color notation (Munsell, A. H. (Albert Henry), 1858-1918 e",
+    "method": "强章节标记",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "A Critic Writes Selected Essays by Reyner Banham (Centennial Books) (Reyner Banham)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\A Critic Writes Selected Essays by Reyner Banham (Centennial Books) (Reyner Banham)\\A Critic Writes Selected Essays by Reyner Banham (Centennial Books) (Reyner Banham).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\005_A Critic Writes Selected Essays by Reyner Banham (Centennial",
+    "method": "一级标题",
+    "documents": 19,
+    "chapters": 19,
+    "fallback": false
+  },
+  {
+    "book": "A History of Interior Design (John F. Pile, Judith Gura)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\A History of Interior Design (John F. Pile, Judith Gura)\\A History of Interior Design (John F. Pile, Judith Gura).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\006_A History of Interior Design (John F. Pile, Judith Gura",
+    "method": "强章节标记",
+    "documents": 18,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "A World History of Art (Hugh Honour, John Fleming)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\A World History of Art (Hugh Honour, John Fleming)\\A World History of Art (Hugh Honour, John Fleming).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\007_A World History of Art (Hugh Honour, John Fleming",
+    "method": "强章节标记",
+    "documents": 40,
+    "chapters": 39,
+    "fallback": false
+  },
+  {
+    "book": "Adorned in Dreams Fashion and Modernity (Elizabeth Wilson)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Adorned in Dreams Fashion and Modernity (Elizabeth Wilson)\\Adorned in Dreams Fashion and Modernity (Elizabeth Wilson).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\008_Adorned in Dreams Fashion and Modernity (Elizabeth Wilson",
+    "method": "强章节标记",
+    "documents": 24,
+    "chapters": 23,
+    "fallback": false
+  },
+  {
+    "book": "Adversarial Design (Carl DiSalvo)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Adversarial Design (Carl DiSalvo)\\Adversarial Design (Carl DiSalvo).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\009_Adversarial Design (Carl DiSalvo",
+    "method": "强章节标记",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "Advertising and the American dream - Making way for modernity, 1920-1940 (Roland Marchand)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Advertising and the American dream - Making way for modernity, 1920-1940 (Roland Marchand)\\Advertising and the American dream - Making way for modernity, 1920-1940 (Roland Marchand).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\010_Advertising and the American dream - Making way for modernit",
+    "method": "一级标题",
+    "documents": 75,
+    "chapters": 74,
+    "fallback": false
+  },
+  {
+    "book": "African Textiles Looms, Weaving and Designby John Picton John Mack",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\African Textiles Looms, Weaving and Designby John Picton John Mack\\African Textiles Looms, Weaving and Designby John Picton John Mack.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\011_African Textiles Looms, Weaving and Designby John Picton Joh",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Age of Revolution 1789-1848 (Eric Hobsbawm [Hobsbawm, Eric])",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Age of Revolution 1789-1848 (Eric Hobsbawm [Hobsbawm, Eric])\\Age of Revolution 1789-1848 (Eric Hobsbawm [Hobsbawm, Eric]).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\012_Age of Revolution 1789-1848 (Eric Hobsbawm [Hobsbawm, Eric",
+    "method": "强章节标记",
+    "documents": 30,
+    "chapters": 29,
+    "fallback": false
+  },
+  {
+    "book": "Alexander Rodchenko (The Art Story Foundation)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Alexander Rodchenko (The Art Story Foundation)\\Alexander Rodchenko (The Art Story Foundation).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\013_Alexander Rodchenko (The Art Story Foundation",
+    "method": "一二级标题",
+    "documents": 8,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Alexander Rodchenko (The Art Story Foundation) (1)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Alexander Rodchenko (The Art Story Foundation) (1)\\Alexander Rodchenko (The Art Story Foundation) (1).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\014_Alexander Rodchenko (The Art Story Foundation) (1",
+    "method": "一二级标题",
+    "documents": 8,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Alexander Rodchenko Photography 1924-1954 (Alexander Lavrentiev)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Alexander Rodchenko Photography 1924-1954 (Alexander Lavrentiev)\\Alexander Rodchenko Photography 1924-1954 (Alexander Lavrentiev).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\015_Alexander Rodchenko Photography 1924-1954 (Alexander Lavrent",
+    "method": "一级标题",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "American Art Deco (1986) (Alastair Duncan)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\American Art Deco (1986) (Alastair Duncan)\\American Art Deco (1986) (Alastair Duncan).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\016_American Art Deco (1986) (Alastair Duncan",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "American design ethic a history of industrial design to 1940 (Arthur J. Pulos)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\American design ethic a history of industrial design to 1940 (Arthur J. Pulos)\\American design ethic a history of industrial design to 1940 (Arthur J. Pulos).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\017_American design ethic a history of industrial design to 1940",
+    "method": "一级标题",
+    "documents": 11,
+    "chapters": 11,
+    "fallback": false
+  },
+  {
+    "book": "American modernism graphic design, 1920 to 1960 (R. Roger Remington)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\American modernism graphic design, 1920 to 1960 (R. Roger Remington)\\American modernism graphic design, 1920 to 1960 (R. Roger Remington).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\018_American modernism graphic design, 1920 to 1960 (R. Roger Re",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "An introduction to design and culture 1900 to the present (Sparke, Penny)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\An introduction to design and culture 1900 to the present (Sparke, Penny)\\An introduction to design and culture 1900 to the present (Sparke, Penny).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\019_An introduction to design and culture 1900 to the present (S",
+    "method": "强章节标记",
+    "documents": 31,
+    "chapters": 30,
+    "fallback": false
+  },
+  {
+    "book": "Architectural drawings of the Russian avant-garde [published -- Catherine Cooke; Museum of Modern Art (New York, N_Y_); -- First Paperba",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Architectural drawings of the Russian avant-garde [published -- Catherine Cooke; Museum of Modern Art (New York, N_Y_); -- First Paperba\\Architectural drawings of the Russian avant-garde [published -- Catherine Cooke; Museum of Modern Art (New York, N_Y_); -- First Paperba.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\020_Architectural drawings of the Russian avant-garde [published",
+    "method": "强章节标记",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "Architecture theory since 1968 (Hays, K. Michael)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Architecture theory since 1968 (Hays, K. Michael)\\Architecture theory since 1968 (Hays, K. Michael).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\021_Architecture theory since 1968 (Hays, K. Michael",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Art and design _ 100 years at the Royal College of Art _ the -- Frayling, Christopher -- Shepton Beauchamp [England], London, England, 1",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Art and design _ 100 years at the Royal College of Art _ the -- Frayling, Christopher -- Shepton Beauchamp [England], London, England, 1\\Art and design _ 100 years at the Royal College of Art _ the -- Frayling, Christopher -- Shepton Beauchamp [England], London, England, 1.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\022_Art and design _ 100 years at the Royal College of Art _ the",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Art and Visual Perception A Psychology of the Creative Eye (Rudolf Arnheim)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Art and Visual Perception A Psychology of the Creative Eye (Rudolf Arnheim)\\Art and Visual Perception A Psychology of the Creative Eye (Rudolf Arnheim).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\023_Art and Visual Perception A Psychology of the Creative Eye (",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Art Deco (Victoria Charles)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Art Deco (Victoria Charles)\\Art Deco (Victoria Charles).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\024_Art Deco (Victoria Charles",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Art Deco 19101939 (Charlotte Benton, Tim Benton etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Art Deco 19101939 (Charlotte Benton, Tim Benton etc.)\\Art Deco 19101939 (Charlotte Benton, Tim Benton etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\025_Art Deco 19101939 (Charlotte Benton, Tim Benton etc",
+    "method": "强章节标记",
+    "documents": 70,
+    "chapters": 69,
+    "fallback": false
+  },
+  {
+    "book": "Art Deco of the 20s and 30s (Bevis Hillier)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Art Deco of the 20s and 30s (Bevis Hillier)\\Art Deco of the 20s and 30s (Bevis Hillier).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\026_Art Deco of the 20s and 30s (Bevis Hillier",
+    "method": "一级标题",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Art Nouveau 1890-1914 (Greenhalgh, Paul, 1955 October 21-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Art Nouveau 1890-1914 (Greenhalgh, Paul, 1955 October 21-)\\Art Nouveau 1890-1914 (Greenhalgh, Paul, 1955 October 21-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\027_Art Nouveau 1890-1914 (Greenhalgh, Paul, 1955 October 21-",
+    "method": "强章节标记",
+    "documents": 30,
+    "chapters": 29,
+    "fallback": false
+  },
+  {
+    "book": "Art, Creativity, and the Potential of Artificial Intelligence (Mazzone, Marian Elgammal, Ahmed)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Art, Creativity, and the Potential of Artificial Intelligence (Mazzone, Marian Elgammal, Ahmed)\\Art, Creativity, and the Potential of Artificial Intelligence (Mazzone, Marian Elgammal, Ahmed).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\028_Art, Creativity, and the Potential of Artificial Intelligenc",
+    "method": "强章节标记",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "Arts Crafts Movement (Oscar Lovell Triggs)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Arts Crafts Movement (Oscar Lovell Triggs)\\Arts Crafts Movement (Oscar Lovell Triggs).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\029_Arts Crafts Movement (Oscar Lovell Triggs",
+    "method": "一级标题",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "B is for Bauhaus, Y is for YouTube Designing the Modern World from A to Z (Deyan Sudjic)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\B is for Bauhaus, Y is for YouTube Designing the Modern World from A to Z (Deyan Sudjic)\\B is for Bauhaus, Y is for YouTube Designing the Modern World from A to Z (Deyan Sudjic).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\030_B is for Bauhaus, Y is for YouTube Designing the Modern Worl",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Batik _ design, style  history _ featuring selections from -- Fiona Kerlogue, Tara Sosrowardoyo -- Illustrated, PS, 2004 -- London ; New",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Batik _ design, style  history _ featuring selections from -- Fiona Kerlogue, Tara Sosrowardoyo -- Illustrated, PS, 2004 -- London ; New\\Batik _ design, style  history _ featuring selections from -- Fiona Kerlogue, Tara Sosrowardoyo -- Illustrated, PS, 2004 -- London ; New.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\031_Batik _ design, style history _ featuring selections from --",
+    "method": "一级标题",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "Bauhaus (Frank Whitford)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Bauhaus (Frank Whitford)\\Bauhaus (Frank Whitford).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\032_Bauhaus (Frank Whitford",
+    "method": "强章节标记",
+    "documents": 27,
+    "chapters": 26,
+    "fallback": false
+  },
+  {
+    "book": "Bauhaus and Bauhaus Peopleby Eckhard NeumannPainters of the Bauhausby Eberhard RotersWalter Gropius and the Creation of the",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Bauhaus and Bauhaus Peopleby Eckhard NeumannPainters of the Bauhausby Eberhard RotersWalter Gropius and the Creation of the\\Bauhaus and Bauhaus Peopleby Eckhard NeumannPainters of the Bauhausby Eberhard RotersWalter Gropius and the Creation of the.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\033_Bauhaus and Bauhaus Peopleby Eckhard NeumannPainters of the",
+    "method": "一二级标题",
+    "documents": 3,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "Border thinking and disidentification Postcolonial and postsocialist feminist dialogues (Tlostanova, M. Koobak etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Border thinking and disidentification Postcolonial and postsocialist feminist dialogues (Tlostanova, M. Koobak etc.)\\Border thinking and disidentification Postcolonial and postsocialist feminist dialogues (Tlostanova, M. Koobak etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\034_Border thinking and disidentification Postcolonial and posts",
+    "method": "一二级标题",
+    "documents": 8,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "BRYAN LAWSON DESIGN EXPERTISE",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\BRYAN LAWSON DESIGN EXPERTISE\\BRYAN LAWSON DESIGN EXPERTISE.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\035_BRYAN LAWSON DESIGN EXPERTISE",
+    "method": "一二级标题",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "Buen Gusto and Classicism in the Visual Cultures of Latin America, 1780-1910 (Paul B. Niell Stacie G. Widdifield)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Buen Gusto and Classicism in the Visual Cultures of Latin America, 1780-1910 (Paul B. Niell Stacie G. Widdifield)\\Buen Gusto and Classicism in the Visual Cultures of Latin America, 1780-1910 (Paul B. Niell Stacie G. Widdifield).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\036_Buen Gusto and Classicism in the Visual Cultures of Latin Am",
+    "method": "一级标题",
+    "documents": 11,
+    "chapters": 11,
+    "fallback": false
+  },
+  {
+    "book": "By Design Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV and Other Object Lessons (review) (Benhamou, Reed)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\By Design Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV and Other Object Lessons (review) (Benhamou, Reed)\\By Design Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV and Other Object Lessons (review) (Benhamou, Reed).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\037_By Design Why There Are No Locks on the Bathroom Doors in th",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "C.R. Ashbee architect, designer romantic socialist (Crawford, Alan, 1943-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\C.R. Ashbee architect, designer romantic socialist (Crawford, Alan, 1943-)\\C.R. Ashbee architect, designer romantic socialist (Crawford, Alan, 1943-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\038_C.R. Ashbee architect, designer romantic socialist (Crawford",
+    "method": "强章节标记",
+    "documents": 78,
+    "chapters": 77,
+    "fallback": false
+  },
+  {
+    "book": "Change by Design How Design Thinking Transforms Organizations and Inspires Innovation (Tim Brown)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Change by Design How Design Thinking Transforms Organizations and Inspires Innovation (Tim Brown)\\Change by Design How Design Thinking Transforms Organizations and Inspires Innovation (Tim Brown).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\039_Change by Design How Design Thinking Transforms Organization",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "Charles And Ray Eames Designers of the Twentieth Century (Pat Kirkham)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Charles And Ray Eames Designers of the Twentieth Century (Pat Kirkham)\\Charles And Ray Eames Designers of the Twentieth Century (Pat Kirkham).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\040_Charles And Ray Eames Designers of the Twentieth Century (Pa",
+    "method": "一二级标题",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Chinese pottery and porcelain from prehistory to the present (Vainker, S. J)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Chinese pottery and porcelain from prehistory to the present (Vainker, S. J)\\Chinese pottery and porcelain from prehistory to the present (Vainker, S. J).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\041_Chinese pottery and porcelain from prehistory to the present",
+    "method": "强章节标记",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "Cloth and human experience (Weiner, Annette B., 1933-, Schneider, Jane etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Cloth and human experience (Weiner, Annette B., 1933-, Schneider, Jane etc.)\\Cloth and human experience (Weiner, Annette B., 1933-, Schneider, Jane etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\042_Cloth and human experience (Weiner, Annette B., 1933-, Schne",
+    "method": "强章节标记",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "Cloth in West African History (Colleen E. Kriger)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Cloth in West African History (Colleen E. Kriger)\\Cloth in West African History (Colleen E. Kriger).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\043_Cloth in West African History (Colleen E. Kriger",
+    "method": "一级标题",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Cold War Modern Design 1945-1970 Fear and Fashion in the Cold War Posters of the Cold War (Golec, M. J)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Cold War Modern Design 1945-1970 Fear and Fashion in the Cold War Posters of the Cold War (Golec, M. J)\\Cold War Modern Design 1945-1970 Fear and Fashion in the Cold War Posters of the Cold War (Golec, M. J).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\044_Cold War Modern Design 1945-1970 Fear and Fashion in the Col",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Colonialism and Development Britain and Its Tropical Colonies, 1850-1960 (M. Havinden)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Colonialism and Development Britain and Its Tropical Colonies, 1850-1960 (M. Havinden)\\Colonialism and Development Britain and Its Tropical Colonies, 1850-1960 (M. Havinden).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\045_Colonialism and Development Britain and Its Tropical Colonie",
+    "method": "一级标题",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "Complexity and Contradiction in Architecture (Robert Venturi)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Complexity and Contradiction in Architecture (Robert Venturi)\\Complexity and Contradiction in Architecture (Robert Venturi).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\046_Complexity and Contradiction in Architecture (Robert Venturi",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Concerning the Spiritual in Art (Wassily Kandinsky)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Concerning the Spiritual in Art (Wassily Kandinsky)\\Concerning the Spiritual in Art (Wassily Kandinsky).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\047_Concerning the Spiritual in Art (Wassily Kandinsky",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Constructing Russian culture in the age of revolution, 1881-1940 (Kelly, Catriona Shepherd, David (David G.))",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Constructing Russian culture in the age of revolution, 1881-1940 (Kelly, Catriona Shepherd, David (David G.))\\Constructing Russian culture in the age of revolution, 1881-1940 (Kelly, Catriona Shepherd, David (David G.)).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\048_Constructing Russian culture in the age of revolution, 1881-",
+    "method": "强章节标记",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "Cotton The Fabric That Made the Modern World (Giorgio Riello)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Cotton The Fabric That Made the Modern World (Giorgio Riello)\\Cotton The Fabric That Made the Modern World (Giorgio Riello).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\049_Cotton The Fabric That Made the Modern World (Giorgio Riello",
+    "method": "强章节标记",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Cradle to cradle remaking the way we make things (Michael Braungart, William McDonough)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Cradle to cradle remaking the way we make things (Michael Braungart, William McDonough)\\Cradle to cradle remaking the way we make things (Michael Braungart, William McDonough).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\050_Cradle to cradle remaking the way we make things (Michael Br",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "Creativity (Mihaly Csikszentmihalyi)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Creativity (Mihaly Csikszentmihalyi)\\Creativity (Mihaly Csikszentmihalyi).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\051_Creativity (Mihaly Csikszentmihalyi",
+    "method": "强章节标记",
+    "documents": 17,
+    "chapters": 16,
+    "fallback": false
+  },
+  {
+    "book": "Creativity and Cultural Improvisation (Elizabeth Hallam Tim Ingold)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Creativity and Cultural Improvisation (Elizabeth Hallam Tim Ingold)\\Creativity and Cultural Improvisation (Elizabeth Hallam Tim Ingold).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\052_Creativity and Cultural Improvisation (Elizabeth Hallam Tim",
+    "method": "一级标题",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "Cultural Revolution in Russia, 1928-1931 (Sheila Fitzpatrick)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Cultural Revolution in Russia, 1928-1931 (Sheila Fitzpatrick)\\Cultural Revolution in Russia, 1928-1931 (Sheila Fitzpatrick).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\053_Cultural Revolution in Russia, 1928-1931 (Sheila Fitzpatrick",
+    "method": "一级标题",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "De Stijl_ The Formative Years, 1917-1922 -- Carel Blotkamp _ [et al_]; translated by Charlotte I_ Loeb -- Cambridge, Mass, Massachusetts",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\De Stijl_ The Formative Years, 1917-1922 -- Carel Blotkamp _ [et al_]; translated by Charlotte I_ Loeb -- Cambridge, Mass, Massachusetts\\De Stijl_ The Formative Years, 1917-1922 -- Carel Blotkamp _ [et al_]; translated by Charlotte I_ Loeb -- Cambridge, Mass, Massachusetts.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\054_De Stijl_ The Formative Years, 1917-1922 -- Carel Blotkamp",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Declaration by Design Rhetoric, Argument, and Demonstration in Design Practice (Richard Buchanan)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Declaration by Design Rhetoric, Argument, and Demonstration in Design Practice (Richard Buchanan)\\Declaration by Design Rhetoric, Argument, and Demonstration in Design Practice (Richard Buchanan).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\055_Declaration by Design Rhetoric, Argument, and Demonstration",
+    "method": "一级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Decoding advertisements ideology and meaning in advertising (Williamson, Judith)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Decoding advertisements ideology and meaning in advertising (Williamson, Judith)\\Decoding advertisements ideology and meaning in advertising (Williamson, Judith).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\056_Decoding advertisements ideology and meaning in advertising",
+    "method": "强章节标记",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "Decolonizing Design A Cultural Justice Guidebook (Elizabeth (Dori) Tunstall)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Decolonizing Design A Cultural Justice Guidebook (Elizabeth (Dori) Tunstall)\\Decolonizing Design A Cultural Justice Guidebook (Elizabeth (Dori) Tunstall).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\057_Decolonizing Design A Cultural Justice Guidebook (Elizabeth",
+    "method": "强章节标记",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "Delirious New York a retroactive manifesto for Manhattan (Rem Koolhaas)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Delirious New York a retroactive manifesto for Manhattan (Rem Koolhaas)\\Delirious New York a retroactive manifesto for Manhattan (Rem Koolhaas).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\058_Delirious New York a retroactive manifesto for Manhattan (Re",
+    "method": "一级标题",
+    "documents": 16,
+    "chapters": 15,
+    "fallback": false
+  },
+  {
+    "book": "Design and Form The Basic Course at the Bauhaus and Later (Johannes Itten)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design and Form The Basic Course at the Bauhaus and Later (Johannes Itten)\\Design and Form The Basic Course at the Bauhaus and Later (Johannes Itten).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\059_Design and Form The Basic Course at the Bauhaus and Later (J",
+    "method": "一二级标题",
+    "documents": 18,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "Design Anthropology Object Cultures in Transition (Alison J. Clarke (editor))",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design Anthropology Object Cultures in Transition (Alison J. Clarke (editor))\\Design Anthropology Object Cultures in Transition (Alison J. Clarke (editor)).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\060_Design Anthropology Object Cultures in Transition (Alison J",
+    "method": "强章节标记",
+    "documents": 15,
+    "chapters": 14,
+    "fallback": false
+  },
+  {
+    "book": "Design Anthropology Theory and Practice (Smith, Rachel Charlotte Otto, Ton Gunn etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design Anthropology Theory and Practice (Smith, Rachel Charlotte Otto, Ton Gunn etc.)\\Design Anthropology Theory and Practice (Smith, Rachel Charlotte Otto, Ton Gunn etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\061_Design Anthropology Theory and Practice (Smith, Rachel Charl",
+    "method": "一级标题",
+    "documents": 18,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "Design at Work Cooperative Design of Computer Systems (Joan Greenbaum (editor) etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design at Work Cooperative Design of Computer Systems (Joan Greenbaum (editor) etc.)\\Design at Work Cooperative Design of Computer Systems (Joan Greenbaum (editor) etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\062_Design at Work Cooperative Design of Computer Systems (Joan",
+    "method": "一级标题",
+    "documents": 15,
+    "chapters": 14,
+    "fallback": false
+  },
+  {
+    "book": "Design discourse history, theory, criticism (Margolin, Victor, 1941-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design discourse history, theory, criticism (Margolin, Victor, 1941-)\\Design discourse history, theory, criticism (Margolin, Victor, 1941-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\063_Design discourse history, theory, criticism (Margolin, Victo",
+    "method": "一级标题",
+    "documents": 23,
+    "chapters": 23,
+    "fallback": false
+  },
+  {
+    "book": "Design for human ecosystems landscape, land use, and natural resources (Lyle, John Tillman)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design for human ecosystems landscape, land use, and natural resources (Lyle, John Tillman)\\Design for human ecosystems landscape, land use, and natural resources (Lyle, John Tillman).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\064_Design for human ecosystems landscape, land use, and natural",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "Design for the Real World Human Ecology and Social Change (Victor Papanek)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design for the Real World Human Ecology and Social Change (Victor Papanek)\\Design for the Real World Human Ecology and Social Change (Victor Papanek).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\065_Design for the Real World Human Ecology and Social Change (V",
+    "method": "一级标题",
+    "documents": 21,
+    "chapters": 21,
+    "fallback": false
+  },
+  {
+    "book": "Design for Transitions  from and to what (Tonkinwise, Cameron)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design for Transitions  from and to what (Tonkinwise, Cameron)\\Design for Transitions  from and to what (Tonkinwise, Cameron).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\066_Design for Transitions from and to what (Tonkinwise, Cameron",
+    "method": "一级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Design history a students handbook (Conway, Hazel)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design history a students handbook (Conway, Hazel)\\Design history a students handbook (Conway, Hazel).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\067_Design history a students handbook (Conway, Hazel",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Design History An Anthology (Dennis P. Doordan)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design History An Anthology (Dennis P. Doordan)\\Design History An Anthology (Dennis P. Doordan).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\068_Design History An Anthology (Dennis P. Doordan",
+    "method": "一级标题",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "Design history and the history of design -- Walker, John Albert, 1938-, Attfield, Judy -- London, Winchester, MA, 1989 -- London _ Pluto",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design history and the history of design -- Walker, John Albert, 1938-, Attfield, Judy -- London, Winchester, MA, 1989 -- London _ Pluto\\Design history and the history of design -- Walker, John Albert, 1938-, Attfield, Judy -- London, Winchester, MA, 1989 -- London _ Pluto.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\069_Design history and the history of design -- Walker, John Alb",
+    "method": "一级标题",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Design History Understanding Theory and Method (Kjetil Fallan)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design History Understanding Theory and Method (Kjetil Fallan)\\Design History Understanding Theory and Method (Kjetil Fallan).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\070_Design History Understanding Theory and Method (Kjetil Falla",
+    "method": "强章节标记",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "Design Management Managing Design Strategy, Process and Implementation (Kathryn Best)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design Management Managing Design Strategy, Process and Implementation (Kathryn Best)\\Design Management Managing Design Strategy, Process and Implementation (Kathryn Best).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\071_Design Management Managing Design Strategy, Process and Impl",
+    "method": "强章节标记",
+    "documents": 22,
+    "chapters": 21,
+    "fallback": false
+  },
+  {
+    "book": "Design management using design to build brand value and corporate innovation (Brigitte Borja de Mozota)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design management using design to build brand value and corporate innovation (Brigitte Borja de Mozota)\\Design management using design to build brand value and corporate innovation (Brigitte Borja de Mozota).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\072_Design management using design to build brand value and corp",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Design meets disability (Pullin, Graham, 1964-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design meets disability (Pullin, Graham, 1964-)\\Design meets disability (Pullin, Graham, 1964-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\073_Design meets disability (Pullin, Graham, 1964-",
+    "method": "一级标题",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "Design Noir The Secret Life of Electronic Objects (Anthony Dunne, Fiona Raby)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design Noir The Secret Life of Electronic Objects (Anthony Dunne, Fiona Raby)\\Design Noir The Secret Life of Electronic Objects (Anthony Dunne, Fiona Raby).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\074_Design Noir The Secret Life of Electronic Objects (Anthony D",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Design of Business (Roger L. Martin)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design of Business (Roger L. Martin)\\Design of Business (Roger L. Martin).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\075_Design of Business (Roger L. Martin",
+    "method": "强章节标记",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Design Thinking (Teun den Dekker)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design Thinking (Teun den Dekker)\\Design Thinking (Teun den Dekker).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\076_Design Thinking (Teun den Dekker",
+    "method": "强章节标记",
+    "documents": 22,
+    "chapters": 21,
+    "fallback": false
+  },
+  {
+    "book": "Design Thinking Past, Present and Possible Futures (Johansson-Sköldberg, Ulla Woodilla etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design Thinking Past, Present and Possible Futures (Johansson-Sköldberg, Ulla Woodilla etc.)\\Design Thinking Past, Present and Possible Futures (Johansson-Sköldberg, Ulla Woodilla etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\077_Design Thinking Past, Present and Possible Futures (Johansso",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Design Thinking Understanding How Designers Think and Work (Nigel Cross)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design Thinking Understanding How Designers Think and Work (Nigel Cross)\\Design Thinking Understanding How Designers Think and Work (Nigel Cross).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\078_Design Thinking Understanding How Designers Think and Work (",
+    "method": "一级标题",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "Design, when everybody designs an introduction to design for social innovation (Manzini, Ezio)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design, when everybody designs an introduction to design for social innovation (Manzini, Ezio)\\Design, when everybody designs an introduction to design for social innovation (Manzini, Ezio).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\079_Design, when everybody designs an introduction to design for",
+    "method": "强章节标记",
+    "documents": 20,
+    "chapters": 19,
+    "fallback": false
+  },
+  {
+    "book": "Design, writing, research writing on graphic design (Lupton, Ellen, Miller, J. Abbott)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design, writing, research writing on graphic design (Lupton, Ellen, Miller, J. Abbott)\\Design, writing, research writing on graphic design (Lupton, Ellen, Miller, J. Abbott).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\080_Design, writing, research writing on graphic design (Lupton,",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Design_ A Very Short Introduction (Very Short Introductions)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Design_ A Very Short Introduction (Very Short Introductions)\\Design_ A Very Short Introduction (Very Short Introductions).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\081_Design_ A Very Short Introduction (Very Short Introductions",
+    "method": "强章节标记",
+    "documents": 25,
+    "chapters": 24,
+    "fallback": false
+  },
+  {
+    "book": "Designerly Ways of Knowing _",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Designerly Ways of Knowing _\\Designerly Ways of Knowing _.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\082_Designerly Ways of Knowing",
+    "method": "一级标题",
+    "documents": 8,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Designing Design (Kenya Hara)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Designing Design (Kenya Hara)\\Designing Design (Kenya Hara).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\083_Designing Design (Kenya Hara",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Designing for people",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Designing for people\\Designing for people.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\084_Designing for people",
+    "method": "强章节标记",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "Designing Interactions ( etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Designing Interactions ( etc.)\\Designing Interactions ( etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\085_Designing Interactions ( etc",
+    "method": "强章节标记",
+    "documents": 33,
+    "chapters": 32,
+    "fallback": false
+  },
+  {
+    "book": "Die Kunstismen  Les ismes de l'art  The isms of art -- herausgegeben von El Lissitzky und Hans Arp  Les ismes de -- Rist_ anastatica, Ba",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Die Kunstismen  Les ismes de l'art  The isms of art -- herausgegeben von El Lissitzky und Hans Arp  Les ismes de -- Rist_ anastatica, Ba\\Die Kunstismen  Les ismes de l'art  The isms of art -- herausgegeben von El Lissitzky und Hans Arp  Les ismes de -- Rist_ anastatica, Ba.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\086_Die Kunstismen Les ismes de l'art The isms of art -- herausg",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Digital style history the development of graphic design on the Internet",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Digital style history the development of graphic design on the Internet\\Digital style history the development of graphic design on the Internet.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\087_Digital style history the development of graphic design on t",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Dilemmas in a General Theory of Planning (Horst W. J. Rittel and Melvin M. Webber)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Dilemmas in a General Theory of Planning (Horst W. J. Rittel and Melvin M. Webber)\\Dilemmas in a General Theory of Planning (Horst W. J. Rittel and Melvin M. Webber).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\088_Dilemmas in a General Theory of Planning (Horst W. J. Rittel",
+    "method": "强章节标记",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs (Zeynep Çelik)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs (Zeynep Çelik)\\Displaying the Orient Architecture of Islam at Nineteenth-Century Worlds Fairs (Zeynep Çelik).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\089_Displaying the Orient Architecture of Islam at Nineteenth-Ce",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Distinction a social critique of the judgement of taste (Pierre Bourdieu)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Distinction a social critique of the judgement of taste (Pierre Bourdieu)\\Distinction a social critique of the judgement of taste (Pierre Bourdieu).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\090_Distinction a social critique of the judgement of taste (Pie",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Distinction A Social Critique of the Judgement of Taste (Pierre Bourdieu, Richard Nice)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Distinction A Social Critique of the Judgement of Taste (Pierre Bourdieu, Richard Nice)\\Distinction A Social Critique of the Judgement of Taste (Pierre Bourdieu, Richard Nice).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\091_Distinction A Social Critique of the Judgement of Taste (Pie",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Do Artifacts Have Politics_",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Do Artifacts Have Politics_\\Do Artifacts Have Politics_.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\092_Do Artifacts Have Politics",
+    "method": "一二级标题",
+    "documents": 3,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "Domesticating the World African Consumerism and the Genealogies of Globalization (Jeremy Prestholdt)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Domesticating the World African Consumerism and the Genealogies of Globalization (Jeremy Prestholdt)\\Domesticating the World African Consumerism and the Genealogies of Globalization (Jeremy Prestholdt).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\093_Domesticating the World African Consumerism and the Genealog",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "Eileen Gray Architectdesigner (Peter Adam)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Eileen Gray Architectdesigner (Peter Adam)\\Eileen Gray Architectdesigner (Peter Adam).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\094_Eileen Gray Architectdesigner (Peter Adam",
+    "method": "一二级标题",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Emotional Design Why We Love (Or Hate) Everyday Things (Donald A. Norman)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Emotional Design Why We Love (Or Hate) Everyday Things (Donald A. Norman)\\Emotional Design Why We Love (Or Hate) Everyday Things (Donald A. Norman).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\095_Emotional Design Why We Love (Or Hate) Everyday Things (Dona",
+    "method": "强章节标记",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "Empire of Cotton _ A Global History",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Empire of Cotton _ A Global History\\Empire of Cotton _ A Global History.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\096_Empire of Cotton _ A Global History",
+    "method": "一级标题",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Essential modernism ; [published on the occasion of the -- Brookman, Philip, Greenhalgh, Paul, 1955 October 21-; -- Washington, D_C, Dis",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Essential modernism ; [published on the occasion of the -- Brookman, Philip, Greenhalgh, Paul, 1955 October 21-; -- Washington, D_C, Dis\\Essential modernism ; [published on the occasion of the -- Brookman, Philip, Greenhalgh, Paul, 1955 October 21-; -- Washington, D_C, Dis.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\097_Essential modernism ; [published on the occasion of the -- B",
+    "method": "一二级标题",
+    "documents": 27,
+    "chapters": 26,
+    "fallback": false
+  },
+  {
+    "book": "Evolving to a New Dominant Logic for Marketing (Stephen L. Vargo and Robert F. Lusch)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Evolving to a New Dominant Logic for Marketing (Stephen L. Vargo and Robert F. Lusch)\\Evolving to a New Dominant Logic for Marketing (Stephen L. Vargo and Robert F. Lusch).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\098_Evolving to a New Dominant Logic for Marketing (Stephen L. V",
+    "method": "一二级标题",
+    "documents": 18,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "Experiences in Visual Thinking (Robert H. McKim)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Experiences in Visual Thinking (Robert H. McKim)\\Experiences in Visual Thinking (Robert H. McKim).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\099_Experiences in Visual Thinking (Robert H. McKim",
+    "method": "强章节标记",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "Fashion and Eroticism Ideals of Feminine Beauty From the Victorian Era to the Jazz Age (Valerie Steele)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Fashion and Eroticism Ideals of Feminine Beauty From the Victorian Era to the Jazz Age (Valerie Steele)\\Fashion and Eroticism Ideals of Feminine Beauty From the Victorian Era to the Jazz Age (Valerie Steele).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\100_Fashion and Eroticism Ideals of Feminine Beauty From the Vic",
+    "method": "一级标题",
+    "documents": 16,
+    "chapters": 15,
+    "fallback": false
+  },
+  {
+    "book": "Fashion sustainability design for change (Kate Fletcher, Lynda Grose, Paul Hawken)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Fashion sustainability design for change (Kate Fletcher, Lynda Grose, Paul Hawken)\\Fashion sustainability design for change (Kate Fletcher, Lynda Grose, Paul Hawken).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\101_Fashion sustainability design for change (Kate Fletcher, Lyn",
+    "method": "强章节标记",
+    "documents": 25,
+    "chapters": 24,
+    "fallback": false
+  },
+  {
+    "book": "Founders of American industrial design (Gantz, Carroll, 1931-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Founders of American industrial design (Gantz, Carroll, 1931-)\\Founders of American industrial design (Gantz, Carroll, 1931-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\102_Founders of American industrial design (Gantz, Carroll, 1931",
+    "method": "强章节标记",
+    "documents": 21,
+    "chapters": 20,
+    "fallback": false
+  },
+  {
+    "book": "Frame Innovation Create New Thinking by Design (Kees Dorst)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Frame Innovation Create New Thinking by Design (Kees Dorst)\\Frame Innovation Create New Thinking by Design (Kees Dorst).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\103_Frame Innovation Create New Thinking by Design (Kees Dorst",
+    "method": "一二级标题",
+    "documents": 46,
+    "chapters": 45,
+    "fallback": false
+  },
+  {
+    "book": "Goods, power, history Latin Americas material culture (Bauer, Arnold J)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Goods, power, history Latin Americas material culture (Bauer, Arnold J)\\Goods, power, history Latin Americas material culture (Bauer, Arnold J).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\104_Goods, power, history Latin Americas material culture (Bauer",
+    "method": "一级标题",
+    "documents": 6,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "Graphic Design A Concise History (Richard Hollis)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Graphic Design A Concise History (Richard Hollis)\\Graphic Design A Concise History (Richard Hollis).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\105_Graphic Design A Concise History (Richard Hollis",
+    "method": "一级标题",
+    "documents": 25,
+    "chapters": 24,
+    "fallback": false
+  },
+  {
+    "book": "Graphic Design A New History (Stephen J. Eskilson)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Graphic Design A New History (Stephen J. Eskilson)\\Graphic Design A New History (Stephen J. Eskilson).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\106_Graphic Design A New History (Stephen J. Eskilson",
+    "method": "强章节标记",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "Graphic design history",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Graphic design history\\Graphic design history.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\107_Graphic design history",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Graphic design history a critical guide (Drucker, Johanna, 1952-, McVarish, Emily)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Graphic design history a critical guide (Drucker, Johanna, 1952-, McVarish, Emily)\\Graphic design history a critical guide (Drucker, Johanna, 1952-, McVarish, Emily).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\108_Graphic design history a critical guide (Drucker, Johanna, 1",
+    "method": "强章节标记",
+    "documents": 37,
+    "chapters": 36,
+    "fallback": false
+  },
+  {
+    "book": "Graphic Design History Past, Present, and Future (Triggs, Teal)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Graphic Design History Past, Present, and Future (Triggs, Teal)\\Graphic Design History Past, Present, and Future (Triggs, Teal).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\109_Graphic Design History Past, Present, and Future (Triggs, Te",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Graphic design in America a visual language history (Friedman, Mildred S, Giovannini, Joseph etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Graphic design in America a visual language history (Friedman, Mildred S, Giovannini, Joseph etc.)\\Graphic design in America a visual language history (Friedman, Mildred S, Giovannini, Joseph etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\110_Graphic design in America a visual language history (Friedma",
+    "method": "一级标题",
+    "documents": 61,
+    "chapters": 60,
+    "fallback": false
+  },
+  {
+    "book": "Guilds, innovation, and the European economy, 1400-1800 -- Epstein Stephan R Prak Maarten Roy; Stephan R_ Epstein; -- 1 edition, March 3",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Guilds, innovation, and the European economy, 1400-1800 -- Epstein Stephan R Prak Maarten Roy; Stephan R_ Epstein; -- 1 edition, March 3\\Guilds, innovation, and the European economy, 1400-1800 -- Epstein Stephan R Prak Maarten Roy; Stephan R_ Epstein; -- 1 edition, March 3.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\111_Guilds, innovation, and the European economy, 1400-1800 -- E",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Hello world where design meets life (Rawsthorn, Alice, author)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Hello world where design meets life (Rawsthorn, Alice, author)\\Hello world where design meets life (Rawsthorn, Alice, author).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\112_Hello world where design meets life (Rawsthorn, Alice, autho",
+    "method": "强章节标记",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design (Anthony Dunne)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design (Anthony Dunne)\\Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design (Anthony Dunne).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\113_Hertzian Tales Electronic Products, Aesthetic Experience, an",
+    "method": "强章节标记",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "Holism and the reconstitution of everyday life a framework for transition to a sustainable society (Kossoff, Gideon)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Holism and the reconstitution of everyday life a framework for transition to a sustainable society (Kossoff, Gideon)\\Holism and the reconstitution of everyday life a framework for transition to a sustainable society (Kossoff, Gideon).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\114_Holism and the reconstitution of everyday life a framework f",
+    "method": "一二级标题",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Home A Short History of An Idea (Witold Rybczynski)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Home A Short History of An Idea (Witold Rybczynski)\\Home A Short History of An Idea (Witold Rybczynski).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\115_Home A Short History of An Idea (Witold Rybczynski",
+    "method": "强章节标记",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Hopes and fears for art_ By William Morris_r",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Hopes and fears for art_ By William Morris_r\\Hopes and fears for art_ By William Morris_r.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\116_Hopes and fears for art_ By William Morris_r",
+    "method": "一二级标题",
+    "documents": 19,
+    "chapters": 18,
+    "fallback": false
+  },
+  {
+    "book": "How Designers Think. The Design Process Demystified (Bryan Lawson (Auth.))",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\How Designers Think. The Design Process Demystified (Bryan Lawson (Auth.))\\How Designers Think. The Design Process Demystified (Bryan Lawson (Auth.)).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\117_How Designers Think. The Design Process Demystified (Bryan L",
+    "method": "强章节标记",
+    "documents": 23,
+    "chapters": 22,
+    "fallback": false
+  },
+  {
+    "book": "How We Intend to Future Review of Anthony Dunne and Fiona Raby, ISpeculative Everything Design, Fiction, and Social (Tonkinwise, Cameron",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\How We Intend to Future Review of Anthony Dunne and Fiona Raby, ISpeculative Everything Design, Fiction, and Social (Tonkinwise, Cameron\\How We Intend to Future Review of Anthony Dunne and Fiona Raby, ISpeculative Everything Design, Fiction, and Social (Tonkinwise, Cameron.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\118_How We Intend to Future Review of Anthony Dunne and Fiona Ra",
+    "method": "强章节标记",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "Human-computer interaction in the new millennium (Carroll, John Millar(Editor))",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Human-computer interaction in the new millennium (Carroll, John Millar(Editor))\\Human-computer interaction in the new millennium (Carroll, John Millar(Editor)).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\119_Human-computer interaction in the new millennium (Carroll, J",
+    "method": "强章节标记",
+    "documents": 15,
+    "chapters": 14,
+    "fallback": false
+  },
+  {
+    "book": "Iconography of Power Soviet Political Posters under Lenin and Stalin (Victoria E. Bonnell)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Iconography of Power Soviet Political Posters under Lenin and Stalin (Victoria E. Bonnell)\\Iconography of Power Soviet Political Posters under Lenin and Stalin (Victoria E. Bonnell).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\120_Iconography of Power Soviet Political Posters under Lenin an",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "In Praise of Shadows (Junichiro Tanizaki)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\In Praise of Shadows (Junichiro Tanizaki)\\In Praise of Shadows (Junichiro Tanizaki).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\121_In Praise of Shadows (Junichiro Tanizaki",
+    "method": "一二级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "In the Bubble. Designing in a Complex World (Thackara John)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\In the Bubble. Designing in a Complex World (Thackara John)\\In the Bubble. Designing in a Complex World (Thackara John).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\122_In the Bubble. Designing in a Complex World (Thackara John",
+    "method": "强章节标记",
+    "documents": 29,
+    "chapters": 28,
+    "fallback": false
+  },
+  {
+    "book": "Industrial design (Heskett, John)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Industrial design (Heskett, John)\\Industrial design (Heskett, John).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\123_Industrial design (Heskett, John",
+    "method": "一级标题",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "Industriekultur Peter Behrens and the AEG, 1907-1914 (Buddensieg, Tilmann, Rogge, Henning)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Industriekultur Peter Behrens and the AEG, 1907-1914 (Buddensieg, Tilmann, Rogge, Henning)\\Industriekultur Peter Behrens and the AEG, 1907-1914 (Buddensieg, Tilmann, Rogge, Henning).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\124_Industriekultur Peter Behrens and the AEG, 1907-1914 (Budden",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Interaction Design Beyond Human-Computer Interaction, Fifth Edition (Helen Sharp, Jenny Preece, Yvonne Rogers)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Interaction Design Beyond Human-Computer Interaction, Fifth Edition (Helen Sharp, Jenny Preece, Yvonne Rogers)\\Interaction Design Beyond Human-Computer Interaction, Fifth Edition (Helen Sharp, Jenny Preece, Yvonne Rogers).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\125_Interaction Design Beyond Human-Computer Interaction, Fifth",
+    "method": "强章节标记",
+    "documents": 32,
+    "chapters": 31,
+    "fallback": false
+  },
+  {
+    "book": "Interaction of Color.. (Josef Albers)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Interaction of Color.. (Josef Albers)\\Interaction of Color.. (Josef Albers).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\126_Interaction of Color.. (Josef Albers",
+    "method": "一级标题",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "Interior design of the 20th century (Massey, Anne)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Interior design of the 20th century (Massey, Anne)\\Interior design of the 20th century (Massey, Anne).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\127_Interior design of the 20th century (Massey, Anne",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "Is Design Finished Dematerialisation and Changing Things (Tonkinwise, Cameron)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Is Design Finished Dematerialisation and Changing Things (Tonkinwise, Cameron)\\Is Design Finished Dematerialisation and Changing Things (Tonkinwise, Cameron).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\128_Is Design Finished Dematerialisation and Changing Things (To",
+    "method": "一级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "ITALIAN DESIGN 1870 TO THE PRESENT (PENNY SPARKE, Sparke, Penny)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\ITALIAN DESIGN 1870 TO THE PRESENT (PENNY SPARKE, Sparke, Penny)\\ITALIAN DESIGN 1870 TO THE PRESENT (PENNY SPARKE, Sparke, Penny).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\129_ITALIAN DESIGN 1870 TO THE PRESENT (PENNY SPARKE, Sparke, Pe",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Japanese Modern Graphic Design Between the Wars (James H. Fraser, Steven Heller etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Japanese Modern Graphic Design Between the Wars (James H. Fraser, Steven Heller etc.)\\Japanese Modern Graphic Design Between the Wars (James H. Fraser, Steven Heller etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\130_Japanese Modern Graphic Design Between the Wars (James H. Fr",
+    "method": "强章节标记",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "kenneth-frampton-towards-a-critical-regionalism-six-points-f",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\kenneth-frampton-towards-a-critical-regionalism-six-points-f\\kenneth-frampton-towards-a-critical-regionalism-six-points-f.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\131_kenneth-frampton-towards-a-critical-regionalism-six-points-f",
+    "method": "强章节标记",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Kopytoff 1986 The Cultural Biography of Things -",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Kopytoff 1986 The Cultural Biography of Things -\\Kopytoff 1986 The Cultural Biography of Things -.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\132_Kopytoff 1986 The Cultural Biography of Things -",
+    "method": "一二级标题",
+    "documents": 23,
+    "chapters": 23,
+    "fallback": false
+  },
+  {
+    "book": "Late Victorian Holocausts El Nino Famines and the Making of the Third World (Mike Davis)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Late Victorian Holocausts El Nino Famines and the Making of the Third World (Mike Davis)\\Late Victorian Holocausts El Nino Famines and the Making of the Third World (Mike Davis).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\133_Late Victorian Holocausts El Nino Famines and the Making of",
+    "method": "一级标题",
+    "documents": 13,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "Learning from Las Vegas the forgotten symbolism of architectural form (Venturi, Robert, Scott Brown, Denise etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Learning from Las Vegas the forgotten symbolism of architectural form (Venturi, Robert, Scott Brown, Denise etc.)\\Learning from Las Vegas the forgotten symbolism of architectural form (Venturi, Robert, Scott Brown, Denise etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\134_Learning from Las Vegas the forgotten symbolism of architect",
+    "method": "一二级标题",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "Libertys a biography of a shop (Adburgham, Alison)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Libertys a biography of a shop (Adburgham, Alison)\\Libertys a biography of a shop (Adburgham, Alison).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\135_Libertys a biography of a shop (Adburgham, Alison",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Line and Form (Walter Crane)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Line and Form (Walter Crane)\\Line and Form (Walter Crane).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\136_Line and Form (Walter Crane",
+    "method": "强章节标记",
+    "documents": 21,
+    "chapters": 20,
+    "fallback": false
+  },
+  {
+    "book": "Luxury and Pleasure in Eighteenth-Century Britain (2007) (Maxine Berg)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Luxury and Pleasure in Eighteenth-Century Britain (2007) (Maxine Berg)\\Luxury and Pleasure in Eighteenth-Century Britain (2007) (Maxine Berg).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\137_Luxury and Pleasure in Eighteenth-Century Britain (2007) (Ma",
+    "method": "一级标题",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Making -- Ingold, T_（ University of Aberdeen_ The research on which -- 34, 2010 -- Oxford University Press; Oxford University Press -- 1",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Making -- Ingold, T_（ University of Aberdeen_ The research on which -- 34, 2010 -- Oxford University Press; Oxford University Press -- 1\\Making -- Ingold, T_（ University of Aberdeen_ The research on which -- 34, 2010 -- Oxford University Press; Oxford University Press -- 1.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\138_Making -- Ingold, T_（ University of Aberdeen_ The research o",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Material Culture and Mass Consumption (Social Archaeology) -- Miller, Daniel, 1954- -- Social archaeology, Oxford, OX, UK, New York, NY,",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Material Culture and Mass Consumption (Social Archaeology) -- Miller, Daniel, 1954- -- Social archaeology, Oxford, OX, UK, New York, NY,\\Material Culture and Mass Consumption (Social Archaeology) -- Miller, Daniel, 1954- -- Social archaeology, Oxford, OX, UK, New York, NY,.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\139_Material Culture and Mass Consumption (Social Archaeology) -",
+    "method": "一级标题",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "Meggs History of Graphic Design (Philip B. Meggs Alston W. Purvis)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Meggs History of Graphic Design (Philip B. Meggs Alston W. Purvis)\\Meggs History of Graphic Design (Philip B. Meggs Alston W. Purvis).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\140_Meggs History of Graphic Design (Philip B. Meggs Alston W. P",
+    "method": "强章节标记",
+    "documents": 38,
+    "chapters": 37,
+    "fallback": false
+  },
+  {
+    "book": "Mexico at the worlds fairs crafting a modern nation (Mauricio Tenorio-Trillo)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Mexico at the worlds fairs crafting a modern nation (Mauricio Tenorio-Trillo)\\Mexico at the worlds fairs crafting a modern nation (Mauricio Tenorio-Trillo).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\141_Mexico at the worlds fairs crafting a modern nation (Maurici",
+    "method": "强章节标记",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "Modern Architecture A Critical History (Kenneth Frampton)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Modern Architecture A Critical History (Kenneth Frampton)\\Modern Architecture A Critical History (Kenneth Frampton).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\142_Modern Architecture A Critical History (Kenneth Frampton",
+    "method": "强章节标记",
+    "documents": 53,
+    "chapters": 52,
+    "fallback": false
+  },
+  {
+    "book": "MUJI 無印良品 ([日]良品計畫株式會社 著 朱锷 译)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\MUJI 無印良品 ([日]良品計畫株式會社 著 朱锷 译)\\MUJI 無印良品 ([日]良品計畫株式會社 著 朱锷 译).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\143_MUJI 無印良品 ([日]良品計畫株式會社 著 朱锷 译",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Mythologies (Roland Barthes)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Mythologies (Roland Barthes)\\Mythologies (Roland Barthes).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\144_Mythologies (Roland Barthes",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Narrative illustration in Persian lithographed books (Marzolph, Ulrich)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Narrative illustration in Persian lithographed books (Marzolph, Ulrich)\\Narrative illustration in Persian lithographed books (Marzolph, Ulrich).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\145_Narrative illustration in Persian lithographed books (Marzol",
+    "method": "一级标题",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "Neoclassicism",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Neoclassicism\\Neoclassicism.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\146_Neoclassicism",
+    "method": "一二级标题",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "Nineteenth-Century Design (Edgar Kaufmann, Jr)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Nineteenth-Century Design (Edgar Kaufmann, Jr)\\Nineteenth-Century Design (Edgar Kaufmann, Jr).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\147_Nineteenth-Century Design (Edgar Kaufmann, Jr",
+    "method": "一二级标题",
+    "documents": 7,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "No place of grace antimodernism and the transformation of American culture, 1880-1920 (Lears, T. J. Jackson, 1947-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\No place of grace antimodernism and the transformation of American culture, 1880-1920 (Lears, T. J. Jackson, 1947-)\\No place of grace antimodernism and the transformation of American culture, 1880-1920 (Lears, T. J. Jackson, 1947-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\148_No place of grace antimodernism and the transformation of Am",
+    "method": "一级标题",
+    "documents": 8,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Non-Representational Theory Space, Politics, Affect (Nigel Thrift)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Non-Representational Theory Space, Politics, Affect (Nigel Thrift)\\Non-Representational Theory Space, Politics, Affect (Nigel Thrift).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\149_Non-Representational Theory Space, Politics, Affect (Nigel T",
+    "method": "强章节标记",
+    "documents": 18,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "Objects of desire _ Adrian Forty_ -- Forty, Adrian, 1948- -- 1st American ed_, New York, New York State, 1986 -- Pantheon Books, 1986, c",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Objects of desire _ Adrian Forty_ -- Forty, Adrian, 1948- -- 1st American ed_, New York, New York State, 1986 -- Pantheon Books, 1986, c\\Objects of desire _ Adrian Forty_ -- Forty, Adrian, 1948- -- 1st American ed_, New York, New York State, 1986 -- Pantheon Books, 1986, c.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\150_Objects of desire _ Adrian Forty_ -- Forty, Adrian, 1948- --",
+    "method": "强章节标记",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "OF BICYCLES BAKELITES AND BULBS (Bijker, Wiebe E., Wiebe E. Bijker)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\OF BICYCLES BAKELITES AND BULBS (Bijker, Wiebe E., Wiebe E. Bijker)\\OF BICYCLES BAKELITES AND BULBS (Bijker, Wiebe E., Wiebe E. Bijker).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\151_OF BICYCLES BAKELITES AND BULBS (Bijker, Wiebe E., Wiebe E",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Of Other Spaces_ Utopias and Heterotopias",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Of Other Spaces_ Utopias and Heterotopias\\Of Other Spaces_ Utopias and Heterotopias.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\152_Of Other Spaces_ Utopias and Heterotopias",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Of the Decorative Illustration of Books Old and New (Walter Crane)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Of the Decorative Illustration of Books Old and New (Walter Crane)\\Of the Decorative Illustration of Books Old and New (Walter Crane).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\153_Of the Decorative Illustration of Books Old and New (Walter",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Ontological Designing (Willis, Anne-Marie)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Ontological Designing (Willis, Anne-Marie)\\Ontological Designing (Willis, Anne-Marie).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\154_Ontological Designing (Willis, Anne-Marie",
+    "method": "一二级标题",
+    "documents": 12,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "Originality and Jones' The Grammar of Ornament",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Originality and Jones' The Grammar of Ornament\\Originality and Jones' The Grammar of Ornament.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\155_Originality and Jones' The Grammar of Ornament",
+    "method": "一级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Ornament and Crime (Penguin on Design)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Ornament and Crime (Penguin on Design)\\Ornament and Crime (Penguin on Design).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\156_Ornament and Crime (Penguin on Design",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Ottoman Manufacturing in the Age of the Industrial Revolution (Donald Quataert)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Ottoman Manufacturing in the Age of the Industrial Revolution (Donald Quataert)\\Ottoman Manufacturing in the Age of the Industrial Revolution (Donald Quataert).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\157_Ottoman Manufacturing in the Age of the Industrial Revolutio",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "Outward Appearances Dressing State and Society in Indonesia (George, Kenneth M. Nordholt, Henk Schulte)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Outward Appearances Dressing State and Society in Indonesia (George, Kenneth M. Nordholt, Henk Schulte)\\Outward Appearances Dressing State and Society in Indonesia (George, Kenneth M. Nordholt, Henk Schulte).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\158_Outward Appearances Dressing State and Society in Indonesia",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Paul Klee the thinking eye the notebooks of Paul Klee (Klee, Paul, 1879-1940, Spiller, Jürg etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Paul Klee the thinking eye the notebooks of Paul Klee (Klee, Paul, 1879-1940, Spiller, Jürg etc.)\\Paul Klee the thinking eye the notebooks of Paul Klee (Klee, Paul, 1879-1940, Spiller, Jürg etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\159_Paul Klee the thinking eye the notebooks of Paul Klee (Klee,",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Pedagogical Sketchbook (Paul Klee)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Pedagogical Sketchbook (Paul Klee)\\Pedagogical Sketchbook (Paul Klee).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\160_Pedagogical Sketchbook (Paul Klee",
+    "method": "一二级标题",
+    "documents": 17,
+    "chapters": 16,
+    "fallback": false
+  },
+  {
+    "book": "Perspective Linking Design Thinking with Innovation Outcomes through Cognitive Bias Reduction (Liedtka, Jeanne)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Perspective Linking Design Thinking with Innovation Outcomes through Cognitive Bias Reduction (Liedtka, Jeanne)\\Perspective Linking Design Thinking with Innovation Outcomes through Cognitive Bias Reduction (Liedtka, Jeanne).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\161_Perspective Linking Design Thinking with Innovation Outcomes",
+    "method": "一二级标题",
+    "documents": 12,
+    "chapters": 11,
+    "fallback": false
+  },
+  {
+    "book": "Petersburg, crucible of cultural revolution (Katerina Clark)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Petersburg, crucible of cultural revolution (Katerina Clark)\\Petersburg, crucible of cultural revolution (Katerina Clark).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\162_Petersburg, crucible of cultural revolution (Katerina Clark",
+    "method": "强章节标记",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "Phenomenology of Perception (Maurice Merleau-Ponty)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Phenomenology of Perception (Maurice Merleau-Ponty)\\Phenomenology of Perception (Maurice Merleau-Ponty).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\163_Phenomenology of Perception (Maurice Merleau-Ponty",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Pioneers of modern design from william morris to walter gropius (Nikolaus Pevsner)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Pioneers of modern design from william morris to walter gropius (Nikolaus Pevsner)\\Pioneers of modern design from william morris to walter gropius (Nikolaus Pevsner).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\164_Pioneers of modern design from william morris to walter grop",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Pioneers of modern typography (Spencer, Herbert, 1924-2002)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Pioneers of modern typography (Spencer, Herbert, 1924-2002)\\Pioneers of modern typography (Spencer, Herbert, 1924-2002).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\165_Pioneers of modern typography (Spencer, Herbert, 1924-2002",
+    "method": "一级标题",
+    "documents": 16,
+    "chapters": 15,
+    "fallback": false
+  },
+  {
+    "book": "Pioneers of Soviet Architecture The Search for New Solutions in the 1920s and 1930s (Selim O. Khan-Magomedov)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Pioneers of Soviet Architecture The Search for New Solutions in the 1920s and 1930s (Selim O. Khan-Magomedov)\\Pioneers of Soviet Architecture The Search for New Solutions in the 1920s and 1930s (Selim O. Khan-Magomedov).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\166_Pioneers of Soviet Architecture The Search for New Solutions",
+    "method": "强章节标记",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "Plans and situated actions the problem of human-machine communication (Suchman, Lucille Alice)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Plans and situated actions the problem of human-machine communication (Suchman, Lucille Alice)\\Plans and situated actions the problem of human-machine communication (Suchman, Lucille Alice).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\167_Plans and situated actions the problem of human-machine comm",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Point and Line to Plane (Wassily Kandinsky, Howard Dearstyne etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Point and Line to Plane (Wassily Kandinsky, Howard Dearstyne etc.)\\Point and Line to Plane (Wassily Kandinsky, Howard Dearstyne etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\168_Point and Line to Plane (Wassily Kandinsky, Howard Dearstyne",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Posters a concise history (Barnicoat, John, 1924-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Posters a concise history (Barnicoat, John, 1924-)\\Posters a concise history (Barnicoat, John, 1924-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\169_Posters a concise history (Barnicoat, John, 1924-",
+    "method": "一级标题",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Posthumanism and Design (Forlano, Laura)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Posthumanism and Design (Forlano, Laura)\\Posthumanism and Design (Forlano, Laura).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\170_Posthumanism and Design (Forlano, Laura",
+    "method": "一二级标题",
+    "documents": 14,
+    "chapters": 14,
+    "fallback": false
+  },
+  {
+    "book": "Principles of Gestalt Psychology (Kurt Koffka)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Principles of Gestalt Psychology (Kurt Koffka)\\Principles of Gestalt Psychology (Kurt Koffka).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\171_Principles of Gestalt Psychology (Kurt Koffka",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Printing Types Their History, Forms, and Use (Daniel Berkeley Updike)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Printing Types Their History, Forms, and Use (Daniel Berkeley Updike)\\Printing Types Their History, Forms, and Use (Daniel Berkeley Updike).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\172_Printing Types Their History, Forms, and Use (Daniel Berkele",
+    "method": "强章节标记",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Protocol analysis verbal reports as data (Ericsson, K. Anders (Karl Anders), 1947- etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Protocol analysis verbal reports as data (Ericsson, K. Anders (Karl Anders), 1947- etc.)\\Protocol analysis verbal reports as data (Ericsson, K. Anders (Karl Anders), 1947- etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\173_Protocol analysis verbal reports as data (Ericsson, K. Ander",
+    "method": "强章节标记",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "Repenser le Dégel Versions du socialisme, influences internationales et société soviétique Khrushchev Modern Agency and (Susan E. Reid)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Repenser le Dégel Versions du socialisme, influences internationales et société soviétique Khrushchev Modern Agency and (Susan E. Reid)\\Repenser le Dégel Versions du socialisme, influences internationales et société soviétique Khrushchev Modern Agency and (Susan E. Reid).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\174_Repenser le Dégel Versions du socialisme, influences interna",
+    "method": "一二级标题",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Replication protocol analysis a method for the study of real-world design thinking (Per Galle László Béla Kovács)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Replication protocol analysis a method for the study of real-world design thinking (Per Galle László Béla Kovács)\\Replication protocol analysis a method for the study of real-world design thinking (Per Galle László Béla Kovács).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\175_Replication protocol analysis a method for the study of real",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Rethinking Decoration Pleasure and Ideology in the Visual Arts (Harper, Catherine)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Rethinking Decoration Pleasure and Ideology in the Visual Arts (Harper, Catherine)\\Rethinking Decoration Pleasure and Ideology in the Visual Arts (Harper, Catherine).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\176_Rethinking Decoration Pleasure and Ideology in the Visual Ar",
+    "method": "一级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Rethinking Design Thinking Part I (Kimbell, Lucy)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Rethinking Design Thinking Part I (Kimbell, Lucy)\\Rethinking Design Thinking Part I (Kimbell, Lucy).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\177_Rethinking Design Thinking Part I (Kimbell, Lucy",
+    "method": "一二级标题",
+    "documents": 11,
+    "chapters": 11,
+    "fallback": false
+  },
+  {
+    "book": "Rethinking Design Thinking Part II (Kimbell, Lucy)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Rethinking Design Thinking Part II (Kimbell, Lucy)\\Rethinking Design Thinking Part II (Kimbell, Lucy).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\178_Rethinking Design Thinking Part II (Kimbell, Lucy",
+    "method": "一二级标题",
+    "documents": 10,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Revolution Russian Avant-Garde, 1912-1930 ()",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Revolution Russian Avant-Garde, 1912-1930 ()\\Revolution Russian Avant-Garde, 1912-1930 ().md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\179_Revolution Russian Avant-Garde, 1912-1930",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "Revolutionary Dreams Utopian Vision and Experimental Life in the Russian Revolution (Richard Stites)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Revolutionary Dreams Utopian Vision and Experimental Life in the Russian Revolution (Richard Stites)\\Revolutionary Dreams Utopian Vision and Experimental Life in the Russian Revolution (Richard Stites).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\180_Revolutionary Dreams Utopian Vision and Experimental Life in",
+    "method": "强章节标记",
+    "documents": 18,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "Russian art of the avant-garde theory and criticism 1902-1934 (John E. Bowlt (editor))",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Russian art of the avant-garde theory and criticism 1902-1934 (John E. Bowlt (editor))\\Russian art of the avant-garde theory and criticism 1902-1934 (John E. Bowlt (editor)).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\181_Russian art of the avant-garde theory and criticism 1902-193",
+    "method": "一级标题",
+    "documents": 17,
+    "chapters": 16,
+    "fallback": false
+  },
+  {
+    "book": "Russian Avant-Garde Theories of Art, Architecture and the Cityby Catherine Cooke",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Russian Avant-Garde Theories of Art, Architecture and the Cityby Catherine Cooke\\Russian Avant-Garde Theories of Art, Architecture and the Cityby Catherine Cooke.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\182_Russian Avant-Garde Theories of Art, Architecture and the Ci",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Scandinavian Design (Charlotte Fiell, Peter Fiell)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Scandinavian Design (Charlotte Fiell, Peter Fiell)\\Scandinavian Design (Charlotte Fiell, Peter Fiell).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\183_Scandinavian Design (Charlotte Fiell, Peter Fiell",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Shaker design (Sprigg, June etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Shaker design (Sprigg, June etc.)\\Shaker design (Sprigg, June etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\184_Shaker design (Sprigg, June etc",
+    "method": "一二级标题",
+    "documents": 20,
+    "chapters": 20,
+    "fallback": false
+  },
+  {
+    "book": "short",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\short\\short.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\185_short",
+    "method": "一级标题",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "Socialist Spaces Sites of Everyday Life in the Eastern Bloc (David Crowley, Susan E. Reid)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Socialist Spaces Sites of Everyday Life in the Eastern Bloc (David Crowley, Susan E. Reid)\\Socialist Spaces Sites of Everyday Life in the Eastern Bloc (David Crowley, Susan E. Reid).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\186_Socialist Spaces Sites of Everyday Life in the Eastern Bloc",
+    "method": "一级标题",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "Special Issue The Sociology of Science and Technology Mixing Humans and Nonhumans Together The Sociology of a Door-Closer (Jim Johnson)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Special Issue The Sociology of Science and Technology Mixing Humans and Nonhumans Together The Sociology of a Door-Closer (Jim Johnson)\\Special Issue The Sociology of Science and Technology Mixing Humans and Nonhumans Together The Sociology of a Door-Closer (Jim Johnson).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\187_Special Issue The Sociology of Science and Technology Mixing",
+    "method": "一二级标题",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "Speculative Everything Design, Fiction, and Social Dreaming (Anthony Dunne, Fiona Raby)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Speculative Everything Design, Fiction, and Social Dreaming (Anthony Dunne, Fiona Raby)\\Speculative Everything Design, Fiction, and Social Dreaming (Anthony Dunne, Fiona Raby).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\188_Speculative Everything Design, Fiction, and Social Dreaming",
+    "method": "强章节标记",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "Staying with the Trouble Making Kin in the Chthulucene (Donna J. Haraway)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Staying with the Trouble Making Kin in the Chthulucene (Donna J. Haraway)\\Staying with the Trouble Making Kin in the Chthulucene (Donna J. Haraway).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\189_Staying with the Trouble Making Kin in the Chthulucene (Donn",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Studies in Art, Architecture, and Design Victorian and After (Nikolaus Pevsner)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Studies in Art, Architecture, and Design Victorian and After (Nikolaus Pevsner)\\Studies in Art, Architecture, and Design Victorian and After (Nikolaus Pevsner).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\190_Studies in Art, Architecture, and Design Victorian and After",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Superfluous Things Material Culture and Social Status in Early Modern China (Craig Clunas)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Superfluous Things Material Culture and Social Status in Early Modern China (Craig Clunas)\\Superfluous Things Material Culture and Social Status in Early Modern China (Craig Clunas).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\191_Superfluous Things Material Culture and Social Status in Ear",
+    "method": "强章节标记",
+    "documents": 18,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "Sustainable Fashion and Textiles. Design Journeys (Kate Fletcher)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Sustainable Fashion and Textiles. Design Journeys (Kate Fletcher)\\Sustainable Fashion and Textiles. Design Journeys (Kate Fletcher).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\192_Sustainable Fashion and Textiles. Design Journeys (Kate Flet",
+    "method": "强章节标记",
+    "documents": 32,
+    "chapters": 31,
+    "fallback": false
+  },
+  {
+    "book": "Ten Thousand Years of Pottery (Emmanuel Cooper)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Ten Thousand Years of Pottery (Emmanuel Cooper)\\Ten Thousand Years of Pottery (Emmanuel Cooper).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\193_Ten Thousand Years of Pottery (Emmanuel Cooper",
+    "method": "强章节标记",
+    "documents": 20,
+    "chapters": 19,
+    "fallback": false
+  },
+  {
+    "book": "The aesthetic movement prelude to Art Nouveau (Aslin, Elizabeth)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The aesthetic movement prelude to Art Nouveau (Aslin, Elizabeth)\\The aesthetic movement prelude to Art Nouveau (Aslin, Elizabeth).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\194_The aesthetic movement prelude to Art Nouveau (Aslin, Elizab",
+    "method": "一级标题",
+    "documents": 5,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain (Dr Maxine Berg)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain (Dr Maxine Berg)\\The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain (Dr Maxine Berg).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\195_The Age of Manufactures, 1700-1820 - Industry, Innovation an",
+    "method": "一二级标题",
+    "documents": 45,
+    "chapters": 44,
+    "fallback": false
+  },
+  {
+    "book": "The Arabic Print Revolution Cultural Production and Mass Readership (Ami Ayalon)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Arabic Print Revolution Cultural Production and Mass Readership (Ami Ayalon)\\The Arabic Print Revolution Cultural Production and Mass Readership (Ami Ayalon).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\196_The Arabic Print Revolution Cultural Production and Mass Rea",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "The architecture of the city (Oppositions books) -- Rossi, Aldo, 1931-1997, author, Eisenman, Peter, 1932- -- Oppositions books, America",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The architecture of the city (Oppositions books) -- Rossi, Aldo, 1931-1997, author, Eisenman, Peter, 1932- -- Oppositions books, America\\The architecture of the city (Oppositions books) -- Rossi, Aldo, 1931-1997, author, Eisenman, Peter, 1932- -- Oppositions books, America.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\197_The architecture of the city (Oppositions books) -- Rossi, A",
+    "method": "强章节标记",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "The art of color the subjective experience and objective rationale of color Kunst der Farbe. (Johannes Itten)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The art of color the subjective experience and objective rationale of color Kunst der Farbe. (Johannes Itten)\\The art of color the subjective experience and objective rationale of color Kunst der Farbe. (Johannes Itten).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\198_The art of color the subjective experience and objective rat",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "The art of innovation lessons in creativity from IDEO, Americas leading design firm (Kelley, Tom, 1955-, Littman, Jonathan etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The art of innovation lessons in creativity from IDEO, Americas leading design firm (Kelley, Tom, 1955-, Littman, Jonathan etc.)\\The art of innovation lessons in creativity from IDEO, Americas leading design firm (Kelley, Tom, 1955-, Littman, Jonathan etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\199_The art of innovation lessons in creativity from IDEO, Ameri",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "The arts and crafts movement a study of its sources, ideals and influence on design theory (Gillian Naylor)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The arts and crafts movement a study of its sources, ideals and influence on design theory (Gillian Naylor)\\The arts and crafts movement a study of its sources, ideals and influence on design theory (Gillian Naylor).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\200_The arts and crafts movement a study of its sources, ideals",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "The Arts and Crafts Movement Handmade Socialism or Elite Consumerism Art and Labor Ruskin, Morris, and the Craftsman Ideal (Kimmel, Mich",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Arts and Crafts Movement Handmade Socialism or Elite Consumerism Art and Labor Ruskin, Morris, and the Craftsman Ideal (Kimmel, Mich\\The Arts and Crafts Movement Handmade Socialism or Elite Consumerism Art and Labor Ruskin, Morris, and the Craftsman Ideal (Kimmel, Mich.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\201_The Arts and Crafts Movement Handmade Socialism or Elite Con",
+    "method": "一二级标题",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "The arts crafts movement in Europe America design for the modern world (Kaplan, Wendy etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The arts crafts movement in Europe America design for the modern world (Kaplan, Wendy etc.)\\The arts crafts movement in Europe America design for the modern world (Kaplan, Wendy etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\202_The arts crafts movement in Europe America design for the mo",
+    "method": "强章节标记",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "The Bases of Design",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Bases of Design\\The Bases of Design.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\203_The Bases of Design",
+    "method": "强章节标记",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "The Bauhaus Weimar, Dessau, Berlin, Chicago (Hans Maria Wingler)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Bauhaus Weimar, Dessau, Berlin, Chicago (Hans Maria Wingler)\\The Bauhaus Weimar, Dessau, Berlin, Chicago (Hans Maria Wingler).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\204_The Bauhaus Weimar, Dessau, Berlin, Chicago (Hans Maria Wing",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "The Bauhaus, 1919-1933 (Magdalena Droste)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Bauhaus, 1919-1933 (Magdalena Droste)\\The Bauhaus, 1919-1933 (Magdalena Droste).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\205_The Bauhaus, 1919-1933 (Magdalena Droste",
+    "method": "强章节标记",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "The commodity culture of Victorian England advertising and spectacle, 1851-1914 (Richards, Thomas, 1956-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The commodity culture of Victorian England advertising and spectacle, 1851-1914 (Richards, Thomas, 1956-)\\The commodity culture of Victorian England advertising and spectacle, 1851-1914 (Richards, Thomas, 1956-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\206_The commodity culture of Victorian England advertising and s",
+    "method": "一级标题",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "The Consumer Society Myths and Structures (Jean Baudrillard)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Consumer Society Myths and Structures (Jean Baudrillard)\\The Consumer Society Myths and Structures (Jean Baudrillard).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\207_The Consumer Society Myths and Structures (Jean Baudrillard",
+    "method": "强章节标记",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "The craftsman",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The craftsman\\The craftsman.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\208_The craftsman",
+    "method": "强章节标记",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "The cultural biography of things",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The cultural biography of things\\The cultural biography of things.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\209_The cultural biography of things",
+    "method": "一二级标题",
+    "documents": 17,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "The culture of design (Julier, Guy)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The culture of design (Julier, Guy)\\The culture of design (Julier, Guy).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\210_The culture of design (Julier, Guy",
+    "method": "一二级标题",
+    "documents": 5,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "The Culture of Fashion. A New History of Fashionable Dress (Christopher Breward)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Culture of Fashion. A New History of Fashionable Dress (Christopher Breward)\\The Culture of Fashion. A New History of Fashionable Dress (Christopher Breward).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\211_The Culture of Fashion. A New History of Fashionable Dress (",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "The Death and Life of Great American Cities (Jane Jacobs)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Death and Life of Great American Cities (Jane Jacobs)\\The Death and Life of Great American Cities (Jane Jacobs).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\212_The Death and Life of Great American Cities (Jane Jacobs",
+    "method": "强章节标记",
+    "documents": 18,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "The design agenda a guide to successful design management (Davies-Cooper, Rachel, Press, Mike)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The design agenda a guide to successful design management (Davies-Cooper, Rachel, Press, Mike)\\The design agenda a guide to successful design management (Davies-Cooper, Rachel, Press, Mike).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\213_The design agenda a guide to successful design management (D",
+    "method": "一级标题",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "The design history readerr",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The design history readerr\\The design history readerr.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\214_The design history readerr",
+    "method": "强章节标记",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "The Design of Everyday Life (Cultures of Consumption) (Elizabeth Shove, Matthew Watson etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Design of Everyday Life (Cultures of Consumption) (Elizabeth Shove, Matthew Watson etc.)\\The Design of Everyday Life (Cultures of Consumption) (Elizabeth Shove, Matthew Watson etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\215_The Design of Everyday Life (Cultures of Consumption) (Eliza",
+    "method": "强章节标记",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "The Design of Everyday Things (Donald A. Norman)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Design of Everyday Things (Donald A. Norman)\\The Design of Everyday Things (Donald A. Norman).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\216_The Design of Everyday Things (Donald A. Norman",
+    "method": "强章节标记",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "The Design of Future Things (Don Norman)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Design of Future Things (Don Norman)\\The Design of Future Things (Don Norman).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\217_The Design of Future Things (Don Norman",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "The Design Studio_ An Exploration of Its Traditions and -- Donald A Schon; RIBA Building Industry Trust -- Architecture and the higher l",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Design Studio_ An Exploration of Its Traditions and -- Donald A Schon; RIBA Building Industry Trust -- Architecture and the higher l\\The Design Studio_ An Exploration of Its Traditions and -- Donald A Schon; RIBA Building Industry Trust -- Architecture and the higher l.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\218_The Design Studio_ An Exploration of Its Traditions and -- D",
+    "method": "强章节标记",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "The Dynamics of Architectural Form Based on the 1975 Mary Duke Biddle Lectures at the Cooper Union (Rudolf Arnheim)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Dynamics of Architectural Form Based on the 1975 Mary Duke Biddle Lectures at the Cooper Union (Rudolf Arnheim)\\The Dynamics of Architectural Form Based on the 1975 Mary Duke Biddle Lectures at the Cooper Union (Rudolf Arnheim).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\219_The Dynamics of Architectural Form Based on the 1975 Mary Du",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "The Ecological Approach To Visual Perception (James J. Gibson)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Ecological Approach To Visual Perception (James J. Gibson)\\The Ecological Approach To Visual Perception (James J. Gibson).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\220_The Ecological Approach To Visual Perception (James J. Gibso",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "The Elements of Typographic Style (Robert Bringhurst)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Elements of Typographic Style (Robert Bringhurst)\\The Elements of Typographic Style (Robert Bringhurst).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\221_The Elements of Typographic Style (Robert Bringhurst",
+    "method": "一级标题",
+    "documents": 42,
+    "chapters": 42,
+    "fallback": false
+  },
+  {
+    "book": "The empire of fashion dressing modern democracy (Lipovetsky, Gilles, 1944-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The empire of fashion dressing modern democracy (Lipovetsky, Gilles, 1944-)\\The empire of fashion dressing modern democracy (Lipovetsky, Gilles, 1944-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\222_The empire of fashion dressing modern democracy (Lipovetsky,",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "The English house",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The English house\\The English house.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\223_The English house",
+    "method": "强章节标记",
+    "documents": 31,
+    "chapters": 30,
+    "fallback": false
+  },
+  {
+    "book": "The eyes of the skin architecture and the senses (Pallasmaa, Juhani, author)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The eyes of the skin architecture and the senses (Pallasmaa, Juhani, author)\\The eyes of the skin architecture and the senses (Pallasmaa, Juhani, author).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\224_The eyes of the skin architecture and the senses (Pallasmaa,",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "The Fashioned Body Fashion, Dress and Modern Social Theory (Joanne Entwistle)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Fashioned Body Fashion, Dress and Modern Social Theory (Joanne Entwistle)\\The Fashioned Body Fashion, Dress and Modern Social Theory (Joanne Entwistle).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\225_The Fashioned Body Fashion, Dress and Modern Social Theory (",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "The German Werkbund the politics of reform in the applied arts (Campbell, Joan, 1929-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The German Werkbund the politics of reform in the applied arts (Campbell, Joan, 1929-)\\The German Werkbund the politics of reform in the applied arts (Campbell, Joan, 1929-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\226_The German Werkbund the politics of reform in the applied ar",
+    "method": "一级标题",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "The Grammar of Ornament (Owen Jones)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Grammar of Ornament (Owen Jones)\\The Grammar of Ornament (Owen Jones).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\227_The Grammar of Ornament (Owen Jones",
+    "method": "强章节标记",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "The Great Divergence China, Europe, and the Making of the Modern World Economy (Kenneth Pomeranz)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Great Divergence China, Europe, and the Making of the Modern World Economy (Kenneth Pomeranz)\\The Great Divergence China, Europe, and the Making of the Modern World Economy (Kenneth Pomeranz).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\228_The Great Divergence China, Europe, and the Making of the Mo",
+    "method": "强章节标记",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "The great exhibitor _ the life and work of Henry Cole -- Elizabeth Bonython, Anthony Burton -- London, United Kingdom, 2003 -- V  A Publ",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The great exhibitor _ the life and work of Henry Cole -- Elizabeth Bonython, Anthony Burton -- London, United Kingdom, 2003 -- V  A Publ\\The great exhibitor _ the life and work of Henry Cole -- Elizabeth Bonython, Anthony Burton -- London, United Kingdom, 2003 -- V  A Publ.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\229_The great exhibitor _ the life and work of Henry Cole -- Eli",
+    "method": "强章节标记",
+    "documents": 27,
+    "chapters": 26,
+    "fallback": false
+  },
+  {
+    "book": "The Gutenberg Galaxy The Making of Typographic Man (Marshall McLuhan)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Gutenberg Galaxy The Making of Typographic Man (Marshall McLuhan)\\The Gutenberg Galaxy The Making of Typographic Man (Marshall McLuhan).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\230_The Gutenberg Galaxy The Making of Typographic Man (Marshall",
+    "method": "一级标题",
+    "documents": 6,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "The Hidden Dimension (Edward T. Hall)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Hidden Dimension (Edward T. Hall)\\The Hidden Dimension (Edward T. Hall).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\231_The Hidden Dimension (Edward T. Hall",
+    "method": "一二级标题",
+    "documents": 5,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "The Hidden Persuaders. (Vance Packard)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Hidden Persuaders. (Vance Packard)\\The Hidden Persuaders. (Vance Packard).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\232_The Hidden Persuaders. (Vance Packard",
+    "method": "强章节标记",
+    "documents": 24,
+    "chapters": 23,
+    "fallback": false
+  },
+  {
+    "book": "The idea of design _ a design issues reader -- Margolin, Victor, 1941-; Buchanan, Richard -- A Design issues reader,, Cambridge, Mass, M",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The idea of design _ a design issues reader -- Margolin, Victor, 1941-; Buchanan, Richard -- A Design issues reader,, Cambridge, Mass, M\\The idea of design _ a design issues reader -- Margolin, Victor, 1941-; Buchanan, Richard -- A Design issues reader,, Cambridge, Mass, M.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\233_The idea of design _ a design issues reader -- Margolin, Vic",
+    "method": "一级标题",
+    "documents": 25,
+    "chapters": 25,
+    "fallback": false
+  },
+  {
+    "book": "The Ideal Book Essays on Lectures on the Arts of the Book ( etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Ideal Book Essays on Lectures on the Arts of the Book ( etc.)\\The Ideal Book Essays on Lectures on the Arts of the Book ( etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\234_The Ideal Book Essays on Lectures on the Arts of the Book (",
+    "method": "一二级标题",
+    "documents": 16,
+    "chapters": 15,
+    "fallback": false
+  },
+  {
+    "book": "The Image of the City (Harvard-MIT Joint Center for Urban Studies Series) (Kevin Lynch)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Image of the City (Harvard-MIT Joint Center for Urban Studies Series) (Kevin Lynch)\\The Image of the City (Harvard-MIT Joint Center for Urban Studies Series) (Kevin Lynch).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\235_The Image of the City (Harvard-MIT Joint Center for Urban St",
+    "method": "一二级标题",
+    "documents": 14,
+    "chapters": 14,
+    "fallback": false
+  },
+  {
+    "book": "The Kelmscott Press _ a history of William Morris's -- Peterson, William Samuel -- Oxford [England], New York, England, 1991 -- Oxford [",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Kelmscott Press _ a history of William Morris's -- Peterson, William Samuel -- Oxford [England], New York, England, 1991 -- Oxford [\\The Kelmscott Press _ a history of William Morris's -- Peterson, William Samuel -- Oxford [England], New York, England, 1991 -- Oxford [.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\236_The Kelmscott Press _ a history of William Morris's -- Peter",
+    "method": "强章节标记",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "The landscape of man shaping the environment from prehistory to the present day (Jellicoe, Geoffrey Alan, 1900-, Jellicoe etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The landscape of man shaping the environment from prehistory to the present day (Jellicoe, Geoffrey Alan, 1900-, Jellicoe etc.)\\The landscape of man shaping the environment from prehistory to the present day (Jellicoe, Geoffrey Alan, 1900-, Jellicoe etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\237_The landscape of man shaping the environment from prehistory",
+    "method": "强章节标记",
+    "documents": 25,
+    "chapters": 24,
+    "fallback": false
+  },
+  {
+    "book": "The language of post-modern architecture (Charles Jencks)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The language of post-modern architecture (Charles Jencks)\\The language of post-modern architecture (Charles Jencks).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\238_The language of post-modern architecture (Charles Jencks",
+    "method": "强章节标记",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "The Language of Things Understanding the World of Desirable Objects (Deyan Sudjic)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Language of Things Understanding the World of Desirable Objects (Deyan Sudjic)\\The Language of Things Understanding the World of Desirable Objects (Deyan Sudjic).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\239_The Language of Things Understanding the World of Desirable",
+    "method": "一二级标题",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "The lettered city (Rama, Angel, Chasteen, John Charles, 1955-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The lettered city (Rama, Angel, Chasteen, John Charles, 1955-)\\The lettered city (Rama, Angel, Chasteen, John Charles, 1955-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\240_The lettered city (Rama, Angel, Chasteen, John Charles, 1955",
+    "method": "强章节标记",
+    "documents": 21,
+    "chapters": 20,
+    "fallback": false
+  },
+  {
+    "book": "The Life of William Morris (John William Mackail)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Life of William Morris (John William Mackail)\\The Life of William Morris (John William Mackail).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\241_The Life of William Morris (John William Mackail",
+    "method": "一级标题",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "The Making of Modern Japan (Belknap Press, 2000) (Marius B. Jansen)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Making of Modern Japan (Belknap Press, 2000) (Marius B. Jansen)\\The Making of Modern Japan (Belknap Press, 2000) (Marius B. Jansen).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\242_The Making of Modern Japan (Belknap Press, 2000) (Marius B",
+    "method": "一级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "The Meaning of Things Domestic Symbols and the Self (Mihaly Csikszentmihalyi, Eugene Halton)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Meaning of Things Domestic Symbols and the Self (Mihaly Csikszentmihalyi, Eugene Halton)\\The Meaning of Things Domestic Symbols and the Self (Mihaly Csikszentmihalyi, Eugene Halton).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\243_The Meaning of Things Domestic Symbols and the Self (Mihaly",
+    "method": "强章节标记",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "The museological unconscious communal (post)modernism in Russia (Victor Tupitsyn Susan Buck-Morss)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The museological unconscious communal (post)modernism in Russia (Victor Tupitsyn Susan Buck-Morss)\\The museological unconscious communal (post)modernism in Russia (Victor Tupitsyn Susan Buck-Morss).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\244_The museological unconscious communal (post)modernism in Rus",
+    "method": "强章节标记",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "The Nature of Research_ Inquiry into Academic Contexts",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Nature of Research_ Inquiry into Academic Contexts\\The Nature of Research_ Inquiry into Academic Contexts.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\245_The Nature of Research_ Inquiry into Academic Contexts",
+    "method": "一级标题",
+    "documents": 14,
+    "chapters": 14,
+    "fallback": false
+  },
+  {
+    "book": "The New Architecture and the Bauhaus (Walter Gropius)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The New Architecture and the Bauhaus (Walter Gropius)\\The New Architecture and the Bauhaus (Walter Gropius).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\246_The New Architecture and the Bauhaus (Walter Gropius",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "The Non-Objective World The Manifesto of Suprematism (Kasimir Malevich)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Non-Objective World The Manifesto of Suprematism (Kasimir Malevich)\\The Non-Objective World The Manifesto of Suprematism (Kasimir Malevich).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\247_The Non-Objective World The Manifesto of Suprematism (Kasimi",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "The pilgrim art cultures of porcelain in world history (Finlay Robert)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The pilgrim art cultures of porcelain in world history (Finlay Robert)\\The pilgrim art cultures of porcelain in world history (Finlay Robert).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\248_The pilgrim art cultures of porcelain in world history (Finl",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "The poster a worldwide survey and history (Weill, Alain, 1946-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The poster a worldwide survey and history (Weill, Alain, 1946-)\\The poster a worldwide survey and history (Weill, Alain, 1946-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\249_The poster a worldwide survey and history (Weill, Alain, 194",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "The Poster In History",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Poster In History\\The Poster In History.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\250_The Poster In History",
+    "method": "一级标题",
+    "documents": 17,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "The Principles of Harmony and Contrast of Colors And Their Applications to the Arts (Michel E. Chevreul)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Principles of Harmony and Contrast of Colors And Their Applications to the Arts (Michel E. Chevreul)\\The Principles of Harmony and Contrast of Colors And Their Applications to the Arts (Michel E. Chevreul).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\251_The Principles of Harmony and Contrast of Colors And Their A",
+    "method": "一级强章节标记",
+    "documents": 56,
+    "chapters": 55,
+    "fallback": false
+  },
+  {
+    "book": "The Question Concerning Technology and Other Essays (Martin Heidegger)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Question Concerning Technology and Other Essays (Martin Heidegger)\\The Question Concerning Technology and Other Essays (Martin Heidegger).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\252_The Question Concerning Technology and Other Essays (Martin",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "The Reflective Practitioner How Professionals Think In Action (Donald A. Schön)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Reflective Practitioner How Professionals Think In Action (Donald A. Schön)\\The Reflective Practitioner How Professionals Think In Action (Donald A. Schön).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\253_The Reflective Practitioner How Professionals Think In Actio",
+    "method": "强章节标记",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  },
+  {
+    "book": "The Russian Avant-Garde Book 1910-1934 ((various authors), Nina Gurianova etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Russian Avant-Garde Book 1910-1934 ((various authors), Nina Gurianova etc.)\\The Russian Avant-Garde Book 1910-1934 ((various authors), Nina Gurianova etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\254_The Russian Avant-Garde Book 1910-1934 ((various authors), N",
+    "method": "一级标题",
+    "documents": 16,
+    "chapters": 16,
+    "fallback": false
+  },
+  {
+    "book": "The Semantic Turn A New Foundation For Design (Klaus Krippendorff)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Semantic Turn A New Foundation For Design (Klaus Krippendorff)\\The Semantic Turn A New Foundation For Design (Klaus Krippendorff).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\255_The Semantic Turn A New Foundation For Design (Klaus Krippen",
+    "method": "一级标题",
+    "documents": 12,
+    "chapters": 11,
+    "fallback": false
+  },
+  {
+    "book": "The sense of order a study in the psychology of decorative art (Gombrich, E. H. (Ernst Hans), 1909-2001)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The sense of order a study in the psychology of decorative art (Gombrich, E. H. (Ernst Hans), 1909-2001)\\The sense of order a study in the psychology of decorative art (Gombrich, E. H. (Ernst Hans), 1909-2001).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\256_The sense of order a study in the psychology of decorative a",
+    "method": "一级标题",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "The Seven Lamps of Architecture (Ruskin, John)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Seven Lamps of Architecture (Ruskin, John)\\The Seven Lamps of Architecture (Ruskin, John).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\257_The Seven Lamps of Architecture (Ruskin, John",
+    "method": "一二级标题",
+    "documents": 12,
+    "chapters": 11,
+    "fallback": false
+  },
+  {
+    "book": "The Social Construction of Technological Systems New Directions in the Sociology and History of Technology (Wiebe E. Bijker, Thomas P. H",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Social Construction of Technological Systems New Directions in the Sociology and History of Technology (Wiebe E. Bijker, Thomas P. H\\The Social Construction of Technological Systems New Directions in the Sociology and History of Technology (Wiebe E. Bijker, Thomas P. H.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\258_The Social Construction of Technological Systems New Directi",
+    "method": "一级标题",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "The Social Life of Things Commodities in Cultural Perspective (Arjun Appadurai)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Social Life of Things Commodities in Cultural Perspective (Arjun Appadurai)\\The Social Life of Things Commodities in Cultural Perspective (Arjun Appadurai).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\259_The Social Life of Things Commodities in Cultural Perspectiv",
+    "method": "一级标题",
+    "documents": 9,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "The Stones of Venice(John Ruskin)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Stones of Venice(John Ruskin)\\The Stones of Venice(John Ruskin).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\260_The Stones of Venice(John Ruskin",
+    "method": "强章节标记",
+    "documents": 36,
+    "chapters": 35,
+    "fallback": false
+  },
+  {
+    "book": "The Story of Art (E.H. Gombrich)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Story of Art (E.H. Gombrich)\\The Story of Art (E.H. Gombrich).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\261_The Story of Art (E.H. Gombrich",
+    "method": "强章节标记",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "The struggle for utopia _ Rodchenko, Lissitzky, Moholy-Nagy -- Margolin, Victor, 1941- -- Chicago, London, United States, 1997 -- The Un",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The struggle for utopia _ Rodchenko, Lissitzky, Moholy-Nagy -- Margolin, Victor, 1941- -- Chicago, London, United States, 1997 -- The Un\\The struggle for utopia _ Rodchenko, Lissitzky, Moholy-Nagy -- Margolin, Victor, 1941- -- Chicago, London, United States, 1997 -- The Un.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\262_The struggle for utopia _ Rodchenko, Lissitzky, Moholy-Nagy",
+    "method": "一二级标题",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "The System Of Objects (Jean Baudrillard)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The System Of Objects (Jean Baudrillard)\\The System Of Objects (Jean Baudrillard).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\263_The System Of Objects (Jean Baudrillard",
+    "method": "一级标题",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "The tacit dimension (Michael Polanyi)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The tacit dimension (Michael Polanyi)\\The tacit dimension (Michael Polanyi).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\264_The tacit dimension (Michael Polanyi",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "The unknown craftsman a Japanese insight into beauty (Yanagi, Muneyoshi, 1889-1961, Leach etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The unknown craftsman a Japanese insight into beauty (Yanagi, Muneyoshi, 1889-1961, Leach etc.)\\The unknown craftsman a Japanese insight into beauty (Yanagi, Muneyoshi, 1889-1961, Leach etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\265_The unknown craftsman a Japanese insight into beauty (Yanagi",
+    "method": "一级标题",
+    "documents": 13,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "The visible word experimental typography and modern art, 1909-1923 (Drucker, Johanna, 1952-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The visible word experimental typography and modern art, 1909-1923 (Drucker, Johanna, 1952-)\\The visible word experimental typography and modern art, 1909-1923 (Drucker, Johanna, 1952-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\266_The visible word experimental typography and modern art, 190",
+    "method": "强章节标记",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "The Visual Display of Quantitative Information (Edward R. Tufte)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Visual Display of Quantitative Information (Edward R. Tufte)\\The Visual Display of Quantitative Information (Edward R. Tufte).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\267_The Visual Display of Quantitative Information (Edward R. Tu",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "The Waste Makers (Vance Packard)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Waste Makers (Vance Packard)\\The Waste Makers (Vance Packard).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\268_The Waste Makers (Vance Packard",
+    "method": "强章节标记",
+    "documents": 32,
+    "chapters": 31,
+    "fallback": false
+  },
+  {
+    "book": "The Whale and the Reactor A Search for Limits in an Age of High Technology, Second Edition (Langdon Winner)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Whale and the Reactor A Search for Limits in an Age of High Technology, Second Edition (Langdon Winner)\\The Whale and the Reactor A Search for Limits in an Age of High Technology, Second Edition (Langdon Winner).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\269_The Whale and the Reactor A Search for Limits in an Age of H",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "The Work of Art in the Age of Mechanical Reproduction (Walter Benjamin)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Work of Art in the Age of Mechanical Reproduction (Walter Benjamin)\\The Work of Art in the Age of Mechanical Reproduction (Walter Benjamin).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\270_The Work of Art in the Age of Mechanical Reproduction (Walte",
+    "method": "一二级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "The Works of Geoffrey Chaucer now newly imprinted ()",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The Works of Geoffrey Chaucer now newly imprinted ()\\The Works of Geoffrey Chaucer now newly imprinted ().md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\271_The Works of Geoffrey Chaucer now newly imprinted",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "The World as Design (Aicher, Otl)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The World as Design (Aicher, Otl)\\The World as Design (Aicher, Otl).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\272_The World as Design (Aicher, Otl",
+    "method": "一二级标题",
+    "documents": 8,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Theo van Doesburg (Baljeu, Joost, Doesburg, Theo van etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Theo van Doesburg (Baljeu, Joost, Doesburg, Theo van etc.)\\Theo van Doesburg (Baljeu, Joost, Doesburg, Theo van etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\273_Theo van Doesburg (Baljeu, Joost, Doesburg, Theo van etc",
+    "method": "一级标题",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "Theory and Design in the First Machine Age (Reyner Banham)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Theory and Design in the First Machine Age (Reyner Banham)\\Theory and Design in the First Machine Age (Reyner Banham).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\274_Theory and Design in the First Machine Age (Reyner Banham",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Theory of Colours (Johann Wolfgang von Goethe)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Theory of Colours (Johann Wolfgang von Goethe)\\Theory of Colours (Johann Wolfgang von Goethe).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\275_Theory of Colours (Johann Wolfgang von Goethe",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "Thinking with Type - A Critical Guide for Designers, Writers, Editors, Students (Ellen Lupton)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Thinking with Type - A Critical Guide for Designers, Writers, Editors, Students (Ellen Lupton)\\Thinking with Type - A Critical Guide for Designers, Writers, Editors, Students (Ellen Lupton).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\276_Thinking with Type - A Critical Guide for Designers, Writers",
+    "method": "强章节标记",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "Thinking, Fast and Slow (Daniel Kahneman)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Thinking, Fast and Slow (Daniel Kahneman)\\Thinking, Fast and Slow (Daniel Kahneman).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\277_Thinking, Fast and Slow (Daniel Kahneman",
+    "method": "一级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "This Is Service Design Thinking Basics, Tools, Cases (Mark Stickdorn, Jakob Schneider)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\This Is Service Design Thinking Basics, Tools, Cases (Mark Stickdorn, Jakob Schneider)\\This Is Service Design Thinking Basics, Tools, Cases (Mark Stickdorn, Jakob Schneider).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\278_This Is Service Design Thinking Basics, Tools, Cases (Mark S",
+    "method": "强章节标记",
+    "documents": 25,
+    "chapters": 24,
+    "fallback": false
+  },
+  {
+    "book": "Toothpicks and Logos Design in Everyday Life (John Heskett)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Toothpicks and Logos Design in Everyday Life (John Heskett)\\Toothpicks and Logos Design in Everyday Life (John Heskett).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\279_Toothpicks and Logos Design in Everyday Life (John Heskett",
+    "method": "强章节标记",
+    "documents": 10,
+    "chapters": 9,
+    "fallback": false
+  },
+  {
+    "book": "Transition Design A Proposal for a New Area of Design Practice, Study, and Research (Irwin, Terry)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Transition Design A Proposal for a New Area of Design Practice, Study, and Research (Irwin, Terry)\\Transition Design A Proposal for a New Area of Design Practice, Study, and Research (Irwin, Terry).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\280_Transition Design A Proposal for a New Area of Design Practi",
+    "method": "强章节标记",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "Transition Design Provocation (Irwin, Terry Kossoff, Gideon Tonkinwise etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Transition Design Provocation (Irwin, Terry Kossoff, Gideon Tonkinwise etc.)\\Transition Design Provocation (Irwin, Terry Kossoff, Gideon Tonkinwise etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\281_Transition Design Provocation (Irwin, Terry Kossoff, Gideon",
+    "method": "一二级标题",
+    "documents": 17,
+    "chapters": 17,
+    "fallback": false
+  },
+  {
+    "book": "Twentieth Century Design (Jonathan M. Woodham)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Twentieth Century Design (Jonathan M. Woodham)\\Twentieth Century Design (Jonathan M. Woodham).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\282_Twentieth Century Design (Jonathan M. Woodham",
+    "method": "强章节标记",
+    "documents": 45,
+    "chapters": 44,
+    "fallback": false
+  },
+  {
+    "book": "Twentieth Century Limited  industrial design in America, 1925-1939 (2nd edition) (Jeffrey L. Meikle)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Twentieth Century Limited  industrial design in America, 1925-1939 (2nd edition) (Jeffrey L. Meikle)\\Twentieth Century Limited  industrial design in America, 1925-1939 (2nd edition) (Jeffrey L. Meikle).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\283_Twentieth Century Limited industrial design in America, 1925",
+    "method": "强章节标记",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "Twentieth Century Type Designers",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Twentieth Century Type Designers\\Twentieth Century Type Designers.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\284_Twentieth Century Type Designers",
+    "method": "一级标题",
+    "documents": 50,
+    "chapters": 50,
+    "fallback": false
+  },
+  {
+    "book": "Understanding Comics The Invisible Art (Scott McCloud)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Understanding Comics The Invisible Art (Scott McCloud)\\Understanding Comics The Invisible Art (Scott McCloud).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\285_Understanding Comics The Invisible Art (Scott McCloud",
+    "method": "一二级标题",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "Understanding computers and cognition a new foundation for design (Winograd, Terry, Flores, Fernando)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Understanding computers and cognition a new foundation for design (Winograd, Terry, Flores, Fernando)\\Understanding computers and cognition a new foundation for design (Winograd, Terry, Flores, Fernando).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\286_Understanding computers and cognition a new foundation for d",
+    "method": "强章节标记",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Universal Design Creating Inclusive Environments (Edward Steinfeld, Jordana Maisel.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Universal Design Creating Inclusive Environments (Edward Steinfeld, Jordana Maisel.)\\Universal Design Creating Inclusive Environments (Edward Steinfeld, Jordana Maisel.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\287_Universal Design Creating Inclusive Environments (Edward Ste",
+    "method": "一级标题",
+    "documents": 21,
+    "chapters": 21,
+    "fallback": false
+  },
+  {
+    "book": "Universal design handbook (Preiser, Wolfgang F. E Ostroff, Elaine)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Universal design handbook (Preiser, Wolfgang F. E Ostroff, Elaine)\\Universal design handbook (Preiser, Wolfgang F. E Ostroff, Elaine).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\288_Universal design handbook (Preiser, Wolfgang F. E Ostroff, E",
+    "method": "强章节标记",
+    "documents": 36,
+    "chapters": 35,
+    "fallback": false
+  },
+  {
+    "book": "Victorian things (Briggs, Asa, 1921-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Victorian things (Briggs, Asa, 1921-)\\Victorian things (Briggs, Asa, 1921-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\289_Victorian things (Briggs, Asa, 1921-",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Vienna 1900 art, architecture design (Kirk Varnedoe, James Leggio)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Vienna 1900 art, architecture design (Kirk Varnedoe, James Leggio)\\Vienna 1900 art, architecture design (Kirk Varnedoe, James Leggio).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\290_Vienna 1900 art, architecture design (Kirk Varnedoe, James L",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Viennese design and the Wiener Werkstätte",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Viennese design and the Wiener Werkstätte\\Viennese design and the Wiener Werkstätte.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\291_Viennese design and the Wiener Werkstätte",
+    "method": "一二级标题",
+    "documents": 4,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "Vision in Motion (László Moholy-Nagy)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Vision in Motion (László Moholy-Nagy)\\Vision in Motion (László Moholy-Nagy).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\292_Vision in Motion (László Moholy-Nagy",
+    "method": "强章节标记",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Visual Thinking (Rudolf Arnheim)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Visual Thinking (Rudolf Arnheim)\\Visual Thinking (Rudolf Arnheim).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\293_Visual Thinking (Rudolf Arnheim",
+    "method": "强章节标记",
+    "documents": 11,
+    "chapters": 10,
+    "fallback": false
+  },
+  {
+    "book": "Vladimir Tatlin and the Russian avant-garde (Milner, John)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Vladimir Tatlin and the Russian avant-garde (Milner, John)\\Vladimir Tatlin and the Russian avant-garde (Milner, John).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\294_Vladimir Tatlin and the Russian avant-garde (Milner, John",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "We Have Never Been Modern (Bruno Latour)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\We Have Never Been Modern (Bruno Latour)\\We Have Never Been Modern (Bruno Latour).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\295_We Have Never Been Modern (Bruno Latour",
+    "method": "一级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "White (Bret Easton Ellis)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\White (Bret Easton Ellis)\\White (Bret Easton Ellis).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\296_White (Bret Easton Ellis",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "Why Europe Grew Rich and Asia Did Not _ Global Economic -- Parthasarathi, Prasannan -- 1, 2011 -- Cambridge University Press (Virtual Pu",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Why Europe Grew Rich and Asia Did Not _ Global Economic -- Parthasarathi, Prasannan -- 1, 2011 -- Cambridge University Press (Virtual Pu\\Why Europe Grew Rich and Asia Did Not _ Global Economic -- Parthasarathi, Prasannan -- 1, 2011 -- Cambridge University Press (Virtual Pu.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\297_Why Europe Grew Rich and Asia Did Not _ Global Economic -- P",
+    "method": "强章节标记",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "Wicked Problems in Design Thinking (Richard Buchanan)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Wicked Problems in Design Thinking (Richard Buchanan)\\Wicked Problems in Design Thinking (Richard Buchanan).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\298_Wicked Problems in Design Thinking (Richard Buchanan",
+    "method": "一级标题",
+    "documents": 2,
+    "chapters": 2,
+    "fallback": false
+  },
+  {
+    "book": "Wild Things The Material Culture of Everyday Life (Judy Attfield)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Wild Things The Material Culture of Everyday Life (Judy Attfield)\\Wild Things The Material Culture of Everyday Life (Judy Attfield).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\299_Wild Things The Material Culture of Everyday Life (Judy Attf",
+    "method": "强章节标记",
+    "documents": 14,
+    "chapters": 13,
+    "fallback": false
+  },
+  {
+    "book": "William Morris a life for our time (MacCarthy, Fiona etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\William Morris a life for our time (MacCarthy, Fiona etc.)\\William Morris a life for our time (MacCarthy, Fiona etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\300_William Morris a life for our time (MacCarthy, Fiona etc",
+    "method": "强章节标记",
+    "documents": 17,
+    "chapters": 16,
+    "fallback": false
+  },
+  {
+    "book": "William Morris and the Arts and Crafts Movement a design source book (Parry, Linda etc.)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\William Morris and the Arts and Crafts Movement a design source book (Parry, Linda etc.)\\William Morris and the Arts and Crafts Movement a design source book (Parry, Linda etc.).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\301_William Morris and the Arts and Crafts Movement a design sou",
+    "method": "一级标题",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "William Morris design and enterprise in Victorian England (Harvey, Charles, 1950-, Press, Jon, 1953-)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\William Morris design and enterprise in Victorian England (Harvey, Charles, 1950-, Press, Jon, 1953-)\\William Morris design and enterprise in Victorian England (Harvey, Charles, 1950-, Press, Jon, 1953-).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\302_William Morris design and enterprise in Victorian England (H",
+    "method": "一级标题",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "William Morris romantic to revolutionary (Thompson, E. P. (Edward Palmer), 1924-1993)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\William Morris romantic to revolutionary (Thompson, E. P. (Edward Palmer), 1924-1993)\\William Morris romantic to revolutionary (Thompson, E. P. (Edward Palmer), 1924-1993).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\303_William Morris romantic to revolutionary (Thompson, E. P. (E",
+    "method": "强章节标记",
+    "documents": 17,
+    "chapters": 16,
+    "fallback": false
+  },
+  {
+    "book": "World History of Design World War I to World War II (Victor Margolin)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\World History of Design World War I to World War II (Victor Margolin)\\World History of Design World War I to World War II (Victor Margolin).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\304_World History of Design World War I to World War II (Victor",
+    "method": "强章节标记",
+    "documents": 19,
+    "chapters": 18,
+    "fallback": false
+  },
+  {
+    "book": "World of Art De Stijl (Paul Overy)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\World of Art De Stijl (Paul Overy)\\World of Art De Stijl (Paul Overy).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\305_World of Art De Stijl (Paul Overy",
+    "method": "强章节标记",
+    "documents": 12,
+    "chapters": 11,
+    "fallback": false
+  },
+  {
+    "book": "Woven cargoes _ Indian textiles in the East -- Guy, John, 1949- -- New York, New York State, 1998 -- New York _ Thames and Hudson -- A",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Woven cargoes _ Indian textiles in the East -- Guy, John, 1949- -- New York, New York State, 1998 -- New York _ Thames and Hudson -- A\\Woven cargoes _ Indian textiles in the East -- Guy, John, 1949- -- New York, New York State, 1998 -- New York _ Thames and Hudson -- A.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\306_Woven cargoes _ Indian textiles in the East -- Guy, John, 19",
+    "method": "一级标题",
+    "documents": 3,
+    "chapters": 3,
+    "fallback": false
+  },
+  {
+    "book": "中国工艺美学史(第三版修订本) (杭间（北京：人民美术出版社 2018年）)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\中国工艺美学史(第三版修订本) (杭间（北京：人民美术出版社 2018年）)\\中国工艺美学史(第三版修订本) (杭间（北京：人民美术出版社 2018年）).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\307_中国工艺美学史(第三版修订本) (杭间（北京：人民美术出版社 2018年）",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "中国现代文字设计图史 (周博)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\中国现代文字设计图史 (周博)\\中国现代文字设计图史 (周博).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\308_中国现代文字设计图史 (周博",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "中国艺术设计史 (夏燕靖著)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\中国艺术设计史 (夏燕靖著)\\中国艺术设计史 (夏燕靖著).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\309_中国艺术设计史 (夏燕靖著",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "中国艺术设计史 (赵农)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\中国艺术设计史 (赵农)\\中国艺术设计史 (赵农).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\310_中国艺术设计史 (赵农",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "中国艺术设计史 升级版 (夏燕靖著)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\中国艺术设计史 升级版 (夏燕靖著)\\中国艺术设计史 升级版 (夏燕靖著).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\311_中国艺术设计史 升级版 (夏燕靖著",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "事理学方法论 (柳冠中)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\事理学方法论 (柳冠中)\\事理学方法论 (柳冠中).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\312_事理学方法论 (柳冠中",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "伟大的中国工业革命发展政治经济学一般原理批判纲要 (文一)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\伟大的中国工业革命发展政治经济学一般原理批判纲要 (文一)\\伟大的中国工业革命发展政治经济学一般原理批判纲要 (文一).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\313_伟大的中国工业革命发展政治经济学一般原理批判纲要 (文一",
+    "method": "强章节标记",
+    "documents": 22,
+    "chapters": 21,
+    "fallback": false
+  },
+  {
+    "book": "包豪斯道路 历史、遗泽、世界与中国 (Pdg2Pic, 杭间，靳埭强，胡恩威主编)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\包豪斯道路 历史、遗泽、世界与中国 (Pdg2Pic, 杭间，靳埭强，胡恩威主编)\\包豪斯道路 历史、遗泽、世界与中国 (Pdg2Pic, 杭间，靳埭强，胡恩威主编).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\314_包豪斯道路 历史、遗泽、世界与中国 (Pdg2Pic, 杭间，靳埭强，胡恩威主编",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "周博：《断裂与绵延：中国现代设计史研究》",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\周博：《断裂与绵延：中国现代设计史研究》\\周博：《断裂与绵延：中国现代设计史研究》.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\315_周博：《断裂与绵延：中国现代设计史研究》",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "唯有粉红 审美品位的性别政治学  As long as it's pink _ the sexual politics -- (英)彭妮斯帕克(Penny Sparke)著;滕晓铂,刘翕然译; 斯帕克; 滕晓铂; 刘翕然 -- 凤凰文",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\唯有粉红 审美品位的性别政治学  As long as it's pink _ the sexual politics -- (英)彭妮斯帕克(Penny Sparke)著;滕晓铂,刘翕然译; 斯帕克; 滕晓铂; 刘翕然 -- 凤凰文\\唯有粉红 审美品位的性别政治学  As long as it's pink _ the sexual politics -- (英)彭妮斯帕克(Penny Sparke)著;滕晓铂,刘翕然译; 斯帕克; 滕晓铂; 刘翕然 -- 凤凰文.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\316_唯有粉红 审美品位的性别政治学 As long as it's pink _ the sexual politics -",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "外国现代设计史 (张夫也)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\外国现代设计史 (张夫也)\\外国现代设计史 (张夫也).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\317_外国现代设计史 (张夫也",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "工业设计史(何人可第四版) (何人可)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\工业设计史(何人可第四版) (何人可)\\工业设计史(何人可第四版) (何人可).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\318_工业设计史(何人可第四版) (何人可",
+    "method": "强章节标记",
+    "documents": 5,
+    "chapters": 4,
+    "fallback": false
+  },
+  {
+    "book": "手艺的思想(修订版) (杭间)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\手艺的思想(修订版) (杭间)\\手艺的思想(修订版) (杭间).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\319_手艺的思想(修订版) (杭间",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "现代设计伦理思想史MODERN DISIGN AND ETHICAL THINKING (周博著)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\现代设计伦理思想史MODERN DISIGN AND ETHICAL THINKING (周博著)\\现代设计伦理思想史MODERN DISIGN AND ETHICAL THINKING (周博著).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\320_现代设计伦理思想史MODERN DISIGN AND ETHICAL THINKING (周博著",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "系统之美：决策者的系统思考  Thinking in Systems a Primer ([美] 唐內拉梅多斯 (Donella H. Meadows) 著；邱昭良 译)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\系统之美：决策者的系统思考  Thinking in Systems a Primer ([美] 唐內拉梅多斯 (Donella H. Meadows) 著；邱昭良 译)\\系统之美：决策者的系统思考  Thinking in Systems a Primer ([美] 唐內拉梅多斯 (Donella H. Meadows) 著；邱昭良 译).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\321_系统之美：决策者的系统思考 Thinking in Systems a Primer ([美] 唐內拉梅多斯 (Done",
+    "method": "强章节标记",
+    "documents": 7,
+    "chapters": 6,
+    "fallback": false
+  },
+  {
+    "book": "约翰赫斯科特读本 _ 设计,历史,经济学  A john heskett reader -- (英)克莱夫迪诺特(Clive Dilnot)编 ; 吴中浩译; 迪诺特; 吴中浩 -- 2018, 2018 -- 江苏凤凰美术出",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\约翰赫斯科特读本 _ 设计,历史,经济学  A john heskett reader -- (英)克莱夫迪诺特(Clive Dilnot)编 ; 吴中浩译; 迪诺特; 吴中浩 -- 2018, 2018 -- 江苏凤凰美术出\\约翰赫斯科特读本 _ 设计,历史,经济学  A john heskett reader -- (英)克莱夫迪诺特(Clive Dilnot)编 ; 吴中浩译; 迪诺特; 吴中浩 -- 2018, 2018 -- 江苏凤凰美术出.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\322_约翰赫斯科特读本 _ 设计,历史,经济学 A john heskett reader -- (英)克莱夫迪诺特(Cliv",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "西方设计一部为生活制作艺术的历史-邵宏主编2010 (邵宏主编)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\西方设计一部为生活制作艺术的历史-邵宏主编2010 (邵宏主编)\\西方设计一部为生活制作艺术的历史-邵宏主编2010 (邵宏主编).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\323_西方设计一部为生活制作艺术的历史-邵宏主编2010 (邵宏主编",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "观念的演进_中国现代设计史",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\观念的演进_中国现代设计史\\观念的演进_中国现代设计史.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\324_观念的演进_中国现代设计史",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "设计方法论 (柳冠中)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\设计方法论 (柳冠中)\\设计方法论 (柳冠中).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\325_设计方法论 (柳冠中",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "设计艺术的含义  Art design -- 赵江洪编著, 赵江洪, author, 赵江洪, 1954-, 赵江洪编著, 赵江洪 -- 1999, 1999 -- 长沙_湖南大学出版社 -- 32749dff",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\设计艺术的含义  Art design -- 赵江洪编著, 赵江洪, author, 赵江洪, 1954-, 赵江洪编著, 赵江洪 -- 1999, 1999 -- 长沙_湖南大学出版社 -- 32749dff\\设计艺术的含义  Art design -- 赵江洪编著, 赵江洪, author, 赵江洪, 1954-, 赵江洪编著, 赵江洪 -- 1999, 1999 -- 长沙_湖南大学出版社 -- 32749dff.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\326_设计艺术的含义 Art design -- 赵江洪编著, 赵江洪, author, 赵江洪, 1954-, 赵江洪编著,",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "造物之美 产品设计的艺术与文化 (李砚祖著, 李砚祖著, 李砚祖, 李硯祖)",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\造物之美 产品设计的艺术与文化 (李砚祖著, 李砚祖著, 李砚祖, 李硯祖)\\造物之美 产品设计的艺术与文化 (李砚祖著, 李砚祖著, 李砚祖, 李硯祖).md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\327_造物之美 产品设计的艺术与文化 (李砚祖著, 李砚祖著, 李砚祖, 李硯祖",
+    "method": "未识别到稳定章节标题",
+    "documents": 1,
+    "chapters": 0,
+    "fallback": true
+  },
+  {
+    "book": "American Wood Type, 1828-1900_ Notes on the Evolution of -- Kelly, Rob Roy, 1925-2004 -- A Da Capo paperback, New York, New York State, 1977 -- New -- isbn13 9780306800597 -- 27f1af33bb792ec4dfd274ba8",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\American Wood Type, 1828-1900_ Notes on the Evolution of -- Kelly, Rob Roy, 1925-2004 -- A Da Capo paperback, New York, New York State, 1977 -- New -- isbn13 9780306800597 -- 27f1af33bb792ec4dfd274ba8.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\328_American Wood Type, 1828-1900_ Notes on the Evolution of --",
+    "method": "一级标题",
+    "documents": 72,
+    "chapters": 71,
+    "fallback": false
+  },
+  {
+    "book": "Analysing Design Activity -- edited by Nigel Cross, Henri Christiaans, Kees Dorst -- Chichester, New York, England, 1996 -- John Wiley  Sons, -- isbn13 9780471960607 -- 8e770c44116b8564e0def685642b1a",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Analysing Design Activity -- edited by Nigel Cross, Henri Christiaans, Kees Dorst -- Chichester, New York, England, 1996 -- John Wiley  Sons, -- isbn13 9780471960607 -- 8e770c44116b8564e0def685642b1a.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\329_Analysing Design Activity -- edited by Nigel Cross, Henri Ch",
+    "method": "强章节标记",
+    "documents": 51,
+    "chapters": 50,
+    "fallback": false
+  },
+  {
+    "book": "Designs for the Pluriverse_ Radical Interdependence, -- Arturo Escobar, Arturo Escobar -- Single, Single, 2018 -- Duke University Press Books -- isbn13 9780822370901 -- 03d254cdfa953b4c28b5f6b9bd45855",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Designs for the Pluriverse_ Radical Interdependence, -- Arturo Escobar, Arturo Escobar -- Single, Single, 2018 -- Duke University Press Books -- isbn13 9780822370901 -- 03d254cdfa953b4c28b5f6b9bd45855.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\330_Designs for the Pluriverse_ Radical Interdependence, -- Artu",
+    "method": "强章节标记",
+    "documents": 6,
+    "chapters": 5,
+    "fallback": false
+  },
+  {
+    "book": "Graphic Design_ A History (Discoveries) -- Weill, Alain -- Discoveries (New York, N_Y_), New York, 2004 -- New York_ Harry N_ Abrams -- isbn13 9780810991248 -- bb33060f6b4ed6142a777d447e4aed62 -- Anna",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Graphic Design_ A History (Discoveries) -- Weill, Alain -- Discoveries (New York, N_Y_), New York, 2004 -- New York_ Harry N_ Abrams -- isbn13 9780810991248 -- bb33060f6b4ed6142a777d447e4aed62 -- Anna.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\331_Graphic Design_ A History (Discoveries) -- Weill, Alain -- D",
+    "method": "强章节标记",
+    "documents": 9,
+    "chapters": 8,
+    "fallback": false
+  },
+  {
+    "book": "Modernism in Design (Reaktion Books - Critical Views) -- Paul Greenhalgh; Clive Wainwright; Tim Benton; Martin -- Illustrated, PT, 1997 -- Reaktion -- isbn13 9780948462115 -- 4f97a702ec3765c521b074fc2",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\Modernism in Design (Reaktion Books - Critical Views) -- Paul Greenhalgh; Clive Wainwright; Tim Benton; Martin -- Illustrated, PT, 1997 -- Reaktion -- isbn13 9780948462115 -- 4f97a702ec3765c521b074fc2.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\332_Modernism in Design (Reaktion Books - Critical Views) -- Pau",
+    "method": "强章节标记",
+    "documents": 8,
+    "chapters": 7,
+    "fallback": false
+  },
+  {
+    "book": "The economic history of India _ 1857-1947 -- Tirthankar Roy -- New Delhi, New York, India, 2000 -- IRL Press at Oxford University Press -- isbn13 9780195651546 -- 1dcc1a7a5317bc0fd8a747bbd332eee",
+    "source": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\The economic history of India _ 1857-1947 -- Tirthankar Roy -- New Delhi, New York, India, 2000 -- IRL Press at Oxford University Press -- isbn13 9780195651546 -- 1dcc1a7a5317bc0fd8a747bbd332eee.md",
+    "folder": "C:\\Users\\lenovo\\Documents\\Codex\\2026-05-29\\书籍专著\\_章节拆分\\333_The economic history of India _ 1857-1947 -- Tirthankar Roy",
+    "method": "一级标题",
+    "documents": 13,
+    "chapters": 12,
+    "fallback": false
+  }
+]

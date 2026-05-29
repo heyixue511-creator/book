@@ -1,0 +1,13 @@
+> 来源：Analysing Design Activity -- edited by Nigel Cross, Henri Christiaans, Kees Dorst -- Chichester, New York, England, 1996 -- John Wiley  Sons, -- isbn13 9780471960607 -- 8e770c44116b8564e0def685642b1a
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Analysing Design Activity -- edited by Nigel Cross, Henri Christiaans, Kees Dorst -- Chichester, New York, England, 1996 -- John Wiley  Sons, -- isbn13 9780471960607 -- 8e770c44116b8564e0def685642b1a.md
+> 识别方式：强章节标记
+
+## 2 Method
+
+In this paper, our aim is to account for the individual designer's protocol. We do a task analysis of the bike rack design problem and formulate hypotheses about a set of primitive information processes by analysing the design team protocol. The primitive information processes are formulated on the basis of an analysis of the heeded information revealed in the protocol in the context of task analysis. We then use these hypotheses to analyse the individual designer's protocol.
+
+Segments are verbalization units that correspond to units of heeded information, pauses and syntactic information. The segments may be sentences, clauses, phrases or words². We segment the whole protocol first and try to encode each segment using the hypothesized processes. Encoding a segment sometimes requires taking its context into account when the information contained in it has references or is fragmentary, but we try to keep the context as narrow as possible.
+
+The other, larger unit of behaviour that we use in the analysis of the protocols is the episode, which is a collection of segments. An episode is a succinctly describable portion of behaviour1. The episodes are identified after encoding the protocol. Looking at the episodes, it may be possible to see the overall structure of behaviour in an aggregate form and to account for individual differences.
+
+The decision o use the design team protocol or doing  ak alysthede problem use he eperments formulating primitive information processes was made prior to looking at the data. This was done because we expected that analysing the problem-solving behaviour of the team would also involve looking at other issues, such as group interactions. We use the team protocol for formulating the hypotheses and then use these for analysing the individual designer's data. We segmented, encoded and identified episodes in the team protocol. While doing this we did not try to account for everything in the protocol  but we tried to account for most of it. The process of segmenting, encoding and aggregating into episodes was repeated for the individual designer's protocol.

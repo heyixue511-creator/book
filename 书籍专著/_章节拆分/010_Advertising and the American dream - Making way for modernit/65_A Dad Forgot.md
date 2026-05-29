@@ -1,0 +1,7 @@
+> 来源：Advertising and the American dream - Making way for modernity, 1920-1940 (Roland Marchand)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Advertising and the American dream - Making way for modernity, 1920-1940 (Roland Marchand)\Advertising and the American dream - Making way for modernity, 1920-1940 (Roland Marchand).md
+> 识别方式：一级标题
+
+# A Dad Forgot
+
+9.27. The depression had lengthened the odds against success, this bleak scene reminded fathers. They could rescue the American dream for their sons only by buying insurance.

@@ -1,0 +1,11 @@
+> 来源：Cloth in West African History (Colleen E. Kriger)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Cloth in West African History (Colleen E. Kriger)\Cloth in West African History (Colleen E. Kriger).md
+> 识别方式：一级标题
+
+# About the Author
+
+Colleen E. Kriger has studied handcrafted textiles and textile technology for many years as both a practitioner and a scholar. She earned her BA in Fine Art at the School of Fine and Performance Art at Portland State University, Portland, Oregon, and worked as a textile consultant and weaver on a project to restore Timberline Lodge, a National Historic Landmark, in the 1970s. During that time she also showed her artwork in museum and gallery exhibitions in the northwest and was a member of Blackfish Gallery in Portland.
+
+She began her graduate studies in 1982 at York University where she completed her MA in 1984 and her PhD in African history in 1992. She then spent a year of postdoctoral study with Jan Vansina at the University of Wisconsin, Madison. Her scholarship centers on artisans and their labor in precolonial Africa, and specifically, on textile production in the Sokoto Caliphate (now Nigeria) and ironworking in the Congo basin. These case studies have spelled out more precisely the ways in which indigenous manufacturing has over the centuries been crucial to the economies and societies of Africa. Her first book, Pride of Men: Ironworking in Nineteenth Century West Central Africa, was published in 1999 as part of the Social History of Africa Series. She has also published articles in the Journal of African History, African Arts, Textile History, the Encyclopedia of Fashion and Clothing, and the Oxford Encyclopedia of Economic History. She is currently associate professor of history at the University of North Carolina, Greensboro, and was the 2005 recipient of the UNC Board of Governors Teaching Excellence Award.
+
+Dr. Kriger has received a number of prestigious grants for her research, including a Fulbright-Hays Fellowship, and she has enjoyed support from the Pasold Research Fund, the Social Science Research Council, Fondation Dapper (Paris), the American Philosophical Society, the Queen Elizabeth II Ontario Scholarship, the Social Sciences and Humanities Research Council of Canada, and the Zdenka Volavka Postdoctoral Research Fellowship.

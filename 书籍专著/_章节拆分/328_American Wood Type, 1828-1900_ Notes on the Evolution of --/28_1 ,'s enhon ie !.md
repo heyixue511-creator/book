@@ -1,0 +1,23 @@
+> 来源：American Wood Type, 1828-1900_ Notes on the Evolution of -- Kelly, Rob Roy, 1925-2004 -- A Da Capo paperback, New York, New York State, 1977 -- New -- isbn13 9780306800597 -- 27f1af33bb792ec4dfd274ba8
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\American Wood Type, 1828-1900_ Notes on the Evolution of -- Kelly, Rob Roy, 1925-2004 -- A Da Capo paperback, New York, New York State, 1977 -- New -- isbn13 9780306800597 -- 27f1af33bb792ec4dfd274ba8.md
+> 识别方式：一级标题
+
+# 1 ,'s enhon ie !
+
+Bill, Stark & Co., 1853.
+
+8 LINE PICA CLARENDON
+
+TUESDAY December
+
+Wells & Webb, 1854.
+
+7 LINE CLARENDON, LIGHT FACE
+
+WONDERED abundant 25
+
+24 LINE CLARENDON EXTRA CONDENSED, LIGHT FACE
+
+#
+
+18 LINE IONIC

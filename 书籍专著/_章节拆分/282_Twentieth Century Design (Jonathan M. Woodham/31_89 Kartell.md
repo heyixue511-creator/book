@@ -1,0 +1,27 @@
+> 来源：Twentieth Century Design (Jonathan M. Woodham)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Twentieth Century Design (Jonathan M. Woodham)\Twentieth Century Design (Jonathan M. Woodham).md
+> 识别方式：强章节标记
+
+## 89 Kartell
+
+Cover page from the   
+company magazine Qualitát, no. 6, Winter 1957   
+This illustration shows a wide range of plastic domestic   
+products manufactured by the Kartell company, founded by Guilio Castelli in Milan in 1949. These include the rectangular tub at the base of the 'tree'   
+(Compasso d'Oro prizewinner, 1957) and the bucket hanging from the lowest 'branch'   
+(Compasso d'Oro prizewinner, 1955), both designed by Gino Columbini who was head of   
+Kariells technical office. High standards of colourful design in everyday products soon   
+expanded to plastic lighting and furniture for which the   
+company became increasingly renowned internationally in the following decades.
+
+Britain, Holland, France, and the United States, embracing notions of artistic creativity, individuality, freedom of inspiration, and an interest in the arts and crafts. Contemporary fine art practice also provided inspiration, particularly action painting, which appeared to offer the means ofexpression appropriate for a new, dynamic era in German life. Links with the organic work of Charles Eames in the United States could be discerned in the work of the German furniture designer Egon Eiermann, as in his 1953 Model SE18 folding chair manufactured by Wilde + Spieth, one of the best-selling wooden chairs of the 195os, and much more obviously in Georg Leowald's stacking chair of 1954 for Wilkening + Hahne. In textile design the influence of abstract expressionism can be seen in Willi Baumeister's curtain fabric designs for Pausa AG in 1955, whilst in architecture Hans Scharoun's flowing forms for the Berlin Philharmonic of 1960-3 give it a dramatic realization.
+
+## Consumption in everyday life
+
+One of the problems with developing a fuller history of design, as has been seen in many areas of this study, is to do justice to the wider patterns of consumption and everyday life. The difficulties of investigating sufficient material evidence in the face of archival and museological determinants of (high) cultural significance are still in the process of being addressed. Lorenz Eitner, in a 1958 article on Industrial design in Postwar Germany', drew attention to a survey of home furnishings of German women of all classes and all age groups over 18 carried out in 1954. Its results were as follows: of all women questioned 2 per cent were still attached to the Wilhelminian grandeur of carved oak and potted palms; nearly 6o per cent were content with the flowered chintz, simulated wood grains, and heavy overstuffings of current department store best-sellers; while 3o per cent preferred the style which might be called 'subdued modern' or 'Swedish middle-brow', with its blond woods, chaste shapes, and unadorned surfaces. More advanced designs were favoured by a far smaller group, though of the younger women (under 30 years old) 1o per cent voted for what could be called 'Knoll International', a modernist aesthetic adopted in the public spaces of many corporate buildings. A further breakdown of the sample showed that the modern idiom ('Swedish' or 'International') was preferred by 44 per cent of women between 18 and 29 years, 28 per cent of working class wives, 44 per cent of self-employed women, and 54 per cent of female wage earners. It was most popular in towns of middlesize, less o in metropolitanorrural areas.
+
+Despite the emergence of the New Left and the economic recession of the mid-196os, designers generally remained unmoved either by critiques of what J. K. Galbraith termed the 'affluent society' or the increasing sensitivity to social and environmental issues. In the 1970s, however, a number of designers in Germany began to question the continuing validity of the dominant rational, functionalist aesthetic. Among them was Luigi Colani, whose designs provoked fierce criticism from his peers. His work exhibited a pronounced biomorphic carcer, r o vial tary-ware designs for Villeroy & Boch, or the T-9o range of cameras for Canon. In the 198os the German design consultancy, Frogdesign, has also taken a line opposed to the quasi-scientific approach to design in a number of its brightly coloured, organic designs, even coining the phrase 'form follows fun' to underline its philosophy. By this time Berlin had emerged as an avant-garde centre of significance, becoming the nexus for what has been termed the New German Design. Essentially a critique of the functionalist tradition, whether in terms of the symbolic functionalism of Bauhaus design or post-Ulm rationalism, groups like Berlinetta and Stiletto [94] provided a radical opposition to the orthodoxy of Good Design.
+
+## Japanese design in the postwar period: myths and stereotypes
+
+The post-Second World War period has marked a significant change in attitudes to Japanese design, both within Japanese manufacturing industry and abroad. There was a marked reconsideration of the dominant view of Japan, characterized by Pierre Loti in his best-selling novel Madame Chrysanthemum of 1887, where the country was portrayed as exotic and alluring, peopled by erotic women and devious and unethical men.³° Further stereotypes had evolved in the twentieth century, particularly in reaction to the threat which Japan's economically priced exports increasingly posed to her Western competitors. The iya e JlWar

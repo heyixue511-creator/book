@@ -1,0 +1,59 @@
+> 来源：Fashion sustainability design for change (Kate Fletcher, Lynda Grose, Paul Hawken)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Fashion sustainability design for change (Kate Fletcher, Lynda Grose, Paul Hawken)\Fashion sustainability design for change (Kate Fletcher, Lynda Grose, Paul Hawken).md
+> 识别方式：强章节标记
+
+# Chapter 16: Designer as facilitator
+
+‘Designing is not a profession but an attitude.’ László Moholy-Nagy
+
+The range of skills required of working designers – such as being comfortable with the unknown, synthesizing complex information, working across disciplinary boundaries and making intuitive leaps in thinking – are similar in scope and nature to many of the challenges thrown up by sustainability. Both tend to be highly interrelated, know no industrial or disciplinary borders, and often necessitate that we see and understand the issues in different ways. These multiple points of overlap suggest that design thinking and skills are extremely well placed to respond to sustainability challenges and in so doing offer many new opportunities for designers. Certainly ‘traditional’ design practices such as sketching, prototyping and making will still exist; but there will be much greater emphasis placed on ‘designing’ the activities, ideas and platforms of the systems and behaviours that shape our industry as a whole. Fashion designers will move from working in the supply chain to working at the ‘hub’ of change, using their skills differently9 – envisioning change, organizing it and enabling something different to happen. Designers will work as facilitators.
+
+## Enabling action and change
+
+This new enabling role for designers may take a variety of forms, from developing strategies to change the industry and business of fashion, to being a ‘street-level practical facilitator and creative teaser’10 whose role is to orchestrate change by creating opportunities for people to work in completely different ways. In many contexts, this role is more complex than traditional design activities and involves intense negotiation, steering a course between stakeholders and the need to take practical action. It is also unpredictable and produces outcomes that may not conform to traditional design norms. For acting in a capacity as facilitator tends to emphasize process over outcome and re-engineers the ego boundaries of designers by framing ‘success’ as contingent on group effort rather than isolated brilliance.
+
+## Co-design
+
+One of the most complete immersions in the practice of designer as facilitator is in co-design (discussed on page 144). Here the users of clothes design and make garments for their own consumption in a process facilitated by someone experienced in the technical and practical details of transforming ideas into products. The ‘professional’ designer supports the co-designers both in the practical making and conceptualization skills, and also in a wholesale switch in their thinking and behaviour, as they segue from the role of consumer to one of active citizen. The journey from one to the other involves a burgeoning sense of responsibility and interaction as the ‘rights’ of the consumer give way to a blend of the ‘rights’ and ‘responsibilities’ of the citizen; it is a journey that positively engages people emotionally, practically and politically with their clothes and that is brought to bear on each piece worn.
+
+## Clothes swaps
+
+Also promoting a sense of extended consumer responsibility, ‘clothes swaps’ facilitate access to new-to-you clothes through exchanging garments. In this case, the role the designer plays is in setting up a workable process for swapping and staging an event that creates a fashion ‘experience’ that goes at least some way to meeting needs for identity, communication and creativity, yet without perpetuating the cycle of production and consumption of virgin resources.
+
+Professionally run clothes swaps are now widespread, and most frequently centre on an event that is fun and sociable. The rules of swapping vary between organizations and events. In Australia, Clothing Exchange, which was started by Kate Luckins in 2004, sets a limit of six swaps per person. Clothes must be clean, pressed, in good condition and likely to be valued by others, thereby upholding the quality of garments for everyone. Button tokens are issued for each garment brought along and exchanged for another garment to take away.
+
+In contrast, at Swap-O-Rama-Rama (originated by Wendy Tremayne in the US in 2005), no limit is set as to what can be brought or taken away, and the event is augmented by a series of do-it-yourself workshops in which the attendees can explore creative reuse of clothes. Sewing stations
+
+A Clothing Exchange clothes-swapping event in Melbourne, Australia.
+
+![](../../Fashion sustainability design for change (Kate Fletcher, Lynda Grose, Paul Hawken)/images/ae3b8fe3afcc028044937340adc3ed64be587a96ca4246c73933bd7961582d53.jpg)
+
+staffed by skilled designers help clothes swappers modify their ‘finds’ and also learn such skills as embroidery, knitting and crochet. The evening culminates in a participatory catwalk show, giving attendees a chance to show off their fashion finds, showcasing the work of the local designers who staffed the event and providing an opportunity to exchange stories around the swapped items to build further emotional attachment. Swap-O-Rama-Rama also provides clothes swappers the opportunity to cover up the original garment’s corporate branding with a new label. The ‘100% Recycled’ or ‘Modified by Me’ labels celebrate the DIY community’s collective creativity and subvert the political power and social positioning of the previously branded goods. Other variations on the clothes-swap format see swapping organized by commercial organizations online or by local authorities as part of a strategy of waste reduction (such as is the case with Islington Council in London, England); the concept has even percolated into the mainstream through a BBC television series fronted by 1960s fashion model Twiggy.
+
+## Ready-to-wear versus readiness-to-make
+
+Acting in a different facilitatory capacity, designer Otto von Busch produces ‘collections’ of patterns, instructions and sewing tips to promote clothes-making and skills development.11 Making use of the cultural power and influence of fashion language and imagery, von Busch’s ‘cookbooks’ and ‘recyclopedia’ connect the home-made garment with the symbolic power of fashion creation and subvert the system in a stylistic form it understands. The cookbooks attempt to change the attitude towards fashion from something that is ready-to-wear, to fashion as a ‘readiness-tomake’, involving a process that promotes personal growth, skills development and empowerment through making clothes. The role played by the designer here is to turn fashion’s established consumerist power structures inside out and set in motion an ad hoc training programme for sewing skills that seeds a positive and enabling attitude to fashion – expressed in more diverse ways than simply what can be bought and consumed on the high street. The online communities that build from this type of hands-on project are breaking open the traditional structures of producing and consuming fashion. Von Busch’s recyclopedia is free to download on the Web, and has rapidly inspired workshops in other countries – a concept unthinkable just a few years ago.
+
+## Designer as intensifier
+
+Opportunities for designers to act as facilitators can take on a variety of additional forms, one of which is simply to recognize and intensify the possibility of ‘good’ work. A London-based on-going fashion project, Local Wisdom, seeks to celebrate a user’s ‘craft’ – that is, the practices of expertly using garments in satisfying and resourceful ways. The result is a host of stories and images that describe how individuals have used their ingenuity to enhance their own fashion experience within the limits of the clothes they already have. Local Wisdom documents tales from volunteer members of the public recorded at community photo ‘shoots’. The practices to emerge so far include the ways in which people keep pieces in active use for longer; the practicalities and emotional intensity of garment sharing; the subtle and multiple reasons that dissuade us from ever laundering our clothes. The craft of use often falls outside industrial or commercial ideas about what sustainability is or should be, emerging instead from the culturally embedded ‘wisdoms’ of thrift, domestic provisioning and care of loved ones. These practices typically need little money or materials, but tap into an abundance of experience, ingenuity and free-thinking to comprise activity that is rarely acknowledged and never makes it on to catwalks or business or political agendas.
+
+![](../../Fashion sustainability design for change (Kate Fletcher, Lynda Grose, Paul Hawken)/images/c8ed5c26c9ccb1b91d5ccc1aa336f429c11ecd2f12fda0f42a4af2963baeda38.jpg)
+
+Garment remaking workshop in the Kernel Gallery in Athens, Greece, using Otto von Busch’s ‘recyclopedia’.
+
+The Local Wisdom project frames these activities as part of a new prosperity in fashion that exists outside the predominant economic and business model of growth. In this space, sustainability in fashion is about action in everyday life. Yet Local Wisdom is also seen to have commercial application, for the craft of users supplies industry with an array of starting
+
+HOME-MADE: Easy to fix ‘This dress I got in a thrift shop and somebody sewed it at home. It had a bunch of rips and things in it so I took it home and put a new zipper in and… because it’s home-made... if anything rips, if any seam tears, it is so much easier to fix because it’s not overlocked. It fits me absolutely, perfectly and I love it.’
+
+![](../../Fashion sustainability design for change (Kate Fletcher, Lynda Grose, Paul Hawken)/images/bfe865008382a5d502658c0092d4f0216399ebd4cd9b20df3ed39ab81b37edc3.jpg)
+
+points, ideas and pragmatic examples of a more satisfying use of fashion resources that dissociates material throughput from commercial success.
+
+The fashion industry’s industrial cut-and-sew techniques produce a garment so polished that it seems complete as is, closed to improvisation from the ‘outside’. But the design and construction of home-made garments are more like a work in progress, open to adaptation and repair and to building understanding about how things are made.
+
+## Social and cultural sustainability
+
+Engaging with the public about their relationship with clothing is a powerful way to take theory and research ideas about a more satisfying use of fashion out of academia, and prototypes (based on these theories and empirical research) out of the studio, bringing them into the community at large, where they can become a catalyst for discussion. This activity sees artefacts as extended tools of enquiry for excavating attitudes and social mores while also testing and reinforming the artefacts themselves. It also allows designers to serve as pragmatic ambassadors for how we might de-link profit from selling more product. This type of research is a natural extension of life-cycle thinking, expanding the activities and focus of design to include not only product sustainability but also social and cultural sustainability, and involving not only design and industry experts but also the wearer-citizens.
+
+In many ways then, when inhabiting the role of facilitator, a designer operates in such a way as to influence courses of action both within the existing fashion system and at the systems level itself, to affect not only products, processes and practice but also economics, power relations, established production structures and commercial business preferences, and so on. This brings vision and practical skills together in collaboration with others to change the fashion sector at root.

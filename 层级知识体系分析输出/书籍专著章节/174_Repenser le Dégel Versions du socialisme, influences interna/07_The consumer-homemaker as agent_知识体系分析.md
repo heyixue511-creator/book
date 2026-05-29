@@ -1,0 +1,287 @@
+# The consumer-homemaker as agent：文本分析与层级知识体系
+
+## 0. 文档信息
+- 文档类型：书籍章节
+- 来源组：174_Repenser le Dégel Versions du socialisme, influences interna
+- 原始文件：`C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\_章节拆分\174_Repenser le Dégel Versions du socialisme, influences interna\07_The consumer-homemaker as agent.md`
+- 文本行数：49
+- 有效字符数：18356
+- 关键词/词段数：1863
+
+## 1. 定量概览
+| 高频词/词段 | 次数 |
+| --- | ---: |
+| furniture | 17 |
+| style | 15 |
+| production | 14 |
+| had | 14 |
+| interior | 13 |
+| contemporary | 13 |
+| apartment | 12 |
+| people | 11 |
+| her | 11 |
+| exhibition | 11 |
+| things | 11 |
+| home | 10 |
+| did | 10 |
+| taste | 10 |
+| its | 9 |
+| advice | 8 |
+| good | 8 |
+| them | 8 |
+| apartments | 7 |
+| often | 7 |
+| soviet | 7 |
+| time | 7 |
+| mass | 7 |
+| uiut | 6 |
+| made | 6 |
+
+## 2. 语义分析
+### 核心主旨
+本文档以“The consumer-homemaker as agent”为中心，主要落在“设计本体与问题域”问题域中。文本通过概念论述、案例材料与历史/实践语境，组织出关于设计对象、设计行动及其社会意义的知识链条。从首段语义看，其核心关注可概括为：But what if the homemaker persisted in regarding rugs or silk lampshades as the essence of uiut? Who, in the end, made the interior? And was its participation in the project of socialist modernity guaranteed? How effective was the huge campaign of advice? As Anne Gorsuch observes, with reference to Derek Sayer: "the state may talk and talk, but we cannot be sure that the intended audience is listening. Instead, 'they
+
+### 关键主题
+- **设计本体与问题域**：匹配强度 82；主要线索：design、function、functional、problem、user、need。
+- **材料媒介与形式语言**：匹配强度 66；主要线索：material、form、style、graphic、image、symbol。
+- **历史语境与社会机制**：匹配强度 38；主要线索：modern、century、culture、society、industrial、revolution。
+- **人物机构与案例网络**：匹配强度 37；主要线索：designer、architect、artist、press、case、work。
+
+## 3. 概念、知识元与实体
+### 核心概念
+- 功能主义
+- 标准化
+- 符号系统
+- 创造性
+- 研究范式
+
+### 具体知识点
+- 围绕“The consumer-homemaker as agent”展开的章节性知识单元。
+- 高频主题“furniture”（出现约 17 次）构成文本关注点。
+- 高频主题“style”（出现约 15 次）构成文本关注点。
+- 高频主题“production”（出现约 14 次）构成文本关注点。
+- 高频主题“had”（出现约 14 次）构成文本关注点。
+- 高频主题“interior”（出现约 13 次）构成文本关注点。
+- 高频主题“contemporary”（出现约 13 次）构成文本关注点。
+- 高频主题“apartment”（出现约 12 次）构成文本关注点。
+- 高频主题“people”（出现约 11 次）构成文本关注点。
+- 高频主题“her”（出现约 11 次）构成文本关注点。
+- 高频主题“exhibition”（出现约 11 次）构成文本关注点。
+- 高频主题“things”（出现约 11 次）构成文本关注点。
+- 高频主题“home”（出现约 10 次）构成文本关注点。
+- 概念线索“功能主义”可作为抽象分析节点。
+- 概念线索“标准化”可作为抽象分析节点。
+- 概念线索“符号系统”可作为抽象分析节点。
+- 概念线索“创造性”可作为抽象分析节点。
+- 概念线索“研究范式”可作为抽象分析节点。
+- 实体/案例“1960”提供事实支撑。
+- 实体/案例“St Petersburg”提供事实支撑。
+- 实体/案例“1950”提供事实支撑。
+- 实体/案例“1959”提供事实支撑。
+- 实体/案例“150”提供事实支撑。
+- 实体/案例“000”提供事实支撑。
+
+### 关键实体
+- 1960
+- St Petersburg
+- 1950
+- 1959
+- 150
+- 000
+- 1968
+- 1961
+- As Anne Gorsuch
+- Derek Sayer
+- Khrushchev. Ideological
+- Dorothee Wierling
+- Nikolai Luppov
+- Soviet Union
+- Ekaterina Gerasimova
+- One Leningrader
+- Sof'ia Chuikina
+- Elena Mikhailovna Torshilova
+- Timo Vihavainen
+- Everyday Aesthetics
+- Modern Soviet Flat
+- No. We
+- By Torshilova's
+- As Torshilova
+- Eastern Europe. But
+- 128
+- 129
+- 130
+- 131
+- 132
+
+## 4. 层级化知识体系
+### 第一级：核心研究主题
+**The consumer-homemaker as agent中的设计知识结构：文本主题、案例证据与概念框架的组织关系**
+
+### 第二级：核心维度
+1. **设计本体与问题域**
+   - 维度说明：由本文件中的关键词、标题结构和实体分布共同支撑，匹配强度 82。
+2. **材料媒介与形式语言**
+   - 维度说明：由本文件中的关键词、标题结构和实体分布共同支撑，匹配强度 66。
+3. **历史语境与社会机制**
+   - 维度说明：由本文件中的关键词、标题结构和实体分布共同支撑，匹配强度 38。
+4. **人物机构与案例网络**
+   - 维度说明：由本文件中的关键词、标题结构和实体分布共同支撑，匹配强度 37。
+
+### 第三级与第四级：议题和知识要素
+#### 维度 1：设计本体与问题域
+- **议题 1.1：文本中的核心问题域**
+  - 知识要素：design, function, functional, problem, user
+- **议题 1.2：案例、实体与证据链**
+  - 知识要素：1960, St Petersburg, 1950, 1959, 150
+- **议题 1.3：可迁移的分析概念**
+  - 知识要素：功能主义, 标准化, 符号系统, 创造性, 研究范式
+#### 维度 2：材料媒介与形式语言
+- **议题 2.1：文本中的核心问题域**
+  - 知识要素：material, form, style, graphic, image
+- **议题 2.2：案例、实体与证据链**
+  - 知识要素：000, 1968, 1961, As Anne Gorsuch, Derek Sayer
+- **议题 2.3：可迁移的分析概念**
+  - 知识要素：功能主义, 标准化, 符号系统, 创造性, 研究范式
+#### 维度 3：历史语境与社会机制
+- **议题 3.1：文本中的核心问题域**
+  - 知识要素：modern, century, culture, society, industrial
+- **议题 3.2：案例、实体与证据链**
+  - 知识要素：Khrushchev. Ideological, Dorothee Wierling, Nikolai Luppov, Soviet Union, Ekaterina Gerasimova
+- **议题 3.3：可迁移的分析概念**
+  - 知识要素：功能主义, 标准化, 符号系统, 创造性, 研究范式
+#### 维度 4：人物机构与案例网络
+- **议题 4.1：文本中的核心问题域**
+  - 知识要素：designer, architect, artist, press, case
+- **议题 4.2：案例、实体与证据链**
+  - 知识要素：One Leningrader, Sof'ia Chuikina, Elena Mikhailovna Torshilova, Timo Vihavainen, Everyday Aesthetics
+- **议题 4.3：可迁移的分析概念**
+  - 知识要素：功能主义, 标准化, 符号系统, 创造性, 研究范式
+
+## 5. 可用于后续知识库的结构化条目
+```json
+{
+  "title": "The consumer-homemaker as agent",
+  "document_type": "书籍章节",
+  "source_group": "174_Repenser le Dégel Versions du socialisme, influences interna",
+  "core_dimensions": [
+    "设计本体与问题域",
+    "材料媒介与形式语言",
+    "历史语境与社会机制",
+    "人物机构与案例网络"
+  ],
+  "concepts": [
+    "功能主义",
+    "标准化",
+    "符号系统",
+    "创造性",
+    "研究范式"
+  ],
+  "entities": [
+    "1960",
+    "St Petersburg",
+    "1950",
+    "1959",
+    "150",
+    "000",
+    "1968",
+    "1961",
+    "As Anne Gorsuch",
+    "Derek Sayer",
+    "Khrushchev. Ideological",
+    "Dorothee Wierling",
+    "Nikolai Luppov",
+    "Soviet Union",
+    "Ekaterina Gerasimova",
+    "One Leningrader",
+    "Sof'ia Chuikina",
+    "Elena Mikhailovna Torshilova",
+    "Timo Vihavainen",
+    "Everyday Aesthetics"
+  ],
+  "top_terms": [
+    [
+      "furniture",
+      17
+    ],
+    [
+      "style",
+      15
+    ],
+    [
+      "production",
+      14
+    ],
+    [
+      "had",
+      14
+    ],
+    [
+      "interior",
+      13
+    ],
+    [
+      "contemporary",
+      13
+    ],
+    [
+      "apartment",
+      12
+    ],
+    [
+      "people",
+      11
+    ],
+    [
+      "her",
+      11
+    ],
+    [
+      "exhibition",
+      11
+    ],
+    [
+      "things",
+      11
+    ],
+    [
+      "home",
+      10
+    ],
+    [
+      "did",
+      10
+    ],
+    [
+      "taste",
+      10
+    ],
+    [
+      "its",
+      9
+    ],
+    [
+      "advice",
+      8
+    ],
+    [
+      "good",
+      8
+    ],
+    [
+      "them",
+      8
+    ],
+    [
+      "apartments",
+      7
+    ],
+    [
+      "often",
+      7
+    ]
+  ]
+}
+```
+
+## 6. 方法说明
+本报告沿用“数据化-语义提取-知识解构-层级建构”的路径生成：先统计词频和标题结构，再抽取概念、实体与知识点，最后按核心主题、维度、议题、知识要素四层组织。

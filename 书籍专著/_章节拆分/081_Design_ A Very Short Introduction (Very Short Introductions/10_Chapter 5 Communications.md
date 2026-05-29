@@ -1,0 +1,13 @@
+> 来源：Design_ A Very Short Introduction (Very Short Introductions)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Design_ A Very Short Introduction (Very Short Introductions)\Design_ A Very Short Introduction (Very Short Introductions).md
+> 识别方式：强章节标记
+
+## Chapter 5 Communications
+
+‘Communications’ is here used as a shorthand term to cover the vast array of twodimensional material that plays such an extensive role in modern life. Two-dimensional media forms have multiplied and expanded to a point where we are continuously bombarded with visual imagery. Their influence is pervasive, in both positive and negative senses: they can inform, direct, influence, arouse, confuse, and infuriate. Switch on the television, browse the Internet, walk down a street, read a magazine, or go into a store, and we are confronted with a huge array of signage, advertising, and social advocacy on a variety of scales. Some images will be permanent – a street sign, for example – but, in comparison to objects, a much greater proportion of communications is ephemeral, such as newspapers and advertising materials.
+
+Another important difference between objects and communications should also be noted. Objects can exist as visual forms in their own right and can be used without any other reference. A vase or Lego building blocks for children, for example, do not necessarily require any accompanying text in order for them to be used or understood. They have visual or tactile qualities that communicate directly with great effect. Twodimensional images, however, are different. As a means of personal expression they communicate with great immediacy. They can have a profound effect in stimulating a range of reactions, although this may not be exact or capable of calculation in advance. For practical purposes, however, in forms such as maps or diagrams, imagery in two dimensions generally requires being supplemented by text for it to establish any kind of precision. Attempts to use icons and pictograms effectively to convey meaning have had some success, especially in contexts where people from many countries and speaking many languages are expected to be users. The comprehensive signage system designed by Otl Aicher for the 1972 Munich Olympics is a classic example that has been widely imitated. Nevertheless, in general, an advertisement, or a brochure on how to use a product, or a chart or diagram without any text of any kind will probably be confusing and unclear. In general, therefore, a combination of print and imagery is
+
+fundamental in understanding communications.
+
+![](../../Design_ A Very Short Introduction (Very Short Introductions)/images/3c47d969b35adf743372b2ae2c1026ffef1d3609b462c3c816654390c9410d05.jpg)

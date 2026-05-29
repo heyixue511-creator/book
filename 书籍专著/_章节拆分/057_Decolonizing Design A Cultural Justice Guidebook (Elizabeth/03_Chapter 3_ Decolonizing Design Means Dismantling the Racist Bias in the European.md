@@ -1,0 +1,7 @@
+> 来源：Decolonizing Design A Cultural Justice Guidebook (Elizabeth (Dori) Tunstall)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Decolonizing Design A Cultural Justice Guidebook (Elizabeth (Dori) Tunstall)\Decolonizing Design A Cultural Justice Guidebook (Elizabeth (Dori) Tunstall).md
+> 识别方式：强章节标记
+
+## Chapter 3: Decolonizing Design Means Dismantling the Racist Bias in the European Modernist Project
+
+In chapter three, Dori focuses on another aspect of her life in modern Chicago: racism, segregation, and discrimination. She explains how these social phenomena are also part of the modernist project in design and are fed by a myth that people need to drop their ethnic and national identities in favor of a universal humankind. She demonstrates how the “universal humankind” in design assumes a subject that is white, male by birth and social expression (i.e., cisgender male), European, middle class or affluent, Christian, and of abled body and mind. Even in the Bauhaus, white supremacy is embedded in modernist design and thus plays a significant role in the cultural genocide of Indigenous, Black, and People of Color communities through colonization. She concludes with a demonstration of how Bauhaus pedagogical techniques combined with Aboriginal and Torres Strait Islander principles might help you think about the fruitful dialogue between what is useful in European and Indigenous design.

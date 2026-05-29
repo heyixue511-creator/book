@@ -1,0 +1,117 @@
+> 来源：The Stones of Venice(John Ruskin)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\The Stones of Venice(John Ruskin)\The Stones of Venice(John Ruskin).md
+> 识别方式：强章节标记
+
+## CHAPTER XI.
+
+## THE ARCH MASONRY.
+
+§ I. ON the subject of the stability of arches, volumes have been written, and volumes more are required. The reader will not, therefore, expect from me any very complete explanation of its conditions within the limits of a single chapter. But that which is necessary for him to know is very simple and very easy; and yet, I believe, some part of it is very little known, or noticed.
+
+We must first have a clear idea of what is meant by an arch. It is a curved shell of firm materials, on whose back a burden is to be laid of loose materials. So far as the materials above it are not loose, but themselves hold together, the opening below is not an arch, but an excavation. Note this difference very carefully. If the King of Sardinia tunnels through the Mont Cenis, as he proposes, he will not require to build a brick arch under his tunnel to carry the weight of the Mont Cenis: that would need scientific masonry indeed. The Mont Cenis will carry itself, by its own cohesion, and a succession of invisible granite arches, rather larger than the tunnel. But when Mr. Brunel tunnelled the Thames bottom, he needed to build a brick arch to carry the six or seven feet of mud and the weight of water above. That is a type of all arches proper.
+
+§ II. Now arches, in practice, partake of the nature of the two. So far as their masonry above is Mont-Cenisian, that is to say, colossal in comparison of them, and granitic, so that the arch is a mere hole in the rock substance of it, the form of the arch is of no consequence whatever: it may be rounded, or lozenged, or ogee'd, or anything else; and in the noblest architecture there is always some character of this kind given to the masonry. It is independent enough not to care about the holes cut in it, and does not subside into them like sand. But the theory of arches does not presume on any such condition of things: it allows itself only the shell of the arch proper; the vertebrae, carrying their marrow of resistance; and, above this shell, it assumes the wall to be in a state of flux, bearing down on the arch, like water or sand, with its whole weight. And farther, the problem which is to be solved by the arch builder is not merely to carry this weight, but to carry it with the least thickness of shell. It is easy to carry it by continually thickening your voussoirs: if you have six feet depth of sand or gravel to carry, and you choose to employ granite voussoirs six feet thick, no question but your arch is safe enough. But it is perhaps somewhat too costly: the thing to be done is to carry the sand or gravel with brick voussoirs, six inches thick, or, at any rate, with the least thickness of voussoir which will be safe; and to do this requires peculiar arrangement of the lines of the arch. There are many arrangements, useful all in their way, but we have only to do, in the best architecture, with the simplest and most easily understood. We have first to note those which regard the actual shell of the arch, and then we shall give a few examples of the superseding of such expedients by Mont-Cenisian masonry.
+
+§ III. What we have to say will apply to all arches, but the central pointed arch is the best for general illustration. Let a, Plate III., be the shell of a pointed arch with loose loading above; and suppose you find that shell not quite thick enough; and that the weight bears too heavily on the top of the arch, and is likely to break it in: you proceed to thicken your shell, but need you thicken it all equally? Not so; you would only waste your good voussoirs. If you have any common sense you will thicken it at the top, where a Mylodon's skull is thickened for the same purpose (and some human skulls, I fancy), as at b. The pebbles and gravel above] will now shoot off it right and left, as the bullets do off a cuirassier's breastplate, and will have no chance of beating it in.
+
+If still it be not strong enough, a farther addition may be made, as at c, now thickening the
+
+## voussoirs a little at the base
+
+![](../../The Stones of Venice(John Ruskin)/images/c015a1f31bb90690c8d260808b1079e65def7145b2af378856e066ff702aa813.jpg)  
+Arrb Maiunro.
+
+also. But as this may perhaps throw the arch inconveniently high, or occasion a waste of voussoirs at the top, we may employ another expedient.
+
+§ IV. I imagine the reader's common sense, if not his previous knowledge, will enable him to understand that if the arch at a, Plate III., burst in at the top, it must burst out at the sides. Set up two pieces of pasteboard, edge to edge, and press them down with your hand, and you will see them bend out at the sides. Therefore, if you can keep the arch from starting out at the points p, p, it cannot curve in at the top, put what weight on it you will, unless by sheer crushing of the stones to fragments.
+
+§ V. Now you may keep the arch from starting out at p by loading it at p, putting more weight upon it and against it at that point; and this, in practice, is the way it is usually done. But we assume at present that the weight above is sand or water, quite unmanageable, not to be directed to the points we choose ; and in practice, it may sometimes happen that we cannot put weight upon the arch at p. We may perhaps want an opening above it, or it may be at the side of the building, and many other circumstances may occur to hinder us.
+
+§ VI. But if we are not sure that we can put weight above it, we are perfectly sure that we can hang weight under it. You may always thicken your shell inside, and put the weight upon it as at x x, in d, Plate III. Not much chance of its bursting out at p, now, is there?
+
+§ VIII. Whenever, therefore, an arch has to bear vertical pressure, it will bear it better when its shell is shaped as at b or d, than as at a: b and d are, therefore, the types of arches built to resist vertical pressure, all over the world, and from the beginning of architecture to its end. None others can be compared with them: all are imperfect except these.
+
+The added projections at x x, in J, are called CUSPS, and they are the very soul and life of the best northern Gothic; yet never thoroughly understood nor found in perfection, except in Italy, the northern builders working often, even in the best times, with the vulgar form at a.
+
+## K
+
+The form at b is rarely found in the north: its perfection is in the Lombardic Gothic; and branches of it, good and bad according to their use, occur in Saracenic work.
+
+§ "VTII. The true and perfect cusp is single only. But it was probably invented (by the Arabs?) not as a constructive, but a decorative feature, in pure fantasy; and in early northern work it is only the application to the arch of the foliation, so called, of penetrated spaces in stone surfaces, already enough explained in the "Seven Lamps," Chap. III., p. 85. et seq. It is degraded in dignity, and loses in usefulness, exactly in proportion to its multiplication on the arch. In later architecture, especially English Tudor, it is sunk into dotage, and becomes a simple excrescence, a bit of stone pinched up out of the arch, as a cook pinches the paste at the edge of a pie.
+
+§ IX. The depth and place of the cusp, that is to say, its exact application to the shoulder of the curve of the arch, varies with the direction of the weight to be sustained. I have spent more than a month, and that in hard work too, in merely trying to get the forms of cusps into perfect order: whereby the reader may guess that I have not space to go into the subject now; but I shall hereafter give a few of the leading and most perfect examples, with their measures and masonry.
+
+§ X. The reader now understands all that he need about the shell of the arch, considered as an united piece of stone.
+
+He has next to consider the shape of the voussoirs. This, as much as is required, he will be able best to comprehend by a few examples; by which I shall be able also to illustrate, or rather which will force me to illustrate, some of the methods of MontCenisian masonry, which were to be the second part of our subject.
+
+§ XI. 1 and 2, Plate IV., are two cornices; 1 from St. Antonio, Padua; 2, from the Cathedral of Sens. I want them for cornices; but I have put them in this plate because, though their arches are filled up behind, and are in fact mere blocks of stone with arches cut into their faces, they illustrate the constant masonry of small arches, both in Italian and Northern Romanesque, but especially Italian, each arch being cut out of its own proper block of stone: this is Mont-Cenisian enough, on a small scale.
+
+![](../../The Stones of Venice(John Ruskin)/images/a88ddc169a164b14f8fbfeca26c611efa9e1d48c7e66332534e8976b09d564e0.jpg)  
+Arrb Masonrv.
+
+3 is a window from Carnarvon Castle, and very primitive and interesting in manner, — one of its arches being of one stone, the other of two. And here we have an instance of a form of arch which would be barbarous enough on a large scale, and of many pieces; but quaint and agreeable thus massively built.
+
+4 is from a little belfry in a Swiss village above Vevay; one fancies the window of an absurd form, seen in the distance, but one is pleased with it on seeing its masonry. It could hardly be stronger.
+
+§ XII. These then are arches cut of one block. The next step is to form them of two pieces, set together at the head of the arch. 6, from the Eremitani, Padua, is very quaint and primitive in manner: it is a curious church altogether, and has some strange traceries cut out of single blocks. One is given in the "Seven Lamps," Plate VII., in the left-hand corner at the bottom.
+
+7, from the Frari, Venice, very firm and fine, and admirably
+
+decorated, as we shall see hereafter. 5, the simple two-pieced construction, wrought with the most exquisite proportion and precision of workmanship, as is everything else in the glorious church to which it belongs, San Fermo of Verona. The addition of the top piece, which completes the circle, does not affect the plan of the beautiful arches, with their simple and perfect cusps; but it is highly curious, and serves to show how the idea of the cusp rose out of mere foliation. The whole of the architecture of this church may be characterised as exhibiting the maxima of simplicity in construction, and perfection in workmanship, — a rare unison; for, in general, simple designs are rudely worked, and as the builder perfects his execution, he complicates his plan. Nearly all the arches of San Fermo are two-pieced.
+
+§ XIII. We have seen the construction with one and two pieces: a and b, Fig. 8. Plate IV., are the general types of the construction with three pieces, uncusped and cusped; c and d with five pieces, uncusped and cusped. Of these the three-pieced eonstruction is of enormous importance, and must detain us some time. The five-pieced is the three-pieced with a joint added on each side, and is also of great importance. The four-pieced, which is the two-pieced with added joints, rarely occurs, and need not detain us.
+
+§ XIV. It will be remembered that in first working out the principle of the arch, we composed the arch of three pieces. Three is the smallest number which can exhibit the real principle of arch masonry, and it may be considered as representative of all arches built on that principle; the oneand two-pieced arches being microscopic Mont-Cenisian, mere caves in blocks of stone, or gaps between two rocks leaning together.
+
+But the three-pieced arch is properly representative of all; and the larger and more complicated constructions are merely produced by keeping the central piece for what is called a keystone, and putting additional joints at the sides. Now so long as an arch is pure circular or pointed, it does not matter how many joints or voussoirs you have, nor where the joints are; nay, you may joint your keystone itself, and make it two-pieced. But if the arch be of any bizarre form, especially ogee, the joints must be in particular places, and the masonry simple, or it will not be thoroughly good and secure; and the fine schools of the ogee arch have only arisen in countries where it was the custom to build arches of few pieces.
+
+§ XV. The typical pure pointed arch of Venice is a five-pieced arch, with its stones in three orders of magnitude, the longest being the lowest, as at b3, Plate III. If the arch be very large, a fourth order of magnitude is added, as at $a _ { y }$ The portals of the palaces of Venice have one or other of these masonries, almost without exception. Now, as one piece is added to make a larger door, one piece is taken away to make a smaller one, or a window, and the masonry type of the Venetian Gothic window is consequently three-pieced, c3.
+
+§ XVI. The reader knows already where a cusp is useful. It is wanted, he will remember, to give weight to those side stones, and draw them inwards against the thrust of the top stone. Take one of the side stones of ${ \sf C } _ { \sf S }$ out for a moment, as at d. Now the proper place of the cusp upon it varies with the weight which it bears or requires; but in practice this nicety is rarely observed; the place of the cusp is almost always determined by assthetic considerations, and it is evident that the variations in its place may be infinite. Consider the cusp as a wave passing up the side stone from its bottom to its top; then you will have the succession of forms from e to g, (Plate III.), with infinite degrees of transition from each to each; but of which you may take e, /, and g, as representing three great families of cusped arches. Use e for your side stones, and you have an arch as that at h below, which may be called a down-cusped arch. Use / for the side stone, and you have z, which may be called a mid-cusped arch. Use g, and you have &, an up-cusped arch.
+
+§ XVII. The reader will observe that I call the arch mid-cusped, not when the cusp point is in the middle of the curve of the arch, but when it is in the middle of the side piece, and also that where the side pieces join the keystone there will be a change, perhaps somewhat abrupt, in the curvature.
+
+I have preferred to call the arch mid-cusped with respect to its side piece than with respect to its own curve, because the most beautiful Gothic arches in the world, those of the Lombard Gothic, have, in all the instances I have examined, a form more or less approximating to this mid-cusped one at i (Plate III.), but having the curvature of the cusp carried up into the keystone, as we shall see presently: where, however, the arch is built of many voussoirs, a mid-cusped arch will mean one which has the point of the cusp midway between its own base and apex.
+
+The Gothic arch of Venice is almost invariably up-cusped, as at k. The reader may note that, in both down-cusped and upcusped arches, the piece of stone, added to form the cusp, is of the shape of a scymitar, held down in the one case and up in the other.
+
+§ XvrII. Now, in the arches h, i, k, a slight modification has been made in the form of the central piece, in order that it may continue the curve of the cusp. This modification is not to be given to it in practice without considerable nicety of workmanship; and some curious results took place in Venice from this difficulty.
+
+At l (Plate III.) is the shape of the Venetian side stone, with its cusp detached from the arch. Nothing can possibly be better or more graceful, or have the weight better disposed in order to cause it to nod forwards against the keystone, as above explained, Ch. X. § II., where I developed the whole system of the arch from three pieces, in order that the reader might now clearly see the use of the weight of the cusp.
+
+Now a Venetian Gothic palace has usually at least three stories; with perhaps ten or twelve windows in each story, and this on two or three of its sides, requiring altogether some hundred to a hundred and fifty side pieces.
+
+I have no doubt, from observation of the way the windows are set together, that the side pieces were carved in pairs, like hooks, of which the keystones were to be the eyes; that these side pieces were ordered by the architect in the gross, and were used by him sometimes for wider, sometimes for narrower windows; bevelling the two ends as required, fitting in keystones as he best could, and now and then varying the arrangement by turning the side pieces upside down.
+
+There were various conveniences in this way of working, one of the principal being that the side pieces with their cusps were always cut to their complete form, and that no part of the cusp was carried out into the keystone, which followed the curve of the outer arch itself. The ornaments of the cusp might thus be worked without any troublesome reference to the rest of the arch.
+
+§ XIX. Now let us take a pair of side pieces, made to order, like that at /, and see what we can make of them. We will try to fit them first with a keystone which continues the curve of the outer arch, as at m. This the reader assuredly thinks an ugly arch. There are a great many of them in Venice, the ugliest things there, and the Venetian builders quickly began to feel them so. What could they do to better them? The arch at m has a central piece of the form r. Substitute for it a piece of the form s, and we have the arch at n.
+
+§ XX. This arch at n is not so strong as that at m; but, built of good marble, and with its pieces of proper thickness, it is quite strong enough for all practical purposes on a small scale. I have examined at least two thousand windows of this kind and of the other Venetian ogees, of which that at y (in which the plain sidepiece d is used instead of the cusped one) is the simplest; and I never found one, even in the most ruinous palaces (in which they had had to sustain the distorted weight of falling walls) in which the central piece was fissured; and this is the only danger to which the window is exposed; in other respects it is as strong an arch as can be built.
+
+It is not to be supposed that the change from the r keystone to the s keystone was instantaneous. It was a change wrought out by many curious experiments, which we shall have to trace hereafter, and to throw the resultant varieties of form into their proper groups.
+
+§ XXI. One step more: I take a mid-cusped side piece in its block form at t, with the bricks which load the back of it. Now, as these bricks support it behind, and since, as far as the use of the cusp is concerned, it matters not whether its weight be in marble or bricks, there is nothing to hinder us from cutting out some of the marble, as at M, and filling up the space with bricks. ( Why we should take a fancy to do this, I do not pretend to guess at present; all I have to assert is, that, if the fancy should strike us, there would be no harm in it.) Substituting this side piece for the other in the window n, we have that at w, which may, perhaps, be of some service to us afterwards: here we have nothing more to do with it than to note that, thus built, and properly backed by brickwork, it is just as strong and safe a form as that at n; but that this, as well as every variety of ogee arch, depends entirely for its safety, fitness, and beauty on the masonry which we have just analysed; and that, built on a large scale, and with many voussoirs, all such arches would be unsafe and absurd in general architecture. Yet they may be used occasionally for the sake of the exquisite beauty of which their rich and fantastic varieties admit, and sometimes for the sake of another merit, exactly the opposite of the constructional ones we are at present examining, that they seem to stand by enchantment.
+
+§ XXII. In the above reasonings, the inclination of the joints of the voussoirs to the curves of the arch has not been considered. It is a question of much nicety, and which I have not been able as yet fully to investigate: but the natural idea of the arrangement of these lines (which in round arches are of course perpendicular to the curve) would be that every voussoir should have the lengths of its outer and inner arched surface in the same proportion to each other. Either this actual law, or a close approximation to it, is assuredly enforced in the best Gothic buildings.
+
+§ XXIII. I may sum up all that it is necessary for the reader to keep in mind of the general laws connected with this subject, by giving him an example of each of the two forms of the perfect Gothic arch, uncusped and cusped, treated with the most simple and magnificent masonry, and partly, in both cases, MontCenisian.
+
+The first, Plate V., is a window from the Broletto of Como. It shows, in its filling, first, the single-pieced arch, carried on groups of four shafts, and a single slab of marble filling the space above, and pierced with a quatrefoil (Mont-Cenisian, this), while the mouldings above are each constructed with a separate system of voussoirs, all of them shaped, I think, on the principle
+
+above stated, § XXIL, in alternate serpentine and marble; the outer arch being a noble example of the pure uncusped Gothic construction, b of Plate III.
+
+§ XXIV. Fig. XXXIV. is the masonry of the side arch of, as far as I know or am able to judge, the most perfect Gothic sepulchral monument in the world, the foursquare canopy of the (nameless ?)\*
+
+\* At least, I cannot find any account of it in Maffei's "Verona," nor any where else, to be depended upon. It is, I doubt not, a work of the beginning of the thirteenth century. Vide Appendix 19.: "Tombs at St. Anastasia."
+
+![](../../The Stones of Venice(John Ruskin)/images/2ba33f9a01a3cc5717809ef05472df7f4c315e82253744d0c7f033dc03affbc7.jpg)  
+Arch Masonry. BROLETTO OF COMO  
+tomb standing over the small cemetery gate of the Church of St. Anastasia at Verona. I shall
+
+have frequent occasion to recur
+
+![](../../The Stones of Venice(John Ruskin)/images/61031466f6c843b95b1657491bed2632aa2375aec6f0b0389a5faafeb4c2d939.jpg)
+
+to this monument, and, I believe, shall be able sufficiently to justify the terms in which I speak of it: meanwhile, I desire only that the reader should observe the severity and simplicity of the arch lines, the exquisitely delicate suggestion of the ogee curve in the apex, and chiefly the use of the cusp in giving inward weight to the great pieces of stone on the flanks of the arch, and preventing their thrust outwards from being severely thrown on the lowermost stones. The effect of this arrangement is, that the whole massy canopy is sustained safely by four slender pillars (as will be seen hereafter in the careful plate I hope to give of it), these pillars being rather steadied than materially assisted against the thrust, by iron bars, about an inch thick, connecting them at the heads of the abaci; a feature of peculiar importance in this monument, inasmuch as we know it to be part of the original construction, by a beautiful little Gothic wreathed pattern, like one of the hems of garments of Fra Angelico, running along the iron bar itself. So carefully, and so far, is the system of decoration carried out in this pure and lovely monument, my most beloved throughout all the length and breadth of Italy; — chief, as I think, among all the sepulchral marbles of a land of mourning.

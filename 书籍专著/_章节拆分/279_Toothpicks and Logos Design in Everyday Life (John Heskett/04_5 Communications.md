@@ -1,0 +1,125 @@
+> 来源：Toothpicks and Logos Design in Everyday Life (John Heskett)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Toothpicks and Logos Design in Everyday Life (John Heskett)\Toothpicks and Logos Design in Everyday Life (John Heskett).md
+> 识别方式：强章节标记
+
+## 5 Communications
+
+‘Communications’ is here used as a shorthand term to cover the vast array of two-dimensional material that plays such an extensive role in modern life.Two-dimensional media forms have multiplied and expanded to a point where we are continuously bombarded with visual imagery. Their influence is pervasive, in both positive and negative senses: they can inform, direct, influence, arouse, confuse, and infuriate. Switch on the television, browse the Internet, walk down a street, read a magazine, or go into a store, and we are confronted with a huge array of signage, advertising, and social advocacy on a variety of scales. Some images will be permanent––a street sign, for example––but, in comparison to objects, a much greater proportion of communications is ephemeral, such as newspapers and advertising materials.
+
+Another important difference between objects and communications should also be noted. Objects can exist as visual forms in their own right and can be used without any other reference. A vase or Lego building blocks for children, for example, do not necessarily require any accompanying text in order for them to be used or understood. They have visual or tactile qualities that communicate directly with great effect.Two-dimensional images, however, are different. As a means of personal expression they
+
+![](../../Toothpicks and Logos Design in Everyday Life (John Heskett)/images/cce5bd3d60f925191ec474ae7108ecc8357043b706979bc24ce5908fb176df3b.jpg)
+
+15. Competition made visible: Hong Kong street signs
+
+## Communications
+
+communicate with great immediacy. They can have a profound effect in stimulating a range of reactions, although this may not be exact or capable of calculation in advance. For practical purposes, however, in forms such as maps or diagrams, imagery in two dimensions generally requires being supplemented by text for it to establish any kind of precision. Attempts to use icons and pictograms effectively to convey meaning have had some success, especially in contexts where people from many countries and speaking many languages are expected to be users. The comprehensive signage system designed by Otl Aicher for the 1972 Munich Olympics is a classic example that has been widely imitated. Nevertheless, in general, an advertisement, or a brochure on how to use a product, or a chart or diagram without any text of any kind will probably be confusing and unclear. In general, therefore, a combination of print and imagery is fundamental in understanding communications.
+
+As with the design of objects, numerous kinds of practice are involved in designing communications, covering an enormous range. Perhaps the most generally used is ‘graphic designer’, a term that emerged in the 1920s and that characterizes someone whose concern is with two-dimensional imagery. Like much terminology in design, however, it can be confusing, encompassing people who design letterheads for small businesses to those devising a visual identity programme for a major corporation.
+
+# O
+
+16. Communication without boundaries: Munich Olympic pictogram system, by Otl Aicher 1972
+
+## Communications
+
+Whatever the level of application, however, graphic designers employ a common vocabulary of signs, symbols, type, colour, and pattern to create messages and structure information.
+
+Like designers of objects, graphic designers can also work as consultants or as in-house employees for organizations. Some consultants are able to work in a highly personal style, such as the American designer April Greiman, who, after initial training in the USA, studied in Switzerland, one of the fountainheads of modern typography. She is best known as a pioneer of the use of computers in design––‘the leading lady of design with a mouse’, as she has been termed. Greiman exploits the ability of computers to handle diverse materials, various kinds of images and text, and layers them in striking compositions of great depth and complexity. After many years of running her own business in Los Angeles, in 1999 she became a partner in the international consultancy Pentagram, but, as with all partners in this firm, continues to have total control over her own work.
+
+Graphic consultancies can be giant organizations, perhaps the most notable being Landor Associates, founded in 1941 in San Francisco by the late Walter Landor, who was born in Germany and trained as a designer in England. He believed that understanding consumers’ perception of companies and products was at least as important as understanding how products were manufactured, and on that basis, built his consultancy into one of the
+
+## Communications
+
+world’s leading specialists in the design of branding strategies and corporate identity. Sixty years after its foundation, it has over 800 employees working in twenty-five offices spanning the Americas, Europe, and Asia. It has created innumerable brand images for companies that are known the world over.The range includes corporate identity programmes for numerous airlines, such as Alitalia, Delta, Cathay Pacific, Varig of Brazil, and Canadian Airlines. Other identity programmes from a very extensive list include France Telecom, FedEx, BP, Hewlett-Packard, Microsoft, Pepsi-Cola, Kentucky Fried Chicken, and Pizza Hut. Designs for a range of major events also feature in its portfolio, including the symbol for the 1996 Atlanta Olympics, and full identity programmes for the 1998 Olympic Winter Games in Nagano, Japan, and the 2002 Olympic Winter Games in Salt Lake City.The continuity of work and growth by the Landor organization over many years is impressive, especially compared to other large design consultancies that grew rapidly to considerable size, only to crash precipitously.
+
+In-house graphic work for companies, compared to the design of objects, tends to be somewhat less specialized, since the range of materials is likely to be far broader, but a necessary focus will continue to be on what is relevant to the company in question. The spectrum of work and responsibilities is potentially huge. Businesses that routinely generate large quantities of brochures,
+
+## Communications
+
+instruction leaflets, packaging, and labels need a staff of graphic designers to maintain the flow of such materials. Some in large companies may work more on the level of creative interpretation rather than original concept, within the framework of a corporate identity programme devised by outside consultants. On the other hand, a corporate context does not necessarily restrict designers in this way––publishers of books, magazines, or record covers routinely require designers to create highly original, one-off material.
+
+Government bodies of all kinds also produce huge amounts of forms and documentation.These often demand a major effort by citizens to decipher them and fill out the requisite information, with bureaucratic jargon, tiny print, and inadequate space to fill in answers. An example of how improvement in this field can be dramatic is the Passport Application form in the United Kingdom. Understanding the form’s requirements was once a tortuous process, but effective graphic devices now enable it to be easily comprehended and rapidly completed, demonstrating there is no innate reason why designs for governments should be turgid. Indeed, it was the City of New York, in a period when the collapse of the city as a functioning entity was widely predicted, that commissioned Milton Glaser’s use of a heart shape in his ‘I love New York’ device––one of the most imitated graphic forms ever created.
+
+## Communications
+
+Public, non-commercial bodies of a wide variety also generate extensive design requirements. One of the most influential design programmes in broadcasting organizations is maintained by the Boston Public Television station, WGBH, with a staff of thirty designers. Establishing the station’s visual identity requires a large spectrum of means, for both on-screen application and a variety of collateral materials. These include logos, programme introductions and titles, animated sequences, teaching materials, membership information, annual reports, books, and multimedia packages.
+
+Many churches and charitable organizations also depend widely on published materials.The Church of Jesus Christ of the Latter Day Saints has a staff of sixty designers based in Utah, who design the very extensive range of print and electronic publications and packaging for goods that are a substantial feature of its missionary activities. A group such as Oxfam, dependent upon donations, also needs constantly to promote its cause to generate public support.
+
+Large volumes of materials are also essential to museums, from floor plans of exhibits, to directional signage and the publication of major catalogues. A substantial area of expansion in recent years has been in online museum sites. Some of these simply duplicate information published in other forms, but others, such as the J. Paul Getty Museum in Los Angeles, have begun to exploit
+
+## Communications
+
+the educational potential of demonstrating the richness and variety of their collections to a much wider audience.
+
+Neither can organizations focusing on political and social protest be ignored. The symbol of the Nuclear Disarmament movement is a classic example of the capacity of such groups to create powerful forms and is almost as widely copied as Milton Glaser’s heart. A more recent example is the red ribbon-fold of Aids campaign groups.
+
+On the level of techniques, a feature of communications is the extensive and expanding range involved. This can lead in the direction of both generalized integration and specialization. By the former is meant the way in which different visual elements can be combined in a particular communication. A piece of packaging, for example, might well combine material and structural criteria with illustrative and photographic imagery, a corporate logo, typeforms––combinations of typographic elements––used as expressive elements, brand names and symbols, instructions for use, and product information required by law. On the other hand, as the scale of projects increases, a specific element can frequently require specialist competencies, in a manner akin to the spectrum of abilities required to produce a motion picture. It might, for example, be necessary to combine typography, illustration, photography, information design, or interface design for computer programmes, each requiring specialists in the field.
+
+## Communications
+
+Typefaces are one of the most basic building blocks in design, and typography––designing and composing letterforms––is a fundamental skill in creating printed imagery.The shape of a typeface can be designed for clarity, intended to communicate with maximum utility, or it can be powerfully expressive or evocative. With the introduction of computers, an astonishing range of typefaces has become available, enabling designers to explore examples from a wide historical and geographical range as well as more recently devised formats. Typefaces combined into words can be powerfully amplified or given a specific nuance by the choice of fount, or be shaped into expressive or decorative forms to serve as highly expressive elements in a design.
+
+Publications come in a range of forms. Books are the archetypal vehicles for disseminating ideas and information. Although their demise has been widely predicted since the emergence of electronic media, they remain portable and convenient for flexible individual use and retain considerable advantages: there is no digital equivalent yet of the terms ‘book collector’ or ‘book lover’. Newspapers and periodicals are more ephemeral and perhaps for this reason are somewhat more vulnerable to competition from electronic media. People often form communities of interest sharing a common sympathy for specific books, such as the Harry Potter series, or for particular editorial policies or standpoints. The visual identity of publications such as The Times, Vogue, Rolling
+
+## Communications
+
+Stone, or Wired is an important element in creating such affinities. On a more intense level, many subcultures have also formed around publications, examples being the work by David Carson, a California designer for Beach Culture and Ray Gun magazines in the early 1990s. Computer manipulation enabled him to create kinetic images that struck a deep chord in the youth culture market targeted by these magazines.
+
+Illustration, which lies at the artistic end of the communications spectrum, is a core skill distinguishing many practitioners. The distinctive style of Raymond Briggs or Quentin Blake, linked to a great talent for storytelling, has enabled them to carve out careers as author/illustrators. A younger generation of talent is exemplified by Sue Coe and Henrik Drescher. Coe, born in England and now based in New York, has produced print series using traditional techniques such as etching that raise social commentary to a level of burning intensity. Drescher, born in Denmark, educated in America, and now living in New Zealand, has work published in the New York Times and Time magazine, but his mordant, quirky style is at its best in the children’s books he writes. His use of the computer is an outstanding example of the potential of digital technology as a creative tool.
+
+Illustration, however, can also be a very specialized form of work, often requiring considerable technical expertise, as in technical or medical illustration. Some consultancies focus these skills
+
+## Communications
+
+on a particular outlet, such as educational and scientific publishing, or museum and exhibition display. Photography similarly covers a spectrum from work of the most personal nature to specialized forms for specific purposes, such as documentary photography, or photographing objects for sales or exhibition catalogues and other publications.
+
+One of the most dramatic features of communications is the manner in which many aspects of design are being radically transformed by the growth in multimedia publishing, combining text, images, video, and animation in ways that open up immense new possibilities. The range and flexibility of this new medium are most easily experienced on the Internet. Its potential for direct experience and easy access is still in the early stages of development and there are huge questions of developing forms of typography and imagery specific to electronic publishing, as against simply replicating forms from other media. Above all, as business applications grow, some of the greatest questions requiring greater attention relate to the problems of navigating through complex sites and the vast amounts of information available. The more successful online sites, such as Amazon.com and Travelocity, show both the potential and the limitations of the new medium. They have pioneered the way in opening up possibilities for customers’ choices through the design of sites that are very userfriendly. However, at the same time, it needs to be emphasized
+
+![](../../Toothpicks and Logos Design in Everyday Life (John Heskett)/images/7c30e86548199dc0199a2bd43ae9b9bccad4de7c0621d29d16b35aae6038bdd6.jpg)
+
+17. Navigating the web made easy: Amazon.com page
+
+## Communications
+
+that, although information processes are radically different, the product purchased through the process remains unaltered: the design of books and airline seats remains unaffected by such transformations.
+
+The highest levels in sustainable growth arising from the revolution in electronic media have been in business-to-business applications, which have dramatically expanded. The capacity simultaneously to simplify procedures and give access to customers through their computers is opening up huge potential for improving efficiency. Suppliers can store vast quantities of information about products and services, enabling customers to order on a just-in-time basis, instead of tying up capital and facilities in large stocks.The main criterion in the efficiency of such systems, however, is information solutions that are clear, accurate, and comprehensible. If customers cannot speedily navigate through to what they need, a provider will be at a major disadvantage. An important emphasis in such online sites is that virtuoso visual effects are useless if the ability of users to take action is not taken into account.
+
+The complexities of multimedia applications also exemplify a wider characteristic of communications, with innumerable further subdivisions and combinations of skills constantly being generated, such as photography combining with illustration in animated films, or with typography for film titles. The design
+
+## Communications
+
+practice of Saul Bass was built on the twin poles of film publicity and corporate logos. In the former, he was responsible for such classics as Otto Preminger’s The Man with the Golden Arm, or Alfred Hitchcock’s Psycho, in which he displayed an ability to combine various elements––visual imagery, type, and pictographs––with music into compelling sequences.These were the basis not just of titles, but of other publicity materials such as posters and advertising. In addition, he also devised corporate logos for firms such as United Airlines and AT&T.A graphic designer working on large projects might indeed need to know something of each speciality in order to function adequately as a manager of a range of such competencies. Once again, the stereotype of designers as artistic lone rangers can extend in reality into the combined talents of a group or team.
+
+This same stereotype is also placed in question by the field of information design––a highly specialized branch of communications in which data on any subject are presented in ways enabling their use as a basis for decision making. Such information can be presented in many forms and media over a huge range. An everyday example is provided by weather forecasts. Data from numerous sources are rapidly translated into visual forms, enabling decisions to be taken about what clothing to take on a trip or what equipment is necessary for a job. This information is available from maps and text in daily newspapers, from television maps and
+
+## Communications
+
+animated sequences, or from online sites.The Weather Channel in the USA, broadcasting televised forecasts around the clock, and, in the United Kingdom, the BBC’s regular forecasts on radio and television, are supplemented by web sites where detailed forecasts for the whole country, or specific regions or cities, can be obtained for a week hence. On another level, an American web site, World Pages. Com, provides directory information of telephone subscribers throughout North America, supplemented by detailed maps of locations and information on accommodation and facilities in the vicinity of each address. An innovative approach to providing market information is exemplified by Morningstar, a Chicago-based company, specializing in financial data services to facilitate decision-making by investors on sales or purchases of mutual funds. The core task is compressing very large amounts of information into a comprehensible format that, using numerous graphic devices, enables users to make informed and rapid investment decisions. Originally in printed form, information is now available online.The emphasis at Morningstar is on content as the primary need, not aesthetic expression, although the company’s total image, by its consistency, does in fact generate a very distinctive aesthetic image.
+
+In contrast, advertising is not primarily concerned with enabling users, but is one of the most specialized areas of persuasive communications, as well as one of the most pervasive, utiliz-
+
+## Communications
+
+ing a blend of text and imagery to promote products and services. As such, of course, there is a considerable area of overlap between communications and objects, since the latter can be designed for maximum visual impact, with translation into advertising imagery in mind. In this sense, when consistently executed across all elements of a marketing campaign, the advertising image can condition perception of objects before they are actually seen. Most people, for example, will see an advertisement for a new automobile before they see an actual example on the street.
+
+A particular feature of most advertising is that, while attempting to mould opinion, it cannot afford to offend anyone in a particular market, which accounts for much of the bland uniformity of the people and lifestyles it depicts.This had led some critics to depict a stereotypical image of advertisers as the puppet masters of modern society, manipulating everyone to do what is not in their best interest. Most advertisers, however, see themselves as mediating between trends in society and their clients’ interests, both reflecting what is happening in society and feeding back a stylized version of it in advertising campaigns and imagery.
+
+The influence of advertising, however, cannot be underestimated, particularly where it has been refined as an instrument of inducing mass consumption. In the USA, where such techniques were first evolved and penetrated deepest, its methods and imagery have become part of the cultural fabric. Even political
+
+## Communications
+
+campaigns for the presidency or other major offices are run as advertising campaigns, constantly adapting a candidate’s image to changing circumstances. Such is the embedded influence of these techniques that the boundaries between image and reality frequently become blurred.
+
+Another vague boundary is that between advertising and propaganda, the latter being a particular form of communication that attempts to shape opinions in support of political or ideological ends. Advertising cannot afford to stray too far from what its target audiences understand as reality, although it can warp perception by selectivity, through what it consistently chooses to emphasize or omit. Unlike advertising, however, propaganda frequently depends upon establishing an image by offending a particular group––depicting them in some stereotypical form as ‘the enemy’. Although truth has sometimes been a stranger to advertising, lies and gross distortion are endemic to propaganda.
+
+Clearly, the role of communications in modern society is huge, of deep significance on multiple levels, and in a considerable state of flux and change, with different cultures overlapping, combining, and borrowing from each other. On one level this can be seen as part of the process of globalization, with ideas flowing more freely across national or ethnic cultural boundaries. Even within cultures, however, there is a parallel process of exchange. Professional designers use forms, for example, graffiti, borrowed
+
+## Communications
+
+from urban street culture movements such as hip-hop or punk, while the public have access to computers or facilities in print shops that encapsulate professional skills in forms available to and affordable for everyone. A negative result has been a diminution of small graphic design businesses catering for local needs, but there are positive aspects from the overlap, as designers reach beyond a closely defined professional definition of their role and the public becomes more involved in communicative activities. If one of the purposes of communication design is to create a sense of identity in visual terms, the capacity of new technology to enhance mutual understanding between those who create images and those who receive them offers considerable potential for the future.
+
+![](../../Toothpicks and Logos Design in Everyday Life (John Heskett)/images/b281ff477dcb644a5c5b36449a35c340918f796019e8cfa7d2cfad92aa9511fc.jpg)

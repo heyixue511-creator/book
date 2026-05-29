@@ -1,0 +1,7 @@
+> 来源：Border thinking and disidentification Postcolonial and postsocialist feminist dialogues (Tlostanova, M. Koobak etc.)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Border thinking and disidentification Postcolonial and postsocialist feminist dialogues (Tlostanova, M. Koobak etc.)\Border thinking and disidentification Postcolonial and postsocialist feminist dialogues (Tlostanova, M. Koobak etc.).md
+> 识别方式：一二级标题
+
+## Abstract
+
+In the context of the continuing dominance of delocalised Western feminist theoretical models, which allow the non-Western and not quite Western ‘others’ to either be epistemically annihilated or appropriated, it becomes crucial to look for transformative feminist theoretical tools which can eventually help break the so-called mere recognition patterns and move in the direction of transversal dialogues, mutual learning practices and volatile but effective feminist coalitions. Speaking from the position of postcolonial and postsocialist feminist others vis-a-vis the dominant Western/ Northern gender studies mainstream, and drawing on examples from a broad range of social contexts (from the Armenian queer social movement to a recent Indian gang rape controversy), the authors of this article address the validity of two such transformative feminist tools: border thinking that operates on a more general theoretical level, and disidentification that offers a more praxial operational realisation of the border principle.

@@ -1,0 +1,1898 @@
+pioneers
+
+of modern
+
+design
+
+from william morris to walter gropius
+
+Digitized by the Internet Archive in 2022 with funding from Kahle/Austin Foundation
+
+pioneers of modern design
+
+T.B., T.B., W.B., W.A.C.,
+
+To
+
+W.G.C.J.P.and D.F., P.S.F.,
+
+P.and E.G.. H.R.,F.M.W.,
+
+the A.A.C., the C.I.
+
+in gratitude
+
+Nikolaus Pevsner
+
+# pioneers of modern design
+
+## from william morris to walter gropius
+
+The Museum of Modern Art New York
+
+# Trustees of the Museum of Modern Art
+
+Nelson A. Rockefeller, Chairman of the Board; Henry Allen Moe, Vice-Chairman; William A. M.Burden, Preient;Mrs.David M.Levy, Vice-PreintAlfred H.Barr, Jr, Mrs. Robert Woods Bliss, Stephen C. Clark, Ralph F. Colin, Mrs. W. Murray Crane,\* René d'Harnoncourt, Mrs. Edsel B. Ford, Philip L. Goodwin, A. Conger Goodyear, Mrs. Simon Guggenheim,\* Wallace K. Harrison, Mrs. Walter Hochschild, James W. Husted,\* Mrs. Albert D. Lasker, Mrs. Henry R. Luce, Ranald H. Macdonald, Mrs. Samuel A. Marx, Mrs. G.Macculloch Miller, William S. Paley, Mrs. Bliss Parkinson, Mrs. Charles S. Payon, Duncan Phillips,\* Andrew Carnduff Ritchie, David Rockefeller, Mrs. John D. Rockefeller, 3r Beardsley Ruml,\* Paul J. Sachs,\* John L. Senior, Jr., James Thrall Soby, Edward M. M. Warburg, Monroe Wheeler, John Hay Whitney
+
+\*Honorary Trustee for Life
+
+Copyright, 1949, The Museum of Modern Art, New York. Printed in the U.S.A.
+
+## Contents
+
+PAGE 6 Foreword to the First Edition   
+6 Foreword to the Second Edition   
+7 I. Theories of Art from Morris to Gropius   
+20 2. From Eighteen-fifty-one to Morris and the Arts and Crafts   
+38 3. Eighteen-ninety in Painting   
+55 4. Art Nouveau   
+68 5. Engineering and Architecture in the Nineteenth Century   
+85 6. England, Eighteen-ninety to Nineteen-fourteen   
+109 7. The Modern Movement before Nineteen-fourteen   
+136 Notes   
+146 Table of Names and Dates   
+148 Sources of Illustrations   
+149 Index
+
+## Foreword to the First Edition
+
+Most of the preparatory work for this book was done during the years 193o-32. I held a class on the architecture of the nineteenth and twentieth centuries at Göttingen University in 193o, and then published, in the Göttingische Gelebrte Anzeigen of 1931, a short preliminary account of the parts played by the most important architects in the development of the Modern Movement.
+
+However, as far as books on the subject are concerned, this is, if I am not mistaken, the frst to be published. I am well aware of its shortcomings, and shall be grateful to anybody who may be able to draw my attention to sins of omission or of commission.
+
+I did not know of P. Morton Shand's excellent articles in the Architectural Review of 1933, 1934, 1935 until I had almost finished my research. The fact that our conclusions coincide in so many ways is a gratifying confirmation of the views put forward in this book.
+
+I feel greatly indebted to Geoffrey Baker, Katharine Munro, and Alec Clifton-Taylor, who tried to eliminate from my text the worst clumsiness of a foreign style. Yet I am afraid it is still badly lacking in that supple precision which distinguishes well-written English.
+
+I also want to place on record my gratitude to my mother, Frau Annie Pevsner, who used a time of unwelcome leisure for transforming an illegible into a readable and printable manuscript, and to Mr. Richard de la Mare who with great kindness and understanding dealt with all matters of layout, printing and illustration. NIKOLAUS PEVSNER
+
+London, May, 1936
+
+## Foreword to the Second Edition
+
+The M  Moe  h   eraby the ttal uber illtatns fom 8; I have tri  pove the ext y tions, whee I had mademistakes, and by diins which vary in length from aline tual re-writing of a whole chapter. For suggestions as to what should be altered and added I wish to thank Philp Johnson, Edgar Kaufmann Jr. Heny-Russe Hitchcock, andAlf .BBH by queries, checking and research.
+
+London, December, 1948
+
+## Theories of Art from Morris to Gropius
+
+"Oamentation,"sys Ruskin, "is the principal part of architecture." It is that part, he says in another place which impresses on a building certain characters venerable or beu u  o ment when eended t rchitct the   the Gothic yl becu i " principle is to decorate construction."1
+
+How this basic doctrine of nineteenth-century architectural theory worked out in pac tice, could not be shown more convincingly than by retelling the story of the new British Government offices in Whitehall, London, as erected by Scott between 1868 and 1873. The following are the facts as told by Sir George. His original plans were in the Gothic style. He writes: "I did not aim at making my style 'Italian Gothic'; my ideas ran much more upon the French, to which for some years I had devoted my chief study. I did, however, aim at gathering a few hints from Italy. . . . I mean a certain squareness and horizontality of outline. . . . Icombined this . . . with gables, high-pitched roofs and dormers. My details were excellent, and precisely suited to the purpose." In spite of this, Scott did not win the first prize in the competition, partly because Lord Palmerston thoroughly disliked medieval styles. Scott comments: "I did not fret myself at the disappointment, but when it was found, a few months later, that Lord Palmerston had coolly set aside the entire results of the competition, and was about to appoint Pennethorne, a non-competitor, I thought myself at liberty t. An sti he did o that in the nd he was appoind architect to the new builing However, he was not able to dissuade the Government from its predilection for the Italian Renaissance. What followed was described by Lord Palmerston as the battle of the Gothic and Palladian styles. He saw no insurmountable difficulty. He sent for Scott and told him "in a jaunty way that he could have nothing to do with the Gothic style, and that," continues Scott, "though he did not want to disturb my appointment, he must insist on my making a design in the Italian style, which he felt sure I could do quite as well as the other."' Lord Palmerston was evidently right, for, after long arguments, Scott promised "an Italian design."' But still he hoped that Renaissance could be avoided. He altered the front of his building, and now it was "in the Byzantine of the early Venetian palaces . . . toned into a more modern and usable form."' In vain, for the Prime Minister wanted "the ordinary Italian,' and he would have it. He called the new plans "neither one thing nor t'other — a regular mongrel affair," and threatened to cancel Scott's appointment. After that, for the sake of his family and his reputation, Sir George "in sore perplexity' decided to "swallow the bitter pill." He "bought some costly books on Italian architecture and set vigorously to work to invent an Italian façade "beautifully got up in outline."
+
+The campaign of William Morris' lifetime was directed against the complete lack of feeling for the essential unity of architecture which made this comedy possible. When his impressionable nature began to react to buildings, fine art, and industrial art, almost all contemporary building which surrounded him, as a youth in London and as a student at Oxford, was either feeble or crude in design; and practically all industrial art vulgar and overloaded with ornament. Examples will be given later. Responsible for this state of affairs were the Industrial Revolution and— less known but equally important—the theory of esthetics created since 18oo. The part played by the Industrial Revolution is to be discussed in Chapter . It is sufficient here to say that manuacturers were, by means of new machinery, enabled to turn out thousands of cheap articles in the same time and at the same cost as were formerly required for the production of one well-made object. Sham materials and sham technique were dominant all through industry. Skilled craftsmanship, still so admirable when Chippendale and Wedgwood were at work, was replaced by mechanical routine. Demand was increasing from year to year, but demand from an uneducated and debased population, living a slave-life in filth and penury.
+
+The artist withdrew in disgust from such squalor. It was not for him to work for the needs of those classes, to condescend to the taste of the majority of his fellow men, to meddle with the "Arts Not Fine." During the Renaissance, artists had first learned to consider themselves superior beings, bearers of a great message. Leonardo da Vinci wanted the artist to be a scientist and a humanist, but by no means a craftsman. When Michelangelo was asked why he had portrayed one of the Medicis in the Medici Chapel beardless, though he had worn a beard in life, he answered: "Who, in a thousand years, will know what he looked like?" However, this attitude of artistic presumption remained exceptional until the end of the eighteenth century. Schiller was the first to form a philosophy of art which made the artist the high priest in a secularized society. Schelling took this up, and Coleridge, Shelley and Keats followed. The artist is no longer a craftsman, no longer a servant, he is now a priest.Humanity may be his gospel, or beauty, a beauty "identical with truth (Keats), a t a    e h dwelling spirit of Nature' (Schelling). Schiller assures him: "The dignity of Mankind is laid into thy hands," and compares him to a king— "both living on the summits of Mankind." The inevitable consequence of such adulation became more and more visible as the ne cnturyunfoldeThe artis began o despiseutility and the publc (Keat "O we fncy! let her loose; Eveythig is soilt byuse.He shut hi of fo th l life o his time witdrawg into his acd cirle and ceatig art or rt's, art for the artist', sakeConcurrently the public lost understanding of his personal, outwardly useless utteances. Whether he lived like a priest or lived a viee Boème,he was ridiculed by most o h cntpas, a extolle byny a al  cri n wealty cssrs.
+
+But there had been a time when nothing of all that existed. In the Middle Ages the ar w  can pro  eein y cn t te be  his ly. os was the first artist (not the first thinker, for Ruskin had preceded him) to realize how precrus an decye the cl oations oart ha beceduri the ntr sin the Renaissance, and especially during the years since the Industrial Revolution. He had been trained as an architect and as a painter, first in the Gothic studio of Street, and then in the trR Bu when , eaus s ui, the thought struck him that before one can settle down to paint elevating pictures, one must be able to live in appropriate surroundings, must have a decent house, and decent chairs and o a h cu y ahiThis wa e  wc allof a sudden awakened his own personal genius:if we cannot buy solid and honest furniture, let us make it ourselves. So he and his friends set out to build chairs "such as Barbarossa might have sat in" and a table "as heavy as a rock' (Rossetti). The same experiment was repeated when Morris had a house built for his wife and himself, the famous Red House at Bexley Heath. Ultimately, in 1861, instead of forming a new exclusive brotherhood of artists, such as the Pre-Raphaelite Brotherhood had been, and such as he had wished to found when he was studying at Oxford, Morris made up his mind to open a firm, the firm of Morris, Marshall & Faulkner, Fine Art Workmen in Painting, Carving, Furniture and the Metals. This event marks the beginning of a new era in Western art.
+
+The fundamental meaning of Morris' firm and Morris' doctrine is clearly expressed in the thirty-five lectures which he delivered between 1877 and 1894 on artistic and social questions.³ His point of departure is the social condition of art which he saw around him. Art "has no longer any root." The artists, out of touch with everyday life, "wrap themselves up in dreams of Greece and Italy . . . which only a very few people even pretend to understand or be moved by."5 This situation must seem exceedingly dangerous to anyone concerned with art. Morris preaches: "I don't want art for a few, any more than education for a few, or freedom for a few,"'s and he asks that great question which will decide the fate of art in our century: "What business have we with art at all unless all can share it?"'7 So far Morris is the true prophet of the twentieth century, the father of the Modern Movement. We owe it to him that an ordinary man's dwelling-house has once more become a worthy object of the architect's thought, and a chair, a wallpaper, or a vase a worthy object of the artist's imagination.
+
+However, this is only one half of Morris' doctrine. The other half remained committed to nineteenth-century style and nineteenth-century prejudices. Morris' notion of art derives from his knowledge of medieval conditions of work, and is part and parcel of nineteenthcentury "historicism."' Proceeding from Gothic handicraft, he defined art simply as "the expression by man of his pleasure in labor."8 Real art must be "made by the people and for the people, as a happiness for the maker and the user." The pride in artistic genius and some special form of inspiration, which he saw in al the art of his time, was therefore abhorrent to him. "That talk of inspiration is sheer nonsense"' he said; "there is no such thing: it is a mere matter of craftsmanship."10
+
+It is obvious that such a definition of art removes the problem from esthetics into the wider field of social science. In Morris' mind, "it is not possible to dissociate art from morality, politics and religion.' Here, above all, he proves a faithful follower of the Pre-Raphaelites and of Ruskin. His socialism is the necessary outcome of this attitude. He den the socil tructure of his e becuse i is evidenty fatal to r."Art ... will ie out of civilization, if the system lasts. That in itself does to me carry with it the condemnation of the whole system."12 Thus Morris' socialism is far from correct according to the standards of the later nineteenth century: there is more in it of Thomas More than of Karl Marx. His main question is: how can we recover a state of things in which all work would be "worth doing"' and at the same time "of itself pleasant to do?"'13 He looks backward, not forward, backward into the times of the Icelandic Sagas, of Cathedral building, of Craft Guilds. One cannot, from his lectures, obtain a clear view of what he imagined the future to be. "The whole basis of Society . . . is incurably vicious," he wrote.14 Hence it was sometimes his only hope "to think of barbarism once more fooding the world . . . that it may once again become beautiful and dramatic withal.'15 And yet when, partly as a consequence of his own socialist propaganda, riots began in London and revolution seemed for a moment not unlikely, he recoiled and gradually withdrew back into his world of poetry and beauty.
+
+This is the decisive antagonism in Morris' life and teaching. His work, the revival of handicraft, is constructive; the essence of his teaching is destructive. Pleading for handicraft alone means pleading for conditions of medieval primitiveness, and first of all for the destruction of all the devices of civilization which were introduced during the Renaissance. This he did not want; and since, on the other hand, he was unwilling to use any post-medieval methods of production in his workshops, the consequence was that all his work was expensive work. In an age when practically all objects of everyday use are manufactured with the aid of machinery, the products of the artist-craftsman will be bought by a narrow circle only. While Morris wanted an art "by the people and for the people," he had to admit that cheap art is impossible because "all art costs time, trouble and thought."16 He thus created art— though now applied art, and no longer the nineteenth-century art of the easel-picture- which was also accessible to a few connoisseurs only, or, as he once expres it hisel rt or "he i luxuy o the ich." No doubt Morrart has in the end benefcially affecd crcal prodction i may trade, but thatis pry what he would have hated, because the diffusion of his style on a large scale involved rein trocing the macie, and therey expelling once more the "jy o the maker."The ma Mo better conditions of life.'"19
+
+Morris' attitude of hatred towards modern methods of production remained unchanged wit most  his oowersThe Art n Cra Movt bot  evial  c craftsmanship, not of industrial art. Walter Crane (1845-1915) and C. R. Ashbee (1863- 192 may be taken s representativesof this. Walter Crane, the most popular of the Mors, tr ot n bas   as.H he just like Morris', is "to turn our artists into craftsmen and our craftsmen into artists."1 Morvee w Mo  he icn h nsn  . is a pleasurable exercise," and is led by such premises to a romantic socialism identical with that of Morri. The sme cnic whic was poned ut in Morridoctrie is to be found inCra He tois cpelle toamit that hness inartand hanicaft is wel nigh impossible' because "cheapness as a rule . . . can only be obtained at the cost of the .cheapening of human life and labor." Crane's attitude towards machine production also corresponds to Morr' His dislike of "the monsters of our time clad in plateglass [and] cast-iron"'4 —Ruskin had been the first to inveigh against railway stations and the Crystal Pala—is temperenly  the consieratin that machinery may benecary and ueul s "the servant and labor-aver of manfor a "real saving of labor, heavy andexhausting labor.'"25
+
+Ashbee was certainly a more original thinker and more energetic reformer than Crane.26 Proceeding also from Ruskin and Morris in his belief that "the constructive and decorative arts are the real backbone' of any artistic culture, that every object ought to be "produced under pleasurable conditions,"' and that therefore art for workaday use cannot be cheap, he surpasses Morris in that he links up the problems of workshop-reconstruction and of small holdings. His Guild and School of Handicraft, founded in 1888, was removed in 1902 from the East End of London to Chipping Campden in the Cotswolds. While this aspect of his work and doctrine is even more "medievalist' than the teaching of Morris, there is another side to his doctrine which seems genuinely progressive. At the time of the Guild his attitude towards machine production was still almost that of Morris and Crane. "We do not reject the machine' he wrote; "we welcome it. But we desire to see it mastered.'28 Within the next few years, partly perhaps as a consequence of the hopeless struggle of the Guild against modern methods of manufacturing, he broke away from what he now called Ruskin's and Morris' "intellectual Ludditism,' and the first axiom of his last two books on art is that "Modern civilization rests on machinery, and no system for the encouragement or the endowment of the teaching of the arts can be sound that does not recognize this."30
+
+In pronouncing this axiom, Ashbee has abandoned the doctrine of the Arts and Crafts and adopted one of the basic premises of the Modern Movement. But with him it was only adopting, and not creating. His foremost title to fame remains the Campden experiment, an attempt to revive handicraft and husbandry far from the centers of modern life. The true pioneers of the Modern Movement are those who from the outset stood for machine art. As forerunners, of a still somewhat transitional character, two contemporaries of Morris may be quoted, Lewis F. Day (1845-1910) and John Sedding (1837-91). Day, a wellknown industrial designer of his time, wrote as one who prefers a life in the real world to dreams of a medieval and idyllic existence. In discussing the ornament of the future, he said in 1882: "Whether we like it or no, machinery and steam-power, and electricity for all we know, will have something to say concerning the ornament of the future." He said it would be useless to resist this fact, for it was "practically settled by the public that they want machine-work. . . . We may protest that they have chosen unwisely, but they will not pay much heed to us.'31 And Sedding, perhaps the most original church architect of the late Gothic Revivalist school, who became a pupil of Street just two years after Morris had left him, gave the same advice in 1892: "Let us not suppose that machinery will be discontinued. Manufacture cannot be organized upon any other basis. We had better clearly recognize this . . . rather than rebel against the actual and the inevitable."32
+
+However, there is still an immense difference between this hesitating acknowledgment of machinery and the wholehearted welcome which it received in the writings of the leaders of the next generation. Not one of them was English: England's activity in the preparation of the Modern Movement came to an end immediately after Morris' death. The initiative now passed to the Continent and the United States, and, after a short intermediate period, Germany became the center of progress. English writers have not failed to acknowledge this fact; but hardly anybody has tried to explain it. One reason may be this: so long as the new style had been a matter which in practice concerned only the wealthier class, England could foot the bill. As soon as the problem began to embrace the people as a whole, other nations took the lead, nations that lived no longer, or had never lived, in the atmosphere of the ancien rée gime, nations that did not accept or did not know England's educational and social contrasts between the privileged classes and those in the suburbs and the slums.
+
+The new gospel was first preached by poets and writers. Walt Whitman in his odes and Zola in his novels are carried away by the overwhelming marvels of modern civilization and modern industry. The first architects to admire the machine and to understand its essential character and its consequences on the relation of architecture and design to ornamentation were two Austrians, two Americans and a Belgian: Otto Wagner (1841-1918), Adolf Loos (1870-1933), Louis Sullivan (1850-1924), Frank Lloyd Wright (born 1869) and Henry van de Velde (born 1863). To these five one Englishman should be added, Oscar Wilde (1856-1900), although his occasional praise of machine beauty may be only one of many laborious efforts at épater le bourgeois. He said in a lecture of 1882: "All machiney may be beautiful, when it is undecorated even. Do not seek to decorate it. We cannot but think  ay iau aso,the   the r and thelie the by being one."34
+
+Van de Velde, Wagner, Loos and Wright were decisively stimulated in their thoughts by England. Wright's manifesto was read at Hull House in Chicago, Wagner expressed his great admiration of the comfort and cleanness of English industrial art,35 Loos said explTcet urivia  e  Lonon criticism was to a large extent passionate support of the exhibitions of modern English objcts arranged by the österreichisches Museum in Vienna. And from van de Velde's t evoked our activities, and originated the complete renewal of ornamentation and form in the   wy e  h JoRusk  W liam Morris."87
+
+Only Louis Sullivan, whose Ornament in Architecture is the earliest of these manifestoes of new yl, sees to have been indpendent o Engand. Inhis distant Chicgo, whee metropolitan architecture at that time meant New York and Boston and, further afield, P,  wy n h whfl n t K garten Chats of 1901-02.38 In Ornament in Architecture Sullivan stated already in 1892 t  ly  o y h  uly in order that our thought might concentrate acutely upon the production of buildings well formed and comely in the nude."89
+
+This approval of the unadorned surface was in itself not new. It had already been said by Crane in 1889 that "plain materials and surfaces are infinitely preferable to inorganic or inappropriate ornament,"40 and one year after Sullivan, Charles F. Annesley Voysey wrote that "discarding the mass of useless ornaments"' would be healthy and desirable.41 But just as Voysey, in spite of such suggestions, has been one of the most important representatives of the evolution of ornament between Morris and the twentieth century, so Sullivan was in fact just as much a revolutionary in his ornament as in his use of plain, smooth sua. Inhi sme pap  8,he sa tha oethould e the to follow the purge of all ornament which had to come first.
+
+Sullivan's own decorative motifs belong to the species known as Art Nouveau. So do those of van de Velde who, in his lectures between 1894 and 190o,42 pronounced—independently without doubt — the same faith in a type of ornament which would be able to express symbolically "by means of pure structure . . . joy, lassitude, protection, etc.,"43 and in the machine as a stimulus to the achievement of a new beauty. Van de Velde showed his audience that a great deal of the English Arts and Crafts had remained a pastime of highly sensitive artists for highly sensitive connoisseurs, and therefore was not much healthier than the exquisite and decadent writing of Huysmans. He contrasted Morris' art, which never broke away from reminiscences of the Gothic centuries, with his own new doctrine of the beauty inherent in machines. "The powerful play of their iron arms," he exclaimed, "will create beauty, as soon as beauty guides them."44 This statement dates from 1894 (189o?). Six years later van de Velde added more explicitly: "Why should artists who build palaces in stone rank any higher than artists who build them in metal?'45 "The engineers stand at the entrance to the new style."46 Engineers are "the architects of the present day."47 What we need is "a logical structure of products, uncompromising logic in the use of materials, proud and frank exhibition of working processes."48 A great future is prophesied for iron, steel, aluminum, linoleum, celluloid, cement.4® As to the appearance of objects in the house, van de Velde pleads for "that lost sense of vivid and strong, clear colors, vigorous and strong forms, and reasonable construction,'5o and praises the new English furniture for its "systematic discarding of ornament."51
+
+Precisely this was to be Adolf Loos's gospel. He had been trained as an architect, first in Dresden and then in the United States. 52 Coming back to Vienna in 1896, he was shown a small newly published book by Vienna's most progressive architect, Otto Wagner.53 The book was based on Wagner's Inaugural Lecture at the Art Academy, in 1894, and its doctrine was in many respects simlar to van de Velde's. "The only possible departure for artistic creation is modern life."54 "All modern forms must be in harmony with . . . the new requirements of our time.'"55 "Nothing that is not practical can be beautiful."'56 So Wagner foresaw a "coming Naissance'57 and what is more astonishing, pointed out as some of the characteristics of that future style "'horizontal Jines such as were prevalent in Antiquity, table-like roofs, great simplicity and an energetic exhibition of construction and materials."58 Needless to say, he too was passionately in favor of iron.
+
+Adolf Loos wrote his first essays for newspapers and periodicals in 1897 and 1898.59 Attacking the Viennese Art Nouveau style, known as the style of the Sezession which was just then at its height, he pointed out: "The lower the standard of a people, the more lavish are its ornaments. To find beauty in form instead of making it depend on ornament is the goal towards which humanity is aspiring."'o For pure beauty in an individual work of art is to Loos "the degree to which it attains utility and the harmony of all parts in relation to cach other."61 The engineers he regards therefore as "our Hellenes. From them we receive our culture."62 And he is consistent enough to call the plumber (the term being used in the general American sense) "the quartermaster of culture, i.e. of the kind of culture which is decisive today."63
+
+Only a few years later similar views were expressed with equally strong conviction, though in a more comprehensive and sweeping style, by Sullivan's greatest pupil, Frank Lloyd Wright, who in I9oI read a manifesto on The Art and Craft of the Machine.64 It begins straightaway with a panegyric on our "age of steel and steam . . . the Machine Age, wherein locomotive engines, engines of industry, engines of light or engines of war or steamships take the place works of Art took in previous history."65 Wright enthusiastically admires the new "simplified and etherealized" rhythm of future buildings, where—an amazing prophecy — "space is more spacious, and the sense of it may enter into every buildin, great or small." In such an age the painter or the poet does not count for much. "Today, we have a Scientist or an Inventor in the place of a Shakespeare or a Dante."67
+
+Bu W to be, and not as it appeared in 19or. The many disgraceful things perpetrated by machines Wrh, the lt not  he  thes. o e has noble possibilities, unwillingly forced to this degradation . . . by the Arts them-e n u  att  i the old sense, and the machine. The machine is a "relentless force'bound to discomft the "handicraftsmen and parasitic artists.' It sounds like a deliberate challenge to Morris "Art will die out of civilization, if the system lasts. That in itself does to me carry with it the condemnation of the whole system," when Frank Lloyd Wright, looking at Chicago's helm iuett nd lh   excaiI th permust e that civilization may ive,the civilization is areaydoomed"And Wrigh bel in he m this wearisome struggle to make things seem what they are not and never can be."1
+
+So Wright's position in 19or was almost identical with that of the most advanced in Am r An    h  o ur c well, those who pleaded for anew style of the cntuy found very lile response before the First World War. This was for instance the case with Anatole de Baudot who, as early as 1889, said: "A long time ago the influence of the architect declined and the engineer, ce i eg t placehint wa also h with H. P.Berlage (1856-1934) in Holland who, in two articles in 1895 and 1896, recommended to the architect not to think in terms of style while designing buildings. Only thus, he said, can real architecture comparable to that of the Middle Ages be created, architecture pure routility. Suc arciecuree isualized s "e ro the o ceny, and it should be noted that the century to him was to be one of Socialism.74
+
+To have achieved a wide movement promoting these new ideas, is undeniably the merit of German architects and writers. The movement which they fostered proved strong enough ings and deeds of a few individuals.
+
+The man who acted as a connecting link between the English style of the nineties and Germany was Hermann Muthesius (1861-1927) who, from 1896 till 1903, was attached to the German embassy in London for research on English housing. Since Art Nouveau had hardly diverted English domestic architecture from the sound and slow course of its evolution, Muthesius came back a convinced supporter of reason and simplicity in building and art. Soon he became the acknowledged leader of a new tendency towards Sachlichkeit, which followed the short blossom-time of Art Nouveau in Germany. The untranslatable word sachlich, meaning at the same time pertinent, matter-of-fact, and objective, became the catchword of the growing Modern Movement.75 "Reasonable Sachlichkeit" is what Muthesius praises in English architecture and crafts,76 "perfect and pure utility' is what he demands from the modern artist. And since today only machine-made objects are "produced according to the economic nature of the age," they alone can be taken into consideration where the problem is the creation of a new style, a Maschinenstil. If we want to see existing manifestations of this new style, we are once more invited to look at "railway stations, exhibition halls, bridges, steamships, etc. Here we are faced with a severe and almost scientific Sachlichkeit, with abstinence from all outward decoration, and with shapes completely dictated by the purposes which they are meant to serve."' Hence future progress can be imagined only in the direction of strict Sacblichkeit and a discarding of all merely "tackedon' decoration. Buildings or objects for use that are created on such lines will display "a neat elegance which arises from suitability and . . . conciseness.'78
+
+By pronouncing such ideas, still unfamiliar in Germany, Muthesius soon became the he found among the bourgeoisie listening to his lectures and reading his pamphlets, was Alfred Lichtwark (1852-1914), art historian and director of the Hamburg Gallery. He was a teacher by nature, obsessed with the purest passion for education. The rapid development of art education in the widest sense of the word, which has taken place in the German elementary schools and secondary schools since the beginning of the new century, is largely due to Lichtwark's efforts. His campaign in favor of Sachlichkeit started even earlier than Muthesius'. In the lectures which he delivered between 1896 and 1899, and which are full of praise for England, he pleaded for practical, unadorned furniture in "smooth, polished, light forms"' convenient to housewives, for sacbliche Schönheit, for wide horizontal windows and "floods of light," and for fresh flowers in the rooms.79
+
+Three more quotations may be taken from the writings of other partisans, the first from Hermann Obrist, one of the most original artists of the German Art Nouveau, the second from Wilhelm Schäfer, a well-known writer and poet, the third from Friedrich Naumann, a politician of importance in the development of social reforms and democracy in pre- and post-First World War Germany. Obrist wrote in 1903 of steamers and "the beauty in the powerful sweep of their colossal yet quiet contours . . . their wonderful utility, their neatness, smoothness and shine." A look into the engine-room makes him feel "almost intoxicated."' Wilhelm Schäfer vividly recommends the sachliche Ausbildung of all forms; this wouldnecessarily lead to a modern style for all products, just as it has done in maines and iron bridges.81 As to Friedrich Naumann, his main interest was in the social aspects of architecture and art. This led him to an early appreciation of the machine. Exactly like Muthesus, and o doubtinspired by him Nauman speaks  hips, bridgesgasomeers, mar halhalleiHe in n the greatest artisti experience o our time,"becue "hee there is not the pplicton o in,o sckndion, ofills.He  cin h as yet inexpressibl possibilits. All ur notions of spaceof weght n suppt e changed."82
+
+Naumann was a personal friend of Karl Schmidt (died in 1948) who, as a trained cabinetmaker, had started a furniture workshop at Dresden in 1898. In this shop he employed from the beginning modern architects and artists as designers. Though Schmidt started under the influence of the English Arts and Crafts (he had traveled in England as a journeyman), his main interest soon became inexpensiveness and production by machinery. As early as 1899-190o the Deutsche Werkstätten, in an exhibition of industrial art in Dresden, showed an apartment of two living-rooms, bedroom, and kitchen for a mere \$120. And in 1906, for another exhibition, again in Dresden, they produced their first machine-made furniture, designed by some of the best German architects, such as Bruno Paul. In their catalog of the same year they prided themselves on "developing the style of furniture from the s  themacie.Thi was at rmo evolutny than it es ous to. A that time there were hardly any instances outside Germany of outstanding artists or archi-working ot ordi r but utl d, with theexcn peh p tu s he Dov Pento the ake or h  man The pnt da s 1912, the year of the introduction, thanks to J. H. Mason, of the Imprint type into the fonts of the Monotype Corporation. The Deutsche Werkstätten soon went one step further and tackled T which has become usual in England, was shown in 191o as Typenmöbel. The idea came from America, where it had been in use for some time for bookcases.83
+
+The most important step towards the establishment of a universally recognized style out of individual experiments was the foundation of the Deutscher Werkbund. In 1907, Muthesius, then Superintendent of the Prussian Board of Trade for Schools of Arts and Crafts, had delivered a public lecture in which, in a very outspoken manner, he warned German crafts and industries against continuing with the imitation of the hackneyed forms of bygone times. The speech roused a storm of indignation with the trades' associations. Discussions became more and more excited and, before the end of the year 1907, a number of adventurous manufacturers together with some architects, artists, and writers, had made up their minds to found a new association, called Werkbund, with the aim of "selecting the best representatives of art, industry, crafts and trades, of combining all efforts towards high quality in industrial work, and of forming a rallying-point for all those who are able and willing to work for high quality."4 Qualitt, the central idea of the group, was defined as meaning "not only excellent durable work and the use of flawless, genuine materials, but also the attainment of an organic whole rendered sachlich, noble, and, if you will, artistic by such means."85 This definition shows clearly that the Werkbund was, from the outset, not opposed to machine prouction in any respect. In the Inaugurl Address at he frst Annual Meeting, the archiect Theodor Fischer said: "There is no fixed boundary line between tool and machine. Work of a high standard can be created with tools or with machines as soon as man has mastered the machine and made it a tool. . . . It is not the machines in themselves that make work inferior, but our inability to use them properly." And equally it is "not mass production and subdivision of labor that is fatal, but the fact that industry has lost sight of its aim of producing work of the highest quality and does not feel itself to be a serving member of our community but the ruler of the age."86
+
+When, in 1915, the Design and Industries Association was founded in England, avowedly inspired by the example of the Deutscher Werkbund, it declared in one of its first publications that it was "accepting the machine in its proper place, as a device to be guided and controlled, not merely boycotted."'87 England, with the foundation of the D.I.A., was not early in taking up the program developed by the Werkbund. Other Continental countries had followed Germany before the war: the Austrian Werkbund dates from 1910, the Swiss from 1913; and the Swedish Slöjdsförening was gradually reshaped into a Werkbund between 1910 and 1917.
+
+In Germany itself, the existence of this enterprising and uncompromising body did a very great deal to spread the ideals of the Modern Movement. But the Werkbund was not the only center. Surprisingly quickly, German art schools had deserted the routine of the nineteenth century and adopted the new course. New principals and new teachers were appointed everywhere. In Prussia, Muthesius was responsible for this. He called Peter Behrens to Düsseldorf and Poelzig to Breslau, both as heads of the existing Academies of Art. Even before that time, Josef Hoffmann had become Professor of Architecture in the Viennese School of Arts and Crafts, and van de Velde head of the Weimar Art School. In 19o7, the Berlin School of Arts and Crafts also secured a progressive principal in the person of Bruno Paul.88
+
+However, progressive as the spirit in these schools and the Werkbund was, the most essential problem was still unsettled, the very problem with which this chapter is mainly concerned. Though machine art was now accepted as one means of artistic expression besides handicraft, where should the stress lie in the future? This problem was for the first time clearly put and explicitly discussed at the Annual Meeting of the Werkbund in Cologne in 1914. Muthesius stood up for standardization (Typisierung), van de Velde for individualism. Muthesius said: "Architecture and the entire sphere of activity of the Werkbund tend towards standardization. It is only by standardization that they can recover that universal importance which they possessed in ages of harmonious civilization. Only by standardization . . . as a salutary concentration of forces, can a generally accepted and reliable taste be introduced." Van de Velde responded: "As long as there are artists in the Werkbund . . they will protest against any proposed canon and any standardization. The artist is essentially and intimately a passionate individualist, a spontaneous creator. Never will he, of his own free will, submit to a discipline forcing upon him a norm, a canon."89
+
+But the buildings in the same Cologne Exhibition, above all Gropius'model factory, proved impressively that the future belonged to Muthesius' and not to van de Velde's ideas. Besides, which would a Gothic builder or a Greek sculptor have chosen, individual freedom or the canon? Van de Velde himself has changed his views in the meantime, as he told the nomy of the new style might become sufficiently defined to make standardization feasible. The development has gone faster than van de Velde foresaw. Today, the new style— international, though as clearly divided into national modes as was Romanesque or Gothic art — fourishes in all the artistically creative countries of Western civilization.
+
+It is the haim  theolow aprs  p ut that this new yl the and legitimate style of our century, was achieved by 1914. Morris had started the movement by reviving handicraft as an art worthy of the best men's efforts, the pioneers about 19oo had gone farther by discovering the immense, untried possibilities of machine art. The synthesis, i  we    i terk  WaG   8In9 Gropius worked out a memorandum on standardization and mass production of small houses, and on advisable ways offinancing such building schemes.At the end of 1914, he began preparing his plans for the reorganization of the Weimar Art School, to which he had bee electd principal by the Grand Duke of Saxe-Weimar. The openig of the new o I name was Staatliches Bauhaus, and it was to become, for more than a decade, a paramount center of creative energy in Europe. It was at the same time a laboratory for handicraft and for standardization; a school and a workshop. It comprised, in an admirable community spirit, architects, master craftsmen, abstract painters, all working for a new spirit in building. Building to Gropius is a term of wide import. Allart, as long as it is sound and healthy, serves building. Hence all students of the Bauhaus were trained as apprentices, received at the end of their course the freedom of the trade, and were only after that admitted to the building-plot and the studio of experimental design.8
+
+Gropius regards himself as a follower of Ruskin and Morris, of van de Velde and of the Werkud Soour circl  compleThe history  artistic theory between 1890 and the First World War proves the assertion on which the present work is based, namely that the phase between Morris and Gropius is an historical unit. Morris laid the foundation of the modern style; with Gropius its character was ultimately determined. Art historians speak of "Transitional' preceding the harmonious perfection of "Early Gothic." While Romanesque architecture was still lingering on all over England, William of Sens and the masters of Wells and Lincoln created their immortal works as pioneers of the style to come. What they did for England late in the twelfth century was done at the beginning of this century by Morris and his followersVoysey, van de Velde, Mackintosh, Wright, Loos, Behrens, Gropius and the other architects and artists — in recognition of whose work the following pages are written.
+
+## From Eighteen-fifty-one to Morris and the Arts and Crafts
+
+A stodgy and complacent optimism was the frame of mind prevailing in England about 1850. Here was England, thanks to the enterprise of manufacturers and merchants, wealthier than ever, the workshop of the world and the paradise of a successful bourgeoisie, governed by a bourgeois queen and an efficient prince consort. Charity, churchgoing, and demonstrative morality might serve to settle your accounts with Heaven and your conscience — on the whole you were lucky to live in this most progressive and practical age.
+
+No generation before this could have conceived the idea of exhibitions of raw materials and technical products from nations all over the world. The scheme was largely due to Prince Albert's energy. In mapping it out and arranging it, he was carried on the same wave of expansive optimism as his contemporaries.
+
+"Nobody who has paid any attention to the particular features of the present era," said Albert in one of the preparatory addresses, "will doubt for a moment that we are living in a period of most wonderful transition, which tends rapidly to the accomplishment of that great end to which indeed all history points, the realization of the unity of mankind." In the same speech he extolled "the great principle of division of labor, which may be called the moving power of civilization,"1 and the introduction to the Official Catalogue of the Exhibition asserts that "an event like this exhibition could not have taken place at any other period, and perhaps not among any other people than ourselves." Indeed not; those who wrote these lines knew the reasons and spoke quite frankly about them: "the perfect security for property' and "commercial freedom."² The thousands of visitors who thronged the Exhibition probably felt the same. The attendance as well as the size of the buildings and the quantity of products shown was colossal. The esthetic quality of the products was abominable. Sensible visitors realized that, and scon discussions started in England and other countries as to the reasons for such an evident failure. It is easy for us, today, to enumerate various such reasons; but it was hard indeed for a generation that had grown up amid unprecedented discoveries in science and technique. There were the new railways and powerlooms, there were the most cunning inventions to facilitate the production of almost any object, formerly made so laboriously by craftsmen — why should these wonderful improvements not help to improve art as well?
+
+H i (pl1), w y vb p Yo  xey te, thecar  whicdrig theRoo periwould have been basdn thecmnaan nunail skil Itowdne n it loks Eihhcentury ornament may have infuenced the designer, the coarseness and overcrowding are his riginal ditn Moreovehehas nglec allfundamental requiement of detio in lr all  u and into large, unpleasantly realistic flowers; it seems unbelievable that the teachings of Persian carpets should have been so completely forgotten. And this barbarism was by no means limited to England. The other nations exhibiting were equally rich in atrocities. Take the design for a silk shawl by E. Hartneck, shown in the French section (pl. 2). This is at least as incongruous as the English carpet in its mixture of stylization and realism. It shows the same ignorance of that basic need in creating patterns, the integrity of the surface, and the same vulgarity in detail. It was not only that the machine had stamped out taste in industrial products; by 185o it seemed that it had irremediably poisoned the surviving craftsmen. This is what makes us feel particularly indignant about silverware such as the handmade decanters, goblets, and jugs in plate 3. Why could no craftsman during the eighteenth century produce anything so bulging, so overdone? Surely this contrast is real and not simply a figmen  r aThbily  ther r tbuy  pu ha material, pure decorative pattern, is monstrous.
+
+Once more the question has to be asked: Why was this bound to come? The usual answer — because of industrial growth and the invention of machines—is correct, but as a rule taken too superficially. The potter's wheel is a machine, and so are the hand-loom and the printer's press. The development from such simple mechanical devices to modern wonders of machinery was logical and gradual. Why did the machine in the end become so disastrous to art? The transition from the medieval to the modern state of applied art was reached somewhere about the end of the eighteenth century. After 176o, a sudden
+
+![](images/0f5e2e009a72b25e1a047d3e67fd295598f01dbce025250cf0b14409a54c0e05.jpg)  
+1. Carpet from the Great Exhibition of 1851
+
+![](images/bfc732419557c7d745c8be3db58c3779adddfd10767a4c8020e0d036900df77f.jpg)
+
+. Shawl from the Great Exhibition of 1851
+
+acceleration in technical improvements set in. This no doubt was due to that profound change of mind which began with the Reformation, gathered strength during the sevenperimental science were the determining fields of European activity during the Age of Reason. Even the religious revival which took place has a strong element of rationalism and marked understanding for worldly tasks and the ethical qualities of workaday life.
+
+The change in European thought was accompanied and followed by a change in social ideals. Thus the newly roused inventiveness received an equally new practical scope. Applied science as a means of governing the world soon became part of a program directed against those classes which had governed during the Middle Ages. Industry meant the bourgeoisie as opposed to the Church and the Nobility. The French Revolution accomplished what had c I i i  ) qu n des Arts et des Métiers were founded (1795 and 1798), and the first National Industrial Ex  he.Inushc i h Etat. This applies likewise to England; but, owing to the temperament of the English, the change was slower here and came about without a sudden revolution. It started early in the eighteenth century and ended only with the Reform Bill in 1832. Guilds had never been so influential in England as on the Continent. From the sixteenth century on, the nobility had already begun to merge with the merchant class.Plutocracy began to replace aristocracy earlie in Englan than in Franc. It is only in afgurative sense that thehistoryof Engih civilization between 1760 and 1830 can be called the Industrial Revolution.
+
+Some dates may illustrate the rapid and impetuous industrial growth which formed a world capable, a century later, of creating the Modern Movement. As England was leading in the Industrial Revolution nearly all these early dates are English. In $\tt T 7 I 3 .$ ,Abraham Darby made cast iron with coke (instead of wood); about $\yen 740$ Benjamin Huntsman invented the crucible process ofmelting steel; in 1783 Cort introduced the puddling process; about 181o the decisive improvements in the use of the blast-furnace took place (Aubertôt); in 1839 Nasmyth invented the steam hammer; and in $\tt { I 8 5 6 }$ Bessemer his new method of producing steel free from carbon. To these innovations in metallurgy, we must add the invention of the steam engine with separate condenser (J. Watt, $\mathbf { I } 7 6 5 )$ , of the steam boiler (1781), the screw steamer (1821), and the railway engine (1825).The principal dates in the spinning and weaving industries are the following: 1733 fly-shuttle (J. Kay), 1760 shuttle drop box (R. Kay), $\mathbf { I } 7 ^ { 6 } 4 ^ { - 6 } 7$ spinning jenny (Hargreaves), 1769-75 water-frame for spinning (Arkwright), 1774-79 spinning mule (Crompton), 1785 powerloom (Cartwright), 1799 Jacquard loom.
+
+![](images/dec78cae9c4d1abbe2d66c45ed4ae3d60d3dd641de4c1c336d5337b15e64ac70.jpg)  
+.Silverware from the Great Exhibition of 1851
+
+The immediate consequence of this precipitous development was a sudden increase in production, demanding more and more hands, and so leading to an equally fast increase in population. Towns grew up with horrifying rapidity, new markets had to be satisfied, an ever bigger production was demanded, and inventiveness was stimulated anew. A few more figures may illustrate this rank growth which made our modern world out of a world less similar to ours than to that of the thirteenth and fourteenth centuries. The production of iron in England amounted to about 17,00o tons in $\tau 7 4 0 ,$ ,68,000 in 1788, 170,000 in 1802, 678,00o in 1830. The production of coal in 1810 was 6,000,o00 tons, in 1830 25,000,000, in 1857 115,ooo,o0o. The export of cotton in 1701 was valued at $\$ 23,500$ ,in $\mathrm { \Delta I 7 6 4 }$ at£200,- 000, in 1790 at £1,500,000, in $\mathbf { I } 8 3 3$ at18,000,000, in $\mathbf { I } 8 4 0$ at £26,500,000. The English population grew before 1750 by about $3 \%$ per decade, between 1751 and 1781 by $6 \%$ per decade, 1781-91 9%,1791-1801 11%, 1801-11 $1 4 \%$ , 1811-21 18%. Manchester had 8000 inhabitants in 1720, 41,000 in 1744, 102,000 in 1801, 353,000 in $\mathrm { I 8 4 ^ { I } }$ ; Birmingham, 5000 in 1700, 73,000 in 1801, 183,000 in 1841.
+
+In the midst of this breathless race, no time was left to refine all those innumerable innovations which swamped producer and consumer. With the extinction of the medieval craftsman, the shape and appearance of all products were left to the uneducated manufacturer. Designers of some standing had not penetrated into industry, artists kept aloof, and the workman had no say in artistic matters. Work was bleaker than ever before in European history. Working hours were between twelve and fourteen, doors and windows in factories were kept locked. Children were employed from their fifth or sixth year on. Their hours of work were reduced in 1802, after long struggles, to twelve hours a day. In 1833, 61,000 men, 65,ooo women, and 84,ooo children under eighteen years of age worked in cotton mills. In mines, no inquiries into accidents were held before 1814.
+
+Economists and philosophers were blind enough to provide an ideological foundation for the criminal attitude of the employer. Philosophy taught that unthwarted development of everybody's energy was the only natural and healthy way of progress.³ Liberalism ruled unchecked in philosophy as in industry, and implied complete freedom for the manufacturer to produce anything shoddy and hideous, if he could get away with it. And he easily could, ducer, a victim of this vicious circle.
+
+All these facts and considerations have to be taken into account if we are to understand the exhibits of 81.Contemporary experts failed to do . They tridchanges in the anization of art and especially in art educatin, but they did not venture to touch the one el problem, theissolubleunythe rto an e and sc yst Willi Morris alone saw this. Although his solution shirked the problem of machine art, his revival ohanct wold not have bee possle, had he ot been ascl eoe s well craftsman. While he followed his inborn passion for making things with his own hands, he
+
+![](images/c3d9a67e859fd4af2817bdcc6f7de05c395811ff9fe5e11653dd079d6b8121c7.jpg)
+
+4Morris: The Daisy wallpaper. 1861
+
+knew also that to do this instead of painting pictures was his social duty. Before he was twenty-two, he had experimented with carving in stone and wood, molding in clay, and illuminating. This helped him to acquire a respect for the nature of materials and working processes. Wherever he looked in contemporary industrial art, he saw manufacturers blayvlahs. Shsrst  hisn  soh but  po. The chairs and tables, "intensely medieval, like incubi and succubi (Rossetti), tell of a deliberate return to the most primitive attitude in shaping domestic objects.
+
+At that time, and also in the years when the Red House was furnished and the firm founded, Morris' mode of expression was still somewhat different from that of his later, more famous and more established years. He was still seeking to find the adequate expression for any given task. This is what makes his earliest wallpapers so strikingly fresh and "modern." In the Daisy, the second of any he designed, 1861 (pl. 4), the colors are light though restrained, the pattern is pleasantly balanced, without recession, and wholly ornamental without ever losing that intense feeling for nature which is so characteristic of Morris and so different from the imitation of nature as the designers of 185I practiced it.
+
+Later on, Morris' style becomes broader and statelier and thereby loses some of its youthful and adventurous charm. Not that his creative vein was less abundant now. His very simplicity of approach led him to forms more traditional. When for example, in 1878, he decided to make carpets, he saw that certain oriental patterns were almost exactly what he wanted. Hence his Hammersmith carpets (below) are very much like oriental designs, though he emphasized that he wanted them "obviously to be the outcome of modern and Western ideas."' This is remarkable. Morris was so far from inventing decorative forms for invention's sake that, if he found models however remote in space or time which met his purpose, he made use of them or at least came under their spell, even if this happened against his own will.
+
+Herein lies the explanation of the dependence of most of Morris' later chintzes and wallpapers on Gothic models. We are inclined today to overrate the importance of this. Modern writers and artists like to let Morris' design appear all Victorian dullness and gloom and "historicism." That is unjust and deceptive. It is sufficient to compare one of his most
+
+![](images/7bc38c363abf4d341fd19f3626bfb2be4b009a73c749bc20f49e6eaec756b797.jpg)  
+5. Morris: Hammersmith carpet. The Little Tree pattern
+
+![](images/cf7419096d9f4e6ba56eb453566da4a5c93b5aeb92a0a508f564648ed5dfdfdf.jpg)  
+6. Morris: The Honeysuckle chintz. 1883
+
+in textiles such as the shawl from the Great Exhibition (pl. 2), in order to recognize at once the basic contrast between the two. It is not only the contrast betwen inspiration and imitation; between valuable imitation inspired by fifteenth-century delicacy, and bad imitation vulgarizing eighteenth-century license; it is more. Morris' design is clear and sober, the shawl of 185I is a messy entwinement of motifs. Its thoughtless concoction of stylization and realism is opposed to Morris' logical unity of composition and close study of growth in nature. The designer of the shawl neglects the decorative law of the coherence of su hi Moi truy mevalin he  ut t att.
+
+![](images/dd1ea7efa367a79f58530f22a9e672bfc776ba202cee0aef463bdc68577c8e2a.jpg)  
+Dresser: Cruet sets in silver. 187778
+
+![](images/5220f96f9a82e21131852f1d370f59d1db43bf58e130f58f01991b83308d32a1.jpg)
+
+We get exactly the same result if we place Morris' carpet side by side with the carpet of the Exhibition. Again we find live understanding of decorative requirements as opposed to utter neglect of them, and again simplicity and economy as opposed to wasteful confusion. And although it must cetainly be admitted that in stained glass desiged by Morrfr, there is more detail-realism than we can now approve of for ornamental purposes, it must not be forgotten that when Morris began, stained-glass windows were just illustrations with plenty of figures, buildings, and spatial recession, and with a large quantity of colors and shades. His is the merit of having gone back to simple figures, simple attitudes, simple colors, ornamental backgrounds. His Pre-Raphaelite friends and masters helped him in that. Ther syle in painting differed in the same way from midVicorin gene-painting as his from the syle of 181. And i Morris windows d not  further in decoative eonomy, that is ledue to Morris than to Burne-Jones, who could not help remainig a piner, whereas Morris wanted him to be nothing but a decorator.5
+
+The revival of decorative honesty in Morris' designs counts for more in the history of the Modern Movement than their connection with bygone styles. Morris the artist may in the end not have been able to reach beyond the limitations of his century, Morris the man and thinker did. This is the reason why his writings and lectures had to be discussed in this book before his artistic achievements.
+
+The first effect of Morris' teaching was that several young artists, architects, and amateurs decided to devote their lives to the crafts. What had been an inferior occupation for more than half a century, became once more a recognized task. There is no need to enumerate them all. Crane and Ashbee have already been mentioned. De Morgan was the great E potinas Po   i B e arts of the book, Emery Walker and Cobden-Sanderson, the founders of the Doves Press. It is extremely snificant that between 188o and 1890 fve societis for the promotin of artistic craftsmanship were started: in 1882 Arthur H. Mackmurdo's Century Guild (the term "Guild' should be noticed), in 1884 the Art Workers'Guild, in the same year the HomArt nInusAtnpular inrual cra i 18Abee's Guild and School of Handicraft, and also in 1888 the Arts and Crafts Exhibition Society.
+
+Most of the members of these guilds and associations were a generation younger than Morris, but not all. De Morgan, for instance, was born in 1839, L. F. Day in 1845, Arthur H. Mackmurdo in 1851 (he died in 1942. The work of these artists, if re-examined today, has remarkable surprises in store. Take for instance two cruet sets (pl. 7), produced in 1877 and 1878 by Hukin & Heath's of Birmingham to the designs of Christopher Dresser (1834-19o4).6 Dresser, like Lewis Day, was a professional designer for industrial production. He lectured at South Kensington, traveled in Japan and brought much Eastern art back to his London home. He also designed for Clutha glass and Linthorpe ware (pottery) and wrote several books on the principles of design, sensible but not especially original. This makes the two works illustrated all the more astonishing. In comparison with the silver of the 1851 Exhibition, and actually with most designs for silver and plate done before 190o or 1905, Dresser's simplicity and creative daring are likewise significant.
+
+![](images/2908789b509d1344995740b926141769f1ce145b59471adcfbefe7e464431203.jpg)  
+天 福 ®
+
+8.De Morgan: Plate. 188o's. Victoria and Albert Museum, London
+
+These cruet sets are in every detail reduced to fundamentals, as were Morris' own early designs. The base in one case consists of six plain egg-shaped holders, in the other of an equally plain slab with a low railing. Lids and stoppers are unadorned, and there are hardly any moldings, all the bars being square or round.
+
+Again if we look at a plate with a gazelle (pl. 8), made by De Morgan at his Merton Works between 1882 and 1888 and now at the Victoria and Albert Museum in London, the same understanding of decorative fundamentals appears, only this time in terms of two instead of three dimensions. There is of course dependence on Persia, but the bold and ornamental draftsmanship of the tree behind the sharply outlined aninal, and the symbol of water behind the fishes are remarkably original.
+
+However, nothing in the eighties was as daringly personal as some of Mackmurdo's designs. His title page to a book (below), which he had writen himself in defense of Sir Christopher Wren's London City churches, just then in danger of wholesale destruction, has as its chief motif a completely asymmetrical feathery leaf ornament of a kind never seen in Morris or Crane or any of the other representatives of the Arts and Crafts. Its immense importance for the development of ornament in the nineties will come out in a later chapter.
+
+Meanwhile it should not be forgotten that such direcness of approach was still very exceptional. Most of the craftsmen who followed Morris remained faithful to his standards, faithful, too, in refusing any drastic breach with tradition. In this no doubt they proved English above all. It seems very understandable that England led the growing Modern Movemet exacy  on  it ddnotmen a cpe bek wi traditns. This pl to architecture just as much as to design, and so we find England between 186o and 1900 as the leading European country in both.
+
+![](images/52b092b191f4caba039d5fab59fa8f281be179585c9b1d27a4eec2b58adb44ff.jpg)
+
+![](images/545fd4d29be6ebc65c9da82b0c381ccea93658a9a055d98fd8d6e33126240dd1.jpg)  
+10Webb: The Red House, Bexley Heath, Kent. Built in 1859 for William Morris
+
+All  tve u  c cf T GRevival HouPar:Barry Pug 185w passi u 18though later nd y pue Neo-Gothibuldng   cr t b foni many places (Town Hall, Manchester: Waterhouse, 1868-77; Glasgow University: G.G. Scott, 1870; Natural History Museum, London: Waterhouse, 1873-8o). Simple Neo-Renaissance was also coming to an end (Reform Club: Barry, designed 1837; Dresden Opera: Semper, first building 1838-41; Dresden Gallery: Semper, 1847-54). The next phase was the revival everywhere of an overdecorated type of Nordic Renaissance (in Paris the Hôtel de Vill, already begun in 1837, in England Neo-Elizabethan, in Germany Neudeutsche Renaissance, after 187o). Immediately after the introduction of this style of decoration, an equally overdecorated but more colossal Neo-Baroque set in (Paris Opéra: Garnier, 1861-74; Brussels Palais de Justice: Poelaert, 186683). This style remained the official architectural taste in most Continental countries until after 1900.
+
+In England the evolution followed precisely the same course; but, since English architecture had been so different from Continental during the centuries imitated, the result was likewise different. The background in England was something like this. The overcrowded Elizabethan and Jacobean Mannerism was superseded in the seventeenth century by Inigo Jones's and then by Christopher Wren's stately and dignified classicism, and this grand yet reserved style remained dominant throughout the eighteenth century as far as churches and large houses were concerned. It was otherwise with domestic architecture of a more intimate character. In this, since the Middle Ages, England had developed an unobtrusive, dignified, and comfortable style of her own. After the accession of William of Orange, even royal palaces (Kensington Palace) began to exhibit these qualities. They are the keynote in the style of London's squares and streets; they give London her distinctive character.
+
+![](images/2a512615817db711b04c2c0a4c40f6078cd1474e306daab334849f0e822848bc.jpg)  
+11. Webb: No. 1 Palace Gardens, Kensington, London. 1868
+
+In 1859, Morris asked Philip Webb (1831-1915), his friend and colleague in Street's studio, to design a house for him and his wife. It was built in a spirit contrary to that of the past century. As in his decorative designs, Morris refused any connection with Italy and the Baroque and aimed at something akin to the style of the late Middle Ages. Webb applied certain Gothic details such as pointed arches and high-pitched roofs; he also adopted the irregularity of the fourteenth and fifteenth-century domestic and especially monastic architecture, but he never copied. He even admitted the sash windows of William and Mary and Queen Anne without ever being afraid of clashes between the various styles to which he went for inspiration. The Red House as a whole is a building of a surprisingly independent charcr, solid and spacis lookng and yet not in the least pretentious (p.). This is perhaps its most important feature. The architect does not imitate palaces. In designing he thinks of a wealthy middle class.He shows the red brick of the façades without covering it with plaster as Neo-Classic rules prescribed, and takes the outside appearance of the house as an expression of inside requirements without attempting a grand and useless symmetry.
+
+![](images/b169fdda40ae7062164aa518e958b6a36a4505492c525ad04b2a627ab0c93b1a.jpg)  
+Shaw: New Zealand Chambers, Leadenhall St. London. 18727
+
+In town architecture the counterpart of the Red House is the house at No. I Palace Gardens in Kensington, London, which Webb designed in 1868 (pl. 11). It exhibits fearlessly two Queen Anne windows and between them a brick pier of obvious Gothic derivation supporting an oriel window on a curious ribbed cove. Of the Domestic Revival, as the movement in English town and country architecture between 186o and 190o is often called, Webb remained the strongest and soundest, if not the most brilliant exponent. If one looks for brilliance, fecundity of invention and sheer joy in novelty, one has to go to Richard Norman Shaw (1831-1912)° and not to Webb. Shaw's large country houses (or rather the country houses of the Shaw-Eden Nesfield partnership) start in a theatrical, undisciplined, famboyant imitation-Tudor, still entirely pre-Morris in spirit. The most characteristic examples are Leys Wood in Sussex, 1869, and Grims Dyke near London, 1872. Then, immediately after Grims Dyke, Shaw changed to something much more original. The seventeenth century caught his fancy, and in his first city building, the New Zealand Chambers in Leadenhall Street, London (pl. 12), now unfortunately bombed out, he dared to combine bay windows of a lively English provincial appearance on the second and third floors with a ground floor exhibiting hardly anything but two large offce windows of many panes separated by wooden glazing bars. That was in 1872-73. In 1875 his own house in Ellerdale Road, Hampstead, London, is of equal boldness (pl. 13). The key motifs now comprise, besides Dutch curved gables of the shape popular in England between 163o and 166o, the tall slim sash windows of William and Mary and Queen Anne architecture. The composition is deliberately picturesque, but very sensitively balanced and by no means haphazard.
+
+![](images/01cfaf6b5bd1c6d99a0eefe01ba56c73d2c1448108f2eccb2b64a799d910a1fa.jpg)  
+1. Shaw: The architect's house, Ellerdale Road, Hampstead, London. 1875
+
+![](images/747102b1a5367f1ba8f810f61fd2cba8085284816306f3f86d82a92ad2625169.jpg)  
+14. Shaw: No. 170 Queen's Gate, London. 1888
+
+![](images/341fa2d414414b46292d5c44174780739a2d2cdab423fb31a9e603cefc9523c2.jpg)  
+15. Nesfield: Kinmel Park, Abergele, Wales. 1866
+
+However successful this so-called Queen Anne Revival was, Norman Shaw did not in the long run remain satisfied with it. There was yet another change in his style — or rather the source of his style; for he remained to the end faithful to historicism as such, even if his was a very cavalier treatment of historical precedent. It was in the late eighties that he remembered what his former partner Eden Nesfield (1835-88) had done as far back as 1866 (above) and studied in earnest the style of the smaller country and town house of the later seventeenth and early eighteenth centuries in England, not only for window motifs but for the whole of their plain, sensible, well-proportioned, unadorned brick frontages. Nesfield's Kinmel Park stands, as far as we can see, quite on its own; Shaw's house at No. 170 Queen's Gate, London of 1888 (pl. 14) started a fashion which reached its climax only in the twentieth century. It comes indeed as near to the spirit of the new century as one could come without actually breaking with the past, and in this respect it was more pro-
+
+![](images/ef63213562910b5f15a194dfb957d77bc3a7fb87f73fc3b6119f8f34a8b278c5.jpg)  
+16. White: Newport Casino. 1881
+
+![](images/beefa2a5d86a011321fcad395ce07513db7230d2c5590ee03fd6eb97feccf64a.jpg)
+
+17. White: Germantown Cricket Club, Philadelphia. 1891
+
+gressive than the work of any of Shaw's contemporaries at home and abroad.
+
+Yet England was not entirely alone in its domestic innovations. There was one other country which showed as much and occasionally even more esthetic enterprise, the United States. It was the frst time in its architectural history that Americ appeared in the vanguard. The architect who advanced so boldly was Henry Hobson Richardson (1838-86).10 His F. L. Ames gate lodge in North Easton, Mass., 188o-81, and his Stoughton house in Cambridge, Mass., of 1882-83 (pl. 18) are even less derivative than Shaw's contemporary houses. Richardson's use of shingling and of large-scale random rubble, of boulders, one is tempted to say, and of picturesque asymmetry shows as much originality as Shaw possessed and more vigor. His even more impressive power in the designing of commercial structures will be mentioned later. Both his town and his country styles were at once widely imitated by good, bad and indifferent architects. Amongst his best followers was Stanford White (1853-1906) whose Newport Casino was built as early as 1881 (pl. 16). The same quali-re eey l   the Sn ou thog p han tt elegantly.
+
+![](images/c304be2fbc3eaf1505f4f7782b39806d45666066a55c4b50b8c88f07ff718cf7.jpg)  
+8 Richardson: Stoughton house, Cambridge, Massachusett. 188283
+
+Stanford White, less elementary and less hard than Richardson, could indeed take the same step which Shaw had taken between the houses of 1875 and of 1888. Only in the case of White the new ideal of simplicity was not expressed in terms of English Queen Anne but first in terms of the Central Italian High Renaissance and then of American Colonial. The examples are well enough known: The Villard house on Madison Avenue, New York, of 1885 and the H. A. C. Taylor house in Newport, R.I., of 1886 or the Germantown Cricket Club, Philadelphia, of 18911 (pl. 17).
+
+However stimulating and original these American developments were, they did not have any immediate repercussions on architecture in Europe. In England occasional similarities with Richardson occur (and will be referred to in a later chapter), but the Continent remained unaware of American innovations for a surprisingly long time. When Continental architects had grown weary of the boastful spirit of Neo-Baroque, and had freed themselves from all period forms by a short plunge into Art Nouveau, they looked to England for help, to English building and English crafts, and not yet to America.
+
+## Eighteen-ninety in Painting
+
+Whereas the way for a future style in architecture and design was cleared by English artists, the new ideals in painting were conceived and developed on the Continent. The part played by England in the growing movement was to maintain and revive wholesome traditions in order to secure a solid foundation upon which the structure could be built; the task which Continental artists had set themselves was to force a new faith upon the world of art.
+
+Morris had declined to follow the ways of the generation preceding him; the leading Continental artists with whom we shall have to deal in this chapter did the same, or, as it would be better to say, outwardly the same. For Morris turned against the horrors of 1851, the reformers of 189o against Manet, Renoir, and the other Impressionists, artists of brilliant skill. Morris loathed the superficiality of his immediate predecessors and that Liberalism which was responsible for the social and artistic conditions in England; the rebels of 1890 also accused their predecessors of superficiality (though in the changed sense of exclusive regard for surface qualities) and of more concern with personal than with community interests, which is the philosophical corollary of Liberalism.
+
+That far, the Morris Movement and the movement in painting which took shape about 1890 advanced on comparable lines and towards comparable aims. But there is one chief difference of means and ends. Morris dreamed of a revival of medieval society, medieval craft, and medieval forms; the leaders of European painting in 189o fought for something that had never existed before. On the whole, their style was free from period revival, unencumbered and uncompromising. This would also apply to the architecture and decoration of Art Nouveau; but the break was achieved by the painters earlier than by the architects. Therefore an account of the revolution in painting has to be given before we can continue the discussion of architectural and decorative evolution, which is the main task of the present work.
+
+M  .Te u characters were two Frenchmen, Cézanne and Gauguin, a Dutchman, van Gogh, and a NoMcFi  hal   SR, Ensor, Toorop, Hodler.
+
+ing about 1890. Cézanne (18391906), though born during the same decad as Manet, R Mo as  I ny  hr  His a yl w iv from Delacroix, Courbet, and the Baroque, and while even in his most mature works he keeps that beauty of the surface which was the sole ideal of Impressionism, his own ideal was in other ways wholly opposed to theirs. The surface of a landscape by Monet is a glittering veil, Cézanne's hills and trees and houses are still and monumental planes, reposing in the three-dimensional space of the picture.
+
+![](images/6f4b3ed01cafc429fe8fcd1ffedf73f27a972bd4b037d9dd5c2a9f57a75a4ca8.jpg)  
+19. Renoir: Bathers. c.1So. Barnes Foundation, Merion, Pennsylvania
+
+![](images/40cc9b91119b8f26e19bfc6adca40edd7c2254cc45a209274fef074785b61e4f.jpg)  
+20. Cézanne: Bathers. 1895-1905. The Philadelphia Museum of Art
+
+The charm of Renoir's Bathers lies in the play of rosy young bodies, in a landscape of loosely sketched-in green and bluish and pinkish tones. It is a highly sensuous charm. Renoir said frankly that in front of a masterpiece he thought of only one thing: to enjoy it. He once praised a picture by saying that he wanted to kiss it, and he blamed a great painter because "he had never caressed the canvas. To catch all the bliss of a passing instant, all the joy in what the eye can drink in of light and color any day and any moment, to make a round, harmonious composition of it and to paint it with all its atmospheric glamor: that is Renoir's aim.
+
+Cézanne despised such a superficial approach. The women in his Bathers are without any sensuous appeal. They act not on their own but on behalf of an abstract scheme of construction which is the real subject of the picture. His aim is to express the lasting qualities of objects; no transitory beauty occupies his mind. The striding woman on the left is a diagonal to be continued in the unnaturally slanting trees. The powerful curve of the back and thigh of the figure sitting on the left serves to join these diagonals with the four main horizontals. The faces are hardly detailed, no personal expression is allowed. Cézanne does not care for the individual, he speculates on the idea of the Universe. "That gang of Impressionists," he oncexclaimed, "ack a master as well as an idea." By constructing his pictures with "cyinder, sphere and cone,"'s Cézanne strove to paraphrase the eternal laws of Nature. Hence he w  p h o agai.Up toy itti weeey or a potai, nmany  them ien th passionate exertion.
+
+For the intensity and passion of Vincent van Gogh (1853-1890), this exertion proved too much. His mind gave way as soon as he had achieved his task. The course of van Gogh's life is extremely significant of the changed attitude which inspired the creative artists about 18He wen s a lay-per o the poo n desti boe he had onin pi an adequate means of expression, and he had to work hard to acquire the craft of the brush. His mature style is to be found in the works of only two years, pictures that he painted in a fhuy "eharv wwok   t  c now that the friend has tragically departed— and all the overwhelming violence of his feeling is in its colors and the infuriated strokes of broad brushes. He may paint a café, but he paints it as "a place where one can run mad, or commit a crime."5 His color above all is never accidental, never just the rendering of shades observed in nature. The introduction of a new color always suggests an "emotion of an ardent temperament,' maybe "the thought of a brow," or "the love of two lovers."
+
+So not   mau poatis y  iny te etatn  te
+
+![](images/b208ae96bc8bf71727f8964b41370a179d4434bd29c2512f0ec062fae63071be.jpg)  
+Manet: Jeanne (Springtime). 1882. The Metropolitan Museum of Art, New York ortCollo rsH HanoBühe Winrtur Si
+
+Again we feel of a sudden confronted with Nature as a creative force, magnificent and terrifying, and not with the changing surface of nature as skilfully portrayed by the Impressionist. Manet, in his Jeanne (Springtime) of 1882 (pl. 21), hardly differentiates between the consistence of the human being and that of the surroundings. This refusal to distinguish between the changing and the lasting, the absolute and the accidental, had emerged in philosophy since the seventeenth century; it created the art of the Dutch landscape, and culminated in Impressionism. Jeanne is of importance to the artist only in so far as she reflects nature, reflects color and light.
+
+But to van Gogh the peasant woman, as he knew her so well, is the vessel of an idea. She is sacred and indstructible as a mbol. He was longing to paint "pictures of aints and holy women from life which would seem to belong to another age, and they would be middle-class women of the present day."'8 He wanted to address the people, and believed that they, in buying cheap and coarse color prints, were on the right path, rather than those city dwellers who went to the art exhibitions. He preferred the simplicity of the popular color print to the refinement of contemporary painting, and strove towards a similar simplicity of subject and technique. Only diffidence and underestimation of his own powers prevented him from venturing upon religious subjects. He actually began to paint a Garden of Gethsemane, but destroyed it afterwards. By painting all day long, he hoped to drown this "terrible needof religion." But he failed; the "terrible need"appears in whatever he did, for his devotion.
+
+![](images/5f009c5cc51d558c6c48d0e45a85502461bb1da7451dc572daab7152f4243bfc.jpg)  
+n Gog:The Starry Nigt. 8The Musuf Modern Art, New YorkAquire roh the Lillie P. Bliss Bequest
+
+As his life drew to its close, that intensity increased. Compared with what he painted during the last twelve months or so of his life, even his own works painted a year before the first attack of illness seem happy and balanced. Only now in a landscape like the one in the collection of the Museum of Modern Art in New York (above) is there that immediate and the church at the mercy of tempestuous whirlpools infinitely stronger than the stones and timbers patiently stuck together by human hands.
+
+It is t t os l ny  Go  Bu o G (1848-1903) have left Europe and started a new life amongst the savages of Pacific islands, if he too had not dreaded the shallowness of nineteenth-century life? Before he went, he turned for a short time, no doubt under the infuence of van Gogh's missinary zeal, to with the Angel, with the foreground of Bretn women, and there is the Yellow Chrit, illustrated in plate 24. An Impressionist painter could never have been satisfied with these wooden forms, so harsh and unpleasing, and with these heavy, solid, intense colors, nor would an Impressionist have chosen this subject. The Impressionist is interested only in what he can see with his own eyes, and nothing behind the surface is important. He is as materialistic as any Victorian philosopher. To Gauguin the surface is immaterial, the casual arrangement of objects in nature is no more than a stimulus for the conception of a picture. The essential process is to condense from the impression received something which contains a In o lar piece of French scenery, it is a general symbol of France, and of the spirit of peasant lieclose to the oil n pious in an elmentary, ureasonig way. The is othot in the faces of these women, none of the anecdotic interest which the Impressionist would provide. Tiredness after hard work, resignation, and dumb submission are all they express. The Christ in the center of the picture also has all the deliberate primitiveness with which the Expressionists of 192o endowed their figures—an idol, not an image of Christ crucified, as the five centuries before Gauguin had evolved it.
+
+![](images/0985ba3ba0d61b406aa747cebf8409fda0b767be347710a1ff643b00947176a3.jpg)  
+Gauguin: Yellow Christ. 1889. The Albright Art Gallery, Buffalo, New York
+
+![](images/05f08b39d4526232f9c559985ab5896ac4a0ec974e402c9370bdb1bf762bcdf1.jpg)  
+25. Gauguin: The Moon and the Earth (Hina Tefatu). 1893. The Museum of Modern Art, New York. Lillie P. Bliss Collection
+
+No wonder that Gauguin abandoned a Europe whose development had led to such petty sophistication and materialism. In the Pacific he found men and women naïve and untouched by thetwisted reasoning of Paris, trusting instinct and their passins; he found naturefrtile and untrimme, and a religion in which that nature and the fears and desire of those men and women had taken the shapes of fetishes and apparitions. The picture of The Moon and the Earth (above) was painted only four years after the Yellow Christ, and the choice of color is indeed still the same. But what had been aggressive and jerky, has now become broad and round and fulfilled. Where in the Breton painting the landscape still formed a i  W
+
+![](images/adee891d2152476bd59c6f6e84b292bbcc33f91e38ea03735d463f2dedaac489.jpg)  
+26.Gauguin: Women at the River (Auti Te Pape). c.189I-93. The Museum of Modern Art, New York, Lillie P. Bliss Collection
+
+perance ofnature, and also, in amuc broader sense, nature as a universal power versus human independence is one of the mottoes of the new movement in European painting about 189o. It may mean, as in Gauguin and van Gogh, back to instinct and self-abandon, or it may mean, as in Cézanne, back to the fundamentals of geometry. It may lead to Expressionism or to Cubism. It may go for inspiration to cylinder, sphere and cone, or to Polynesian and medieval carving; the essential attitude of opposition to the mentality of the nineteenth century remains the same.
+
+One typical outcome of the rediscovery of early art at its most forceful was a change of style in the graphic arts, initiated by Gauguin in his zincographs of 1889. The effect of these prints is confined to violent contrasts of fat surfaces. All delicate shades and atmospheric transitions are abandoned. No wonder that after a few years Gauguin resorted to another even more suitable medium for expressing in black and white those visions which occupied his mind. The woodcut relying entirely on the process of carving with a knife should not seek after effects that are not simple and strong (above). Only by a perverse tour de force could nineteenth-century wood engravers produce superficially something like the subtle charm of etchings.
+
+Gauguin's first woodcuts date from 1894. Earlier than this the Swiss painter Félix Vallotton (1865-1925)1 h discvered the possibilis of the woodcut or expressig the new feelings of 1890. In his woodcuts of 1892 and 1893, The Anarchist or Young Girls, he goes so far in reducing nuances and stressing a few main features and gestures as to crictund is princl picu this per, The Bapis p the most astonishing example of deliberate infantilism that was produced by that generation. In a highly scandalizing manner, Vallotton has combined a few stylized figures in grotesque chemises with ten or twelve obtrusively drawn nudes. No wonder that he became one of the leaders in the conversion of posters into works of art. His posters begin in 1892.
+
+From the same years date the first French posters whose value is based on the opposition of simple and brightly colored surfaces and the abolition of space (Toulouse-Lautrec, Steinlen). English artists, above all the Beggarstaffs (J. Pryde and W. Nicholson), joined this movement almost at once and produced some of the most striking posters (Cinderella. Drury Lane Theatre, 1894).12
+
+This elementary style, reminiscent of the old broadsheet, is also one of the prominent features in the paintings of Seurat and Rousseau. The Grande Jatte (pl. 28) by Georges Seurat (185991) appeared as a joke when it was painted in 1886. The figures are wooden like children's toys, they move as awkwardly as if they were driven by clockwork inside, along invisible rails running parallel to the frame of the picture. We seem to hear the tic-tac of their movements. The dogs and the ridiculous little monkey have no life either. This deliberate elimination of atmosphere is all the more remarkable, as Seurat had started from Impressionism and had developed his strange mosaic-like technique while endeavoring to push to its extreme the scientific principle which underlies the Impressionist dissolution of the surface. The Impressionists had painted in loose touches and commas of unmixed color oas to leave t the e the beholder the task  athering up the sparte dot Thi lS  al
+
+![](images/558cd90dd11de6b137c52b27d02898bb02ab9379940dfcecf1ff2e3e1494f58b.jpg)  
+Valloton:The Bath.18Collecton Paul Valloton, Lausane, Switzerland
+
+![](images/75c26eb52591251dea01d58f7f57998842e78fad3d5a24099651dd16e2407f67.jpg)  
+aT (Helen Birch Bartlett Memorial Collection)
+
+effect aimed at by Renoir and Monet and replaced it by an unreal effect of hieratic stiffness.
+
+Seurat must have enjoyed the shock which this apparently childish stiffness gave the public. Otherwise, he would not have painted those circus scenes, like the Chabut (1890) and the Circus Parade (1888), with the grotesque acrobats and dancers, petrified, it seems, in the most distorted attitudes. Here again, we are confronted with revolt — as much as in Cézanne's Bathers, or van Gogh's landscapes, or Gauguin's Tahiti women - a sudden revelation of the futility of modern civilization.
+
+Only one painter among those most characteristic of 189o had nothing of that feeling: Rousseau, le douanier (1844-1910), to whom destiny had given such a child-like mind tat h l pi itivey iut ay cs vlsThis art has none  the - thetic subtleties of Manet or Degas. But this loss in esthetic value is counterbalanced by an increase in live value, and that is in our context tantamount to historical value.
+
+In his life-size self portrait of 1890 (pl. ), the colors are crude as in an old-fashioned pc e he ep lookig rather cross, might have appeared the aberration of an untalented amateur.Today wn ee that all thiscreonds toSeurat's and Valoon' tendenc, anmarks amile stone in the development of Western art.
+
+![](images/1bad0de261731b4f1c5c909ef0810002d23e7a58dcf2f19fddf421c6941670db.jpg)  
+. Rousseau: Self Portrait. 189o. Modern Gallery, Prague
+
+Like Gauguin, Rousseau felt attracted by the primitive life of the tropics. He had once seen them, and, years later, he began to paint primeval forests, lions, tigers, monkeys, and lion-hunters. It is not easy to appreciate his attitude in doing this. His pictures lack that sacred quality which Gauguin, and later on Nolde, embedded in their simple tales. But they are strikingly sincere in their childish treatment, with trees and wild animals such as infants I less technique, Rousseau has come nearer to the world of the savages than Gauguin with his superior knowledge of art.
+
+A - resent masked revelers as mere fun. But their true meaning is entirely opposed to that of
+
+![](images/5734bf43d0b3633620f4216876ef657c448e5f6ba2dcee180a4bdc96476199ed.jpg)  
+Ensor: Intrigue. 1890. Royal Museum, Antwerp
+
+![](images/cd3043ff93e674d9e3faa21b884cc5d871f07c256f1f79f6455e589b3e289c58.jpg)  
+31Ensor: Tribulations of St. Anthony. 1887. The Museum of Modern Art, New York. Purchase Fund
+
+Seurat's or Rousseau's works. Ensor too had been an Impressionist for some time. He began to paint masks even before he broke away from the tenets of Impressionism. In his mature works, those painted since about 1886 (pl. 30), there is nothing of Impressionist naturalism, nothing either of Rousseau's simple-heartedness or Seurat's directness of approach. He painted those groups of people with their grinning masks not because he enjoyed festive confusion, but because the mask allows the artist to fx a lasting expression of demoniac vil-Th   ls,-
+
+![](images/7ee7cfc20a51c14b0c4cbadc885b26746dad424ddcfa17a933d61ba32cebc685.jpg)
+
+32. Khnopff: Arum Lily. 1895. Whereabouts unknown
+
+sor the ultimate fundamental to be reached is the baseness of human nature. The truth of this interpretation of his attitude can be proved by looking at other subjects which Ensor painted or etched during those decisive years. His principal paintings are the Tribulations of St. Anthony of 1887 (pl. 31) and The Entry of Christ into Brussels of 1888. Here again the Saint or the God is surrounded by hideous demons made even more terrifying by the softness and sometimes sugariness of Ensor's colors. But where such fleshy pinks and silky blues and sweet rich greens serve to add to the sheer surface joy of an Impressionist painting, they intensify in Ensor the grim contrast with the anxieties of the scenes he depicts.
+
+Wherverelooks a tin  te bepicueis itl par  t movement o89Thinking o Impressioni we think of lanscape, portrait, sillifes, not of religion and philosophy. There were, it is true, many outside Impressionism who painted patriotic or allegorical subjects and anecdote and genre, but amongst the spiritual leaders few between the English Pre-Raphaelites, that is the last descendants of early nineteenth-century Romanticism, and the pioneers of 189o took an interest in subject matter as such. And when the movement of 189o turned once more to symbolism, inspiration came more often than is usualy realizd through the manifold, if not vey deep, c   hc  i tain Such is the se wit the tw Frec painters who stood ut between 186 and 18 as exponents of an art expressive of thoughts more profound than what everyday life could ffr: Gustave Moreau (1826-98), Huysmans friend, and Odilon Redon (1840- 1916).
+
+![](images/d29eb1189277ac59d9e5fefae585e0b4f252c724b48befdb019a2cf5937275e5.jpg)  
+3Toorop: Faith Giving Way. 1891. Municipal Museum, The Hague
+
+The connecting link between Moreau, the Pre-Raphaelites, and the new style of 1890 is the work of the Belgian Fernand Khnopff (1858-1921). His mother and his wife were English, and he himself had spent several years in England. His first symbolistic picture, Sphinx, was painted in 1884. His principal works date from about 189196 (The Offering, 1891).The allegorical portrait shown in plate 32 is called Arum Lily (1895). The young figure stands erect, with her arm and hand held stiffy, like a ritual dancer. Her intensely composedface, theface of an rchangel,is turne aside. A deliberate parallelismexiss be tween the high and slender growth of the lily and of the young woman.
+
+To the position of Khnopf in Belgium corresponds that of Jan Toorop (1858-1928) in Holland. He too started under the influence of French nineteenth-century tendencies, he too acquired a personal knowledge of England (about 1885) and he too arrived at symbolism about 189o. The cartoon which is called Faith Giving Way (above) was drawn in 189I and is Toorop's first work showing the new style fully developed: an odd entwinement of gaunt limbs, understandable only by reading an elaborate program. Both this obscurity and the intricacy of the pattern of human bodies bear witness to two more sources of Toorop's style, one doubtful, the other certain; namely Blake's linear art and hermetic symbolism, and the arts of Java, brought close to Toorop by Holland's eastern possessions. It is indeed illuminating in this connection to remember that Toorop was born in Java, and that about 1899 Holland began to imitate Indonesian Batik-printing, just as Gauguin in his rare wood carvings imitated the idols of Tahiti.
+
+![](images/46cdc5151f30d7b63738762c8b30b98c89a3646031bee7eae78c0b8c76a08603.jpg)  
+34. Hodler: The Chosen One. 1893-94. Kunstmuseum, Berne, Switzerland
+
+More successful than Toorop's and purer than Gauguin's was the style of the Swiss Ferdinand Hodler (1853-1918) which was developed to express sacred truth in terms of line and cool precise color. Hodler's first portrait, showing a marked tendency towards hieratic simplification, dates from 1888; his first allegorical picture, The Night, from 1890. The painting called The Chosen One, which is illustrated above, was conceived in 1893 and carried out in 1893-94. A tapestry, not a picture: that is what we feel. No spatial, and above all no atmospheric values are admitted. The six guardian angels do not stand on the ground; they are supposed to be fying, but do not give any such impression. Neither is there y ewen the n theras bethodan the bacr As lonan sende cndle-ikeshapes, theyurroun in ahallow ellipsethe small and pre figure of the boy praying. His arms and hands are again as delicate as those drawn by Tn har ns woul  hm c. An   c  n Ho w No wr ha i l e A g  u  y cision of rendering were bound to lok down scornfully on the surfac realism and looe composition of the Impressionist school.
+
+But the greatest Germanic painter of his generation, much greater in power than Hodler anToropi EvrMunc (1863-1944Lik  the eha, he had gone through a phase of Impressinism. But while working in Paris under the in e  Pissarro, he imbibe,frst perhaps unconsciusy, the syle o Gauguin, an thus gained strength to overcome the dangerous charm of superficial beauty. Soon he started, in a surprisingly original manner, simplifying and leaving out all non-essential features. By the beginning of the nineties, the phase of transition was at an end. His paintings, woodcuts, and lithographs of 1893, 1894, 1895 are a synthesis of the new movement's Germanic aspect, as strong and as serious an van Gogh's paintings and drawings of 1889 and 189o, and yet utterly different in appearance.
+
+In the picture The Cry (pl. 35), natural data are reduced to the minimum: sea, hill, beach, and pier. More than that would be unnecessary. The face of the shrieking creature — we do not even recognize its sex — is defined only so far as the intense expression demands. The cry shapes this face, and it pervades the whole picture, carried by visible waves of sound. So Munch achieves his symbolical expression of the oneness and the Strindbergian horror of the Universe. The subject matters as much to him as to Toorop and Hodler. He painted Jealousy and Puberty, and even such critical subjects as The Kiss and The Day After. But he is never sophisticated, or verbose, or melodramatic, though during these years of open revolt, he seems at times to work under morbid obsessions.
+
+But the quality, above all, which raises Munch to the level of van Gogh is that he does not depend on the symbolic subject. He is just as strong in his landscapes and portraits. Whatever he paints, he makes us feel the inexhaustible power of Nature parturient.
+
+How far, that is the most essential question in our context, do the new tendencies of the painters discussed here coincide with or bear upon those of the architectural style of the Modern Movement? In summing up the qualities which distinguish the artists of 1890 from their predecessors, an attempt will be made to emphasize those which find an echo in contemporary architecture and decoration.
+
+Instead of a variety of charming surface effects, Cézanne, Gauguin, Rousseau believe in the unbroken flat surface; Hodler, Munch, Toorop in the thythmically drawn outline, as a more intense means of artistic expression. Strong colors and primitive shapes replace the abundance of delicate nuances; hard schemes of composition, the liberty of apparently casual picturesqueness. Not closeness to reality but expressiveness of pattern is what matters; not quick observation of natural facts but their perfect translation onto a plane of abstract significance. Carried over into the artist's personal outlook, this means seriousness, religious conscience, fervent passion, and no longer spirited play or skilful craftsmanship. It means, instead of art for art's sake, art serving something higher than art itself can be.
+
+Exactly the same qualities appear at the same time in literature. The movement away from naturalism and surface interest in the widest sense of these words was universal. It can be seen in the Belgian Maeterlinck (born in 1862) and his Pelléas et Mélisande of 1892, in the Englishman Oscar Wilde's (born 1854) Salome of 1893, in the German Hauptmann's (born 1862) sudden change from his Weavers of 1892 to his Hannele of 1893, and in France even earlier in Verlaine, Mallarmé and Rimbaud (born in 1844, 1842, and 1854 respectively).
+
+![](images/201ae918bc1b98edb9abafac7a56357d19e68fe4db6a57fc5fc551cbe699ef4b.jpg)  
+3 Munch: The Cry. 1893. National Gallery, Oslo
+
+But, just as in painting, there are two aspects to this literary movement. Symbolism may be a strength and a weakness — an endeavor towards sanctity or an affectation. Cézanne and van Gogh stand on the one side, Toorop and Khnopff on the other, the former strong, selfdisciplined and exacting, the latter weak, self-indulgent and relaxing. So the one led into a future of fulfillment, that is the establishment of the Modern Movement of the twentieth cury, the oher nto the blindallyo Art Nouve. It is wih Art Nouve that wemust now first concern ourselves.
+
+## Art Nouveau
+
+I w l be regarded as the leitmotif of Art Nouveau, then the first work of Art Nouveau which can be traced is Arthur H. Mackmurdo's cover of his book on Wren's City Churches published in 1883, and illustrated on page 3o as an example of the English Arts and Crafts. From Mackmurdo and a few other English designers such as, for instance, Heywood Sumner1 the new message of freedom and originality, of delicate line and perhaps of fin de siècle elaboration and raffinement went to that brilliant décadent, Aubrey Beardsley,2 who had only eight years to show his questionable genius before he died in 1898 at the age of twentysix. He had begun as a belated follower of the Pre-Raphaelites, and broken away from them in 1892 while he was working on the illustrations to the Morte d'Arthur. In a vignette of his such as The'Cello Player of 1893 (pl. 36), the influence of Rossetti and Burne-Jones is still visible, though the shape of the head is longer, the hands are longer and more nervous, and the contours of the figure together with the slender stalks of the sunflowers form a pattern almost independent of natural data. This fact especially links Beardsley with the ideals of Art Nouveau. A particularly complete example of his exceedingly personal and outré handwriting is the drawing Siegfried (pl. 37), published in 1893 in the first issue of The Studio. The arrangement of short C-curves, little flowers, lines of minute dots, is different from the manner of any other artist. The way in which Beardsley covers tree trunks and flower stalks and the body of the monster with dainty ornament, shows how regardless he is of the meaning of the scene represented. His concern is with decoration, a graceful display of ingenious draftsmanship. All this has nothing to do with Siegfried, or with Wagner and only very little with the serious-mindedness of the Pre-Raphaelites, Morris and the Arts and Crafts.3
+
+A similarity of approach and graphic style between Beardsley and the Toorop of the same years will be evident to anybody who remembers the Faith Giving Way illustrated in the previous chapter (pl. 33). The Three Brides, a painting done two years later, that is in 1893 (pl. 38), shows perhaps even more clearly the characteristics of Art Nouveau in terms of a figure composition. Disregarding for the moment the mystic content of the canvas, we of bodies and limbs, the strangely slanting profiles, in order to recognize the same English B twined, all-over pattern.
+
+![](images/d67873afaf3302ad8295e90f06ae90360a8fa21060efe4fe9fd995bd2e2283fc.jpg)  
+36. Beardsley: The 'Cello Player. 1893
+
+Again, looking back at Hodler's The Chosen One (pl. 34) purely from the point of view of the forms he favors, the long-drawn-out lines of the garments will be recognized as Art Nouveau, and the hair of the angels, the slender stem of the young tree in the middle, some of the flowers held by long delicate hands, and the tortuous movements of these hands.
+
+Or take Munchs The Cry (pl. 5). The importance in it of sweeping curves as carriers of expression has already been emphasized. It is even more important in his lithograph Madonna (pl. 39) which was done in 1895 after a painting of 1894. The long wavy hair and the sinuous movement of the figure, the swaying lines in the background, and above all the odd frame with the embryo and the floating spermatozoa, make this work one of the most remarkable instances of Art Nouveau in painting, original and striking in appearance, independent of tradition, but questionable as to its wholesomeness and vital value. In Munch, a strong, sane and unsophisticated painter, this was a passing phase. He soon cast off the mannerisms of Art Nouveau and retained only its genuinely decorative qualities for the development of his monumental style. Incidentally, the same is true of Hodler, to whom, in a siiar way Art Nouve — we n call his y dur then rt Nouveu was only a means of attaining the ornamental clarity of his later wall paintings and landscapes.
+
+But Art Nouveau s  movement does not belongexclusively to paintig, nor,indee, is I ly fsin,an work i n  havhb h and the like.
+
+![](images/019057e52f1eca27e6bf33b6c2be3cc599dba7092768afbdd250dbb6dcca18f4.jpg)  
+3Beardsley: Siegfried. 1893
+
+The two creators referred to were Louis Sullivan in Chicago and Victor Horta in Brusses. Sullivan (1850-1924) was probably essentially original, Horta (1861-1947), no doubt familiar with recent English and Continental developments.® Sullivan's ornament remained solitary, Horta's created a craze which for a few years swept most countries on the Houi ground than Gray's Botany? By the time he designed the interiors of the Auditorium Building in Chicago, that is by 1888, his ornamental style was complete (pl. 4o). It appears again in the Anshe Ma'ariv Synagogue of 189o-9I and at its wildest in the Carson Pirie Scott Store of 1903-o4, of which, for very different reasons, more will be said later. Sullivan's ornamental ideal was an "organic decoration befitting a structure composed on broa andmassive lines,"and o histheory of seve functinalism discussed in aforeo chapter cannot be understood without a careful look at his flowing ornament, nor his ornament without a vivdmemoy f the austerityof the main lines and blocks of his buildings.
+
+![](images/6d85a3c2ae31213c9c877b17c1560c5c611f7137f21642b67f542040f0e50dbf.jpg)  
+Torop: The Three Brides. 1893. The Kröller-Müller Museu, Otterloo, The Netherlands
+
+This is what distinguishes him from Horta who remains, if not wholly, at least primarily, a decorator. Horta's magnum opus is his first building, the house No. I2 rue de Turin, Brussels (pl. 41). Its date is 1893, and the decoration of its interior, especially the memorable staircase, is wholly dependent on that leitmotif of Art Nouveau which has been analyze aproos Mackmurdo' and Beardsley' andTooro'designs. How ar Horta was acqaind with thes is not known but Heny van d Velde,his mostimportant fellow figter for the new ornamental style, had seen Toorop's first mature works with the keenest delight — so he told the author.
+
+As for the relations of the young Belgians with England, van de Velde has described t us:Tey hiiv wa yW. in 8 paithal-ngli en wholarbeme  ot. He boh a
+
+![](images/e7e1760a9b964f5959187111f253c13563f7ac05f037c8fc4c59a3e1d2103bc5.jpg)  
+39. Munch: Madonna. 1895
+
+Bovy in Lièe made the frs piec furniure under English infunce Vey son then, so van de Velde writs, the foreign style was translated into something Belgian. In saing Horta and also Paul Hankar (1861—1901), the first to pick up the style of the rue de Turin. While this omission no doubt detracts from the historical value of van de Velde's account, the fact remains true that his was the most comprehensive and philosophical mind amongst the young architects and designers of Belgium.
+
+We have already met him as a theorist. As an artist he began by painting in the style of Bazon  the  the Neo-Imsts. It ws probbly whe he was hiry in1893, that hii  Wil Morris n iTey hm v painting and devote himself to applied art. He designed wall papers, brocades, decorations for books, furniture. The chairs shown in plates 42 and 43 were made for his own house at Uccle near Brussels in 1894 or 1895. They are Art Nouveau in the swing of their curves, but at the same time these curves are filled with a tense energy that is quite unlike the luxurious grace of Horta's lines. The ornament of genuine Art Nouveau is an aim in itself, that of van de Velde is meant to illustrate the function of the object or part of the object to which it is attached. Van de Velde postulates an ornamental art based on almost scientific laws of attraction and repulsion, and hence as far from arbitrariness as the ceation of the engneer. Here the connection between his admiration for the machine and his own artistic style becomes visible,10 a connection which most of his overdecorated works of about 19oo would hardly have led one to expect. And yet, at the time when his fantasticinterior of Haby's barber shop in Berlin was new (191), the public was greatly scandalized by the frank expsue of water pipes, gas pipes, and pipes for electric wiring. "You don't wear your guts like a watch-chain across your waistcoat either," was the comment of Berliners upon this odd mixture of functionalism and Art Nouveau.
+
+![](images/574e49bbe82c855959379edd1bd9bfab9a5455b90e25082d32ddc51c24b9dad8.jpg)  
+Sullivan: Auditorium Building, Chicago. 1888. Bar
+
+In the chairs for Uccle, the functional side of van de Velde's activities is predominant. The unity of grace and energy in such objects inspired E. de Goncourt to his excellent and prophetic term "Yachting Style," which he coined when van de Velde's works were first made known to the Paris public. Van de Velde's recognition was due to S. Bing, an art dealer from Hmurg whoe a hop ern  in the   rovenc n896. Bing together with the German art critic Meier-Graefe, had discovered van de Velde's house at Uccle, and he invited the artist to design four rooms for his shop. The effect of this on France was immediate: furious criticism on one side, led by Octave Mirbeau in Figaro, and enthusiastic imitation on the other. Adversaries warned all designers against succumbing to the spell, and pointed to the excellent commercial position which French industrial art had attained by remaining faithful to eighteenth-century traditions. Convinced friends of the new style emphasized the fact that several French artists had already for some time worked independently on similar lines. Emile Gallé (1846-1904) in the art of glassmaking, and Auguste Delaherche (born in 1857) in the art of pottery, are the most noteworthy names. Gallé had in fact begun to exhibit glass of an utterly un-Victorian delicacy and fantastic colors as early as 1884.11 Its shapes (pl. 44) were based on Gallé's deep belief in nature as the sole legitimate source of inspiration for the craftsman — something of the faith in the organic which we have met with in Sullivan and van de Velde.
+
+![](images/1e7c3275558373936e73443350ce1e942decc1e103616d252bd1446e5f2fe132.jpg)  
+1. Horta: No. 12 rue de Turin, Brussels. 1893. Staircase
+
+![](images/d8e67296a38680886f717d3f276602254a2db5464032b0ecd9febb83805e9fe9.jpg)
+
+![](images/bdec83bd1828bba81b4afe8a17945e88d796ca8429f32dade08b7583eff6a906.jpg)  
+42 and 43. Van de Velde: Chairs for his own house in Uccle, near Brussels. 189495
+
+The influence of Gallé's glass was certainly wide even before Bing opened his shop in 1896 and exhibited it consistently. For Louis Comfort Tiffany (1848-1933) had started to produce his Favrile Glass as early as 1893 (pl.45). One of Tiffany's designers, so Professor Hitchcock told the author, worked later for Bing.
+
+Between 1895 and the early years of the twentieth century, Art Nouveau had as great a vogue in France as in Belgium.13 The 190o Exhibition in Paris was full of it. The Métro built its new station entrances frankly Art Nouveau. They were designed by Hector Guimard (1867-1942), one of the most interesting architects in the movement. He was also responsible for the Castel Béranger, a group of apartment houses at No. 16 rue La Fontaine in Pasy,Par (p..Theseblocks, built n 8998aearchecturally less ewarin th H An infnur he shin was  welcme  me such  Lou Majore(1859 1926) and Augustin Daum (1854-1909) of Nancy, and to designers such as Charles Plumet (1861-1928) (pl.47) and Tony Selmersheim (1840-1916), as to unscrupulous manufacturers.
+
+In exterior architecture the most remarkable contribution of Art Nouveau is conneced w   T for façades a discovey of the late nineteenth cntury. A line can indeed be drawn from the cas-iron tracery made by the Coalbrookdale Iron Company and used for instance by Porden at Eaton Hall (1803) and Ecleston Church (1809)1 to the beginnings of ornamental cast-iron founding by the Prussian State Manufactory in 1804 which culminated in Schinkel's monument to the Berlin victims of the Napoleonic War (1821), on to the rich iron ornamentation of say the Coal Exchange by Bunning in London (1847-49)15 and the Oxford Museum (1857-60), and so to Horta's Maison du Peuple in Brussels of 1896-99, Paul Saintenoy's Old England store of 1899 also in Brussels and Frantz Jourdain's Samaritaine store in Paris of 1905. In all these cases it was the ductile nature of the metal which fascinated designers. Horta could not have achieved the free contortions in three dimensions at the head of the staircase in No. I2 rue de Turin, if he had not used iron.
+
+![](images/9a51253d790172c164d53b633adb27c23508131f5c4f5c4995f42d23918829c9.jpg)  
+4 Gallé: Glass vase. The Museum of Modern Art, New York 4Tiffany: Glass vases. The Museum of Modern Art, New York
+
+Whereas the dependence of France on Belgium in this respect as well as in all others regarding Art Nouveau seems now on the whole established,16 the interesting fact about Germany is that while she also joined the movement later than Belgium, she kept surprisingly intransigent in the works of her best artists. In 1895, that is two years before an exhibition, held at Dresden in 1897, made van de Velde known in Germany, a group of young German artists had started with aims similar to his.17 Only a few names can be given here.18 Otto Eckmann and Hermann Obrist are the two most interesting personalities during the years 1895 to 1898. After this date, the Viennese Sezession took the lead. Eckmann19 (1865-1902) had been a painter until 1894. Now he became converted, just like Morris and van de Velde. He burnt all his pictures and started as a designer. When, in 1895, Meier-Graefe succeeded in starting Pan, a magazine of modern art and literature in Germany, Eckmann designed the decoration of several pages (pl. 48). His ornament is completely diffeent fo Hortas and van de Velde' and ye equally riginal, mpresie, ndeesenative of Art Nouveau: a fat pattern again, with long curves graceully entwined, and again full of the joy of tracing many consonant lines.
+
+![](images/078db4f1de8c7b14133c312e26c4ee3b21a4392d38a93d2b361b05b96fb50abc.jpg)  
+4. Guimard: Castel Béranger, No. 16 rue La Fontaine, Passy, Paris. 1894-98
+
+But Eckmann stood on the side of Gallé and against van de Velde in his faith in nature. He does with leaves and stalks what van de Velde did by means of abstract art. This contrast between van de Velde and Eckmann and between Veldians and Eckmannites was already noticed in 19o3.2° It is not quite clear where Eckmann got his initial ideas. He did not know van de Velde when he began and probably Morris as well was unknown to him. Of connections with Gallé we have no information either. But it may be worth recording that Toorop exhibited in Munich in 1893, and that the famous Munch Exhibition in Berlin, which caused so much controversy, took place in 1892.
+
+In 1892 Obrist (1863-1927), whose later enthusiasm for machine art has already been mentioned, was in Florence starting an embroidery workshop, which was transferred to Munich in 1894. The ornament on his cushions and hangings (pl. 49) is again less abstract than that of the Belgians and the French. But his favorite forms are only vaguely reminiscent of particular forms in nature. They recall stalks as well as shells, the indented carapaces of reptiles as well as froth and foam His infuence on Endell is evident and of historicimportance. Any picture of Art Nouveau would certainly be incomplete without a discussion of Endell. However, his contribution to the Modern Movement proper is much more essential than to Art Nouveau. He — and for the same reasons two more of the most fascinating Art Nouveau designers, Olbrich in Vienna and Mackintosh in Britain — must be left to a later chapter.
+
+![](images/a09ad1a43c80e297326fe31955b12160b358df9b7c67ccca2691ff989f8c6917.jpg)  
+4. Plumet: Interior
+
+As far as Britain is concerned, it will have been noticed that she has not yet appeared at all in this survey of Art Nouveau design and decoration. The reason is that, although by some of her Arts and Crafts creations she helped to form Art Nouveau, she kept almost consistently away from it once it had been established.Walter Crane speaks of "that stange decorative disease known as L'Art Nouveau."' This is indeed noteworthy (and no doubt due to reasons of national character), for the functions of the Arts and Crafts in England and of Art Nouveau on the Continent were to a large degree the same. They are both the "Transitional' between Historicism and the Modern Movement.²3 As the Arts and Crafts in England, so Art Nouveau on the Continent has the merit of having revived handicraft and applied art. Undoubtedly the Arts and Crafts, in fighting for honesty of work and simplicity of form, fought for higher moral values than Art Nouveau. The Arts and Crafts represent a social endeavor; Art Nouveau is essentially art for art's sake. That is what led on i the evoutin  the powers. Ye Art Noveat least in e respt went beond the Arts and Crafts. It was emphatically against any period imitation or inspiration. The Arts and Crafts were not. England, true to her innate conservatism, tried to be modern and yet keep traditions. For this reason and no other, the Modern Movement could find its valid expression only outside England.
+
+Yet, at the time, these differences between England and the Continent were not seen by anybody. The two movements, Art Nouveau and the Arts and Crafts, appeared together wherever exhibitions of decorative art were held on the Continent and magazines of decorative art started.
+
+The very fact that so many magazines suddenly appeared and so many exhibitions suddenly took place and were well attended shows the vigor of the revival on the Continent. The firs o the new maazies wascurseEnglish, The Studi, fundd in 189jut before England's influence on the Continent set in. Amongst the artists discussed in 1893 and
+
+![](images/7235ccc630344ab66b656e582b09437f2c490efde47191c0d24a3dc7a3ffc56c.jpg)  
+48. Eckmann: Decoration of two pages in the magazine Pan. 1895
+
+1894, the following may be noted: Beardsley, Crane, Voysey, Toorop, Khnopff. Other articles dealt with new furniture at Liberty's, the renaissance of pottery in France, the Munich Sezession, the New English Art Club. The first of the Continental magazines, Pan, came out in Germany in 1895. Jugend and Simplizissimus, both mainly satirical papers, followed in 1896. In 1897, Art et décoration and L'Art décoratif were started in France, Deutsche Kunst und Dekoration and Dekorative Kunst in Germany. Again in 1897, the Revue des arts décoratifs in Paris was reformed, and in Vienna one year later Kunst und Kunsthandwerk and Ver Sacrum, the magazine of the Vienna Sezession, began to appear.25 Some examples of what these periodicals discussed may help to give an impression of the manifold interests at that moment. In its first years Pan printed poetry by Verlaine and Mallarmé, by Dehmel, Liliencron, Schlaf, illustrations by Klinger, von Hofmann, Stuck, decoration by Eckmann, Th. Th. Heine, articles on Munthe, Obrist, Tiffany. In Dekorative Kunst and Deutsche Kunst und Dekoration we find articles on English lamps, Copenhagen porcelain, Voysey, essays by Endell and Bing, illustrations of works by van de Velde, Hankar, Lemmen, Serrurier, Plumet, by Brangwyn, Ashbee, Cobden-Sanderson, and by Melchior Lechter, the illustrator of the Stefan George group. In Art et décoration, Horta and van de Velde are discussed, as are La Libre esthétique in Brussels, the English Arts and Crafts, Lalique's early glass, and furniture by Plumet and Selmersheim. At the same time The Studio illustrated the work of Tiffany, Plumet, Aubert, Selmersheim, and some German representatives of Art Nouveau.
+
+In thehisy  ex, Engand was aain frs in he el. The Art n Cra Exhibition Sociey showed works  risihandicrafts i188 1889,1890,1893189On the Continent, the most adventurous art exhibitions of that time were brought together by bynoEnsor WhisLier  rl8 Raffi Uhde
+
+![](images/f8689603be47d094ed8efcfec403194340120fad1a72ab9ef1417ea0db73b737.jpg)
+
+Obrist: Embroidery. 1893
+
+Kröyer in 1885, Monet, Renoir, Israels, Monticelli, Redon in 1886. The concurrent appearance of men like Renoir and Whistler on the one hand, and Ensor and Redon on the other, show hoageliIsin-Ini w h on foreign countries. In 1887 the XX had asked Sickert and Seurat to exhibit, in 1888 Toulouse-Lautrec and Signac, in 1889 Gauguin, Steer, and Klinger, in 1890 Cézanne, van Gogh, Segantini, Sisley, and Minne, in 1891 Crane and Larsson, In 1892 —an extremely telling factthe exhibition included for the first time some stained glass, embroidery, ceramics (Delaherche), and illustrated books (Horne, Image).After this bold beginning, the exhibition of 1894 contained, besides works of Beardsley and Toorop, wallpapers and fabrics by Morris, silver by Ashbee, books of the Kelmscott Press, posters by Lautrec, and a .complete studio interior furnished by Serrurier.
+
+Only two years after this astonishingly complete show of the new tendencies, the first exhibitions on similar lines were held in Germany and France. In Germany Munich took the lead, reserving two small rooms in the Glaspalast Exhibition of 1897 for applied art. Amongst the artists represented there were Eckmann, Endell, Obrist, Th. Fischer, Dülfer, and Riemerschmid. On a larger scale was the Dresden Exhibition, held also in 1897, to which the organizers had brought whole sections of Bing's shop. This shop, which has already been mentoned more than once, marks the beginning in Paris. The date of its opening was 1896, and its name L'Art Nouveau gave the whole movement its name, at least in England and France. The German term Jugendstil was taken from the Jugend which, as has been said, was started in the same year 1896; and the Italian term Stile Liberty comes, curiously enough, from Liberty's, the furnishers' anddrapers'shop, then in the Strandin London which during the nineties went in for materials and colors suitable for Art Nouveau schemes. So by sheer chance liberty, youth and novelty appear together in the names given to this remarkable if brief and transitory movement.
+
+## Engineering and Architecture in the Nineteenth Century
+
+The Modern Movement has not grown from one root. One of its essential sources, it has been shown, was William Morris and the Arts and Crafts; another was Art Nouveau. The works of the nineteenth-century engineers were the third source of our present style, a source as potent as the other two.1
+
+Engineering architecture in the nineteenth century was largely based on the development o iron, frst as cast iron, then as wrougt iron, later as steel. Towards the end of the century reinforced concrete appeared as an alternative.
+
+The history of iron as a material of more than auxiliary usefulness in architecture begins when the inventiveness of the industrial revolution had found out how iron could be producedindustrially, that is after 175. Attempts were soon made to replace timber by iron. The Grand Salon in the Louvre in Paris received its iron roof construction in 178o, the Théâtre Français in 1787-90, and in 1806 Napoleon wanted his Temple to the Glory of the Grande Armée to banish all such ephemeral materials as wood and be constructed entirely of stone and iron. Already in 1802 Ludwig Catel in Berlin had suggested an iron roof for the projected National Theatre. In London Smirke's British Museum has in its earliest part, the King's Library, iron roof beams dated 1824. The iron beams in Wilkins' University College, London, are of 1827-28. And as for churches, an iron roof went in above the stone vaults of Southwark Cathedral, also in London, probably between 1822 and 1825, and at Chartres Cathedral in 183641.
+
+In all these cases iron was chosen instead of wood for purely practical, not for esthetic reasons. The same is true of the architecturally much more important development which begins with Benyon's and Bage's fax-spinning factory at Ditherington, Shrewsbury, built in 1796 (pl. 50), mentioned by Thomas Telford, the greatest of British engineers, in 1801,3 and happily still in existence. It is five stories high, with brick walls, and inside cast-iron supports throughout, cast-iron beams, and shallow brick vaults. Timber is thus entirely avoided— obviously a tremendous advantage in a factory. The new idea — unfortunately we don't know whose it was, though we may guess at Telford himself or at John Wilkinson or Abraham Darby, the iron-masters of nearby Coalbrookdale— caught on at once. Dr. Giedion has published the designs by Boulton and James Watt for a seven-story cotton mill at Salford near Manchester, made in 18o1. The names of the clients were Philips and Lee. A factory in the Stroud Valley in Gloucestershire of 1813 has been published in The Archicral Review; Mr. Hamilton has given details of one built at Leeds also for Benyons, probably by John Favey about 1816; and von Beuth, the Prussian Minister of Commerce, who traveled in England in 1823, saw plenty of factories of eight and nine stories, with paper-thin walls, iron columns and iron beams.5
+
+![](images/1482a82b3f3614bf6d901201f9707ecc9f96b635ead714f99b79254c0fcb8279.jpg)  
+B BgFlaxSi yhSry 1796
+
+However, as long as these members of iron remained inside, they could make little difference to the consciousness of so façade-minded a generation of architects as that of the midnineteenth century. The admission of iron to the front of utilitarian buildings was due to America, according to Dr. Giedion. He rediscovered the warehouses on the river front at St. Louis and discussed and illustrated examples dating from 1850 to 1877.6 He also drew attention to James Bogardus and his pamphlet of 1856 on Cast Iron Buildings in which house fronts with a cast-iron frame are advocated. However, earlier still we find commercial buildings in New York making use of the same innovation, for instance on Gold Street in 1837 (pl. 51). Bogardus' building for Harper Bros. in New York dated from 1854. Professor Hitchcock draws attention to neglected British examples of the same type, especially the Jamaica Street Warehouse at Glasgow of 1855-56 (pl.51a), an all-cast-iron structure as bold as Bogardus' and quite probably independent of him, and the Oriel Chambers at Liverpool of 1864-65. Of London George Aitchison, an architect himself busy designing commercial buildings, could say in 1864 that "one rarely sees a large building being erected without iron columns and iron girders."8
+
+However, in all these structures, except perhaps for the Oriel Chambers, there is not yet the technique now current of carrying brick or masonry walls on the members of the iron skeleton. The earliest examples of regarding outer walls only as an in-flling between the visible iron stanchions and beams are a shot tower in New York built about 186o-65, and araieevatorin BrooklynThe werewear told "cntucs acaston rark filled in with a light wall of brick, the iron showing on the outside." In Europe the warehouses of the St. Ouen Docks in Paris by Préfontaine and Fontaine were also apparently iron frame with brick used only to fill in,1 and so was the Chocolat Menier Factory of 187172 at Noisiel-sur-Marne by Saulnier.
+
+![](images/b7cba42853df2e4a82ab5fbadebf4f7190e028ebe90a477e315b1858d58baa06.jpg)  
+51. Lorillard: Building on Gold Street, New York. 1837
+
+Even regarding such buildings, however, one cannot say that metal was regarded as a visual asset. It is hard to decide when this positive attitue frst appeared, that is, when designers began to like the look of iron structures. One is inclined to say in iron bridges, because to us their resilience and elegance, made possible only by the use of iron, are estheticyThp n bil the e  7  T. F. Priarnd built y Aa Dar. Itc il I the Sunderland Bridge, built between 1793 and 1796, designed, it seems, by Tom Paine (who, while in America between 1774 and 1787, had planned to bridge the Schuylkill Rivr bn briThis ha  span fee  as the fe Ca dale.Five years after its completion,Thomas Telford suggested replacing London Bridge with a cstron tructuretobetrown across the ivr nnesleek sweeo feet (pl3).
+
+![](images/5a10b65505d20db9237348d700525c2d58a46b1ef7ddc700c384391dbffcca78.jpg)  
+51a. Jamaica Street Warehouse, Glasgow. 185556
+
+Parallel with this development of the arched brige runs that of the suspension brige. The Chinese had known bridges suspended from iron chains, and they were illustrated in Europe as early as in Kircher's China . . . illustrata of 1667 and in Fischer von Erlach's Historical Architecture of 1725. This book was translated into English in 1730, and about ten or twelve years later a bridge which made use of this Chinese principle was built across the river Tees in North England, two miles above Middleton. It was 7o feet long, but little more than  feet wide and chiefly crossed by miners on their way to work. The gangway was, we are told in 1794, unpleasantly restless and "few strangers dare trust themselves"' on it. After this the problem of the suspension bridge seems to have been left in abeyance for sixty years, until James Finley (died in 1828) made a fresh start in America. His bridge across Jacob's Creek between Uniontown and Greenburgh had about the same length as its English predecessor and dates from 18o1. Finley took a patent for suspension bridges in the same year and built eight more between that year and 1811. The longest of them crossed the cataracts of the Schuylkill and had a span of 3o6 feet.11
+
+![](images/68bc101399f71f0cb40315b2fbdaebb5e3c1afa666e71ee59821575ba0425a07.jpg)  
+52. Darby and Wilkinson: Coalbrookdale Bridge, England. 177579
+
+When England reappeared in the story of the suspension bridge, with Telford's design of 1815 for the Menai Bridge, he no doubt knew of these American developments. The Menai Bridge has a main span of 579 feet and two side spans of 260 feet each and is admirably clear in appearance. Telford was followed by Captain Samuel Brown who had taken a patent for chain bridges as early as 1817. His Union Bridge at Berwick-on-Tweed was built in 1819-20 with a main span of 449 feet. The Brighton Chain Pier followed in 1822-23 and then many others in England and on the Continent.
+
+The most impressive of all is probably the Clifton Suspension Bridge at Bristol (pl.), designed in 1829-31 by Isambard Kingdom Brunel (1806-59) and begun in 1836. It seems hardly admissible that the beauty of such a structure should be purely accidental, that is the outcome of nothing but intelligent engineering. Surely, a man like Brunel must have been susceptible to the unprecedented esthetic qualities of his design——an architecture without weight, the age-old contrast of passive resistance and active will neutralized, pure functional energy swinging out in a glorious curve to conquer the 7oo feet between the two banks of the deep valley. Not one word too much is said, not one compromising form introduced. The colossal simplicity of the pylons, Greek Revival in their meaning, but strangely modern in their appearance, is a superb counterpoise to the transparency of the i cntuci.Ony c ba su a ul Eur ctea the time when Amiens, Beauvais, and Cologne were built.
+
+Brunel may not have thought of his designs in such terms, or in terms of art at all, and at ta    T convincing. This is true of John Wilkinson's cast-iron pulpit of about 179o at Bradley in Staffordshire and alsohiswn proudfuneal monument at Lindale near Grange-overSands (188), and of that cast-iron tracery of the late eighteenth and early nineteenth century which appears in the churches of Shropshire and the surrounding counties, not too far from the Severn Valley iron-works (pl. 54a).12
+
+![](images/6803dcbadcad6f134d9b3586481669c0bc582c55658fe00a95ca8984d563bb3c.jpg)  
+Telford: Design for a cast-iron bridge to replace London Bridge. 1801
+
+![](images/7ec332f34751592556d71a1393969cdf6d11176c312e2f94170630687dbca2b3.jpg)  
+Brunel: Clifton Suspension Bridge, Bristol. Designed 1829-31. Begun in 1836
+
+Where iron columns occur in churches and public buildings, on the other hand, it can as a rule be said that the material was chosen for practical and not for visual reasons. Here once more England was leading. At St. Chad's in Shrewsbury by George Steuart there are two orders of slim columns encased in timber. The church is dated 1790-92.18 Unconcealed iron appeared on a smaller scale to support galleries of theatres as well as churches. The earliest theatre recorded is Smirke's Covent Garden Theatre in London of 18o8-o9. The J Liverpool, who induced young Thomas Rickman to make extensive use of iron at Everton
+
+![](images/47421f253a1dd4cfa349ceadf326c06ff99bfecb04b786ac0141a6d35ed7ec25.jpg)  
+54a. St. Alkmund, Shrewsbury. 1795. Cast-iron traccry
+
+Parish Church near Liverpool in 1813-14 and at St. Michael Toxteth in 1814.14
+
+A few years later as distinguished an architect as Sir John Soane recommended it in his Memorandum to the Church Commissioners of 1818,15 but it was to be used without dis-J N  qu to u a way that the public should take it for stone. Thus the Doric columns of Carlton House Terrace (begun in 1827) facing St. James' Park in London were of cast iron, and so were those of the Regent Street Quadrant (begun in 1818).16
+
+However, there is at least one case in which Nash seems to have treated iron deliberately as iron and enjoyed the elegance which it can give to a support. This was in his famous extravaganza, the Pavilion at Brighton, where the main staircase is entirely of iron, and in the kitchen thin iron shafts support the ceiling. At the top copper palm leaves sprout out of them. That was in 1815 and 181821, respectively, important dates, since so far as we can see, they mark the first appearance of unmasked iron in connection with royalty.17 The bulbous dome of the Pavilion also has a framework of bent iron girders. The earliest example of metal with glass in a dome was the Halles au Blé in Paris designed in 18o9 and built in 1811. This achieved an even daylight inside the building which could not otherwise be obtained. At the same time the designers of conservatories began to realize the advana   e red to the Horticultural Society in London by Si G. S. Mackenzi in 1815. It was a nce taken p by the horticulturist T.A.Knight of Downton Castle in Shropshie brothr of the mom Richar PynKnt, anbyherder n juralist Louo. It was
+
+![](images/9bd404a7c596a1d4236dd76922277061f372f10c785794e3fb9f5cdf2a84ccf9.jpg)  
+Loudon: Designs for conservatories. 1817
+
+Loudon who in 1817 and 1818 suggested the shapes which then became usual (above). By 183o there existed in England quite a number of large hothouses with curved roofs or domes, such as the circular conservatory at Breton Hall in Yorkshire, which was Io feet in diameter and 6o feet high.18 So the importance of the Paris Jardin des Plantes has been rather overestimated. This was followed by the Chatsworth Conservatory which Joseph Paxton (1801-65) built for the Duke of Devonshire in 1837-40 and which was 277 feet long, 132 feet wide and 67 feet high.
+
+With it the stage was set for the Crystal Palace of 1851, home of the first international e   e sion bridges. But before it is reached, a few other developments must for a moment be taken into consideration. Iron and glass have obvious advantages also for market halls and railway stations, two types of building which the fabulous growth of populations in the cities of the early nineteenth century and the fast-growing interchange of materials and products between factories and cities brought to the fore. The Market Hall by the Madeleine in Paris was of an elementary iron and glass construction as early as 1824. It was not vaulted, but in 1845 Hector Horeau suggested, for the rebuilding of the Central Market Hall in Paris, a glass vault of 3oo foot span. That would have surpassed considerably the boldest of the early English railway station vaults: those of New Street, Birmingham of 1854 by Cowper which spanned 212 feet by means of sickle girders and then those of St. Pancras, London, by W. H. Barlow, of 1865, with a 243 foot span.19 The Market Hall in Paris as carried out by Baltard & Callet in 1852-59 is also of glass and iron but not vaulted and of no special merit.
+
+In the Crystal Palace the vaults are not the determining factor either. What makes Paxton's building the outstanding example of mid-nineteenth century iron and glass architecture was rather its enormous size — 1851 feet long, that is, much longer than the palace of Versailles — and the absence of any other materials. This, even Paxton, the outsider, would probably not have ventured, if he had not worked for a temporary building. However, the fact that the Crystal Palace was re-erected in 1854 at Sydenham near London for a more permanent purpose proves that the new beauty of metal and glass had caught the fancies of progressive Victorians and of the public at large. In architectural literature there are, however, only a few who hailed Paxton's courage enthusiastically, notably that curious character, Thomas Harris, who wrote in 1862 that in the Crystal Palace "a new style of architecture, as remarkable as any of its predecessors, may be considered to have been inaugurated." And he summed up: "We may consider that iron and glass in conjunction have succeeded in giving a distinct and marked character to the future practice of architecture."2o Ruskin was rather more doubtful of iron. He wrote on the one hand: "The time is probably near when a new system of architectural laws will be developed, adapted entirely to metallic construction," but on the other hand, he called the Crystal Palace itself nothing but "a greenhouse larger than greenhouse was ever built before"' and the final proof that higher beauty was "eternally impossible"' in iron.21 In fact, the Seven Lamps of Architecture begins with a definition of what "separates architecture from a wasp's nest, a rat hole, or a railway station.' It is quite obvious from these and many other passages that Ruskin did not know where he stood, and where architects should stand. Sir George Gilbert Scott wrote in 1858 that it is seevident that thi triump o mode metalicconstructin opens ut a prfectly new field for architectural development." However, he felt that “hitherto it has usually been treated as a mere matter of engineering, and comparatively little done to bring it within the province of art." Of the use of iron in the Crystal Palace he wrote that he viewed it "as an exceptional expedient, well suited to its own purpose." Of suspension bridges he said that it "would puzzle the most ingenious bungler to render [them] unpleasing."22
+
+But in spite of such qualified or unqualified appreciation of the potentialities of metal, one must not expect to find it displayed in the major works of Scott or his equally successful colleagues. Iron beams they may occasionally use, even with some architectural judgement, as for instance in Butterfield's group of buildings by All Saints, Margaret Street, London; but more than that we find very rarely. The cast-iron columns and lavish decoration of the London Coal Exchange by Bunning, 184749, are the most spectacular exception.Burges, fond of eccentricity, has long Early English iron piers in the Dover Town Hall, and the Oxford Museum by Deane and Woodward, 1857-60, has besides its capitals, carved by men chosen for medieval skill and conscientiousness, tall iron shafts and much iron decoration in Gothic and naturalistic forms.
+
+But no leading architect in England was as convinced of the mission of iron as was Labru n France, who dsned the Bibliotèqe t. Genvive in 183 with ron shafts way statin. This progressive attitude was hailed by some and attacked by many more.
+
+![](images/27eafb0e1b71be8c522909fa283e643eacde9d2311a5dddcd4cc874441de05f1.jpg)  
+5Boileau: St. Eugene, Paris. 185455
+
+Théophile Gautier's praise of iron in 185o—before the Crystal Palace—is more enthusiastic than anybody else's at that time. He wrote: "Mankind will produce a completely new kind of architecture . . . at the moment when the new methods created by . . . industry are made use of. The application of iron allows and enforces the use of many new forms, as can be seen in railway stations, suspension bridges and the arches of conservatories." A strange remark to come from the poet of l'art pour l'art. It shows the remarkable confusion between social and esthetic considerations which characterizes art criticism about the middle of the nineteenth century. Was Gautier perhaps less moved by faith in the industrial age than by delight in the forms of engineering structures and machinery, a delight such as is found also in Turner's Rain, Steam and Speed or Menzel's Rolling Mill?
+
+Stranger still, however, is the championing of iron as a building material by Viollet-le-Duc, the restorer of so many French medieval churches and the architect of the sham medieval castle of Pierrefonds. Yet he recommended in the first volume of his Entretiens. written in 1859-6o, that iron should be used for spanning rooms for large assemblies of people, and ten years later, in the second volume, he added a great deal more on iron. By then he pleaded thus: "Previous ages have had their several systems of construction; our age alone possesses railways, steam engines, and appliances of superior force and strength. For what reason then do we adhere to the method of building in vogue during the last century . . .? Why reject methods which, developed with the help of the powerful appliances we possess, might produce novel features." Such novel features as Viollet-le-Duc designed himself and illustrates in the Entretiens are curious enough, developed out of a confusion between his clear vision that iron would allow "feats of construction hitherto unattempted" and his unconquerable faith in the ultimate superiority of masonry. Railway stations and market halls he calls "after all only sheds' and never appears really in sympathy with the work of those few architects of the fifties in France who in alliance with Labrouste welcomed iron unqualifiedly.23
+
+![](images/4026d55bf3dffff6e23e9376bce20e173ec3fbcbecce254885149a83d9554951.jpg)  
+Dutert and Contamin:Hall des Machines, Paris International Exhibition. 188
+
+The names to refer to are Baltard, the architect of the Market Hall, who built the church of St. Augustin in Paris in 186o-7I with iron piers, arches and dome, and, much more successful, L. A. Boileau (1812-96) who wrote book after book on the advantages of iron in building and showed at St. Eugene (185455) and in other churches not only iron shafts but also iron rib vaulting (pl. 56).24
+
+Before we can proceed beyond the 185o's or 186o's, we must sum up. Iron had appeared in architecture as a welcome structural material to be used but not to be displayed — and it was still used in that spirit for the construction say of the dome of the Washington Capitol in 1855-65. Where it appeared in the exterior of buildings in other than ornamental conexts, i uncion was lo partyutiltnonstnc ntheSt.Lou iv ron twaounfuiliLon Lver n GlaInsili i N aL  Bully  y v . I  wan   se  h bp  nn ts  e i toe   th scale ever growing, to the Brooklyn Bridge of 187o-83 with its main span of 1596 feet and the Firth of Forth Bridge of 1883-89 with its 1735 foot span, of we must go to the iron and glas vul, S.n nhat o hmi -uy vul e Halle des Machines at the Paris International Exhibition of 1889 (pl. 57). This had a height of 150 feet, a length of 140o feet, and a span of 385 feet; it must have conveyed an unprneesTheillti ho  c ease with which the steel arms spring from the supporting shafts. The pairs of arms are not joined together at the top of the vault; they just touch each other by means of the same narrow bolts used at the bottom of the shafts.
+
+![](images/73c183ba5136457c2f28443f3e26c523b39efbdabc1ef96f52ccabae73e4050a.jpg)  
+58. Eiffel: Eiffel Tower, Paris. 1889
+
+![](images/5b96073b3c27268e26c53da953d2f33f864de8ffddc690a4612d2b41ee0d4024.jpg)  
+Sullivan:Wainwright Building, St. Louis. 189091
+
+Dutert was the architect, and Contamin the engineer of this hall. Their names are hardly known to historians of architecture. The healthy state of anonymity, a matter of course in medieval building, is preserved here, while it was lost in architecture, owing first to the Renaissance and then to the Romantic conception of the artist and his individual genius. Even now, Scott, Garnier, and Semper are better known than Telford and Brunel, Polenceau, Horeau, and Henri de Dion. The only engineer whose name has remained famous is Gustave Eiffel (1832-1923), and in this case it is the name of one work which has made it immortal. Eiffel erected the Eiffel Tower for the same International Exhibition of 1889 for which the Halle des Machines was built. He had already tried out the construction of those sickle-shaped girders that form the base of the tower, in several bridges which are among the boldest of the century, for instance the Duoro Bridge (1875) and the Garabit
+
+![](images/63100c329315033da952166e25fe405b19e2572bf7a5d02ba3847243918b79bf.jpg)  
+6Burnham and Root: Monadnock Block, Chicago. 189091
+
+Viaduct (1879). The overwhelming effect of the Eiffel Tower (pl. 58) depends on its height of rooo feet—unsurpassed until after the First World War —and also on the elegance of its curved outline, and the powerful yet controlled energy of its élan.
+
+The Eiffel Tower would not have been erected and become the idol of the Parisian and the foreign visitor, if steel by then, that is by 189o, had not been established. So from 1890 on, the most advanced architectural thought and the visual qualities of progressive buildings can no longer be fully understood without taking steel into consideration. In Europe its first effect on the esthetics of architecture has already found mention in the preceding chapter: the all-glass façades of Horta's Maison du Peuple of 189699 and the buildings following its example. In America the effect was even more fundamental and influential. It is connected with the coming of the skyscraper.
+
+Nowadays, we no longer call every tall building a skyscraper. The definition which has become accepted makes the essential quality of the skyscraper a steel skeleton with outer and inner walls functioning only as screens. Recent research has established with great precision the various stages which converted the tall office building with weight-bearing walls into the skyscraper.26 They do not concern us here in detail.
+
+All that need be said of the prehistory of the skyscraper is that tall office buildings were not possible before the advent of the elevator (1852) and more particularly the electric elevator (invented by W. von Siemens in 188). A height of 349 fee was reached, in spite of solid masonry walls, by the Pulitzer Building in New York in 1888-89. Meanwhile, however, the Home Insurance Building in Chicago by William Le Baron Jenney (1832- 1907) had been erected in 1884-85 with a genuine skeleton construction, and other Chicago office blocks such as the Tacoma Building of 1887-88 by Holabird and Roche improved Jenney's innovation at once.²7 But in their appearance neither the Home Insurance nor the Tacoma Building nor the other earliest Chicago skyscrapers show features in advance of the customary masonry towers put up before. It was left to Sullivan to pay attention to the voice of steel. The result is the Wainwright Building in St.Louis (pl.), a milestone in the evolution of the Modern Movement. It was designed in 189o. Mr. Morrison has pointed out rightly that its façades do not by any means show its construction in its entirety. The masonry strips at the corners are still wider than the other uprights and all uprights are of the same width, although only evey scond o them corponds to  steelstanchion. The top story with its bul's-eyes and the far projecting top cornice with its lush Sullivanian Art Nouveau decoration also are reminicent of stone traditions. Yet Sullivan had understood that te  ba e he put it, that e must "take our cue from the individual c which requires a window with its separating pier, its sill and lintel, and without more ado, make them all look alike, be c thlike Hec hn plcy y n I  uln h this book.
+
+Nor was he the only architect in Chicago to have such a strong feeling for the character ing the Marshall Field Wholesale Building in 1885, a massive block, not a skyscraper at all, but a monument to commerce and industry erected regardless of all the paraphernalia traditionally connected with monumentality. Its round arches are the only allusion to the architect's Neo-Romanesque past. The spirit is wholly original, and must have impressed enormously not only Sullivan but also Burnham and Root, when they built the Monadnock Block in 1890-91 (pl. 60). This building has neither any Richardsonian forms nor does it makus  aseseeon. I is thelas  the ba ows yeinping refusal to mitigate its sheer lines by any moldings and any ornament, it is entirely of the new age. To that extent can technique and esthetics be at variance at any one moment even in so consistent a development as that of the Chicago School.
+
+![](images/7afdbbb35ad84975ad9ca76b640a697822bbd56e1d8eb03f204632185b08ef55.jpg)  
+61. De Baudot: St. Jean de Montmartre, Paris. Begun in 1894
+
+In the cellars of the Monadnock Block and other American office buildings concrete was used, though not as a feature of architectural design. Actually, the strengthening of building foundations was one of the first tasks to be entrusted to this new material, which was to become so significant for the twentieth century. To complete this chapter on the achievements of the engineer before 19oo, a few facts about the invention and early application of ferro-concrete must be given.2 The first patent was taken out by Monier in 1867. It concerned the use of a kind of ferro-concrete for plant-pots. In the same year Coignet adopted the new composition for the cellars of the Paris Exhibition buildings. The next step was the introduction of concrete into building proper. The scientific experiments and calculations leading to the use of concrete for girders are mainly due to two German engineers, Wayss (1884) and Koenen (1886). They endeavored to find the disposition of iron and artificial stone which would make the best use of the distinctive qualities of both. Proceeding consistently from this research, Hennebique arrived in 1892 at his patent for compound beams — a system of molding in one piece the supporting girders and the beams across the ceiling. Further patents followed until, from 19oo on, concrete became a serious competitor to steel. The first building of which the effect is based entirely on concrete is Anatole de Baudot's church of St. Jean de Montmartre, begun in 1894 (pl. 61). As it stands today, it is proof not only of its designer's audacity — for in church architecture there is always a special resistance to innovations—but also of his outstanding sense of spatial possibilities. The treatment of piers, arches and ribs may have its source in the use made of iron by Boileau, yet the bareness and sheerness of the supports, the unmitigated scaffolding effect of the concrete beams passing forward and backward and across, and the glazing of pendentives and lantern achieve an austere directness which may well be called Gothic, while at the same time heralding the spatial intricacies of Mackintosh and Le Corbusier. Between the completion of this building and the present day, France has remained the leader in the development of concrete architecture.
+
+One more remark is necessary before this account of engineering architecture can be closed. Ruskin, Morris, and their followers hated the machine and consequently the new steel and glass architecture, which, according to Ruskin, is "eternally separated from all good and great things by a gulf which not all the tubular bridges nor engineering of ten thousand nineteenth centuries cast into one great bronze-foreheaded century, will ever overpass one inch of."30
+
+Ruskin's reasons for this frantic scorn were of a primarily esthetic nature, those of Morris were entirely social. Morris was unable to appreciate the positive possibilities of the new materials, because he was too intensely concerned with the negative consequences of the industrial revolution. He saw only what had been destroyed: craftsmanship and pleasurable work. But no new perid inhuman civilization has ever arisn without an initial phase in whic peval k pla pha  elly p for contemporaries.
+
+The engineers, on the other hand, were too absorbed in their thrilling discoveries to h   Mo voce Owing to this antagonism, the two most important tendenci innineteenth-centuy art and architecture could not join forces. The Arts and Crafts kept their retrospective attitude, the engineers their indifference to art as such.
+
+The leaders of Art Nouveu were the first to understand both sides. They accepted the
+
+It is essential to understand the Modern Movement as a synthesis of the Morris Movement, the development of steel building, and Art Nouveau. The account of these three principal lines of progress, which has been given in this and the preceding chapters, will nowable  o  ai p  th bo he Mde Mntel, as it grew in England, the United States, and on the Continent.
+
+## England, Eighteen-ninety to Nineteen-fourteen
+
+We must now return to English architecture and design. At the end of the eighties, as was shown, Morris was the leader in design, Norman Shaw in architecture. The deliberate o18 and the style of the initiators of Art Nouveau, was not made and not desired in England. So it seemed appropriate to leave until now the discussion of the English development from 1890 onwards, though at least one English architect had ventured on a new style of an original and highly stimulating nature, before Art Nouveau had begun. This was C. F. Annesley Voysey (1857-1941).1 It has already been said that his designs were a source of inspiration to Art Nouveau. Van de Velde told the author of the revolutionizing effect of V' walpapers on hi and hisfrinds. His wors were: "It was as i Sprig had come all o a sudden." And indeed we have only to look at one of Voysey's wallpapers printed in the nineties (pl.62) and one of his somewhat later printed linens (pl. 63), to see the great difference between him and Morris. Not that he aimed at novelty; his modifications and progressiveness, it would seem, were almost unconscious. Doctrines and hard-and-fast rules were not his way. In the controversy between supporters of stylized and of naturalistic ornament, he did not take sides. For although, in an interview in 1893, he declared realism to be unsuitable for decoration, he was inclined to admit plants and beasts in patterns on condition that they be "reduced to mere symbols." This may seem in accord with Morris, but there is a distinctly new note in Voysey's urgent desire to "live and work in the present."
+
+So he arrives at patterns which are happily near to nature, and at the same time full of diaThe hap r yiiit ne, with or without leaves, are favorite motifs of Voysey's, and there is an unmistakable kindliness in his childlike stylized trees and affectionately portrayed birds and beasts. A comparison between these wallpapers or linens and Morris' Honeysuckle (pl. 6) shows what a decisive step has been taken away from nineteenth-century "historicism' into a new world of light and youth.
+
+It is known that everywhere in English cultural life a longing for fresh air and gaiety expressed itself at the end of Queen Victoria's reign. The success of Liberty's about 1890 depended largely on their Eastern silks in delicate shades and their other Chinese imports. The history of the part played by China and Japan in European art since 186o has not yet been written. It would be very interesting to show the influence of the East appearing here in a loose technique of painting, there in the greatest finesse of line and contours, there again in clear, soft and pure color, and in yet other works in flat pattern effects. Owing to the unique synthesis of ornamental and "Impressionist"' qualities in Eastern art, both the Impressionists and, at the opposite pole, the originators of Art Nouveau, could use what Japanese woodcuts and Chinese pottery had to teach them. The Impressionist went to Japan for a lightness that he took for plein air, for a sketchy handling of the brush, and a flatness of surfaces, which he wrongly interpreted as meaning the shadelessness of strong sunlight. His adversary, more justly, stressed the high degree of stylization in every line drawn and every surface decorated by an Eastern artist. That is why Japanese woodcuts can appear in the backgrounds of Manet's Zola and Degas' Tissot as well as van Gogh's Père Tanguy and Ensor's Skeleton Studying Eastern Paintings. The case of Whistler is especially instructive; for it proves that in the same painter at the same time both aspects of the Eastern style might be reflected. The influence of Eastern color, Eastern delicacy, and Eastern composition on his yet so clearly Impressionist portraits is evident and has no need of the Chinese costume in the Princesse du Pays de la Porcelaine to stress it.4 At the same time however, Whistler could make this same picture the chief accent of a room decorated in a style which, although not free from traces of "historicism," obviously pointed forward to Art Nouveau,5 Moreover Whistler was the first artist to plead for rooms with completely plain walls in light colors. In 1878, he decorated his own house in Tite Street, Chelsea, in a scheme the principal effects of which were white and rich yellow walls, some pieces of Chinese porcelain, and a few simply framed pictures and etchings.6 In trying to imagine such rooms, we feel ourselves at once in the early years of the twentieth century, no longer in the days of Morris and Ruskin. And yet, in theory (if that is not too heavy an expression for his casual aperçus) and in technique, Whistler was as complete an Impressionist as anybody, and therefore an object of passionate hatred to those who worked for a new outlook on life and art.7 There is no need to go again into that unpleasant case, Whistler versus Ruskin. Morris was bound to follow Ruskin. This was amatter of principle primarily, but also amatt of taste. The man who regarded Burne-Jones as the great living painter of the late Victorian era could certainly not appreciate Whistler's superficial (truly superficial) pictorial impressions.8
+
+One would expect to find the same contrast between the disciples of the Arts and Crafts and the Impressionists as between Morris and Whistler. However, it is a fact which has already been mentioned in connection with the exhibitions of Les XX, that on the Continent the introduction of Impressionism, and of the new decorative style in both its forms, as Arts and Crafts and as Art Nouvean, took place concurrently and were both due to the same persons. Meier-Graefe, who was one of the first to discover van de Velde, wrote books on Renoir and Degas, and also on van Gogh and Gauguin. And even today most people interetnartawareo the eclabl ifenc bween Iessnism d and the doctrine of Morris and all his followers. Yet, it is so obvious that the antithesis, Impressionism versus Arts and Crafts, is but the artistic expression of a far more comprehenvual be ns.Oe  h of rt as a apid endering o momentary surfc effecs, on the oher as an expresson of what is final and essential; on the one side there is the philosophy of Art for Art's sake, on the other a renewed faith in a social message of art. The Impressionists stand for the exquisite luxuries of late nineteenth-century Paris, the Arts and Crafts for "roughing it" in the spirit of that Youth Movement which is so significant for the years around 19oo and after, and can be traced in Bergson as much as in the foundation of the first reformed public schools in England: Abbotsholme (1889) and Bedales (1892).
+
+![](images/c94f206b41071df8f9af0d03012544796f6dbbf4a3a08949090cf697f847a8fe.jpg)  
+Voysey: Design for a wallpaper. c.1895
+
+![](images/6ebba7a149b19550a20bf8ec3b2e9334d50ce5bc3b2260f27288465330344628.jpg)  
+6Voysey: Stags and Trees, printed linen, 1908
+
+In design, Voysey is the outstanding but by no means the only representative of this new S ne l spr  rsB w  I
+
+![](images/e49552ab0271bce100c457c7f0bbcf64a18ccb36996ca979ab61a4a23d524998.jpg)  
+Voysey: Cruet set and toast rack
+
+![](images/199d0231de0d1df3f1f82acfa0424377c37411b5d9116cd6fc7451d97478e003.jpg)  
+65. Brangwyn: Rug
+
+![](images/8390773faba214bcc698f5749e8457ab942ee0d5bca104f2d9cb2df285c00119.jpg)  
+Voysey: The Orchard, Chorley Wood, Buckinghamshire, England. 1900
+
+strong colors, bold patterns—a parallel to Cézanne or Gauguin in painting. As long as Conntl  belvi A Nva, it w chie glis s o all papers, printed linens, chintzes and so on which appealed to them. As soon as the new desire for Sachlichkeit spread, all the pioneer work done by the English architects and artists in the shaping (not the decoration) of objects became topical. It must have been a delightful surprise to those who—like Muthesius—came to England, weary of the license of Art Nouveau, to see a toast-rack or a cruet set designed by Voysey (pl. 64). The Thar e eh
+
+Of particular importance for the coming Modern Movement was the expression of this new spirit in furnishing. The entrance hall of Voysey's own home, The Orchard, Chorley Wood, Buckinghamshire, of 19oo can serve as an example (above), with its lightness: the woodwork painted white, a pure intense blue for the tiles, unmitigated contrasts of uprights and horizontals, especially in the screen to the staircase (a motif which was for a time to become eminently popular), and furniture of bold, direct if a litle outrés forms. Somewhat later, in a bench made for Garden Corner, Chelsea, London in 1906 (pl. 68) even these reminiscences of Art Nouveau have gone, and the whole design, with the exception of the brackets to the small side flaps, consists entirely of vertical and horizontal members. And as for the brackets, they have the elementary geometric shape of exact quarter circles. The material is unpolished and unstained oak, another instance of the "back to fundamenln "ak naeenc whc stnat the biocy.
+
+There is one more thing which must be said about Voysey and which places him further from Moris and close to us.He was a designer, not a craftsman. He could not in fact, s he told the author, work in any craft. Ernest Gimson (1864-192o), the greatest of the Engish rcme, wssmatr acinot todiffeen  n al not many people realize it. He had been trained, it is true, in craftsmanship, but his famous works of cabinetmaking, metal-work and so on are only designed and not made by him. The chairs shown here (pl. 67) give an impression of his honesty, his feeling for the nature of wood, and his unrevolutionary spirit. Few of his works have this superb simplicity. As a rule, Gimson was more responsive to English tradition and did not despise the use of forms invented in the past.
+
+On a really commercial basis good progressive furniture was at the same time made by Sir Ambrose Heal (born in 1872). The firm of Heal & Son had been producing Victorian furniture, until Ambrose Heal changed its course. A wardrobe which Heal's showed at the Paris Exhibition of 190o (pl. 69) has the same brightness which we found in Voysey's wallpapers. Plain surfaces of slightly fumed and waxed oak contrast with small panels decorated in pewter and ebony. There are no long curves; the patterns are composed of
+
+![](images/3107b2c090fec72e4fa3c72445a81852be02b66e9f748841e69c68c2009ac2b9.jpg)  
+67. Gimson: Chairs. 1901 68. Voysey: Bench, 1906
+
+![](images/54078053d50aac55f9b53729eb4d9e3506144703eecc8a9c0021310db6551b68.jpg)
+
+![](images/4885a743325b40ce3e7a479eee95b4d260db9f7423693145b5d2f4c7f795e071.jpg)  
+69. Heal: Wardrobe. 1900
+
+rectangles and gracefully drawn little fowers. The close atmosphere of medievalism has vanished. Living amongst such objects, we breathe a fresher air.
+
+Even moepotant hisoicly than suc exibition p Heal's was the p duction for the ordinary market. In 1898, the first catalog of Heal's Plain Oak Furniture came out and started the revival of the simple wooden bedstead in England.1o For more than twenty years these pleasant bedsteads were popular in the English furniture trade,until they were swept away by misguided supporters of modernistic forms.
+
+Exactly the same contrast between 1890 and 1900 as in cabinetmaking is to be found in English printing. Morris' Kelmscott Press —founded in 189o— produced pages the effect of which depends largely on their exquisite, medievalist decoration. Cobden-Sanderson's and Emery Wlker's Dov Pr—founded in  and mentined in this book on pe 17— secured for the plain unadorned type face its place in modern book production.
+
+As far as English architecture is concerned, the historical position is not quite so simple as in applied art. It has been pointed out that, by 189o, Norman Shaw had attained a style which, based on Queen Anne, was so "modern' in character and so perfectly suited to English needs and taste that it could hardly be improved on, as long as no open break with tradition was attempted. The earlst and most remarkable ases o independence—earlie in fact than that of Horta — are afforded by some of the early architectural works of Mackmurdo and Voysey. Mackmurdo's house at Enfield (above) built before 188o is of a surprisingly free carriage. The flat roof and the few horizontal windows of the second floor are particularly noteworthy. In 1886 he put up a stand for the products of his own guild at an exhibition at Liverpool (below). The attenuated shafts with their excessive top cornices instead of capitals and the repetition of these odd forms on top of the fascia board are even more original and started a fashion when Voysey and then several others took them up. Of Mackmurdo's strong influence on Voysey there can be no doubt. He himself said to the author that when he was very young Mackmurdo had impressed him even more than Morris. Yet the first house whic Voysey designed, the one in The Parade at Norman Shaw's garden subu Bedfor Park near London (p maiglyideendent,coneringthte, 1888. The arrangement of the windows is particularly striking. But whereas this kind of free grouping also prevails in the works of Norman Shaw and his school, the whiteness of the walls was an open protest against the surrounding red brick of Shaw's garden suburb. The tower-like tallness of the house also and the skipping rhythm of bare walls and horizontal window openings were innovations introduced deliberately and not without a youthful sense of mischief.
+
+![](images/a2b2f75317690aa9d9234614f375ef6f9c3d34d47af6c0f0db928c613f8e3bb7.jpg)  
+70. Mackmurdo: The architect's house, Enfield, Middlesex, England. Before 1880
+
+![](images/15bdff4a83290fe1b263cf8e6ae96adf86279168e7ea31ae97fd1b2bc22d5e0b.jpg)  
+71. Mackmurdo: Exhibition stand, Liverpool. 1886
+
+![](images/5ab62202b0f165de0d8b43d9b4f815e17ffe24bb21db9050658f88b320d6ec97.jpg)  
+Voysey: Nos. 14 and 16, Hans Road, Kensington, London. 1891 Voysey: House in Bedford Park, near London. 1888
+
+However, Voysey did not go on in that direction, or else he would have developed into an architect of Art Nouveau. Already in the tiny studio built in St. Dunstan's Road, West Kensington, London, in 1891 (pl. 74), the general proportions are closer to English traditions, cottage traditions, than anything in the house in Bedford Park, although the detail is again remarkably novel, above all the massive chimney, the batter of the buttresses on the right and also the ironwork in front (obviously inspired by Mackmurdo's woodwork in 1886). In the same year Voysey designed two houses in Hans Road, Kensington, London Hhe yB ar ill h  nhe lpet. But the two little oriel windows are borrowed from Norman Shaw, and altogether the houses, looked at today, do not impose their individuality against the Norman Shaw style as consistently as did the Bedford Park house.
+
+When Voysey began to get commissions for houses in the country, his appreciation of English traditions was decisively strengthened. A man of intense feeling for nature, as his designs prove him to have been, he could not but think of his houses in conjunction with the surrounding countryside, and so shapes offered themselves which were more akin to the English manor house and cottage of the past than to those he had evolved in London. His country-house practice began in the early nineties and by 19oo had assumed very large dimensions. He never built a church, never a public building and only once a small warehouse.
+
+![](images/2bbb00b5c9773a1a77af25987c2286cbfd296e3edfc1f419b804e5a7e79f4758.jpg)  
+74 Voysey: Studio, St. Dunstan's Road, West Kensington, London. 1891
+
+Perrycroft, Colwall, Malvern Hills, dates from 1893 (pl. 75). It is typical of Voysey's ideas of what a country house should be like. In spite of such strikingly modern features as the consistently horizontal fenestration and the massive block shapes of the chimney stacks, it is nowhere demonstratively anti-traditional, and it fts perfectly with its natural surroundings (a garden was planned and planted together with the house) and the architectural character of the country.
+
+This is even more evident in another building, the house erected for Canon L. Grane at Shackleford in Surrey, in 1897 (pl.76). Today it is not easy to appreciate the candor and simplicity of its façade. For, in Britain at least, it has become too much of a standard example ineptly imitated by hundreds of speculative builders all along the arterial roads and all over the suburbs. However, from the historian's point of view, it remains no small feat to have created the pattern for the vast majority of buildings carried out over a period of thirty years and more. What was not copied from Voysey, needless to say, was what impresses us today as his most progressive motifs—the long, drawn-out window strips and the copletely bartriangle  thegable, roken ny e plac by  harmingly ty nd just a trifle precious window.
+
+Thi incin al eff  Ar N unhel  et l lodge to Merlshanger on the Hogsback near Guildford, Surrey, designed in 1896 (pl. 77) the typical Voysey buttresses and far projecting eaves carry a very flat curved cupola with a spirelet, needle-thin and ending in a weather vane. In the same way in one of his most successful country houses, Broadleys on Lake Windermere (pls. 79 and 8o) of 1898 the eaves cornice is supported once again by thin iron brackets and their delicacy adds a touch of lightness to the whole front.
+
+![](images/a73c4746f7d66062a05dc85a66c34297c6800d0209eec35c47e1df6c4f562204.jpg)  
+Vsey: Peryco ColwalMalver Hils, Englan183
+
+![](images/2ada54072c7e6f59c4bd518d8991959884ec734296e929396f98b030c7057ab7.jpg)  
+Voysey: House for Canon I. Grane, Shackleford, Surrey, England. 1897
+
+![](images/f33cc9b1d782696e6e94741d5ded1a537bf03807f6da31ef9991b76f647e7377.jpg)  
+77Voysey: Lodge and stables, Merlshanger, near Guildford, Surrey, England. 1895
+
+![](images/af6743e61c96891b4faf70d0c66e5bb2907ce5840eb8402f21ebfe32cc320841.jpg)  
+Smith and Brewer: Mary Ward Settlement, Tavistock Place, London. 1895
+
+But such effects are only a little light relief in what is otherwise sound, balanced, vigorous design without any tendency to demonstrative novelty. That is what makes the water front of Broadleys so impressive. Here, one sees clearly, was a mind equally averse to the picturesque tricks of the Shaw school and the preciousness of Art Nouveau. From this center bay with its completely unmolded mullions and transoms, from these windows cut clean and sheer into the wal, access to the architectural style of today could have been direct, more direc probably than from the designs of those few in England who in the late nineties appeared more revolutionary than Voysey. Whom should one count amongst them? Maybe Baillie Scott (1865-1945) who started a little later than Voysey and very much under his influence,11 and C. R. Ashbee, whose writings and social activities have been mentioned before and whose most original houses, in Cheyne Walk, Chelsea, London, date from only a few years after 19oo.12 Far more remarkable historically is the Mary Ward Settlement in Tavistock Place, London (above) built in 1895 by Dunbar Smith (1866-1933) and Cecil Brewer (1871-1918). Its relation to Norman Shaw (Venetian window) as well as to Voysey (top parts of the projecting wings) is evident. The rhythm of the blocks on the e yly than Voysey ever wanted to be.18
+
+![](images/c5e6f4fbed51b6e11242f8fedcedc3c3f23e4542a8b67125b8f81290d32350c7.jpg)
+
+![](images/5e1ac3d31dcb9491a0b6da2d1821c9a9874b9e6a689cb0ca2236c0b4784fc2e2.jpg)  
+79 and 8o. Voysey: Broadleys on Lake Windermere, England. 1898
+
+This particular feature in its turn must have impressed the older C. Harrison Townsend (1850-1928) whose principal work, the Whitechapel Art Gallery, London, dates from 1897-99 (pl. 82). But Townsend's style is of more complex origins. The deliberate lack of symmey betwen groun foor ndupper foor as well as the long row  surprisingy ow windows and the leaf ornament of the friezes, ultimately point no doubt to Voysey, but the heavy arch above the entrance must reflect some knowledge on Townsend's part of what Ricaron ad one meic or twenty years ndmoreI thastion
+
+![](images/73a9fe3920da82880d4ace019cde14d6346aa506085158836a32f5c027992548.jpg)
+
+81. Townsend: Horniman Museum, London. 190002
+
+rect, we have here the first case of American influence on England. The two flat friezes above the row of windows also conjure up some memories of, say, Richardson's Brattle Square Church in Boston of 187o-72, and the American connection became more distinct with Townsend's next building, the Horniman Museum in South London of 1900-02 (above). The robust square tower with its rounded corners and stumpy top is utterly different from the elegant spirelets which Voysey and his imitators adored so much. Town-deui theyearsin sp all that it miht epible t u sources in England and abroad, are without question the most remarkable example of a reckless repudiation of tradition among English architects of the time. Among English, no on Br rchis.For  Gasowheworkdri thevey yars ou o n   InGB, Guthrie, E. A. Walton, Lavery, Henry, Hornel and so on are well enough known. Their first exhibition abroad impressed Europe considerably. But in design and decoration the first appearance of the Glasgow school at an exhibition in Vienna was a revelation.
+
+![](images/53c799550700f75f3a83e2c85180bcdf225ecefbb6d271609adc1acbe7caa72c.jpg)  
+8Townsend: Whitechapel Art Gallery, London. 189799
+
+![](images/8cb08a6a151797ba84364ab25eeeae8fc3ecea34c9a53260e0ac0e9c2add3af0.jpg)  
+8. Mackintosh: Art School, Glasgow. 1907-09. Interior of library
+
+The center of the group was Charles Rennie Mackintosh (1868-1928) with his wife Margaret Macdonald and her sister Mrs. McNair.15 In dealing with him, we are able at last to link up the development in England with the main tendency of Continental architecture in the nineties, with Art Nouveau. Before he was twenty-eight, Mackintosh was chosen to design the new building for the Glasgow Art School, 189899 (pl. 84). Not a single feature here is derived from period styles. The façade is of a strongly personal character and, in many ways, leads on to the twentieth century, although the entrance bay with balcony and short turret is deliberately fantastical and not unlike Townsend's contemporary work. But the rest of the front is extremely simple, almost austere in its bold uniform fenestration. In the horizontal windows of the offices on the ground floor and the high studio windows on in ornaments at the top. The same contrast exists between the rigidity of the second-floor windows nd the strae metal talks  the base funconallyjustif or puttig planks on to facilitate window cleaning. However, be that as it may, this row of metal lines reveals one of Mackintosh's most important qualities, his intense feeling for spatial values. Our eyes have to pass through the first layer of space, indicated by the metal brackets, before arriving at the solid stone front of the building. The same transparency of pure space will be found in all of Mackintosh's principal works.
+
+The ground plan of the building is clear and lucid, showing in another light the archii      Ooy be given to prove that this is really the keynote of Mackintosh's creation: the interior of the library of the Glasgow Art School, which forms the center room of the west wing, planned
+
+![](images/31ada1a6ce425507e81b98fc87654808e8f8cbbb72964f37026edd697ace10fe.jpg)  
+84. Mackintosh: Art School, Glasgow. 189899
+
+![](images/925bb1393e65cc07f82a4c9f2b690a620439cdefc8febc73572f4d5b0fb7c68d.jpg)  
+85. Mackintosh: Cranston Tearoom, Ingram Street, Glasgow. 1907-11. Interior
+
+in 19o7 (pl. 83). The simple motif of a high room with aisles and galleries around three sides is so enriched that the resulting impression is an overwhelmingly full polyphony of abstract form. The galleries do not project far enough to reach the pillars which separate "nave' from "aisles." Horizontal beams are inserted to connect the walls with the pillars and to support the galleries. Airy balustrades, Art Nouveau in detail, run from the parapets of the gallery to the pillars. Their sole purpose is to offer interesting perspectives. Curves, rare and all the more expressive in Mackintosh's earlier work, have now completely disappeared. Uprights and horizontals, squares and oblongs determine the effect. This and the number of fascinating vistas which the architect has achieved here and in another principal work of the same period, the Cranston Tearoom in Ingram Street, 1907-I1 (above), show him as the European counterpart of Frank Lloyd Wright and one of the few true forerunners of the most ingenious juggler with space now alive: Le Corbusier. Le Corbusier o confessed that his desiein building is to create poetry Mackintosh's atitude is vey similar. Building in his hands becomes an abstract art, both musical and mathematical.
+
+The façade of the west wing of the Art School is an instance of this. Here the abstract artist is primarily concerned with the shaping of volume and not of space, of solids not of voids (pl. 86). The esthetic value of the straight slender shafts into which the windows are inserted is entirely independent of their function. The contrasts between fretwork and t   n V' kind.
+
+A gance at the earlier and the later part of the Art School reveals the development of Ma longer used. A squareness and robustness prevail which come as a surprise. They are, it seems certain, Mackintosh's way of admitting national tradition. His links with the Scottish baronial past are perhaps more evident in his country houses than in a public building such as the Art School. If we look at the general form and outline of the Blackie house in Helensburgh of 19o2, the round turret, the steep gable, the massive chimney stacks are unmistakable (pl. 88). Once that has been recognized, a building like the Scotland Street School in Glasgow of 1904 (pl.87) will at once reveal the same sympathies. Even the library wing of the Art School will now show its baronial relations, perched as it is on the steep slope of the street leading up the front.16 Its great fascination is in fact its synthesis of traditional elements with a remarkable fearlessness in the functional distribution of the windows and the w harshnes t arrangular upriht fors Dutc arhitect  the 19 must have derived much benefit from this building.
+
+![](images/1e5885dce5cc6a30816b11ca676b55fafd5a25329a81d2cf68883bbbdd353b81.jpg)  
+Mackintosh:Art School, Glasgow. 19079. Library wing
+
+![](images/ed5220833def8d9bcc7f1555e2cba1201530ea0b7e15f76a9817092a55af157c.jpg)  
+8. Mackintosh: Scotland Street School, Glasgow. 1904
+
+However, the question of Mackintosh's connections with the Continent is a complicated one and demands a rather more detailed discussion. The obvious similarity between Mackintosh's earliest interior designs — or one should rather say the interior designs of Mackintosh and Margaret Macdonald— and the style of the Viennese Sezession has often been commented on. The Cranston Tearoom in Buchanan Street of 1897-98 (pl. 90) should be studied in this connection -incidentally the first monument of the British Tearoom Movement, a movement in its opposition to the snugness and stuffiness of the tavern again typical of the new desire for health, light and freshness. In the Buchanan Street tearoom the walls are decorated with the same long and graceful lines and the same excessively slim figures which we find in the works of Klimt and his followers. But the tearoom dates from 1897, and in that year, Klimt's manner was still dependent on that of the earlier draftsmen of Art Nouveau (pl. 89). One year later, in 1898, when the Sezession started their periodical Ver Sacrum, its pages were decorated in a style strikingly similar to Mackintosh's. As The Studio had published some designs for the Cranston Tearoom in 1897, one can safely conclude that the change of taste in the artists of the Sezession was at least partly caused by impressions received from Mackintosh's work. This hypothesis is confirmed by the fact that, in 19oo, the Sezession in Vienna invited Mackintosh to show work at their annual exhibition in Vienna What was othrilling to the artists o Viena in his disply when it was up and on show, has been formulated very well by Ahlers-Hestermann: "Here was indeed the oddest mixture of puritanically severe forms designed for use, with a truly lyrical evaporation of allinterest in usefulness. These rooms were like dreams, narrow panels, grey silk, very very slender wooden shafts—verticals everywhere. Little cupboards of rectangular shape and with far projecting top cornices, smooth, not of visible frameand-panel construction; straight, white and serious-looking, as if they were young irls ready to go to their first Holy Communion — and yet not really; for somewhere there was a lik  fai n o  VelThe stin  the pons, te cratically effortless certainty with which an ornament of enamel, colored glass, semi-precious stone, beaten metal was placed, fascinated the artists of Vienna who were already a little bored with the eternal solid goodness of English interiors. Here was mysticism and asceticism, though by no means in a Christian sense, but with much of a scent of heliotrope, with well-manicured hands and a delicate sensuousness. . . . As against the former overcrowding, there was hardly anything in these rooms, except that, say, two straight chairs, with backs as tall as a man, stood on a white carpet and looked silently and spectrally at each other across a little table. . . . 'Chambres garnies pour belles âmes' is what Meier-Graefe wrote."
+
+![](images/245fe64779e51c51a3077ff3aa79088cbdcd98227fc1739893c9f1e10d7742fa.jpg)  
+8Mackintosh: Blackie house, Helensburgh, near Glasgow. 1902
+
+Ideal evidence of these intentions was the house which Mackintosh designed for a competition of the German publisher Koch in 1901 (pl. 91). Here everything can be seen that Ahlers-Hestermann is talking about and it can also be seen clearly enough that Mackintosh's sources are Voysey, Beardsley, Toorop.18 This synthesis of their style was the legacy of Britain to the coming Modern Movement. No other British contribution to European architecture before the First World War carries enough weight to be discussed here.19 For various reasons England forfeited her leadership in the shaping of the new style just about 1900, that is, at the very moment when the work of all the pioneers began to converge into one universal movement. One reason was given in Chapter I:2° the leveling tendency of the coming mass movement—and a true architectural style is for every man — was too much against the grain of the English character. A similar antipathy prevented the ruthless So, at the very moment when Continental architects discovered the elements of a genuine style for the future in English building and English crafts, England herself receded into an eclectic Neo-Classicism, of great dignity sometimes, but with hardly any bearing on presentday problems and needs. For country houses and town houses Neo-Georgian or Neo-Colonial became popular; in public buildings, banks and so on, solemn rows of colossal columns reppare, not entiely ferom he nfuco thUni Stat where ter the Ch Exhibition of 1893, a similar reaction against the Chicago School and Sullivan had set in. Burnham's Selfridge Building of r9o9 in London illustrates this tendency at its worst.
+
+![](images/163e9cda6ce6fef513214ec90ade651347bb67c8c149dda3ecd9c0bdcab6d276.jpg)  
+89. Klimt: Tragedy. 1897
+
+The contention that the sudden fall in the European importance of English architecture really took place shortly after 19oo is also confirmed by the development of town planning. In the planning of estates, especially garden estates, called garden cities or garden suburbs, England was ahead during the second half of the nineteenth century. From the forties the beginnings of modern planning of apartments and small houses for workmen can be traced.21 The first planned estates of small houses were due to progressive manufacturers (Saltaire, Sir Titus Salt, begun in 1851).22 The earliest estate of friendly, semi-detached brick houses embedded in trees was erected at Bedford Park near London to Norman Shaw's designs from 1875 onwards. Shortly after Bedford Park, Port Sunlight and Bournville were started, both garden estates for members of the staff of a big firm. Port Sunlght was built for Lever's from 1888 on, Bournville for Cadbury's from 1895 on.
+
+The idea of the independent garden city was put forward by Ebenezer Howard in his famous book Tomorrow: a Peaceful Path to Real Reform (1898). It was taken up by the e Lr.Te pa hr    Rn n B.rkThe mhi we osb r the youhe Hams Gren Suburb (1907).
+
+These English estates strongly infunced the Continent. Krupp's arte it frst wokers begun in 19o9, by the initiative of the Deutsche Werkstätten. However, in Germany the main interest soon shifted over from the question of the estate of small houses to that of large schemes of tenement houses. It is this problem and the related one of planning whole suburban areas that occupied the minds of German town planners between 19oo and the war.
+
+![](images/1029c6c66bff405e0fb28a4e2978fa1cd3d86150e48f8196d6080e1bf99f1f87.jpg)  
+90 Mackintosh: Cranston Tearoom, Buchanan Street, Glasgow. 189798
+
+The history of town planning from 1850 to 1914 runs strikingly parallel to that of contemporary architecture and decoration. Of the two biggest tasks that were put to architects during the third quarter of the century, the Viennese Ringstrasse is a gorgeous chain of individual buildings entirely or almost entirely unrelated to each other, whereas Haussmann's memorable opening up of large boulevards all through the center of Paris is certainly much more architectural in that spatial values are not neglected for those of volume. However, in Paris as well as in Vienna, the social questions of slum clearance and rehousing remained untouched, and the same may be said of all town planning in other European and American cities. Neither did the new tendencies which started about 189o help to solve these urgent problems. Burnham in Chicago began the movement for the erection of monumental Civic
+
+![](images/ef656b184fbc8c7c5db5dde5c90ee58609b990d702cc7fb0c8813823641d8eb5.jpg)  
+91. Mackintosh: Dining room for the house of a connoisseur. 1901
+
+Centers in the United States, a movement that conquered England after 19oo. In Germany, Camillo Sitte's book Der Städtebau (1889) pleaded against the hollow grandeur of Neo-Baroque squares and roads, and proposed a freer, more picturesque planning on medieval lines. Both Sitte and Burnham still thought in terms of individual pieces of planned development.
+
+It has been shown that the interpretation of town planning not only as a display of civic power but as planning for the welfare and comfort of the whole population originated in England and remained confined to England for well over a decade. But, as soon as planning was applied to areas larger than the garden estate of a firm, municipal initiative had to replace private enterprise. It is extremely characteristic that directly this stage was reached, England dropped out and Germany took the lead. Most German towns own a great deal of the building land within their boundaries and—helped by legislation—try to acquire more. Theodor Fischer, one of the most energetic young architects, was elected city architect for Munich in the nineties; the periodical Der Städtebau began to appear in 1904; towns such as Nürnberg, Ulm, Mannheim, Frankfort, worked out comprehensive schemes for the development of center and suburbs. The town-planning exhibition held at Berlin in 1910 can be taken as the final summing up of these tendencies as they flourished before the war.23
+
+Since 1918, the huge housing estates set up above all in Holland, Germany and Austria have done more than any other type of building to draw the attention of other countries to the existence of a modern architectural style. In England it was hardly before 192 vn 1930, that he publi bean to take y interest in the mode problem the worgclas artt houAut theme , te   the Mo Mont began to penetrate into England, the forms which, between 1900 and 1925, had been developed by American, French and German architects.
+
+## The Modern Movement before Nineteen-fourteen
+
+The most progressive countries in the fifteen years before the First World War were the Un StaFrane Germy n Austa. At rt Ami took the l buto c cepted style was evolved The initiative was confined to a few great architects, one might even say to one man. In France, one side of the coming style was developed with admirable consistency, but again only by one group of engineer-architects. Germany alone, and those Central European countries which were dependent on Germany (Switzerland, Austria, Scandinavia) responded so appreciatively to the adventurous achievements of the frst pioneers that an accepted style of our age emerged from their individual experiments.
+
+The contribution of France to the Modern Movement before the war consists excluvly in the work o twoarcitet: August Perret and Tony Garnir. Perret was born in 1874, Garnier in 1869 (he died in 1948).1 Their foremost distinction is that they were the first to use concrete outside and inside their buildings without concealing the material and its particular character and without adapting it to the spirit of past styles. In this, they went beyond Baudot, whose forms at St. Jean de Montmartre, though not actually copied from Gothic architecture, tend to express through the medium of concrete the feelings enshrined in the medieval cathedral. In Perret's work, there is no such irresolution. The apartment house at No. 25 bis rue Franklin, which he built in 1902-03, and in which he lives himself, is equally uncompromising in ground plan and façade (pl. 92). It is eight stories high and constructed with a concrete framework. The two uppermost floors recede in the manner which has now become compulsory in high American buildings, and is becoming more and more popular in Europe too. On top is an open terrace with a few plants, a forecast of roof gardens to come. The façade exhibits the structure to a degree unprecedented in domestic architecture. The eye is led to follow the vertical and horizontal girders and beams all along the front. A nakedness appears that seemed shameless at the time when the house was built, but seems to us to be a confession of the naked truth and therefore admirable. Equally important for future development is the expressiveness of advance and recession, the fullness of spatial effects. It is hardly possible to decide which of the various vertical planes may be termed the façade proper. Above the two entrance doors a column of square bay windows is projected. Six stories thus seem balanced without any support. In the center part, the façade recedes, but right in the middle another row of bay windows projects slightly. Mackintosh alone of all European architects had a spatial imagination of comparable brilliance. Only rarely, between 1903 and now, has Perret been so completely uncompromising as here. As a
+
+![](images/ebc37e993e24d972af1518ff5ab0984682c36d98f05e327aaa057a96c76ec58a.jpg)
+
+Perret: Apartment house, 25 bis rue Franklin, Paris. 1902-03
+
+rule he tends to treat concrete in a rather more playful way following, no doubt, the example set by Anatole de Baudot. This is for instance evident in his next building after the house in rue Franklin, the garage in rue Ponthieu, erected in 1905. Again the concrete frame is frankly visible. But the centerpiece of the façade is a kind of cathedral rose window made of iron bars and glass panels; and the doors are decorated with squares and diagonal lines. It would be outside the subject of this book to go more closely into the qualities of Perret's concrete ornament. It is sufficient to say that, from the very beginning, it was all but limited to rectangular forms similar to those which we have seen in England since the days of Voysey's and Gimson's beginnings.
+
+Equally revolutionary is the syle o Tony Garnir's plans for an Industrial City, begun in 1901 and exhibited in 1904.² Garnier (1869-1948) was a Pensionnaire de l'Académie Française in Rome, when he embarked upon the task of mapping out a modern city as it ought to be. Académie Française and Industrial City: no more dramatic contrast could be found to illtrate the diffeence between ffil hiteureand the deas f the v popular there as in Central Europe, Scandinavia and Holland. Though Garnier too did not abandon decoration altogether, his attitude was truly contemporary. He pleaded for a linear as against a concentric plan for his town, for a sensible grouping of industry, administration and housing, and for suffcient open spaces; he enjoyed flat roofs, open and covered playgrounds for schools, and he refused to admit any narrow inner courts. Moreover there are certain buildings in the Industrial City which appear to be wholly of today. For the first time here the possibility of "misdating"' arises. In the Administration Building (pl. 93), the flat roofs, the complete absence of moldings, the contrast between the massive center block and the two sides of the façade which consist of concrete beams and glass only, and above all the covered platform on the right with its few supports all this seems hardly possible at such an early date. Again in the long low hospital building with sun balconies to all rooms on both floors (pl. 94), the cubist disposition of blocks and slabs in the groups of private houses and the individual houses (pl. 95), the informal pathways between the houses and the old trees forming pleasant irregular patterns (pl. 96), the glass
+
+![](images/6a8c85597b913d80d460e8d45014ccfcf5222106782f4175120ebae614ff9db8.jpg)
+
+Garnier: Industrial City.1901Administration Building  
+![](images/b048adf5af09d1785eb56bb164045fa162b81b7aa03c6089e7b6ecffdd0bb92b.jpg)  
+9 Garnier: Industrial City. 1901-04. Hospital
+
+![](images/d054b26a350e53442b3880b44117d32991fe12f2bd24a82ef0db526f254c8f3b.jpg)
+
+![](images/66cb33f97eb56e1fa03055c6660a9fcc58d886f0c88c5c8b7ed1a23f883a0caa.jpg)  
+95 and 96. Garnier: Industrial City. 1901-04. Houses
+
+![](images/ab3713de74c7c285b38997ecaae7f819ef4981c6e5d8c5e0eb020d305242b7e4.jpg)  
+97. Garnier: Industrial City. 1901-04. Palm court in a private house
+
+![](images/e92fe91564263606db75b7e0f3a09da28d39a9ea825a8c592e57a649a088a7a7.jpg)  
+Garnir: Industrial ity.9o1Detail from  ne-room apartment use
+
+W ret ven oen l  o thets   wy tht e remains in doubt whether this points back o Frans I  Blos  orard o Gropius.
+
+Gll  l F mate tradition.
+
+LeCorbusir³ (born in 1887) is not a Frenchman. He comes from the French-speaking part of Switzerland, the puritan part which gave birth to Calvin and still gives birth to the world's best watchmakers. This is probably what made him resist the temptation of French rhetoric and keep to an equally French logic and dry grace. However, Le Corbusier scarcely belongs to a book dealing with pre-war matters; though he has tried in his writings to make himself appear one of the pioneers, he was not among the first comers. His designs for an estate called Domino, which was to be built entirely in concrete, are certainly very progressive; but they date from 1915, and in 1916 Le Corbusier could still build a private house that does not go beyond the stage reached by Perret or van de Velde before the war.4 The historian must emphasize this point, because Le Corbusier, partly owing to his magnificent artistic imagination and partly to a certain showmanship, has been taken for one of the creators of the Modern Movement.
+
+It is urprisig how, ter o short a time s wenty r thirty years, historical fct alreay tend to become dim and legends begin to grow up. The historian of art will find the same if he goes into the beginnings of Cubism in French painting, or Expressionism in German painting. Who created Cubism? Picasso or Braque? When was the Brücke founded? What par, in establishing the style of that group, was played by Heckel, Kirchner, Pechstein, or even Nolde?® There are many similar questions.
+
+Turn to the United States, and you will find no such obscure patches. Research carried out more consistently and tenaciously than anywhere else has cleared up the dates and vicissitudes of the American pioneers of the Modern Movement — which means, broadly speaking, Sullivan and Frank Lloyd Wright. Of Sullivan much has already been said regarding his revolutionary theory (p. 13), his revolutionary ornament (p. 58) and his revolutionary treatment of the skyscraper in its earlier years (p. 82). His most astonishing esthetic achievement however is the Schlesinger & Mayer, now Carson Pirie Scott Store in Chicago (pl. 1oo). This was begun in 1899 on Madison Street and enlarged by a taller block around the corner into State Street in 1903—04. The ornament on the ground floor and second floor is Sullivan at his most brilliant and fanciful, but the upper stories exhibit the rhythm of the twentieth century more uncompromisingly than any building we have met so far in these pages. Here again, a detail photograph of several rows of these horizontal windows with the unbroken white bands which separate them horizontally would no doubt be misdated by nearly everybody.
+
+![](images/ea778a2396d4974c34dcbc073ae61aa4a5d5d74cb2af0c040e37cb3009e54e3d.jpg)  
+9Sullivan and Wright: Charnley house, Chicago. 1891
+
+Meanwhile, Frank Lloyd Wright had begun to revolutionize the private house with similar courage.6 His inspiration came from Richardson's houses and from the forms and approach to architecture which he learned in Sullivan's office. The Charnley house on Astor Street, Chicago, of 1891 (above), seems both to reflect Sullivan's style in the Wainwright Building and to foretell Wright's own later development. It can therefore be safely assumed that it represents Wright's fairly independent designing during the years when he was still employed by Sullivan. In date and originality it corresponds to Voysey's houses in Hans Road.
+
+Two years later the Winslow house at River Forest (pl. 1o1) has the same sense of floor decorated in the Sullivan manner and nothing yet of Wright's future mastery of spatial planning. Compared with Voysey at Colwall in the same year 1893, it is clear that the present.
+
+![](images/6ba6e257e099315904e6ae3b570ce5650e9f52d9e310182251400724954f03c4.jpg)  
+100Sullivan: Carson Pirie Scott Store, Chicago. 1899 and 19034
+
+Wright's sense of three-dimensional composition leaped to maturity about 190o. The projected Yahara Boat Club at Madison of 1902 (pl. 103) shows far projecting canopies close to the body of a house which is however still strictly symmetrical in its shape. The windows, high up and low, are now entirely of the characteristic rhythm of the Modern Movement.
+
+Another three years and the W. R. Heath house at Buffalo (pl. 102) has a plan spreadinut loosely into a conglomeration  roos whic ru cofortably into each other and hee  ic W nTh s longer any hard boundary between outer and inner space. The low spacious interiors ( avilyv i  Wrea e harsh angular decorativeforms —forms similar to thoseof Berlage in Europe. No wonder tht the Dutch were thefrst to take kindly o Wright's peular syle when it had been made known abroad by two German publications of 1910 and 1911.?
+
+![](images/8bed5e56727b6b6d893204c095bd344363a96ac0de39ab5369692bf92feb05da.jpg)  
+101. Wright: Winslow house, River Forest, Illinois. 1893
+
+![](images/08d708c3174fbd0bdfcdb5455541d3f97ed1334f5dd5cfc40ca457aedce43a1c.jpg)  
+102. Wright: Heath house, Buffalo, New York. 1905
+
+![](images/a39198ccb2e22e2bbd299f666617ff5b88348e0d68488d063da1c8370eaac384.jpg)
+
+![](images/3047cc69be1fca99437ec68a6b36fb4a5cfe37b3bd8cdcb2f59a8885a2e4d4da.jpg)  
+1Wright: Project for the Yahara Boat Club, Madison, Wisconsin. 1902
+
+![](images/f98753ba2f4a917cfdf45b33b2660a5a342ea571c9b4310d579e4d5f9e8d3b1d.jpg)  
+104. Wright: Coonley house, Riverside, Illinois. 1908. Interior
+
+The same difference between early and mature as that between the Winslow and Heath houses is to be found between a design for a skyscraper done in 1895 and the Larkin Building at Buffalo of 1904 (pls. 106 and 105). The skyscraper is again a personal paraphrase of Sullivan ideas, the Larkin Building, with its sheer walls of flat bricks unrelieved by windows or niches or moldings, and with its string courses and cornices of the simplest rectangular profile, is overwhelmingly impressive, in the hard-hitting ruthless way of today. The interior with its spatial unity of all floors (pl. 1o7), the "etherealization' of which Wright is so fond (see p. I4) may be derived from the European department store. In Wright's particular form it became the prototype of many similar halls in European office buildings after the First World War.
+
+To sum up, Frank Lloyd Wright's outstanding importance lies in the fact that nobody else had by 1904 come so near to the style of today in his actual buildings. Wright's later activity does not lie within the scope of this book, and, as the work of his followers before 1914 has not added anything essential beyond the master's own pronouncements, no more need be said here about the United States.
+
+Thus the remaining pages can be devoted exclusively to Germany and Austria.8 While the transition to the new simplicity and severity was facilitated in England by the absence of Art Nouvea and by an inborn English reasonableness, in America by the technical requirements of the huge offce building, and in France by the splendid traditions of nine teenth-century engineering, Germany was, in 19oo, almost completely under the spell of Art Nouveau, enjoying wild ornamentation, as she had done so often in past centuries. Only a few among those who had played a leading part in the Jugendstil found a way out of its entanglement. Two artists above all must be mentioned, as a German parallel to Mackintosh in Great Britain.
+
+![](images/9426025812060f3f3dee87fbff5f16e036aed441b05a6341459821ab3ed5a820.jpg)  
+105. Wright: Larkin Building, Buffalo, New York. 1904
+
+August Endell's (1871-1925) most popular work was the Elvira Studio in Munich, built for a photographer in 1897-98 (pl. 108). The deliberate lack of balance between openings and plain wal, or basement windows and ground-floor windows, and also the curves of the metal bars separating the window panes, were not unlike early Mackintosh. However, the one dominant motif of the façade, that overpowering shape, shell-like or dragon-like, which covered the wall of the second floor, was entirely opposed to Mackintosh's delicate handwriting. In this frantic outbreak of ornamental fury, the unbounded exuberance of German patterns of the migration period re-emerged. This eternal quality of German art, traceable in Late Romanesque and Late Gothic as well as in the ornament of Baroque and Rococo, gave Endell his place in architecture; though it seems highly probable that Obrist's embroideries provided him with more direct inspiration. Be that as it may, the from its inventor.
+
+In the same year, when the front of the studio building was unveiled, Endell published y original and inspiring. The text to the illustration shown here (pl. 109) describes the quiet balance of $f _ { \delta } \varepsilon \_ 4 $ , the strain of $f _ { \ell , \ell , \ell } { } _ { 2 , \ell }$ a certain ease and comfortableness in $f _ { 8 } . 3$ Apart from this inteesting attempt at an intepretation of architecture as an bstracart, the forms of the façade shown in $f _ { \ell ^ { \cdot } \ 3 }$ are astonishingly similar to those of certain German houses after the First World War. The shape of the second-floor windows and the flat roof are again almost "misdatable."
+
+A similar originality within Art Nouveau appears in the works of Josef Maria Olbrich (1867-1908).10 Together with the painter Klimt, Olbrich was amongst the founders of the Sezession in Vienna, the group that developed the Austrian version of Art Nouveau, and later on led the way from linear decoration towards the more architectural though equally graceful style of the Wiener Werkstätte. The building of the Sezession (pl. 110) was designed and erected by Olbrich in 1898 99. There is no need here to say much about the Jugendstil qualities of this metal cupola with its superabundant floral decoration. A more essential point in our context is the simplicity of its semicircular contour and the rhythm of the three blocks which dominate the front view. This is in fact as novel as anything to be found in Wright's work of the same period.11 In 1907-08, Olbrich built the Hochzeitsturm (pl. II1) as a center of the artists' colony which the Grand Duke of Hessen had started in 1899 (cf. p. 140). Again a comparison with Mackintosh, this time with the
+
+![](images/86b45249b46bab06bc6810e727a2ad09da2646189e97ec27df9d5d1fb90a2a29.jpg)  
+106. Wright: Design for a skyscraper. 1895
+
+![](images/d62ddd378eb9e810cb0be18ed38a7d21c566f817144e144756a2aaf0923d20ed.jpg)  
+107. Wright: Larkin Building, Buffalo, New York. 1904. Interior
+
+![](images/27f43ad652dd3cc212e810be84fbbe68fe3f94a4d9552a571d30f63ab499bb89.jpg)  
+108. Endell: Elvira Studio, Munich. 1897-98
+
+![](images/cb6dd4c941e40ab0736a2be7ea283c36d2e416c60038899298928270ba362861.jpg)  
+109. Endell: Studies in basic building proportions. 1898
+
+like shapes on top of the tower are characteristicof the restlessness of many of those who wnrekwy om  bl make
+
+![](images/9a047e9ea55e812eb294f740980bf69e124ba9ec22d30313c2423519607d9993.jpg)  
+110. Olbrich: The Sezession, Vienna. 189899
+
+The most remarkable feature from the point of view of today is the two narrow horizontal srips with small windows which are wrapped around the corner, the earliest instance probably of this motif, so much favored by later architects.
+
+In reviewing the work of the scond leader of Viennee architecture at the beginig o the twentieth century, we are led one step farther. The most remarkable of Josef Hoffmann's (born in 1870)12 early works is the Stoclet house in Brussels (pl. 112), designed in 1905. Its unusual size and splendor have overshadowed other works of Hoffmann's that are even more important in the evolution of the modern style. No doubt the Palais Stoclet is a work of exceedingly spirited composition, its exquisitely spaced openings and light walls are a joy to the eye, and the high uninterrupted window of the staircase has become a very popular motif since about 192o; but the artistic attitude is far from sacblich (rightly, no doubt): a charm and playfulness are expressed in these façades which are alien to most of the outstanding buildings after 1914, though they are essentially Austrian in character. In acknowledging the international unity of the new style, it ought not to be forgotten that in Hoffmann's elegance, in Perret's clarity, in Wright's expansive broadness and comfortable solidity, or in Gropius' uncompromising directness, national qualities are represented at their best. The Austrian character of Hoffmann's art remains in full, even in his simplest
+
+![](images/3b151cb8bbe8f9859a44f0858e589213e531cf4abc0df60177f46be5f1887c9b.jpg)  
+11. Olbrich: Hochzeitsturm, Darmstadt. 1907
+
+![](images/409e7a694d563fa5170dc9dc8443e79aa613c36d1b63bf3560dd316dccac7c45.jpg)
+
+112. Hoffmann: Palais Stoclet, Brussels. 1905
+
+and most "modern" work, the Convalescent Home in Purkersdorf, 1903-04 (pl. 113). Here again, even experts might be deceived and might take these flat roofs, these windows without any moldings, the squareness of this projecting roof over the entrance, and the high, upright staircase window as something impossible before the First World War. Internatinal  themoti relcl pelarii ceary visiblin the ytm theall windowpanes and the delicate bands running around the windows and along the edges of the block.
+
+![](images/d3d376c12f0f5d3d00c6280c43dbc864bc869d3e99fa589e8e73663b5e2aa6f9.jpg)  
+11 Hoffmann: Convalescent Home, Purkersdorf. 190304
+
+But the art historian has to watc peronal as well as natinal qualits. Only the inteti of h wit n  u  p u  ther  c,  we . Rubens, Bernini, Rembrandt, Vermeer are all representatives of their age, the age of Baroque. Yet Rubens is as wholly a Fleming as Bernini is a Neapolitan, and Rembrandt and Vermeer are Dutchmen. But Rembrandt as a personality is completely opposed to Vermeer, when one compares them within the smaller orbit of their national art. So it may be profitable to contrast Hoffmann's delightful building with the work of Adolf Loos1³ (1870- 1933), so completely opposed in character, though Loos was also an Austrian. His position in the development of esthetic theory about 19oo has already been outlined. Now we have to define his place in architectural history proper. Remembering his attacks on ornament and his panegyrics upon the plumber, we are not surprised to find in his first work, the interior of a shop in Vienna, 1898 (pl. 114), nothing that can, strictly speaking, be called ornament. The value of this work depends entirely on the high quality of the materials used and the dignity of the proportions. The decorative effect of the upper frieze is obtained by the introduction of convex curves and a quicker rhythm of intersecting verticals and horizontals. Perret's concrete ornament, created without any knowledge of Loos's style, is surprisingly similar in character.
+
+![](images/0beb945b67835115bcd7303ca179fd25ebb199963ef50a07cdfbc00fb9230867.jpg)  
+114. Loos: Shop interior, Vienna. 1898
+
+Six years later, in a house on Lake Geneva (pl. 115) Loos reached the same delicately proportioned simplicity in an exterior, and another six years after that, in the Steiner house in Vienna (pl. 116), he achieved the style of today completely and without any limitation. The unmitigated contrast of receding center and projecting wings, the unbroken line of the roofs, the small openings in the attic, the horizontal windows with their large undivided panes: who, without being informed, would not date this house about 1924-3o, or even later? Loos is one of the greatest creators in modern architecture. In spite of that, he never became known, during his lifetime, to more than a small circle of admirers. His influence remained negligible for a long time. All the other pioneers were more widely discussed and imitated.
+
+Among German architects, Peter Behrens1 (born in 1868) was probably the most n    e y Geran architects afte 9o, he began as a painter and underwent the"oralreformaion hpT started, meant Art Nouveau. He soon escaped from this enervating atmosphere. His first building, his own house in Darmstadt (1901), already shows a hardening of the tender c  Ar No.A yer at, Be   ty ac  whic tea complete. The curves are straightened, and ornamental initials are decorated with squares and circles only. A comparison between Behrens' frst type faces and Eckmann's (190) is historically very instructive. Again this new simplicity was brought about under English influence. The Doves Press stands at the beginning of German twentieth-century printing. Honesty, health and straightforwardness became the ideals that replaced the sultry dreams of Art Nouveau esthetes.
+
+![](images/38d0c87171b8db3760f07199b15350071f4caccce8e520ae3c112660b778bdd3.jpg)  
+15. Loos: Private house on Lake Geneva. 1904
+
+![](images/2192d5177706fea25fef7d215b549f7c2444f652c9b898be4362d4c4a0e15355.jpg)  
+116. Loos: Steiner house, Vienna. 1910
+
+![](images/f112a0873ab6c2a0862089cdf52178f28140ce07718cfc5128b5d8110373d2d9.jpg)  
+117. Schröder: Apartment for A. W. von Heymel, Berlin. 1901
+
+Behrens was not alone in this revulsion from Art Nouveau. Its earliest witness in Germany seems to be the apartment designed by R. A. Schröder (born 1878), a poet and decorator and one of the founders of the Insel Verlag, for Alfred Walter von Heymel (1878-1914), also a poet and also a founder of the Insel Verlag. The apartment was in Berlin and dates from 19o1 (above).18 Here for the first time —even if perhaps not without some inspiration from the hieratic stiffness of some Mackintosh furniture—are chairs without curves, and walls, ceilings and fireplaces divided into simple rectangular geometric patterns.
+
+In Behrens' buildings from 1904 onwards the same new somewhat classicist spirit is expressed in the exteriors. Take for instance the Art Building at an exhibition held at Oldenburg in 1905 (pl. 118) and compare it with Olbrich's Sezession. In Behrens' building the ford cupola and the curved cornice have disappeared. The centerpiece and the outer pavilions have roofs of pyramidal form — a motif derived from Olbrich's Exhibition Building in Darmstadt, 19or (pl. I11 on the right) — the rest of the building has flat roofs. Walls without windows are decorated with delicate lines forming oblong panels andsquares. The porch has been left completely bare, just two square posts and a square lintel.
+
+This indicates the direction in which Behrens was to develop during the years that followed. His principal buildings before the war he designed for the AEG, one of the big German electrical combines, of which the managing director, P. Jordan, had appointed him architect and adviser. In 1909 the turbine factory was built, perhaps the most beautiful u  m1Te stone is used to emphasize the weight and strength of the colossal pile. This design has
+
+![](images/0146c62156e7166c3a9dcd266b8c8c9f581fbbac7a6c6e6be71e3d4a1598f1c6.jpg)  
+118. Behrens: Art Building, Oldenburg Exhibition. 1905
+
+![](images/5dfa031ea174827788b8cdca4e8dbd6633a6e938ce284e72d386e811acf3280b.jpg)  
+119. Behrens: Turbine factory, Huttenstrasse, Berlin. 1909  
+120. Behrens: Factory, Voltastrasse, Berlin, 1911
+
+![](images/4d99792351a2da0f09f8d6fe059ace23473174bc6c2d56a5ce1575b8131cb7d5.jpg)
+
+![](images/6b5f5cb6ce5e39935b60431b2181f9538fff341bf1356e444075b1a5f90c92d3.jpg)  
+121. Behrens: Street lamps for the AEG. 1907-08
+
+![](images/a2457e950f043556a7f332fcb70098ef15a298f3bd9a211abe1bb8cbbca07a81.jpg)
+
+## 22. Ehmcke: Basket and box in silver. 1907
+
+nothing in common with the ordinary factory of that time. Even more clearly than in American grain-elevators, the imaginative possibilities of industrial architecture are visualized. The result is a pure work of art, so finely balanced that the huge dimensions are scarcely realized, unless one looks at the people in the street for comparison. The two-storied aisle on the left has the fat roof and the row of windows which we find in all the most advanced works of that time.
+
+The factory for the production of small lectricmotors was built in 1911 (p1.10). The proportions of that part of the building which is to be seen on the left, its rows of rather narrow high windows without any moldings, are reminiscent of the factory of 19o9 and very different from Hoffmann's or Loos's or Gropius' favorite proportions. The same strength and noble vigor are expressed in the composition of the main block with its roundfronted pillars and recessed windows. However, it would be wrong to assume that Behrens' syle tdonly the v worlodusty.One o the be bui ee in the years before the First World War for the purpose of representing national grandeur was also designed by him: the German Embassy in St. Petersburg (1913).
+
+![](images/30437442e30c855db9a87a906e65495b547f44653e0437125840ac035b2e105c.jpg)  
+123. Paul and the Deutsche Werkstätten: Dining room. 1906
+
+It is all the more admirable that the artist, while he was employed on such monumental tasks, spent the same amount of care and thought on improvements in the design of machine-made industrial products which had never before been regarded as works of art at all. I building Ony twonstan can be iven here, two street lmps or the AEG (pl.121). They show the same purity of form, the same sobriety in limiting the design to simple geo-
+
+![](images/86671671d9095a46d839d905dbb41340c532f7824dadad9e7678fc6e6f809477.jpg)  
+124. Mies van der Rohe: Project for the Kröller house. 1912
+
+The Der tscher Werkbund was founded in 19o7. Of its successful propaganda for high standards of craftsmanship and industrial design, something has been said in Chapter I. To give an idea of its actual work, one illustration must suffice. The silver basket and silver box in plate 122 were designed in 1907 by E. H. Ehmcke, who is best known as one of the foremost German book designers. The two silver objects are not handmade; they were produced in a factory by means of machinery — and, as their shapes clearly express this, their esthetic value is not at all affected.
+
+The same applies to the furniture designed by Bruno Paul (born in 1874) for the Deutsche Werkstätten. We have already mentioned that Paul was the designer of the first modern "unit"' furniture which came out in 191o,²° and that he and the founder of the Deutsche Werkstätten worked out the first quantity-produced and machine-produced furniture of modern design. That was in 1906. The dining room shown in plate I23 was exhibited in Dresden in that year. Again we see a personal taste utterly different from the Viennese as well as from Behrens'. Paul and the Deutsche Werkstätten do not mind a touch of tradition; they dislike principles of inhuman rigidity; comfort, cleanliness and the abolition of tawdry fuss is all they desire. This attitude enabled them to popularize the new style in Germany. Bruno Paul and Karl Schmidt were not revolutionary; nor was the Werk-Th  wy     t which Gropius, the most uncompromising German innovator, might not have been able to bring about.
+
+B s  G by one or two other German architects. Ludwig Mies van der Rohe²1 was born in 1886, Hans Poelzig²2 in 1869 (he died in 1936). They represent two opposite possibilities of selfexpression in terms of the new style. Mies van der Rohe's design for the Kröller house of 191vtiBbuosy, isovee nd peciate From him come Mi rness nextre prn, from him and Behrens his sense of cubic relations.
+
+Mie's Kröler house has a perce ve in the drawig and a nvnc monwere surging ponderously towards us. These thick bands curving around the corner, which have b now become almost amatter o course wih offe building in ci, ae o reat dynamic power, in spite of their somewhat elephantine detail. Much more sensitive is Poelzig's chemical factory in Luban of 1911-12 (pl. 126) with its general attitude of Sachlichkeit, its free grouping of blocks, and its oddly spaced and shaped windows.
+
+![](images/c3862336e8149f185ed52fbc98017e1b4a351a2f687862d0f5be2a178548cb34.jpg)  
+12.Poelzig: Office building, Breslau. 1911
+
+The i ha iW G (born in 1883). His first buildings mark the fulfillment of the style of our century; entirely representative of the spirit of today, they hide their real dates more effectively than anything we have yet seen, except Loos's villa of 191o. Gropius worked for some time in Peter Behrens' studio (1907-10). Soon after that, in 1911, he was commissioned to build a factory at Alfeld on the Leine (Faguswerk, pls. 128, 129). His designs go distinctly beyond those by Behrens for the AEG. Only small details such as the windows in the foreground of plate 128 and on the right of the main block in plate 129 show Behrensinfluence. As for the main block itself, everything is new and full of stimulating ideas. For the first time a complete façade is conceived in glass. The supporting piers are reduced to narrow bands of steel. The corners are left without any support, a treatment which has since been imitated over and over again. The expression of the flat roof has also changed. Only in the building by Loos which was done one year before the Fagus Factory, have we seen the same feeling for the pure cube. Behrens' composed balance between verticals and horizontals has been abandoned; an advancing horizontal movement of great energy, here dominates the composition.
+
+![](images/b28c172514f6f262666e2e2edd6ad917ea394786a1d9f1f1f0425830111ef1de.jpg)  
+126. Poelzig: Chemical factory, Luban. 1911-12
+
+![](images/43bae143686a0101d5ce92d697f7efa8217c13c5a57b6983115f7c378c270347.jpg)
+
+Gropius and Meyer: Model factory, Werkbund Exhbiton, Cologne. 1914. North side
+
+Another exceedingly important quality of Gropius' building is that, thanks to the new treatment of glass and steel, the usual hard separation of exterior and interior is annihilated. Light and air can pass freely through the walls so that the closed-in space is no longer different in essence from the great universe of space outside. This "etherealization' of architecture, as Frank Lloyd Wright had called it in 19or,24 is one of the most characteristic hat thy we e s o sp i. It has bee o that ae led them to bridge ever larger spaces with steel and concrete and to reduce the weight of the walls and the weight of the ceilings to theutmost, until the cupola of the Jarunderthalle at Breslau, designed by the architect Max Berg in 1910-12, covered an area of 20,80o square fe     .R feet, weight c. 10,ooo tons).
+
+This same longing for wcightlessness and fexibility, we have found in the usual ground plan o ninetenth-century f buildig, where the supporting steel irders made all the
+
+![](images/93ca5b2e1adf464625c3b437f67c8c977ab251ffd372d1901e825d1c176bffe0.jpg)  
+128 and 129. Gropius and Meyer: Fagus Factory, Alfeld on the Leine. 1911
+
+![](images/cae073ceb19b804e44b167dc0e27820af04e05e97eb958cc403ba60843ef8873.jpg)  
+130 Gropius and Meyer: Model factory, Werkbund Exhibition, Cologne. 1914. South side
+
+houses, in the arrangement of the rooms in Perret's house of 1903, in Mackintosh's entrancing vistas; and we may also recognize it in the sweeping plans for the future layout of whole provinces, which were first made in Germany immediately after the First World War (Landesplanung, Ruhr District, 192o). Here too it is the conquest of space, the spanning of great distances, the rational co-ordination of heterogeneous functions that fascinates architects. The profound affinity of this modern enthusiasm for planning (architectural as well as political) with the style of Gropius' Fagus Factory is evident. The forms of the building reveal the mind of an artist but also of a sagacious thinker. Calculation and vision have worked together, as they did in the days of the cathedral builders, of Brunelleschi, Aban Mige The r n d eei the  me  the p my havegone; but then the artt who is ereentative of this centuy of ours must nees be c less spac fo expressin than d ny pe beo.
+
+However, he re tiv bra wil  n way ven  ve c y n w teh  y  the nuy wch bund Exhibition of 1914, Gropius built a small model factory (pl. 127). The north side is his comment on his master's turbine factory of five years before. The reduction of motifs to an absolute minimum and the sweeping simplification of outline are patent. The replacement of Behrens' heavy corner piers by thin metallic lines should be specially noted. Bolder still is the south front with the superb contrast between the massive brick center and the completely glazed corners (pl. 13o). In the middle there are only the narrowest slits for the windows and the lowest Wrightian entrance; at the corner, where according to all standards of the past, a sufficient-looking supporting force should show itself, there is nothing but glass encasing transparently two spiral staircases.
+
+Th   ; and it shows that Gropius' personal expression is by no means lacking in grace. There is something sublime in this effortless mastery of material and weight. Never since the Sainte-Chapelle and the choir of Beauvais had the human art of building been so triumphant over matter. Yet the character of the new buildings is entirely un-Gothic, anti-Gothic. While in the thirteenth century all lines, functional though they were, served the one artistic purpose of pointing heavenwards to a goal beyond this world, and walls were made translucent to carry the transcendental magic of saintly figures rendered in colored glass, the glass walls are now clear and without mystery, the steel frame is hard, and its expression discourages all other-worldly speculation. It is the creative energy of this world in which we live and work and which we want to master, a world of science and technique, of speed and danger, of hard struggles and no personal security, that is glorified in Gropius' architecture.
+
+## Notes
+
+## I. Theories of Art from Morris to Gropius
+
+1. John Ruskin, Architecture and Painting, 1853. Addenda to Lectures I and II, Library Edition, vol. xii, 1904, p. 83 and The Seven Lamps of Architecture, New York, 1849, p. 7; Sir George Gilbert Scott, Remarks on Secular and Domestic Architecture, London, 1858, p. 221.
+
+2. Sir George Gilbert Scott, Personal and Professional Recollections, London, 1879, p. 117 ff.
+
+3. Cf. J. W. Mackail, The Life of William Morris, London, 1899. On Morris' place in the history of 19th century theories of art, cf. Nikolaus Pevsner, "Gemeinschaftsideale unter den bildenden Künstlern des 19. Jahrhunderts," Deutsche Vierteljabrsschrift für Literaturwissenschaft und Geistesgeschichte, ix, 1931, p. I43 ff. On Morris' importance for the 2oth century see Nikolaus Pevsner, "William Morris, C. R. Ashbee und das zwanzigste Jahrhundert," Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte, xiv, 1936, p.536 ff.
+
+4.Mackail, op. cit., ii, p.80.
+
+5.The Collecied Works of William Morris, London, 1915, xxiii, p. 147.
+
+6.Ibid., 1914, xxii, p. 26.
+
+7Mackail, op. cit., ii, p. 99.
+
+.Coll Works WillaMors, xii, ;xiii, p. 13.
+
+9.Ibid., xxii, pp. 47,50,58,73,80, etc.
+
+10. Mackail, op. cit., i, p. 186.
+
+I11. Coll. Works of William Morris, xxii, p. 47.
+
+12. Mackail, op. cit., ii, p. 106.
+
+13. Coll. Works of William Morris, xxiii, pp. 194, 201.
+
+4.Mackail, op.cit., ii, p. 105.
+
+15.Ibid., p. I44;i, p.305.
+
+1Coll. Works of William Morris, xxii, p. 75.
+
+17. W. R. Lethaby, Philip Webb and His Work, Oxford, 1935, p. 94. One of the first to notice this contradiction was Morris' arliest French follower, Henri Cazalis (1840-1909), who wrote under the pseudonym Jean Lahor. Cf. his W. Morris et le mouvement nouveau de lart décoratif, Geneva, 1897, p. 41-42; also T. Walton, "A French disciple of William Morris Jea LahoRev  littu e 1 pp. 524-535.
+
+18. Coll.Works of William Morris, xxii,pp. 335-336.
+
+19. Ibid., pp. 352, 336; xxiii, p. 179.
+
+20. Arts and Crafts Exhibition Society, Catalogue I, London, 1888, p. 7.
+
+21. The National Association for the Advancement of Art and its Application to Industry, Transactions, Liverpool Meeting, 1888, London, 1888, p. 216.
+
+22. Walter Crane, The Claims of Decorative Art, Boston, 1892, p. 75.
+
+23. Arts and Crafts Exhibition Society, Catalogue III, London, 1890, p. 8.
+
+24. Crane, op. cit., p. 6.
+
+25. Ibid., pP.76, 65.
+
+26.Cf.Pevsner, Deutsche Vierteljbrschrift . . ., xiv, 1936.
+
+27. Charles R. Ashbee, A Few Chaplers on Workshop Reconstruction and Citizenship, London, 1894, PP. 16, 24.
+
+28. Idem, An Endeavour towards the Teachings of J. Ruskin and W. Morris [London, 1901] p.47.
+
+, 29, Idem, Craftsmanship in Competitive Industry [Campden, Glos., 1908] p. 194.
+
+30. Idem, Should We Stop Teaching Art? London [1911] P.Where the Great City Stands, London, 1917, P. 3.
+
+31. Lewis F. Day, Everyday Art: Short Essays on the Arts Not-Fine, London, 1882, pp. 273-274.
+
+John D.Sedding, Art and Handicraft, London, 1893, pp. 128-129.
+
+33. Above all Lethaby; cf. his lectures on Modern German Architecture and on Design and Industry, delivered in 1915: "Up to twenty years ago there had been a very remarkable development of English art in all kinds . . . Then . . . there came a timid reaction and the re-emergence of the catalogued 'styles' . . . German advances . . . have been founded on the English Arts and Crafts. They saw the essence of our best essays in furniture, glass, textiles, printing, and all the rest Form in Civilisation, London, 1922, p.46 ff. and 96 ff. Cf.also Ashbee who, in his Should We Stop Teaching Art? p. 4, says that since about 190o the growth of the English movement "has been arrested, and its principles are now more consistently and logically studied in Germany and America."
+
+Oscar Wilde, Essays and Lectures, 4th ed., London, 1913, p. 178.
+
+Otto Wagner, Moderne Architktur, Vienna, 1896 p. 95.
+
+36.Adolf Loos, Ins Leere gesprochen, 1897-19oo, Innsbruck, 1932, p. 18.
+
+37. Henri van de Velde, Die Renaissance im modernen Kunstgewerbe, Berlin, 1901, p. 23.
+
+38.Louis Sullivan, Kindergarten Chats, New York, 1947. They were first serialized in the Interstate Architect and Builder, February 8, 1901 to February 16, 1902.
+
+39. Ibid., p. 187.
+
+Arts and Crafts Exhibition Society, Catalogue I, London, 1889, P. 7.
+
+41. The Studio, i, p. 234.
+
+The first of them was delivered in that adventurous club of young Belgian artists which was originally called Les XX, and since 1894 La Libre esthétique. Cf. Madeleine Octave Maus, Trente années de lutte pour l'art, 1884-1914. Brussels, 1926. Van de Velde's lectures are collected in two books: Kunstgewerbliche Laienpredigten, Leipzig [1902} and Die Renaissance im modernen Kunstgewerbe, Leipzig, 1903. Maus, op. ci., p. 183, gives 1894 as the date of the first lecture, van de Velde 189o. The latter date seems highly improbable, because we know from van de Velde's biography that he had a nervous breakdown in 1889 and did not really recover until 1893 (Karl Ernst Osthaus, Van de Velde, Hagen, 1920, p. ro). Moreover, he admitted that he and his friends knew nothing of the English Arts and Crafts before 1891 (Die Renaissance . . ., P. 61). As early as 19o1 critics complained of inaccuracies in van de Velde's historical accounts (Dekorative Kunst, vii, p. 376).
+
+43. Van de Velde, Die Renaissance . . ., p. 98.
+
+44.Idem,. . .Laienpredigten, p.36.
+
+45. Idem, Die Renaissance . . .. PP. 30.111 112.
+
+46. Idem, . . .Laienpredigten, p.172.
+
+47. Idem, Die Renaissance . . .. PP. 12, 111.
+
+48. Ibid., p. 110. This is identical with the principles of industrial art put forward by the British Design and Industries Association from its very foundation in 1915: fitness for use, and honesty towards materials and working processes.
+
+49. Idem, . . . Laienpredigten, p. 166. How strikingly topical is this statement, too, if one replaces cement by concrete, and celluloid by plastics.
+
+50. Idem, Die Renaissance. .., p.36.
+
+51. Ibid., p.91.
+
+52. Heinrich Kulka, Adolf Loos: Das Werk des Architekten, Vienna, 1931, P. 11.
+
+53. Otto Wagner. Moderne Architektur, Vienna, 1896;
+
+J. A. Lux, Otto Wagner. Munich [1914]
+
+54. Wagner, op. cit.. p. 8.
+
+55. Ibid., P.37.
+
+56.Ibid., p.41.
+
+57. Ibid., p. 37.
+
+58. Ibid., P. 99.
+
+Loos, p.cit. His writings after 19 were printed in a volume called Trotzdem, 1900-1930, Innsbruck, 1931.
+
+6.Idem, Ins Leere gesprochen, p. 66. In xgo8 Loos wrote an article called "Ornament and Crime" which was reprinted in Trotzdem, p. 79 ff.
+
+61. Idem, Ins Leere gesprochen, p. 49.
+
+62. Ibid., p.58.
+
+63. Ibid., p. 78.
+
+64. Reprinted in Frank Lloyd Wright, Modern Architecture, Princeton, 1931, p. 7 ff.
+
+65. Ibid., p. 8.
+
+66. Ibid., p.20.
+
+67. Ibid., p. 8.
+
+68. Ibid., p. 16.
+
+69Ibid., p. 15.
+
+70. Ibid., p. 14.
+
+71. Ibid., p. 20.
+
+72. Address at the First International Congress of Architects, quoted from Sigfried Giedion, Space, Time and Architecture, Cambridge, Mass., 1941, p. 151.
+
+73. H. P. Berlage, "Over Architectuur," Tweemaandelijk Tijdschrift, ii, part I, 1896, pp. 233-234. Dr. H. Gerson was kind enough to look up for me the exact words of Berlage's text.
+
+74. H. P. Berlage, Gedanken über Stil in der Baukunst, Leipzig, 1905, P.48.
+
+Cf. many quotations in Fritz Schmalenbach, Jugendstil, Würzburg, 1935, a very useful book, which describes minutely the history of the decorative arts in Germany between 1895 and 1902.
+
+76. Richard Graul, Die Krisis im Kunstgewerbe, Leipzig, 1901, p. 2.
+
+77. Hermann Muthesius, "Kunst und Maschine," Dekorative Kunst, ix, 1901-1902, p. 141 ff.
+
+78. Idem, Stilarchitektur und Baukunst, Mülheim-Ruhr, 1902, PP. 50, 51, 53.
+
+79. Alfred Lichtwark, Palastfenster und Flügeltür, Berlin, 1899, pp. 128, 144, 169; idem, Makartbouquet und Blumenstrauss, Munich, 1894.
+
+8o. Hermann Obrist, "Neue Möglichkeiten in der bildenden Kunst," Kunstwart, xvi, part 2, 1903, p. 21.
+
+81. W. Schäfer, "Die neue Kunstgewerbeschule in Düsseldorf," Die Rheinlande, 1903, pp. 62-63.
+
+82. Friedrich Naumann, "Die Kunst im Zeitalter der Maschine," Kunstwart, xvii, part 2, 1904, P. 323.
+
+83. Cf. J. Popp, Die Deutschen Werkstätten, written about 1923, typescript. I am greatly indebted to the late Karl Schmidt for kindly letting me read the typescript and lending me a series of photographs of D. W. furniture.
+
+84. "Der Bund will eine Auslese der besten in Kunst, Industrie, Handwerk und Handel tätigen Kräfte vollziehen. Er will zusammenfassen, was in Qualitätsleistung und Streben in der gewerblichen Arbeit vorhanden ist. Er bildet den Sammelpunkt für alle, welche zur Qualitätsleistung befähigt und gewillt sind." On the history of the Werkbund cf. Die Form, vii, 1932, pp. 297-324.
+
+85. Ibid., p. 302.
+
+86. Ibid., p.310.
+
+87. The Beginnings of a Journal of the D. I. A., 1916, p. 6.
+
+88. Nikolaus Pevsner, Academies of Art, Past and Present, Cambridge, England, 1940, pp. 267, 281 ff.
+
+8Die Form, loc. cit., pp. 316, 317.
+
+9. This was never published. Letter of W. Gropius to the author, January 16, 1936.
+
+91. Letter of W. Gropius to the author, January 16, 1936.
+
+92. Cf. William Morris: "The synonym for applied art is architecture," National Association for the Advancement of Art and its Application to Industry, Transactions, Edinburgh Meeting, 1889, London, 1890, p. 192.
+
+93. Walter Gropius, The New Architecture and the Baubaus, New York, The Museum of Modern Art [1936]
+
+94. Walter Gropius et al., Statliches Baubaus in Weimar, 1919-1923, Weimar, n.d., p. 8.
+
+## From Eighteen-fifty-one to Morris and the Arts and Crafts
+
+1. The Principal Speeches and Addresses of H. R. H. the Prince Consort, London, 1862, pp. 110, III
+
+2. The Great Exhibition of the Works of Industry of All Nations, 1851, London, 1851, introductory volume, p. 1.
+
+3. Cf. J. L. and Barbara Hammond, The Town Labourer. 176o-1832, the New Civilization, London, 1917, who quote some typical sayings of members of the upper class in defending their unscrupulous attitude with the weapons of utilitarian philosophy: "Trade, industry and barter always find their own level' (Pitt). "By following the dictates of their own interests, landowners and farmers become, in the natural order of things, the best trustees and guardians for the public" (Rep. H. Comm. Poor Laws, 1827).
+
+4. J. W. Mackail, The Life of William Morris, London,   
+1899, ii, p. 5.
+
+5. Mackail says (loc. cit., ii, p. 272): "Sir Edward Burne-Jones told me that Morris would have liked the faces in his pictures less highly finished, and less charged with the concentrated meaning or emotion of the painting. As with the artists of Greece and of the Middle Ages, the human face was to him merely a part, though no doubt a very important part, of the human body."
+
+6. Nikolaus Pevsner, "Christopher Dresser, Industrial Designer," The Architectural Review, Ixxxi, 1937. pp. 183-186.
+
+7. Two examples are in the Victoria and Albert Museum (C. 788-1925, a plate, and C. 295-1926, a bottle), and neither is in any respect superior to other English artistic pottery of that time.
+
+8. Nikolaus Pevsner, "Arthur H. Mackmurdo," The Architectural Review, Ixxii, 1938, pp. 141-143.
+
+9. Sir Reginald Blomfield, Richard Norman Shaw, R. A.. London, 194o; Nikolaus Pevsner, "Richard Norman Shaw, 1831-1912," The Architectural Review, Ixxxix, 1941, PP.41- 46.
+
+10. Henry-Russell Hitchcock, Jr., The Architecture of H. H. Richardson and His Times, New York, The Museum of Modern Art, 1936.
+
+II. A Monograph of the Work of McKim, Mead and White, 1879-1915, New York [1915-1919] vol. i, 1879- 1898.
+
+## 3. Eighteen-ninety in Painting
+
+1. Ambroise Vollard, Renoir, an Intimate Record. New York, 1925, p. 129.
+
+2. Joachim Gasquet, Cézanne, Paris, 1921, F.46.
+
+3.Paul Cézanne, Letters, London [194p.234.
+
+4Vincent van Gogh, Letters to Emile Bernard, New York, The Museum of Modern Art, 1938, p. 51.
+
+5. Further Letters of Vincent van Gogh to his Brother.   
+1886-1889, London, 1929, P. 174.
+
+6. Ibid., P. 171.
+
+7.Ibid., p. 166. It is interesting to see that certain remarks of Cézanne point to the same idea. He refused to paint Clemenceau because he could not help imagining "bitter blue and poisonous yellow" and "convulsive lines' as soon as he began thinking of him. He accounts for this by saying: "This man does not believe in God." Gasquet, op. cit., p. 118.
+
+8. Further Letters . . .P.384.
+
+9.Ibid., pp. 332, 413.
+
+10. Ibid., p. 203.
+
+I1. C.Chars Fegal, Féiton, Pari191.
+
+12. Cf. Jean Louis Sponsel, Das moderne Plakat, Dresden, 1897; Charles Matlack Price, Posters, New York, 1913; E. McKnight Kauffer, The Art of the Poster, London, 1924.
+
+## 4. Art Nouveau
+
+1. See his decoration of a porch and staircase at Chalfont S. Pet8.Iu B xi 1890pp. 26-27.
+
+C.T Ea  B on9 and The Later Work fAubrey Beardsley, London, 1901.
+
+Yet he may still have been impressed even at that time by some such works of Rossetti as the wood engravings to Moxon's edition of Tennyson's Poems (London, 1857)— epecally The Lady of Shalott, p. 75, and The Palace of Art p.I13.
+
+4. A third should probably be added to them: Antonio Gaudí (1852-1926). But he remained from the beginning of his career to his very death so much of an outsider, with a background so different from that of any of the other pioneers of the late 19th century, and a development in so different a direction from that taken by the Modern Movement, that one remains embarrassed wherever one tries to allot him a historical place. Yet it is an undeniable fact that his ornamental ironwork of such houses as El Caprich at Comillas of 1883- 85, and the Güell house at Barcelona of 1885-89 (right) is every bit as surprising and original as Mackmurdo's and Sullivan's and also every bit as close to Art Nouveau. But it forms part of buildings in a crazy Pyrenean historicism of medieval and Baroque derivation. The frenzy of Gaudí's style grew more and more baffling with the slow growth of the church of the Sagrada Familia, although it can now perhaps be recognized that it bridges the whole distance from the historicism of the late 19th century to that Expressionism of 192o to which we shall come back for a moment at the end of this chapter. For Gaudí see: Josep F. Ràfols, Antoni Gaudi [Barcelona] 1928; for the Church of the Sagrada Familia: I. Puig Boada, El Temple de la Sagrada Familia, Barcelona, 1929.
+
+5. M. le Baron Horta, in a letter to the author, dated January 23, 1936, says that his only intention in designing No. 12 rue de Turin was "de faire ceuvre personnelle d'architecte, à l'égale du peintre et du sculpteur qui ne souciaient que de voir avec leurs yeux et sentir avec leur coeur . "though at the same time he stresses the rational plan and construction of the house. He adds that Voysey and Beardsley were unknown to him when he created his early works. Toorop he does not mention either in a positive or a negative way.
+
+6. It certainly has not been solved either by Hugh Morrison in his Louis Sullivan, New York, the Museum of Modern Art, 1935, or in Henry R. Hope's article, "'Louis Sullivan's Architectural Ornament," in the Magazine of Art, xl, 1947, PP. 110-I17 (reprinted in The Architectural Review, cii, 1947, pp. 1II-I14).
+
+.Sullivan, op. cit.. p. 189.
+
+8. Van de Velde, Die Renaissance . . ., p. 61 ff.
+
+9. Ch. Conrady and R. Thibaut, Paul Hankar, Edition Texhuc, Revue La Cité, 1923.
+
+I0. And incidentally also the connection between his style and the fact that he advocated a reformed "organic' style in women's clothes.
+
+11. How far he was entirely on his own in these innovations cannot yet be said. The author, in his researches into the work of Christopher Dresser (see note 6, Chapter 2), came across photographs of some of Dresser's Clutha glass of between 188o and 189o which is oddly similar to Gallé's. One vase is illustrated in The Architectural Review, Ixxxi, 1937, p. 184. It may be inspired by Gallé or independent of him.
+
+12. The Art Work of Louis C. Tiffany, New York, 1914; also a prospectus with illustrations called Tiffany, Favrile Glass, 1896.
+
+13. For a contemporary American account see A. D. F.
+
+![](images/0ce586e2dbd223748554581d0d28fa33cc5f22822d04b43370dc9ac867e4f617.jpg)  
+Gu Gull houe, Barelona.188589.Ornamental irn work
+
+Hamlin, "L'Art Nouveau, Its Origin and Development," The Craftsman, iii, 190203, PP. 129143.
+
+14. Marcus Whiffen, Stuart and Georgian Churches Outside London, London [1947-48] pp. 77-78; cf. also John Gloag and Derck Bridgewater, Cast Iron in Architecture, London, 1948; Richard Sheppard, Cast Iron in Building, London [1945] and J. Summerson et al. The Official Architect, viii, 1945, P. 235 ff. On Berlin see H. Schmitz, Berliner Eisenguss, Berlin, 1917.
+
+15. Henry-Russell Hitchcock, "London Coal Exchange," The Architectural Review, ci, 1947, pp. 185-187.
+
+16. A. D. F. Hamlin in his article of 45 years ago (quoted in note I3) overrated the originality and importance of France. After all, he says himself that as early as 1895 an article came out in Paris pleading for a restoration of the independence of French designers from Belgium. At least one of the leading French representatives of Art Nouveau was Belgian himself: Jean Dampt.
+
+17. Van de Veldeis wrong in saying (Die Renaissance . . . p. 15) that before the Dresden Exhibition "nobody in Germany had thought of a revival of artistic craftsmanship."
+
+18. For further information cf. Schmalenbach, op. cit., and more recently the personal reminiscences of Friedrich Ahlers-Hestermann, Stilivende, Berlin, 1941 and of Karl Scheffler, Die fetten und die mageren Jabre, Leipzig, 1946.
+
+19. F. Fendler, special issue of Berliner Architektur-Welt, 1901
+
+2. Cf. Schmalenbach, op. cit., p. 26.
+
+21. Their most eruptive form is the Oertel Monument of 1901-o2, illustrated e.g. in Karl Scheffer, Die Architektur der Grosstadt, Berlin, 1913, p. 182, and Ahlers-Hestermann, op. cit., p. 63. It should be understood in conjunction with the contemporary ornament of Sullivan on the one hand and of Gaudí on the other.
+
+![](images/d3844546d204040ec2a764c82f1b3d1bfaa01709e93e533b1d97609ed36cc108.jpg)  
+Berlage: The architect's house on the Oude Scheveningsche Weg, The Hague. 1898. Stairhall
+
+## 22. Walter Crane, William Morris to Whistler, London, 1911,P.232.
+
+23. However, it is not in all cases correct to say that the really creative designers in the Art Nouveau fashion found a way from it into the Modern Movement. There are also a few very individual examples of artists developing their versions of Art Nouveau direct into that odd and wild architectural idiom characteristic of the very first years after the First World War and parallel to Expressionism in German painting. The examples are Antonio Gaudí in Barcelona (see note 4, Chapter 4), and in an even more surprising way H. P. Berlage in Amsterdam. Gaudí had taken his inspiration ever since the nineties from the Catalan Middle Ages, the Spanish Baroque and Indian architecture, and now proceeded to mix them up into a frantic concoction possible only in the country of Churriguera. Gaudí's Church of the Sagrada Familia will no doubt remain as an anachronistic monument to the eternal Southern Baroque. In Berlage there is nothing southern or luxurious. His historical sources were the Northern brick forms of the late Middle Ages, sober, sound, and severe. Yet in his most famous building, the Exchange at Amsterdam of 1898, and even more in his own house in the Oude Scheveningsche Weg at The Hague which also dates from 1898 (above), he invented curious jagged and spiky ornamental forms, not sinuous as those of Gaudí and Art Nouveau, but just as original and daring. These were then exaggerated into a completely fantastic style by such architects as van der Mey (Shipping Building, Amsterdam, 1912) and de Klerckand from there a straight path leads to Dudok and the nineteen-twenties. On Berlage see K. P. C. de Bazel et al., Dr. H.P.Berlage en zijn Werk, Rotterdam, 1916; J. Havelaer, Dr. H. P. Berlage, Amsterdam [1927]
+
+24. A curious and esthetically most attractive illustration of this inconsistency is the vignette from C. R. Ashbee's first book (opposite). The book is called A Few Chapters on Workshop Reconstruction and Citizenship and came out in London in 1894. It deals with the social necessity of reintroducing craft and fighting the evils of modern civilization. Yet Ashbee the artist contradicts in visual terms Ashbee the reformer. The smoke from the factory chimney rises in such pretty Art Nouveau curves, the black soot from the clouds descends so daintily, and the anachronistic barge with her wind-filled sails answers so sensitively the sweep of the coast line that all reforming zeal is lulled into esthetic satisfaction.
+
+25. A similar change of trend about that time is to be noticed in the German periodical Innendekoration. This journal was started by Alexander Koch (186o-1939) in 1890. Whereas the first years are entirely concerned with period decoration, there are in 1894 some few illustrations of work of Ernest Newton's and George & Peto's, and also of English wallpapers printed by Jeffrey's and Essex'. From 1895 on, forms of Art Nouveau begin to penetrate. In 1896, Alexander Koch added to the Innendekoration his Deutsche Kunst und Dekoration. The victory of the new style in the Innendekoration is marked by Koch's publication of Baillie Scott's and Ashbee's rooms for the palace at Darmstadt. He was largely co-responsible for the foundation of that colony of artists at the Darmstadt Court which is mentioned on page I19. Ernst Michalski, whose article on the Jugendstil ("Die entwicklungsgeschichtliche Bedeutung des Jugendstils," Repertorium für Kunstwissenschaft, xlvi, 1925, pp. 133-I49) is a most constructive contribution to the solution of the problems of Art Nouveau, was kind enough to examine for me the volumes of Innendekoration.
+
+26. Maus, op. cit.
+
+## 5. Engineering and Architecture in the Nineteenth Century
+
+I.But in the author's opinion no more potent. It is the one objection to Sigfried Giedion's brilliant Space, Time and Architecture, Cambridge, Mass., 1941, that it somewhat overemphasizes the technical as against the esthetic components of the modern style.
+
+2. Since this book was first published in 1936, our knowledge of iron in architecture has been greatly increased by the relevant chapters of Giedion' bok mentioned in the previous note. They amplify considerably what Dr. Giedion had compiled for his Bauen in Frankreich, Eisen, Eisenbeton, Leipzig [1928] a book in its turn clearly dependent on Alfred Gotthold Meyer's Eisenbauten, Esslingen, 1907. An important paper was published by S. B. Hamilton, "The U  Cast Iron in Building," in Transactions of the Newcomen Society, xxi. 1940-41, pp. 139-155. The following account repeats much that is contained in these publications, but readers familiar with them will notice where additional information has been incorporated. Such information refers chiefly to Britain which, on the whole, is not paid quite as much attention by Dr. Giedion as she might be. Research now in progress will prove that. See also the recent books quotedin note  Chaper
+
+3.T. Telford, An Account of the Improvements of the Port of London, London, 1801, p. 6.
+
+4.The Architectural Review, xciii, 1943, pp. 53, 55.
+
+5. Hamilton, loc. cit., p. I41; Alfred von Wolzogen, Aus Schinkels Nachlass, Berlin, 1862-64, ii, p. 141.
+
+6. To Charles E. Peterson, architect of the National Park Service, should go great credit for the early recognition of the importance of these buildings. It was largely due to his efforts that the most important of these buildings were preserved, and he has long fought for local and national recognition of their merit. Cf. his "A Museum of American Architecture," The Octagon, Nov. 1936; idem, "The Museum of American Architecture: A Progress Report," Journal of the American Society of Architectural Historians, i, 194I, PP. 24-26.
+
+7. Mentioned by Talbot Hamlin, Greek Revival Architecture in America, Oxford University Pres, 1944, P. 150.
+
+8. Lecture to the Royal Institute of British Architects, February 29, 1864, quoted from Thomas Harris, The Three Periods of English Architecture, London, 1894, p. 84. Aitchison built, for example, No. 59-61 Mark Lane in London in 1863. Professor Hitchcock's paper on the Glasgow warehouse will appear in the Architectural Review.
+
+9. The British Architect, xxxvii, 1892, P. 347.
+
+10. The Builder, xxiii, 1865, p. 296.
+
+![](images/64c335cae84710d1ea6ccfd045f486d1b62767c667ca51291c99eda6f5f6b4cf.jpg)  
+Ashbee: Book cover. 1894
+
+11. On the Tees bridge: W. Hutchinson, History and Antiquities of the County Palatine of Durbam, i, p. 279. On the Jacob's Creek bridge: James Finley, "A Description of the Patent Chain Bridge,"The Port Folio, n.s.ii, 181o, pp.441- 453.
+
+12. A cast-iron obelisk earlier than Wilkinson's exists at Ullersdorf in Silesia. Its date is 1802 and it is 72 feet high (see Schmitz, op. cit., p. 19). The philosopher Fichte received another as a monument in 1814. Iron flêches became quite usual in the 19th century, see for instance the Cathedrals of Rouen and of Notre Dame in Paris.
+
+1. Whiffen, op. cit., p. 53, plate 67. Dr. Giedion, Space, Time and Architecture, f p.10,has illustrated a Lonon bookshop with undisguised iron shafts supporting a little dome. The date is 1794.
+
+14. On Covent Garden: J. Britton and A. Pugin, Illustrations of the Public Buildings of London, London, 1825-28, i, p. 22o, plate VI; on the Liverpool iron churches see A. T. Brown, How Gothic Came Back to Liverpool, University of Liverpool Press, 1937; on John Cragg: J. Nasmyth's Autobiograpby, London, 1883, p. 183. Nasmyth speaks of St. James', Liverpool, as an iron church by Blore. It has not been possible to verify this. Mr. Whiffen's notes (Stuart and Georgian Churches) are headed by a reference to Tetbury, Gloucestershire, of 1777-81. However, the vicar has since denied in a letter that the slim piers have iron cores. So Everton may well be the first instance of main piers of iron.
+
+15. The Works of Sir John Soane, Sir John Soane Museum Publication No. 8 [London, 1923] p. 91.
+
+16. For these as well as other examples of early 19th century cast iron see: R. Sheppard, Cast Iron in Building, London, 1945, and John Summerson et al. in Official Architect, May, 1945.
+
+17. Humphry Repton in his book of 18o8 called Designs for the Pavilion (Loudon's edition 184o, p. 391) already recommended cast iron as "peculiarly adapted to some light parts of the Indian style."' However, it may be that Nash was preceded by James Wyatt, his closest competitor. At least it is said that Wyatt's ill-fated new palace at Kew, begun in 1802, carried on until 1811, but never completed, was constructed entirely of iron with the exception of the floor boards. See: Antony Dale, James W yatt, Oxford, 1936, p. 98. There is indeed an interesting patent of 18oo for "arched ceilings of cast iron [supported} by hollow pillars, cylinders, tubes, or pipes of the same material' (Patent Office, London, 18oo, No. 2410), but it was taken by Samuel Wyatt, James' brother, and in any case the palace was begun too early for the use of a patent of 18oo. So Mr. Dale's story may not be correct. It is, incidentally, not confirmed by the captions to any of the existing old illustrations of the castellated palace.
+
+18. Sir G. S. Mackenzie, "On the Form which the Glass of a Forcing-House ought to have, in order to receive the greatest possible Quantity of Rays from the Sun," Transactions of the Horticultural Society of London, ii, 1818, pp. 170-177; Thomas Andrew Knight, "Upon the Advantages and Disadvantages of Curvilinear Iron Roofs to Hot-Houses," Transaction  the Horticulural SocietyLondon,v, 1824, pp.227
+
+![](images/9e5b18236f1f58983f12950ac396f309e6c67c3e2223f628f9885de0baaa84d2.jpg)  
+Brewer: Exhibition stand for Heal's, Paris Exhibition. 1900
+
+233; J. C. Loudon, Remarks on the Construction of Hotbouses, London, 1817; idem, Sketches of Curvilinear Hothouses, London, 1818; idem, Encyclopaedia of Gardening, London, 1822, No. 6174; idem, Encyclopaedia of Cottage, Farm and Villa Architecture and Furniture, London, 1842, figure 1732.
+
+19. On railway architecture the standard work is now Carroll L. V. Meeks, The Architectural Development of the American Railway Station, unpublished dissertation presented to the Faculty in Architecture at Harvard University, 1948. Professor Meeks compares these wide spans with the largest stone spans ever achieved, notably the Pantheon in Rome 142 feet, Florence Cathedral 138 feet, St. Peter's in Rome 137 feet, St. Paul's in London II2 feet, St. Sophia in Constantinople 107 feet, etc.
+
+2. T. Harris, "What is Architecture?" Examples of the Architecture of the Victorian Age, London, 1862, p. 57. Peter F. R. Donner in "A Harris Florilegium,"' The Architectural Review, xciii, 1943, Pp. 53-54, suggested that Harris was also the editor of this volume, which was to be the first of a series but of which only this one appeared.
+
+21. John Ruskin, The Seven Lamps of Architecture, New York, 1849, p. 33; idem, The Stones of Venice, New York [1851]i, pp.407, 405.
+
+22. Sir George Gilbert Scott, Remarks on Secular and Domestic Architecture, London, 1858, pp. 109-110.
+
+23. Viollet-le-Duc, Entretiens sur larchitecture, Paris, 1863-72, quoted from the English translation, Discourses on Architecture, Boston, 1875-81, ii, pp.53,89,44.
+
+24. Also at Vésinet (Seine-et-Oise) in 1863 and at Notre Dame de France off Leicester Square in London in 1868 (see The Builder, xxii, 1865, pp. 800, 805, and The Architectural Review, ci, 1947, P. II1).
+
+25. Not Cottancin as in Gustav Adolf Platz, Die Baukunst der Neuesten Zeit, 2nd ed., Berlin [193o] and in Giedion's books quoted above.
+
+26. Summed up most succinctly in the mimeographed catalog Early Modern Architecture, Chicago, 1870-1910, 2nd ed., New York, The Museum of Modern Art, 194o. Cf. also Giedion, Space, Time and Architecture, and Thomas E. Tallmadge, Architecture in Old Chicago, Chicago [1941]
+
+27. L. S. Buffington's dreams of cloud-scrapers of 188o-81 were based on Viollet-le-Duc's Entretiens and remained vague. He did not take his patent until 1888 by which time the first Chicago skyscrapers were already in existence. Cf. Hugh Morrison, "Buffington and the Invention of the Skyscraper,"' Art Bulletin, xxvi, 1944, Pp. I-2; Dimitros Tselos, "The Enigma of Buffington's Skyscraper,"Art Bulletin, xxvi, 1944, pp. 3-I2; Muriel B. Christison, "How Buffington Staked His Claim," Art Bulletin, xxvi, 1944, pp. I3-24; The Origin of the Skyscraper, Report of the Committee appointed by the Trustees of the Estate of Marshall Field for the Examination of the Structure of the Home Insurance Building, Thomas E. Tallmadge, ed., Chicago, 1939.
+
+28. Louis H. Sullivan, "The Tall Office Building Artistically Considered," Lippincott's Monthly Magazine, Ivii, 1896, P.405.
+
+29. Houses were built of concrete in America as early as the 184o's and '5o's. Cf. Walter L. Creese, "Fowler and the Domestic Octagon," The Art Bulletin, xxviii, 1946, pp. 89- 102.
+
+30. Ruskin, The Stones of Venice, P. 406.
+
+## 6England, Eighteen-ninety to Nineteenfourteen
+
+I. There is as yet no book in existence on Voysey, and the only recent paper on his work is not very detailed: Nikolaus Pevsner, "harles F. Annesley Voysey," Elsevier's Maandschrift, 1940, pp. 343-355. The same author has compiled a catalog of Voysey's oeuvre as an architect, and of this a typewritten copy is kept at the Royal Institute of British Architects. For earlier publications of Voysey's work cf. Dekorative Kunst, i, 1898, p. 241 ff., and H. Muthesius, Das englische Haus, Berlin, 1904-05, i, p. 162 ff.
+
+2. The clearest proof of this influence of Voysey's is Adolphe Crespin's wallpapers, designed at Brussels in the nineties.Art et décoration, ii, 1897, P.92 ff.
+
+3.The Studio, i, 1893, p. 234.
+
+4. On the Japanese influence in the sixties see for instance John Rewald, The History of Impressionism, New York, The Museum of Modern Art [1946] p. 176.
+
+.The Peacock Room now at the Freer Gallery of Art in Washington was decorated by Whistler in 1876-77; the Princesse had been painted in 1863-64. Japanese woodcuts had become known owing to a chance discovery by Braquemond, the etcher, in Paris in 1856. He introduced them to the Goncourts, to Baudelaire, Manet, Degas. Whistler must have first seen examples when he studied in Paris between 1855 and 1859.
+
+6. E. R. and J. Pennell, The Life of J. McN. Whistler, London, 1908, i, p. 219. The exhibitions for which he was responsible in 1883 and 1884 had white and lemon yellow, and white and pink walls (pp. 310 and 313).
+
+Two more interesting instances of this confusion between old—i.e. "I'Art pour I'Art" outlook—and new ideas are the passage from Théophile Gautier, quoted on pages 76-77 and that from Oscar Wilde quoted on page 12. See also Felix M. Gatz, "Die Theorie des l'art pour l'art und Théophile Gautier," Zeitschrift fiür Aesthetik und allgemeine Kunstwissenschaft, vOl. 29, 1935, PP.116-140.
+
+8. Morris speaks of the "impression on a very shortsighted person of divers ugly incidents seen through the medium of a London fog," National Association for the Advancement of Art and its Application to Industry, Transactions. Edinburgh Meeting, 1889, London, 1890, P.199.
+
+9. Ernest Gimson, His Life and Work, Stratford-on-Avon,   
+1924.
+
+10. Sir Lawrence Weaver, "Tradition and Modernity in Craftsmanshp. The Architeciural Review, Ixii 1928, pp. 247-249.
+
+I1. First illustrations in The Studio, v, 1895.Cf. also M. H. Baillie Scott, Houses and Gardens, London, 1906.
+
+12. The Magpie and Stump, their righthand neighbor, was built earlier and is much less interesting. (Illustrated in The Studio, V, 1895, P.66.)
+
+13. One of Brewer's most charming designs was the exhibition stand for Heal's at the Paris Exhibition of 190o (illustrated on opposite page).
+
+14. The same arch appears already in Townsend's early work, the Bishopsgate Institute in London of 1892-94. Its connection with Richardson was spotted by P. F. R. Donner, "Treasure Hunt," The Architectural Review, xci, 194I, pp. 2325.
+
+15. Since so much has been said and written about him during the last few years, and yet so little exact information can be obtained, it may be useful to print here as much as I was able to collect in Glasgow. In collecting this, I received much valuable help from Mr. A. G. Henderson, Mr. John Keppie, Mr. W. Davidson and Professor A. Mainds.
+
+A Mackintosh Bibliography exists at the Mitchell Library. Among publications, it is sufficient to mention the following: H. Muthesius, Haus eines Kunstfreundes, Darmstadt, 1902; Desmond Chapman-Huston, "Charles Rennie Mackintosh," Artwork, vi, 1930, pp. 19-31; E. A. Taylor, "A Neglected Genius, C.R.Mackintosh," The Studio, cV, 1933, PP. 345-352; P. Morton Shand, "Glasgow Interlude," The Architectural Review, lxxvii, 1935, PP. 23-26. Thieme-Becker's Künstlerlexikon does not include Mackintosh's name at all.
+
+Dates (provided by Messrs. Keppie and Henderson, unless another source is mentioned in parentheses): Born June 7, 1868 (letter from the late W. Davidson to the author). Entered the Glasgow School of Art in 1885, at the age of 16 (Chapman-Huston). In 1887 he was articled to J. Hutchison (Chapman-Huston). In 1889 he joined the firm of John Honeyman and Keppie as a draftsman. He became a partner in 1904 and left the firm in 1913. In 189o he won a traveling scholarship to France and Italy (Chapman-Huston). His Soane Medallion drawings were published by The British Architect, xxxvii, 1892, following p. 174. His design for the Glasgow Herald Tower (above) is supposed to date from 1893 (Chapman-Huston), when he was still employed by Honeyman and Keppie (The British Architect, xliii, 1895, p. 96). The next illustrations of his work: The British Architect, xliv, 1895, p. 14 has the Bargemen's Institute atDundas byHoneyman and Keppie, with a decorative detail such as the clock face probably done by Mackintosh. The Honeyman and Keppie design for the Glasgow University, Queen Margaret College Medical Department, includes a drawing signed by Mackintosh, The British Architect, xlv, 1896, pp. 26-27. Meanwhile The Studio had discovered Mackintosh and shown a settee by him in 1896 (vol. ix, p. 205). In 1897 (vol. xi) the same magazine brought out the first special article on Mackintosh, with several illustrations: Gleeson White, "Some Glasgow Designers and Their Work,"' pp. 86-1o0; 227-236. The earliest foreign articles were Dekorative Kunst; iii, 1899, pp. 4849, and Ver Sacrum, iii, 190o, PP. 384-385, and iv, 1901, pp. 393- 408. The foundation stone of the Glasgow School of Art was laid in 1898 and the east half of the building in Renfrew Street opened in 1899. Cranston Tea Room, Buchanan Street, 1897-98; Design Daily Record Offices, I9oo; Design House for a German Art Collector, 1901 (Muthesius); Gate Lodge, Auchinbothie, Kilmacolm, 19or; Music Roum for Fr. Werndorfer, 19o1-o2; House for Dr. Blackie, Helensburgh, 1902; House for W. Davidson, Windyhill, Kilmacolm, 1903; Cranston Tea Room, Sauchiehall Street (almost entirely destroyed), 1903 and 1906; House for J. Cochrane, Houshill, Nitshill, 1904; Scotland Street School, 1904; House for F. J. Shand, Killearn, 1906; Cranston Tea Room, Argyle Street, 1905; Cottage for H. B. Collins, Auchinbothie, Kilmacolm, 1907; Cranston Tea Room, Ingram Street, 1907, 1909, 1911; Art School, West Wing, 1907-09 (not 1894 as stated in caption to plate facing p. 185, The Architectural Review, Ixxiii, 1933).
+
+![](images/adad454f7ce32b680c681bf03be3e8b0eb799dc37b2a10e0f5439c978aeeed8b.jpg)  
+Mackintosh: Glasgow Herald Tower. 1894
+
+![](images/c537fd2101e70aef110bce3288daa51c8fb5e9f99db36a6cc50aaa34f55dafd0.jpg)  
+Creswell: Queensferry Factory, near Chester, England. 1901
+
+16. Cf. Thomas Howarth, "Mackintosh and the Scottish Tradition," Magazine of Art, xli, 1948, PP. 264-267.
+
+17. A wall of the exhibition is illustrated in Ahlers-Hestermann, op. cit., p. 98. On the other hand, the paintings which Mackintosh created in his later years seem to reflect the manner which was developed by Klimt's pupils, especially E. Schiele, during the first years of our century.
+
+18. Mrs. J. R. Newbury, in the introduction to the catalog of the Glasgow Memorial Exhibition, also gives the names of Beardsley, Toorop and Voysey, and adds that of Carlos Schwabe. Toorop's The Three Brides was illustrated in The Studio, i, 1893, P. 247.
+
+19. What else is of interest in England between 19oo and 1914 as heralding the Modern Movement has been collected by the author in an article, "Nine Swallows —No Summer," The Architectural Review, xci, 1942, PP. 109-112. The most noteworthy buildings are H. B. Creswell's Queensferry Factory of 19o1 (left) and Lethaby's Eagle Insurance in Birmingham of 1900.
+
+20. P. 12 and note 33, Chapter 1.
+
+21. Nikolaus Pevsner, "Model Houses for the Labouring Classes," The Architectural Review, xciii, 1943, PP. 119-128.
+
+22. J. M. Richards, "Sir Titus Salt," The Architectural Review, lxxx, 1936, pP. 213-218.
+
+23. Cf. Werner Hegemann, Der Städtebau, Berlin, 1911- 13, 2 vols. With regard to the outstanding position of Germany in pre-war town planning H. Inigo Triggs writes in his Town Planning, Past, Present and Possible, London [19o9] p. 39: 'Nowhere has the subject of town planning received more careful attention than in Germany, where for many years the foremost architects of the country have given much thought to the subject, and where the State practically compels municipalities to own land for public improvement.
+
+## The Modern Movement before Nineteen-fourteen
+
+1. On Perret see Paul Jamot, A.-G. Perret et l'architecture du béton arme, Paris, 1927; on Garnier see Giulia Veronesi, Tony Garnier, Milan, 1948.
+
+2. Tony Garnier, Une Cité Industrielle, Paris [1918]
+
+3. Le Corbusier and P. Jeanneret, Ihr Gesamtes Werk von   
+1910-1929, Zurich, 1930.
+
+4. Le Corbusier, Towards a New Architecture, London, P..A TAl Rvi lxxv 19 p.4I.
+
+5. And how little on Roger Fry's Omega Workshops, started in 1912, has really been brought out by Nikolaus ever, Th Acietural Revie, x, 11,P. 48.
+
+The standard work on Frank Lloyd Wright is Henry-Russell Hitchcock, In the Nature of Materials, New York, 1942.
+
+7. Ausgefübrte Bauten und Entwürfe von Frank Lloyd Wright [Berlin, Wasmuth, 191o] and Frank Lloyd Wright: Ausgefübrte Bauten (with an introduction by C. R. Ashbee), Berlin, Wasmuth, 1911. These two publications were followed by two written by Dutchmen: H. T. Wijdeveld, The Life-Work of the American Architect Frank Lloyd Wright, 7 special numbers of Wendingen, 1925, and H. de Fries, Frank Lloyd Wright, Berlin, 1926. After that there came two French books, one of them with an introduction by Henry-Russell Hitchcock. America followed very much later. The most striking example of Wright's influence on Holland is a house byvan Ho wi er W buildings in Europe by Nikolaus Pevsner, "Frank Lloyd Wright's Peaceful Penetration of Europe," The Architects Journal, lxxix, 1939, PP. 731734.
+
+![](images/64369648d313c2e6a29c9fd7ae1a4799d9c3c599f03d09806d9539b6fcc369bc.jpg)  
+Sant' Elia: Design for a City of the Fu. ture. 1913
+
+8. The only noteworthy Italian contribution to the new style before the war is the plan for a Città Futura designed in 1914 by the futurist Antonio Sant' Elia (1888-1916). The fantastic group of skyscrapers illustrated above is particularly interesting because of the bold use made of the motif of receding stories, although it is likely that Sant' Elia developed this idea under the influence of Garnier's and Perret's works. Equally interesting is his manifesto on futurist architecture which he wrote in 19I4. Here he says: "The architecture of Futurism is the architecture of calculation, of boldness, and of simplicity, the architecture of concrete, iron, glass . and all the new synthetic materials replacing wood, stone, brick which enable us to obtain a maximum of elasticity and lightness." See Alberto Sartoris, Sant Elia e l'architettura futurista, Rome, 1943; Giulio Carlo Argan, "Il Pensiero
+
+criico i Antono Da Sant' Elia, L'Arte, xii, 19 pp. 491-498; Emporium, xlv, 1917, pp. 155-159; and Giulio Carlo Argan et al., Dopo Sant Elia, Milan, 1935, where the Manifesto is reprinted, pp. 9-15.
+
+9. A. Endell, "Formenschönheit und Dekorative Kunst," Dekorative Kunst, ii, p. 121 ff.
+
+10. J. A. Lux, Josef Maria Olbrich, Vienna, 1919.
+
+I1. But there once again Sullivan had come first. Olbrich's block with its semi-spheric dome and Olbrich's sense of flat vegetal decoration already appear in Sullivan's Wainwright Tomb, Bellefontaine Cemetery, St. Louis, in 1892. Illustrated in Hugh Morrison, op. cit., plate 41.
+
+12. Leopold Kleiner, Josef Hoffmann, Berlin [1927} also Wendingen, no.8-9, 1920.
+
+13. Heinrich Kulka, Adolf Loos; das Werk des Architekten, Vienna, 1931.
+
+14. Cf., for example, the house built by Peter Behrens at Northampton in 1926; illustrated in The Architectural Review, lx, 1926, P. 177.
+
+15. Fritz Hoeber, Peter Behrens, Munich, 1913, and Paul Joseph Cremers, Peter Behrens, sein Werk von I9o9 bis zur Gegenwart, Essen [1928]
+
+1Illustrated in The Architectural Review, Ixxvi, 1934, P. 40%
+
+17. Cf. Schmalenbach, op. cit., pp. 28-29, 85.
+
+18. On this see Ahlers-Hestermann, op. cit., p. 109.
+
+19. Joseph Popp, Bruno Paul, Munich, n.d.
+
+20. Illustrated ibid., p. 31 ff., and Dekorative Kunst, xviii, 1909, P. 191 ff.
+
+21. Philip C. Johnson, Mies van der Rohe, New York, The Museum of Modern Art [1947]
+
+22. Theodor Heuss, Hans Poelzig, Berlin, 1939.
+
+23. See Paul Mebes, Um 18oo, Munich, 192o, and Fritz Stahl, Karl Friedrich Schinkel, Berlin [1911]
+
+24. And as Octave Mirbeau had visualized it as early as 1889. His term is "combinaisons aériennes" (Giedion, Bauen in Frankreich. p. 18).
+
+## Table of Names and Dates
+
+<table><tr><td rowspan=1 colspan=6>Born          Architects and Designers    Painters</td></tr><tr><td rowspan=1 colspan=1>1750-1830</td><td rowspan=3 colspan=5>Telford 1757-1834Finley ?-1828Paxton 1801-65</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>Horeau 1801-72</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=5>Labrouste 1801-75</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=2 colspan=5>Brunel 1806-59Boileau 1812-96Moreau 1826-98</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>1830-40</td><td rowspan=2 colspan=5>Rossetti 1828-82Shaw 1831-1912Webb 1831-1915</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=6>Jenney 1832-1907</td></tr><tr><td rowspan=1 colspan=5>Eiffel 1832-1923</td><td rowspan=2 colspan=1>Burne-Jones 1833-98</td></tr><tr><td rowspan=1 colspan=5>Morris 1834-96</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>Dresser 1834-1904</td><td rowspan=1 colspan=3>Whistler 1834-1923</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>de Baudot 1834-1915</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>Nesfield 1835-88</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=2>1840-50</td><td rowspan=1 colspan=1>Richardson 1838-86</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Contamin 1840-93</td><td rowspan=5 colspan=3>Cézanne 1839-1906Redon 1840-19166Rousseau 1844-1910</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>Selmersheim 1840-191</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>Wagner 1841-1918</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>Dutert 1845-1906</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>Crane 1845-1915</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>Gallé 1846-1904</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=2 colspan=4>Tiffany 1848-1933Gauguin 1848-1903Root 1850-91</td></tr><tr><td rowspan=1 colspan=2>1850-60</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>Sullivan 1850-1924</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>Townsend 1850-1928</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>Mackmurdo 1851-1942</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=4>Gaudí 1852-1926</td></tr><tr><td rowspan=1 colspan=6>White 1853-1906</td></tr></table>
+
+<table><tr><td rowspan=1 colspan=5>Born           Architects and Designers    Painters</td></tr><tr><td rowspan=1 colspan=4>Messel 1853-1909             van Gogh 1853-90</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>Daum 1854-1909</td><td rowspan=1 colspan=1>Hodler 1853-1918</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>Holabird 1854-1923</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>Roche 1855-1927</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>Berlage 1856-1934</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>Voysey 1857-1941</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>Delaherche 1857-</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>Hankar 1859-1901</td><td rowspan=1 colspan=2>Khnopff 1858-1921</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Majorelle 1859-1926         Seurat 1859-91</td></tr><tr><td rowspan=1 colspan=1>1860-70</td><td rowspan=1 colspan=3>Toorop 1859-1928</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>Muthesius 1861-1927</td><td rowspan=1 colspan=1>Ensor 1860-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>Plumet 1861-1928</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3>Horta 1861-1947              Klimt 1862-1918</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Obrist 1863-1927             Munch 1863-1944</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Ashbee 1863-1942</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>van de Velde 1863-</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Gimson 1864-1920</td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=4>Eckmann 1865-1902Baillie Scott 1865-1945       Vallotton 1865-1925</td></tr><tr><td rowspan=2 colspan=4>Smith 1866-1933Kandinsky 1866-1944Olbrich 1867-1908Nolde 1867-Guimard 1867-1942</td></tr><tr><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Brangwyn 1867-</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>Mackintosh 1868-1928</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1>Behrens 1868-1940</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Poelzig 1869-1948</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Garnier 1869-1948</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=2 colspan=1>1870-80</td><td rowspan=1 colspan=1>Wright 1869-</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1>Loos 1870-1933</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Hoffmann 1870-</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Brewer 1871-1918</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Endell 1871-1925</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Heal 1872</td><td rowspan=1 colspan=3>Beardsley 1872·8</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Perret 1874-</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Paul 1874-</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Schröder 1878-</td></tr><tr><td rowspan=1 colspan=1>1880-90</td><td rowspan=1 colspan=4>Gropius 1883-</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Mies van der Rohe 1886-</td></tr><tr><td rowspan=1 colspan=5>Sant&#x27; Elia 1888-1917</td></tr></table>
+
+## Sources of Illustrations
+
+pl. 8: Courtesy Victoria and Albert Museum, London
+
+pl. I1: Lethaby, Philip Webb and His Work, Oxford University Press, Oxford
+
+pl. 12: Courtesy Bedford Lemere & Co. Ltd., Croydon
+
+pl. 18: Berenice Abbott, New York
+
+pls. 40, 99, 100: Courtesy Chicago Architectural Photographing Co.
+
+pl. 44: Courtesy David Royter, New York
+
+pl. 45: Courtesy Hans van Nes, New York
+
+pl. 54a: Courtesy West Midland Photo Services Ltd., Shrewsbury, England
+
+pl. 61: Chevojon Frères, Paris
+
+pl.85: Annan, Glasgow
+
+pl. 103: Courtesy Henry-Russell Hitchcock
+
+pl. 115: Kulka, Adolf Loos, Anton Schroll & Co., Vienna
+
+P. 139: Courtesy Ampliaciones y Reproducciones Mas, Barcelona
+
+p. 142: Courtesy Heal & Son Ltd., London
+
+## Index
+
+Roman Numerals refeR to text references; italic Numerals to pages WIth illustratiIonS.
+
+AEG: 126, 129, 131   
+Aitchison: 69,141   
+Albert, Prince: 20,138   
+L'Art decoratif: 66   
+Art et décoration: 66   
+Art Nou'eau: 13, 14, 15, 16, 37, 38, 54, 55   
+68 82, 84, 85, 86, 89,93, 94, 96, 100,   
+10I, 102, 104, 117-118, 119, 120, 124,   
+125, 126, 139, 140   
+Art Workers' Guild: 29   
+Arts and Crafts Exhibition Society: 29, 66,   
+136, 137   
+Arts and Crafts Movement: 10-11, 13. 16,   
+30, 50, 55, 65, 66, 68, 84, 86, 88, 136, 137   
+AEe: 11296691361414I,   
+144   
+Aubert: 66   
+Austrian Werkbund: 17   
+Bage: 68, 69   
+Baillie Scott: 96, 140,143   
+Baltard: 75,78   
+Barlow: 75   
+de Baudot: 15, 83, 84, 109, 110   
+Bauhaus: 19   
+Beardsley: 5556, 56, 57, 58, 66, 67, 105,   
+138, 139, I44   
+Bedford Park: 106   
+Behrens: 18, 19, 124-126, 127, 128, 128-   
+129, 130. 131. 135, 145   
+Benson: 29   
+Benyon: 68, 69   
+Berg: 133   
+Berage: 15,117,137,140,140   
+von Beuth: 69   
+Bing; 6061, 62, 66, 67   
+Blaake: 52   
+Blore: 141   
+Bogardus: 69   
+Boileau: 77,78,84   
+Boulton: 68   
+Bournville: 106   
+Brangwyn: 66, 88, 88   
+Braquemond: 142-143   
+Brewer: 96, 96, 142, 143   
+Brow: 72   
+Brunel: 72,73.S1   
+Buffington: 142   
+Bunning: 63,76   
+Buurges: 76   
+Burne-Jones: 28,55,86,138   
+Burnham: 81, 83, 106, 108   
+Butterfield: 76   
+Callet: 75   
+Catel: 68   
+Cazalis: 136   
+Century Guild: 29   
+Céza:3839,44535,89,   
+138   
+Chicago Exhibition 1893: 106   
+Chicago School: 82-83, 106, 142   
+Chippendale: 8   
+Chipping Campden: 11   
+Clutha glass: 29, 139   
+Coalbrookdale Iron Company: 63   
+Cobden-Sanderson: ,6,1   
+Coignet: 83   
+Coleridge: 8   
+Cologne Werkbund Exhibition: 18   
+Conservatoire des Arts et des Métiers: 23   
+Contamin: 78,80   
+Cottancin: 142   
+Courbet: 40   
+Cowper: 75   
+Cragg: 73, 141   
+Crane: 11,132930,65,66,67, 88, 136,   
+1 40   
+Crespin: 142   
+Creswell: 144, 144   
+Crystal Palace, London: 11, 75, 76, 77   
+Cubism: 45,113   
+Dampt: 139   
+Darby: 23,68,70,72   
+Daum: 62   
+Day: 11-12, 29, 136   
+Deane: 76   
+Degas: 47, 86, 143   
+Dehmel: 66   
+Dekorative Kunst: 66, 142, 145   
+Delacroix: 38   
+Delaherche: 62, 67   
+de Morgan: 29, 29, 30   
+Design and Industries Association (D.I.A.):   
+I7, I37, 138   
+Deutsche Kunst und Dekoration: 66, 140   
+Deutsche Werkstätten: 16, 17, 107, 129, 130,   
+139   
+Deutscher Werkbund: 17-18, 19, 130, 137   
+Deutscher Werkbund Exhibition 1914: 135   
+de Dion: 81   
+Doves Press: 17, 29, 91, 126   
+Dresden Exhibition 1897: 67, 139   
+Dresser: 28, 29, 138, 139   
+Dudok: 140   
+Dülfer 67   
+Dutert: 78, 80   
+Eckmann: 63, 64, 66, 66, 67, 125   
+Ecole Polytechnique: 23   
+Ehmcke: 128, 130   
+Eiffel: 79, 81   
+Endell:64, 66,67, 118119, 120, 145   
+Ensor: 38,4850,49,66,67,86   
+Expressionism: 45, 113, 139, 140   
+Favey: 69   
+Finch: 58   
+Finley: 71, 141   
+Fischer: 17, 67, 108   
+Fontaine: 70   
+Die Form: 137-138   
+Fowler: 142   
+Fry: 144
+
+Gallé: 62, 63, 64, 139   
+Garnier: 31, 81, 109, 110111, 111-113, II3144I45   
+Gaudí: 139, 139,140   
+Gauguin: 38,42,4345, 434445, 47, 48, 52, 53, 67, 86, 89   
+Gautier: 77, 143   
+Gimson: 8990, 90, 110, 143   
+van Gogh: 38, 40, 41, 41, 42, 42, 45,47, 53, 54,67, 86, 138   
+de Goncourt: 60, 143   
+Gothic Revival: 7, 12, 31   
+Great Exhibition of All Nations 1851: 20, 29,138   
+Gropius: 18, 19, 113, 121, 129. 130, 131- 135, 132-134, 138   
+Guild and School of Handicraft: 11, 29   
+Guimard: 62, 64
+
+Hankar: 59, 66, 139   
+Harris: 76   
+Hauptmann: 53   
+Haussmann: 107   
+Heal: 90, 9I, 91, 143   
+Heine: 66   
+Hellerau: 107   
+Hennebique: 84   
+Hochzeitsturm: 119, 122   
+Hodler: 38,52, 52,53,56   
+van't Hoff: 144   
+Hoffman: 18, 121, 122, 123, 123, 129, 145   
+von Hofmann: 66   
+Holabird: 82   
+Home Arts and Industries Association: 29   
+Horeau: 75, 81   
+Horne: 67   
+Horta:57,5859,61,62,63,66,82,92,139   
+Howard: 106   
+Huysmans: 13,50   
+Image: 67   
+Impressionism: 40,41,46,50,52,53,67,86   
+Impressionists: 38,42-43,4950   
+Imprint type: 17   
+Industrial Revolution: 8, 9, 23, 24   
+Innendekoration: 140   
+Israels: 67   
+Japanese woodcuts: 86, 142   
+Jeanneret: 144   
+Jenney: 82   
+Jourdain: 63   
+Jugend: 66, 67   
+Jugendstil: 67, 118, 119, 137, 140   
+Keats: 8   
+Kelmscott Press: 67, 91   
+Khnopf: 50,51, 52,54,66   
+Kindergarten Chats (Sullivan): 13,137   
+de Klerck: 140   
+Klimt: 104, 106, 119, 144   
+Klinger: 66,67   
+Knight: 74-75   
+Koenen: 84   
+Kröyer: 67   
+Kunst und Kunsthandwerk: 66   
+Labrouste: 76, 78   
+Lahor: 136   
+Lalique: 66   
+Landesplanung: 134   
+Larsson: 67   
+Lechter: 66   
+Le Corbusier: 84, 102, 113, 144   
+Lemmen: 66   
+Leonardo da Vinci: 8   
+Lethaby: 136, 144   
+Liberty's: 66, 85   
+La Libre esthétique: 66, 137   
+Lichtwark: 16, 137   
+ieberman:66   
+iliecron:66   
+Linthorpe ware: 29   
+L: 12I4, 19123-1241241229,   
+131, 137,145   
+Lorilllard: 70   
+Loudon: 75, 75,I42   
+Ludditism: 11   
+Macdonald: 100, 104   
+Mackenzie: 74, 141   
+Mackintsh: 19,64,84,100-105, 100-105,   
+107, 108, 109, 118, 119, 126, 134, 143,   
+I43-I44   
+Mackmud:2933555892,993   
+138,139   
+McNair: 100   
+aetelinck 3   
+Majorelle: 62   
+Mallarmé: 54.66   
+Manet: 38,41,41, 47,86, 143   
+Maani:66   
+Maschinenstil: 15   
+MMarx: 10   
+Mason: 17   
+Meier-Graefe: 61, 63,86105   
+Menze: 77   
+Merton Works: 30   
+van der Mey: 140   
+Meyer: 132-134   
+Michelangelo: 8   
+Mis van der Rohe: 130, 130,145   
+Minne: 67   
+Mirbeau: 61, 145   
+Monet: 38,40,4767   
+Monier: 83   
+Monotype Corporation: 17   
+Monticellli: 67   
+More: 10   
+Moreau: 50   
+Mi:89-101I,121I4181924   
+28, 2527, 29, 30, 31, 32, 38, 55, 59, 63.   
+64, 67, 68, 84, 85, 86, 88, 89, 91, 93, 136,   
+138, 140, 143   
+Morris, Marshall & Faulkner: 9   
+Munch: 38,53,5,56,59,64   
+Munich, Glaspalast Exhibition 1897: 67   
+Munthe: 66   
+E:151611889137142,   
+143, 144   
+Nash: 74, 78, 141   
+Naumann: 16, 137   
+Neo-Impressionists: 59   
+Nesfield: 33,35,35   
+Nichoolson: 46   
+Nolde: 48   
+Obrist: 16, 63, 64, 66, 67, 6118, 137   
+O: 6, 11121,,115   
+Omega Workshops: 144   
+Onament in Architectur Sullivan):   
+Paine: 71   
+Palmeerston: 7   
+Pan: 63, 66   
+Pas Inteational Exibi 18   
+Parker: 106   
+Paul: 16, 18,129, 130, 145   
+Paxtt 75, 76   
+Pennnthorne:7   
+Perret: 109-110, 110. 113, 121, I24, 134,   
+144, 145   
+Peterson: 141   
+Pissarro: 53   
+Plumet: 62,65,66   
+1813I13I,I3245   
+Polenceau: 81   
+Porden: 63   
+Port Sunlight: 106   
+owell:2   
+Préfontaine: 70   
+P-Raphaelite:1028555   
+Pritchard: 70   
+Pryde: 46   
+Raffaelli: 66   
+Railway stations: 11, 142   
+Red House, Bexley Heath: 9, 26, 31, 32, 33   
+Redon: 50, 67   
+Renoir:38344686,138   
+Repton: 141   
+Revue des arts décoratifs: 66   
+Riharon:89-9811 138,   
+I43   
+Rickman: 73-74   
+Riemerschmid: 67   
+Rimimbad: 54   
+Ringstrasse: 107   
+Roche: 82   
+Root: 81, 83   
+Rossetti: 9, 25, 55, 138   
+Rousseau: 38,46,47,48,484953   
+Ruki:111,1188   
+I 4 2   
+Sacblichkeit: 15, 16, 89, 131   
+Saintenoy: 63   
+Salt: 106, 144   
+Saltaire: 106   
+Sant' Elia: 145, 145   
+Sauulnier: 70   
+Schäfer: 16,137   
+SSchelling: 8   
+SSchile: 144   
+Schiller: 8   
+Schinkel: 63, 130, 141, 145   
+Schlaf: 66   
+Schmidt: 16, 130, 137   
+Schröder: 126, 126   
+Schwabe: 144   
+Scott: 7-8,31,76,81, 136, 142   
+Sedding: 11, 12, 136   
+Segantini: 67   
+Selmersheim: 62, 66   
+Semper: 31, 81   
+Serrurier-Bovy: 59, 66, 67   
+Seurat: 38,46, 47, 47,49, 67   
+Sezession, Munich: 66   
+Sezession, Vienna: 14, 63, 66, 104, 119, 122   
+Shaw: 33-34, 3335-36,37,85,91,93,96,   
+106,138   
+Shelley: 8   
+Siickert: 67   
+Signac: 67   
+Simplizissimus: 66   
+Sisley: 67   
+Sitte: 108   
+Slöidsförening: 17   
+Smirrk 68, 73   
+Smith: 96,96   
+Soane: 74, 141   
+Staatliches Baubaus: 19   
+Der Stdtebau: 108, 144   
+Steer: 67   
+Steinlen: 46   
+Steuart: 73   
+Stile Liberty: 67   
+Street: 9, 12, 32   
+Suck: 66   
+Studio: 55, 6566, 104, 137, 142, 143   
+Siva:111,566,2   
+83106, 114, 114, 117,137,139,142,145   
+Sumner: 55, 138   
+Telford: 68,71,7,73,81, 141   
+Tiffany: 62,63,66, 139   
+Toop: 38,51, 51-52,53, 54, 55,58, 58,   
+64, 66, 67, 105, 139, 144   
+Toulouse-Lautrec: 4,   
+Townsend: 97-98,98.99,100, 143   
+Turner: 77   
+Typenmobel: 17
+
+Uhde: 66
+
+Unit furniture: 17, 130
+
+Unwin: 106
+
+Vallotton: 45-46, 46, 47, 138   
+van de Velde: 12-13, 14, 18, 19, 58,59, 60- 61,62,62,63,64, 66, 82, 85,86, 105, 113, 137, 139   
+Verlaine: 54, 66   
+Ver Sacrum: 66, 104   
+Victoria and Albert Museum: 30, 138   
+Les XX: 6667, 86, 137   
+Viollet-le-Duc: 77, 78, 142   
+Voysey: 13, 19, 66, 85, 87-90, 88, 89, 90, 92, 9395, 93, 94, 96, 97, 97, 98, 102, 105, IIOII4TI5I39I42I44
+
+Wagner: 12, 14, 136, 137   
+Walker: 29,91   
+Watt: 68   
+Wayss: 83-84   
+Webb:3I,323233,136   
+Wedgwood: 8   
+Weimar Art School: 18   
+Werkbund, see Deutscher Werkbund, Aus  
+trian Werkbund   
+Whistler: 66,67, 86, 140, 142-143   
+White: 36, 36, 37, 138   
+Whitman: 12   
+Wiener Werkstätte: 119   
+Wilde: 12,53,136,143   
+Wilkins: 68   
+Wilkinson: 68, 72, 73, 141   
+Woodward: 76   
+Wren: 30, 31   
+Wright: 12, 14-15, 19, 102, 114, 114-115,   
+I17, I16I19, 119, 121, 132, 133, 137,   
+144-145   
+Wyatt: 141
+
+Yachting Style: 60
+
+Youth Movement: 88
+
+Zola: 12

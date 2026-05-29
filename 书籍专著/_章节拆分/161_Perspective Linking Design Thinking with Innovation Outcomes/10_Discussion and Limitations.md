@@ -1,0 +1,9 @@
+> 来源：Perspective Linking Design Thinking with Innovation Outcomes through Cognitive Bias Reduction (Liedtka, Jeanne)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Perspective Linking Design Thinking with Innovation Outcomes through Cognitive Bias Reduction (Liedtka, Jeanne)\Perspective Linking Design Thinking with Innovation Outcomes through Cognitive Bias Reduction (Liedtka, Jeanne).md
+> 识别方式：一二级标题
+
+## Discussion and Limitations
+
+The propositions offered here are mere starting points. The possible negative effects design-thinking approaches may produce, for instance, have not been addressed. Phenomena like “groupthink” in which groups adopt practices that enhance rather than reduce bias must be considered. How can design thinking avoid this? Similarly, research demonstrates that too much information reduces the quality of decisions—what might be the effect of the torrent of data produced by ethnographic methods? Seidel and Fixson (2013) demonstrate that individual tools like brainstorming, in the absence of reflection, fail to improve innovation quality. Clearly, research studies are needed that can rigorously assess whether, in fact, these benefits I hypothesize bear out in practice and whether unanticipated negative outcomes increase. Grounding design-thinking research in the well-respected cognitive bias framework, however, provides future researchers a clearly specified and welldocumented place to begin. Such work offers a set of well-tested research methodologies as well as accepted metrics for calibrating variables.
+
+The approach I advocate here represents one route for meeting the “wicked” challenges of conducting academic research on a practice like design thinking, one that is obviously popular in management circles but appears resistant to rigorous empirical inquiry because of the multifaceted nature of its “basket” of tools and processes, and the complexity of measuring the outcomes it produces.

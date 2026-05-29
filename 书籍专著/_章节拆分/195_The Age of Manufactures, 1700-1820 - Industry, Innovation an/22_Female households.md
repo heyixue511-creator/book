@@ -1,0 +1,9 @@
+> 来源：The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain (Dr Maxine Berg)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain (Dr Maxine Berg)\The Age of Manufactures, 1700-1820 - Industry, Innovation and Work in Britain (Dr Maxine Berg).md
+> 识别方式：一二级标题
+
+## Female households
+
+Another option, allowing production processes to be divided and to use their own markets (as in the case of spun yarn), was to create separate households of young women or of women and children. The premium on the labour of young women appeared clearly in the Irish linen industry, where such households were common in the North-West of Ireland. It was also clear from the complaints of contemporary moralists and economists. Anderson declaimed against domestic industry because the money paid for the making up of manufactures would flow into the hands of the lowest ranks of the people, ‘often into those of women and children; who becoming giddy and vain, usually lay out the greatest part of the money thus gained, in buying fine clothes and other gawdy gewgaws that catch their idle fancy’.73 The wool spinners of Bradford Manor were similarly condemned by the Court Leet in 1687 for asserting their independence: ‘Whereat many young women, healthful and strong, combine and agree to cot and live together without government, and refuse to work in time of harvest and give great occasion for lewdness.’74
+
+The lacemakers of Colyton also formed female households. Pamela Sharpe found relatively high proportions of single and older women in the town in the seventeenth and eighteenth centuries. Charity and housing policy made it possible for single women to live alone or with other women. These matrifocal households were often also production units.

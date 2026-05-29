@@ -1,0 +1,61 @@
+> 来源：American Wood Type, 1828-1900_ Notes on the Evolution of -- Kelly, Rob Roy, 1925-2004 -- A Da Capo paperback, New York, New York State, 1977 -- New -- isbn13 9780306800597 -- 27f1af33bb792ec4dfd274ba8
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\American Wood Type, 1828-1900_ Notes on the Evolution of -- Kelly, Rob Roy, 1925-2004 -- A Da Capo paperback, New York, New York State, 1977 -- New -- isbn13 9780306800597 -- 27f1af33bb792ec4dfd274ba8.md
+> 识别方式：一级标题
+
+# HORNED HURMEL Pine 45
+
+Wm.H. Page, die cut specimens, 1890.
+
+SmeTe
+
+RENAGS damersh 2456   
+RENADGS damers 2456   
+RENASTU 234567   
+REANST 245   
+REN dae 256   
+REN dan 26   
+RENAS dame 2356   
+REN dan18 Ll Ti pe shown can le ma ir A ais s  loalie aps laivraw andk g n vlur
+
+Hamilton, 1906.
+
+## V. WOOD TYPE STYLES
+
+Traditionally there has been an atritude that American type manufacturers had only imitated European fashions in the nineteenth century-a notion often fostered by Europeans but readily accepted by Americans! A review of works by early American metal and wood type producers would indicate that they made more substantial contributions to typographic styles than has been supposed. This is particularly so in the field of refining or modifying existing designs. In this respect our typefounders were responsible for some important and handsome faces, and for a few peculiarly American designs which were never exported.
+
+Although there has been little question regarding the leadership of American typefounders in the field after 1870, the period before this date has not had the deserved recognition of its importance to the development of display typography.
+
+The contributions of the wood type industry to nineteenth-century American typefounding and printing are both concrete and substantial. First, wood type manufacturers made available the larger sizes of display types which were so widely used throughout the era. Although the typefounder cast types up to 24 lines, these were overly expensive and somewhat impractical to produce. After wood types were regularly marketed, the typefounders seldom cast any styles over 8 lines, so that wood types had the field of large type to themselves. The Nesbitt catalogue for 1838 showed 225 styles and sizes, plus several ornamental borders; the Wells & Webb catalogue of 1840 showed only slightly less than Nesbitt-a remarkable number of ornamental and large types for that day.
+
+Second, wood type manufacturers introduced many European styles into this country. Even the most cursory examination of wood and metal specimen books from the 1830's and 1840's conclusively demonstrates this point. Many of the German perspectives, historiated styles, French Shaded designs, and all large Backslope Roman, Antique, and Gothic faces were sold only by the wood type manufacturers. Third, the processes and materials connected with the manufacture of wood type allowed the ornamentation of existing styles to a degree which was impractical for the typefounders to duplicate. The wood type manufacturer's freedom to outline, shade, double outline or otherwise embellish these styles permitted wood type catalogues to carry many designs that never showed in the typefounder's specimens. Occasionally, innovations by wood type designers were borrowed by the founders who cast these same designs in metal.
+
+Fourth, many of the variations of solid faced letters, such as condensed and expanded, and particularly all those shades in between, came from the designs of wood type manufacturers, and some were adopted by the typefounders.
+
+There were several designs cut in wood which were original with the wood type manufacturers. A few of these original productions were borrowed by the founders and included in their own repertory of metal types, notably Antique and Gothic Tuscans. Perhaps just as important as these original designs is the fact that wood type producers were responsible for the design of many lowercase fonts. This was particularly true for ornamental styles, as many of these did not have a lowercase. In Europe, it did not seem to be a regular practice for founders to include a lowercase, or figures, with their ornamental faces. Conversely, it was exceptional to find a design without a lowercase in an American wood type specimen book. In the seventies and eighties, wood type catalogues showed lowercase for even the most extreme designs.
+
+Lastly, cheapness and availability of wood types allowed their inclusion in shops of any size and at any location. Because of this widespread distribution, wood types played a significant role in all poster printing throughout the United States between 1828 and 1900. An examination of European ephemera from the 1860's on through the century illustrates that a considerable number of American wood types were also being used abroad during these years.
+
+The artists who created the new styles in the early years are not generally known, although Darius Wells had a reputation as a fine draftsman of letters before he entered the wood type business. Edwin Allen was more interested in the mechanical than the artistic aspects of the trade. William Leavenworth, because of his known artistic bent, is thought to have created several original styles of type. Also, he is credited (along with a man named A. R. Gillmore) with changing letterforms from a full face to Condensed, Extra Condensed, and Double Extra Condensed (Rounds' Monthly Printers' Cabinet, Vol. I, No. 4, May 1857, "Wood Type"). Wells & Webb, Edwin Allen, and William Leavenworth were the only men making wood type in these first years of wood type manufacture, and the author's opinion is that the new designs were being produced mainly by Wells and Leavenworth.
+
+Nesbitt and Allen seemed to have been more interested in keeping up with new styles than in creating them. They made this announcement in 1841 to the trade, "Having made arrangements to receive all the additions made to the assortment of types in the old country, printers can be supplied with new styles almost daily." Edwin Allen, after sealing his contract with George Nesbitt, was said to have hurried back to South Windham to set up his factory, where he introduced into wood the popular styles found in English and French as well as American specimen books. Since these specimen books seldom showed complete alphabets in the larger sizes, many of the wood copies most certainly varied from the originals because of improvisation by the American pattern makers in the instances where there were no models.
+
+The one surviving specimen book of William Leavenworth, issued during the mid 1830's, included some unique wood type designs. Condensed and Italic styles of Roman, Antique, and Gothic had curious slitlike counters, and were composed in tight arrangemenits, creating a not unpleasant effect in a word or line of type. The hooks on the lowercase Roman letters were offset on the body so that they aligned with the hook of the adjoining letter—as if for a script. These letters were the only ones of their kind shown during the century by wood type manufacturers. There were also symmetrical Gothics: curvilinear letters based on circles, and an unusual cornered Gothic Full Face which appears to be based on a French design.
+
+It is doubtful if John Cooley initiated any new designs during the 16 years he produced wood type. Labeled a "stealer of designs" by Bullen, he was an astute businessman, whose real love was publishing. Although there are new showings in his one existing catalogue, it is not known whether or not they were original with him. Charles Tubbs is said by a contemporary to have borrowed most of his letter styles from William Page, and there is nothing in his catalogues to suggest otherwise.
+
+There are no known surviving catalogues of the W. T. & S. D. Day & Company. The only clue to their productions is in the one specimen book of D. Knox & Company in 1858. Since employees from the Day manufactory later worked with Knox, it is felt that they probably recut those faces which had been successful for the Day concern. There are a number of design innovations in the catalogue which are peculiar only to Knox, or perhaps, the Day Company. There are versions of semi-ornamented and ornamental Grecian, a curious treatment of Clarendon, and a number of semi-ornamental styles which show marked individuality of design.
+
+Hamilton is thought to have followed styles already established, as he was mainly interested in the mechanical and business side of wood type manufacturing. Also, because his company expanded into areas of printing furniture and other new lines, he gradually became removed from direct involvement in wood type. In the last decade of the nineteenth century, the Hamilton Company paid royalties to cut and market in wood the new metal styles of the typefounders.
+
+It appears that Heber Wells did not attempt to introduce many new yles, but ontented himsel wit avertising established faces. Because there are, however, a few ornamented and semi-ornamented designs in his 1877 specimen book which are shown only by his company, he did market some exclusive styles.
+
+Of all the men connected with the wood type industry, William Page is the one known with the most outstanding talent for designing letterforms and borders. Not only are his letter patents proof that he engaged in designing, but also there are records of his work in this field by contemporaries. For example, William E. Loy wrote for the Inland Printer on "Designers and Engravers of Type" in 19 The chief events in the career of William H. Page are so intimately connected with the development of the manufacture of wood type in America that a history of his life may be taken as the history of wood type making... besides being a designer of letters and a practical printer." Page was among the first to realize the value of producing original works, or of incorporating some degree of originality into his design. Scarcely 3 years after entering the business he was to show a number of faces reflecting his own taste in decoration—particularly some checkered Tuscans and ornamented Gothics. In the 1860's he began to patent a number of German designs, and during the 1870's he patented a number of ornamental and chromatic styles. The title page of his 1874 specimen book states that all the designs with the exception of two or three are original with him. This specimen book, 1000 copies of which cost \$10,000 to produce, has been rightfully acclaimed as containing the most superb wood type specimens ever printed. Many wood borders manufactured by Page, especially those after his invention of stamping patterns into wood, are undoubtedly of his own design since they were never shown or produced by any company other than Hamilton after he purchased the Page Company. Page also had a large number of chromatic borders in the famous specimen book of 1874. The design of these wooden borders appears to have been an art distinct from that of the typefounder.
+
+The sensibilities of William Page for the artistic in fields other than letter and border designs found expression in designing ornamental gardens and in painting. He had experimented with wood engraving with what he des r a  y in practical printing to the making of wood type. He was certainly the most prolific and best-recognized artist of the wood type industry in the nineteenth century.
+
+During the 1860's, when American typefounders adopted the new French fashions of lighter styles, wood type manufacturers created original designs to an even greater extent than before. A number of their styles from this period never found translation into metal, and many of those designs copied after metal types found their greatest range of interpretations and finest rendering in wood. Near the end of the century, beginning in the 1880's, the wood type producers returned to the typefounder as a source of designs. The many popular metal types—those of Post, De Vinne, Bradley, Jenson, Pabst, Ben Franklin, and others— were cut in wood.
+
+![](../../images/022b5efec9ec6e07e025a8d618e695d350e18e2a756dd381b98f053bf3a206b6.jpg)  
+Manufactured Dy Wm. H. Page & Co.
+
+![](../../images/fb79ed83f076b240bc083987e675ed2bbfdf69e2624cc950b46f66005680b02a.jpg)

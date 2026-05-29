@@ -1,0 +1,15 @@
+> 来源：Evolving to a New Dominant Logic for Marketing (Stephen L. Vargo and Robert F. Lusch)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Evolving to a New Dominant Logic for Marketing (Stephen L. Vargo and Robert F. Lusch)\Evolving to a New Dominant Logic for Marketing (Stephen L. Vargo and Robert F. Lusch).md
+> 识别方式：一二级标题
+
+## FPy: The Enterprise Can Only Make Value Propositions
+
+As we noted previously, marketing inherited a view that value was something embedded in goods during the manufacturing process, and early marketing scholars debated the issue of the types and extent of the utilities, or value-added, that were created by marketing processes. This value-added view functioned reasonably well as long as the focus of marketing remained the tangible good. However, arguably, it was the inadequacy of the value-added concept that necessitated the delineation of the consumer orientation—essentially, the admonition that the consumer ultimately needed to find embedded value (value in exchange) useful (value in use). As Dixon (1990, p. 342) notes, the "conventional view of marketing adding properties to marketing ... underlies the dissatisfaction with marketing theory that led to the services marketing literature" (see also Shaw 1994).
+
+Services marketing scholars have been forced both to reevaluate the idea of value being embedded in tangible goods and to redefine the value-creation process. As with much of the reexamination and redefinition that has originated in the services marketing literature, the implications can be extended to all of marketing. For example, Gummesson (1998, p. 247) has argued that "if the consumer is the focal point of marketing, value creation is only possible when a good or service is consumed. An unsold good has no value, and a service provider without customers cannot produce anything." Likewise, Gronroos (2000, pp. 2425; emphasis in original) states,
+
+Value for customers is created throughout the relationship by the customer, partly in interactions between the customer and the supplier or service provider. The focus is not on products but on the customers' value-creating processes where value emerges for customers and is perceived by them,. .. the focus of marketing is value creation rather than value distribution, and facilitation and support of a value-creating process rather than simply distributing ready-made value to customers.
+
+We agree with both Gummesson and Gronroos, and we extend their logic by noting that the enterprise can only offer value propositions; the consumer must determine value and participate in creating it through the process of coproduction.
+
+If a tangible good is part of the offering, it is embedded with knowledge that has value potential for the intended consumer, but it is not embedded with value (utility). The consumer must understand that the value potential is translatable to specific needs through coproduction. The enterprise can only make value propositions that strive to be better or more compelling than those of competitors.

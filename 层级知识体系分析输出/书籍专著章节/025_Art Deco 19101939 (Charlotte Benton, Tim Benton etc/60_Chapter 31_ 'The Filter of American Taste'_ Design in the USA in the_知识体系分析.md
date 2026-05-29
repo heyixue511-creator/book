@@ -1,0 +1,280 @@
+# Chapter 31: 'The Filter of American Taste': Design in the USA in the 1920s：文本分析与层级知识体系
+
+## 0. 文档信息
+- 文档类型：书籍章节
+- 来源组：025_Art Deco 19101939 (Charlotte Benton, Tim Benton etc
+- 原始文件：`C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\_章节拆分\025_Art Deco 19101939 (Charlotte Benton, Tim Benton etc\60_Chapter 31_ 'The Filter of American Taste'_ Design in the USA in the 1920s.md`
+- 文本行数：63
+- 有效字符数：3630
+- 关键词/词段数：363
+
+## 1. 定量概览
+| 高频词/词段 | 次数 |
+| --- | ---: |
+| vol | 10 |
+| york | 9 |
+| arts | 8 |
+| quoted | 7 |
+| modern | 7 |
+| furniture | 7 |
+| american | 6 |
+| decorative | 6 |
+| glassgold | 5 |
+| art | 5 |
+| decoration | 4 |
+| seldes | 3 |
+| february | 3 |
+| twentieth-century | 3 |
+| exhibition | 3 |
+| good | 3 |
+| september | 3 |
+| french | 3 |
+| december | 3 |
+| filter | 2 |
+| taste | 2 |
+| thanks | 2 |
+| sources | 2 |
+| adolph | 2 |
+| designers | 2 |
+
+## 2. 语义分析
+### 核心主旨
+本文档以“Chapter 31: 'The Filter of American Taste': Design in the USA in the 1920s”为中心，主要落在“历史语境与社会机制”问题域中。文本通过概念论述、案例材料与历史/实践语境，组织出关于设计对象、设计行动及其社会意义的知识链条。从首段语义看，其核心关注可概括为：Grateful thanks are due to Jewel Stern, whose pioneering research yielded some of the best sources quoted in this essay. Thanks also to Dr Joel Hoffman, who gave this text his customary insightful editing.
+
+### 关键主题
+- **历史语境与社会机制**：匹配强度 34；主要线索：history、modern、modernism、century、society、industrial。
+- **设计本体与问题域**：匹配强度 12；主要线索：design、use。
+- **人物机构与案例网络**：匹配强度 10；主要线索：designer、architect、company、school、museum。
+- **技术思维与制造逻辑**：匹配强度 6；主要线索：machine、craft。
+
+## 3. 概念、知识元与实体
+### 核心概念
+- 符号系统
+- 研究范式
+
+### 具体知识点
+- 围绕“Chapter 31: 'The Filter of American Taste': Design in the USA in the 1920s”展开的章节性知识单元。
+- 高频主题“vol”（出现约 10 次）构成文本关注点。
+- 高频主题“york”（出现约 9 次）构成文本关注点。
+- 高频主题“arts”（出现约 8 次）构成文本关注点。
+- 高频主题“quoted”（出现约 7 次）构成文本关注点。
+- 高频主题“modern”（出现约 7 次）构成文本关注点。
+- 高频主题“furniture”（出现约 7 次）构成文本关注点。
+- 高频主题“american”（出现约 6 次）构成文本关注点。
+- 高频主题“decorative”（出现约 6 次）构成文本关注点。
+- 高频主题“glassgold”（出现约 5 次）构成文本关注点。
+- 高频主题“art”（出现约 5 次）构成文本关注点。
+- 高频主题“decoration”（出现约 4 次）构成文本关注点。
+- 高频主题“seldes”（出现约 3 次）构成文本关注点。
+- 概念线索“符号系统”可作为抽象分析节点。
+- 概念线索“研究范式”可作为抽象分析节点。
+- 实体/案例“1928”提供事实支撑。
+- 实体/案例“1930”提供事实支撑。
+- 实体/案例“New York”提供事实支撑。
+- 实体/案例“1920”提供事实支撑。
+- 实体/案例“1933”提供事实支撑。
+- 实体/案例“1925”提供事实支撑。
+- 实体/案例“1929”提供事实支撑。
+- 实体/案例“116”提供事实支撑。
+
+### 关键实体
+- 1928
+- 1930
+- New York
+- 1920
+- 1933
+- 1925
+- 1929
+- 116
+- 1927
+- C. Adolph Glassgold
+- 1945
+- 128
+- 166
+- 2000
+- American Taste
+- Jewel Stern
+- Dr Joel Hoffman
+- Gilbert Seldes
+- Roxy', New Yorker
+- Some Modern Furniture Designers', The House
+- Intemational Exposition
+- Modern Decorative
+- Industrial Art
+- Janet Kardon
+- Machine Age
+- Twentieth-Century American Craft
+- Industrial Arts
+- An Exhibition
+- Contemporary American Design
+- Burns Meyers
+
+## 4. 层级化知识体系
+### 第一级：核心研究主题
+**Chapter 31: 'The Filter of American Taste': Design in the USA in the 1920s中的设计知识结构：文本主题、案例证据与概念框架的组织关系**
+
+### 第二级：核心维度
+1. **历史语境与社会机制**
+   - 维度说明：由本文件中的关键词、标题结构和实体分布共同支撑，匹配强度 34。
+2. **设计本体与问题域**
+   - 维度说明：由本文件中的关键词、标题结构和实体分布共同支撑，匹配强度 12。
+3. **人物机构与案例网络**
+   - 维度说明：由本文件中的关键词、标题结构和实体分布共同支撑，匹配强度 10。
+4. **技术思维与制造逻辑**
+   - 维度说明：由本文件中的关键词、标题结构和实体分布共同支撑，匹配强度 6。
+
+### 第三级与第四级：议题和知识要素
+#### 维度 1：历史语境与社会机制
+- **议题 1.1：文本中的核心问题域**
+  - 知识要素：history, modern, modernism, century, society
+- **议题 1.2：案例、实体与证据链**
+  - 知识要素：1928, 1930, New York, 1920, 1933
+- **议题 1.3：可迁移的分析概念**
+  - 知识要素：符号系统, 研究范式
+#### 维度 2：设计本体与问题域
+- **议题 2.1：文本中的核心问题域**
+  - 知识要素：design, use
+- **议题 2.2：案例、实体与证据链**
+  - 知识要素：1925, 1929, 116, 1927, C. Adolph Glassgold
+- **议题 2.3：可迁移的分析概念**
+  - 知识要素：符号系统, 研究范式
+#### 维度 3：人物机构与案例网络
+- **议题 3.1：文本中的核心问题域**
+  - 知识要素：designer, architect, company, school, museum
+- **议题 3.2：案例、实体与证据链**
+  - 知识要素：1945, 128, 166, 2000, American Taste
+- **议题 3.3：可迁移的分析概念**
+  - 知识要素：符号系统, 研究范式
+#### 维度 4：技术思维与制造逻辑
+- **议题 4.1：文本中的核心问题域**
+  - 知识要素：machine, craft
+- **议题 4.2：案例、实体与证据链**
+  - 知识要素：Jewel Stern, Dr Joel Hoffman, Gilbert Seldes, Roxy', New Yorker, Some Modern Furniture Designers', The House
+- **议题 4.3：可迁移的分析概念**
+  - 知识要素：符号系统, 研究范式
+
+## 5. 可用于后续知识库的结构化条目
+```json
+{
+  "title": "Chapter 31: 'The Filter of American Taste': Design in the USA in the 1920s",
+  "document_type": "书籍章节",
+  "source_group": "025_Art Deco 19101939 (Charlotte Benton, Tim Benton etc",
+  "core_dimensions": [
+    "历史语境与社会机制",
+    "设计本体与问题域",
+    "人物机构与案例网络",
+    "技术思维与制造逻辑"
+  ],
+  "concepts": [
+    "符号系统",
+    "研究范式"
+  ],
+  "entities": [
+    "1928",
+    "1930",
+    "New York",
+    "1920",
+    "1933",
+    "1925",
+    "1929",
+    "116",
+    "1927",
+    "C. Adolph Glassgold",
+    "1945",
+    "128",
+    "166",
+    "2000",
+    "American Taste",
+    "Jewel Stern",
+    "Dr Joel Hoffman",
+    "Gilbert Seldes",
+    "Roxy', New Yorker",
+    "Some Modern Furniture Designers', The House"
+  ],
+  "top_terms": [
+    [
+      "vol",
+      10
+    ],
+    [
+      "york",
+      9
+    ],
+    [
+      "arts",
+      8
+    ],
+    [
+      "quoted",
+      7
+    ],
+    [
+      "modern",
+      7
+    ],
+    [
+      "furniture",
+      7
+    ],
+    [
+      "american",
+      6
+    ],
+    [
+      "decorative",
+      6
+    ],
+    [
+      "glassgold",
+      5
+    ],
+    [
+      "art",
+      5
+    ],
+    [
+      "decoration",
+      4
+    ],
+    [
+      "seldes",
+      3
+    ],
+    [
+      "february",
+      3
+    ],
+    [
+      "twentieth-century",
+      3
+    ],
+    [
+      "exhibition",
+      3
+    ],
+    [
+      "good",
+      3
+    ],
+    [
+      "september",
+      3
+    ],
+    [
+      "french",
+      3
+    ],
+    [
+      "december",
+      3
+    ],
+    [
+      "filter",
+      2
+    ]
+  ]
+}
+```
+
+## 6. 方法说明
+本报告沿用“数据化-语义提取-知识解构-层级建构”的路径生成：先统计词频和标题结构，再抽取概念、实体与知识点，最后按核心主题、维度、议题、知识要素四层组织。

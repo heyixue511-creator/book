@@ -1,0 +1,23 @@
+> 来源：Creativity (Mihaly Csikszentmihalyi)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Creativity (Mihaly Csikszentmihalyi)\Creativity (Mihaly Csikszentmihalyi).md
+> 识别方式：强章节标记
+
+## CHAPTER 5
+
+Programmed for creativity. That people prefer to describe what they enjoy doing most with the phrase “designing or discovering something new” was a result of the first study of optimal experience I conducted (Csikszentmihalyi 1975). The dual motivational system, programmed for survival on the one hand and for evolution on the other, is discussed in Csikszentmihalyi (1985, 1993).
+
+Entropy. Here I am using the term in its more usual meaning, as the inability of a system to do work. It is different from psychic entropy, which is the state of consciousness characterized by inner disorder, negative emotions, or simply the inability to engage in purposeful action. Its opposite is psychic negentropy, or flow, which describes an ordered state of consciousness, positive emotions, and the ability to engage in intentional action (see Csikszentmihalyi 1978, 1982).
+
+The flow experience. The description of the common experiential state reported by people who enjoyed various activities such as rock climbing, chess, dancing, and so on was first provided in Csikszentmihalyi (1975). A wide range of subsequent studies on flow conducted by researchers in many different cultures was reported in Csikszentmihalyi and Csikszentmihalyi (1988). See also Csikszentmihalyi (1993),
+
+Csikszentmihalyi and Rathunde (1993), Massimini and Inghilleri(1986, 1993), and Inghilleri (1995). George Klein (1990) collected a number of enlightening essays from artists and scientists describing the flow they experienced in their creative work.
+
+Separating bad ideas from good ones. Sir Peter Medawar, the British virologist who was such a keen reporter of the creative process in his field, held that the central skill involved in creativity was to grasp which were the soluble problems (Medawar 1967). Several respondents in our study mentioned the same thing, sometimes referring back to Medawar’s idea, thereby demonstrating how difficult it is to separate a direct experience from a received opinion.
+
+The barrier of entropy. Professor Frank Lambert, a chemist, has suggested to me that the difficulty in entering flow bears an interesting resemblance to the activation energy that certain metastable physical systems require in order to mantain a higher internal energy state. For instance, iron tends to corrode into iron oxide, or rust, when exposed to air or water, thereby losing some of its internal energy. But it will maintain its higher-energy, metastable condition if external energy is added prior to its degrading; for example, if the iron is painted or turned into steel (Lambert 1995). The phenomenological parallel is that without psychic energy expended in learning to control consciousness, the mind tends to fall into random, low-energy states. While one must make an effort to focus attention to enter the flow state, as soon as one is in it, external distractions are much less likely to disrupt concentration, and even great expenditures of physical and mental energy are experienced as if they were effortless. It remains to be seen whether there is more to the similarity between these two entirely different processes than superficial appearance.
+
+Intrinsic motivation. The importance of intrinsic rewards has been realized relatively recently by psychologists, who until the 1960s considered only the satisfaction of genetically programmed needs to be rewarding. Currently among the leading researchers in this area are Amabile (1990) and Deci and Ryan (1985). See also Csikszentmihalyi and Rathunde (1993).
+
+The more flow, the more happiness. See, for instance, Csikszentmihalyi and Nakamura (1989), Csikszentmihalyi and Wong (1991), Wells (1988), Adlai-Gail (1994), and Moneta and Csikszentmihalyi(1995). But if a person experiences flow in activities that are destructive or lack complexity, or if one becomes addicted to a single flow activity at the expense of a balanced life, flow might have negative consequences; see Csikszentmihalyi and Larson (1978) and Csikszentmihalyi (1985b).
+
+Children grow up believing. In a current research of young people’s transition from school to work, we find that of a national cross-section of more than four thousand teenagers 15 percent would like to become professional athletes (the number one choice), 4 percent would like to become musicians, and 6 percent actors. In other words, if we consider professional athletes as being primarily entertainers, at least one out of four adolescents aspires to a career in entertainment (Bidwell, Csikszentmihalyi, Hedges, and Schneider 1995).

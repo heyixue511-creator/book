@@ -1,0 +1,16 @@
+> 来源：Twentieth Century Design (Jonathan M. Woodham)
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Twentieth Century Design (Jonathan M. Woodham)\Twentieth Century Design (Jonathan M. Woodham).md
+> 识别方式：强章节标记
+
+## 7 Peter Behrens
+
+AEG Showroom, Berlin, c.1912 Behrens's appointment as artistic adviser to the AEG company in June 1907 marked a new direction in corporate policy, reflecting the company's desire to bring together art and industry in a modern industrial context. Much in line with the ideals of the Deutscher Werkbund, founded four months later, the adopted aesthetic embraced qualities which were attuned to progressive design thinking of the time: simplicity, efficiency, modernity, and advances in contemporary technology.
+
+The German avant-garde was not alone in being influenced by the ideals of British Arts and Crafts writers and practitioners, many of whose work and beliefs were transmitted by the periodical The Studio, which was founded in 1893 and soon enjoyed an international readership. In Austria, for example, the Wiener Werkstätte (Vienna Workshops) was founded in 1903 by Josef Hofmann and Koloman Moser who much admired the simplicity of form inherent in the work of the British designers C. R. Ashbee (and his Guild of Handicraft) and Charles Rennie Mackintosh. The roots of the Wiener Werkstätte lay also in the late nineteenth-century Secessionist movement which was formed in opposition to the conservative values of the art establishment and which also extended its interests to the applied arts. Through participation in exhibitions and articles in periodicals featuring the applied arts the Werkstätte soon attracted international attention in progressive design circles, establishing a reputation for work in the textile, wallpaper, ceramic, jewellery, and furniture fields.
+
+![](../../Twentieth Century Design (Jonathan M. Woodham)/images/01ca61b014ce9a45b80c850455221c9793a93fc75f1caa72f2fca881058796c6.jpg)  
+24 TOWARDS THE TWENTIETH CENTURY
+
+<table><tr><td rowspan=1 colspan=4>Messing glatt, mattachleckige Form</td></tr><tr><td rowspan=1 colspan=1>PL Nr</td><td rowspan=1 colspan=1>Inbalt ca. I</td><td rowspan=1 colspan=1>Gewicht04.kg</td><td rowspan=1 colspan=1>Preis Mk</td></tr><tr><td rowspan=1 colspan=1>3588</td><td rowspan=1 colspan=1>0.75</td><td rowspan=1 colspan=1>1,75</td><td rowspan=1 colspan=1>20.</td></tr><tr><td rowspan=1 colspan=1>3598</td><td rowspan=1 colspan=1>1,25</td><td rowspan=1 colspan=1>1,0</td><td rowspan=1 colspan=1>22,</td></tr><tr><td rowspan=1 colspan=1>3608</td><td rowspan=1 colspan=1>1,75</td><td rowspan=1 colspan=1>1,1</td><td rowspan=1 colspan=1>24,</td></tr></table>
+
+<table><tr><td rowspan=1 colspan=4>Messing vernickelt, glattachteckige Form</td></tr><tr><td rowspan=1 colspan=1>PL. Nr</td><td rowspan=1 colspan=1>Inhalt ca. I</td><td rowspan=1 colspan=1>Oewichtca. kg</td><td rowspan=1 colspan=1>Preis Mk.</td></tr><tr><td rowspan=1 colspan=1>3587</td><td rowspan=1 colspan=1>0.75</td><td rowspan=1 colspan=1>0.75</td><td rowspan=1 colspan=1>19.</td></tr><tr><td rowspan=1 colspan=1>3597</td><td rowspan=1 colspan=1>1,25</td><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>22.</td></tr><tr><td rowspan=1 colspan=1>3607</td><td rowspan=1 colspan=1>1,75</td><td rowspan=1 colspan=1>1.1</td><td rowspan=1 colspan=1>23.</td></tr></table>

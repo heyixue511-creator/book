@@ -1,0 +1,9 @@
+> 来源：Russian art of the avant-garde theory and criticism 1902-1934 (John E. Bowlt (editor))
+> 原始文件：C:\Users\lenovo\Documents\Codex\2026-05-29\书籍专著\Russian art of the avant-garde theory and criticism 1902-1934 (John E. Bowlt (editor))\Russian art of the avant-garde theory and criticism 1902-1934 (John E. Bowlt (editor)).md
+> 识别方式：一级标题
+
+# From Maxim Gorky's Speech on Soviet Literature
+
+. . . All of us—writers, factory workers, collective-farm workers--still work badly and do not even grasp in toto everything created by us, for us. Our working masses still do not fully comprehend that they are working for themselves and in their own interests. This realization is slowly awakening everywhere, but it has still not burst into a powerful and joyful incandescence. But nothing can burst into flame until it has reached a certain temperature, and nothing has ever raised the temperature of working energy so splendidly as the Party-organized by the genius of Vladimir Lenin—and the present leader of this Party.
+
+We must choose labor as the central hero of our books, i.e., man organized by the processes of labor, who in our country is armed with all the might of modern technology, man who, in turn, is making labor easier, more productive, raising it to the level of art. We must learn to understand labor as creativity. Creativity is a term that we writers use too often-while scarcely having the right to do so. Creativity comes about at that degree of intense mental work when the mind, in its rapidity of work, extracts the more salient and characteristic facts, images, and details from the reserves o knowledge and transposes them into very precise, vivid, and intelligible words. Our young literature cannot boast of this quality. Our writers' reserves of impressions, their depths of knowledge are not great, and one does not feel that they care much about expanding and deepening their reserves.
