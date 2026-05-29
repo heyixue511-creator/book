@@ -1,0 +1,3897 @@
+#
+
+The History of Chinese Aesthetics
+
+H
+
+![](images/8ee9f3cbec74b2634e27a50c7cab97361bd80b1f0ff3a409d0027f3e97929263.jpg)
+
+![](images/d6b98652a503cdc82da34527857219ee2591b44192862f39c8c3610d83b182b6.jpg)
+
+![](images/fc446c540f0cb3459ba4a5099d936fa72bdd8a6f7873a52c28e7b15d43334cf3.jpg)
+
+![](images/2b5cd1e1db3c13061d0fc1d085f872294e0a4a70ac548e4870d9c31fb1073d11.jpg)  
+E89.00
+
+# HN#
+
+(IP
+
+/—3( 12018. ISBN 978-7-102-08175-5
+
+1.①..①Ⅲ.①T1 V.①J509.2
+
+CIP(2018)248306
+
+# ZHONGGUÓ GONGYI MÉIXUÉSHI
+
+(632:100735)
+
+htlp://www.renmei.com.cn
+
+(01067517601
+
+:(010)67517864
+
+pt
+
+TE
+
+Ep
+
+4
+
+:2018123#106
+
+#: 710mm × 1000mm 1/16
+
+E1 SK: 22
+
+Ep : 0001—2500#
+
+ISBN 978-7-102-08175-5
+
+\$\$\$ 89.00
+
+0\*.#5(01067517784
+
+,.1 W.E, . 1.
+
+FFTETREREE BTREEET .EW# I. T 2050"#"5 80I""# M R HJ, .
+
+I. ICHA, EI5ZHE.I, E; 86, B, . EA, 6 E#. TRE, M . "I" #ATTETE# ETET ETETEA.MI , EEAEI.F. MTREKXHIZME
+
+IZRDELTAEREWMEAERETMSE ME.EM tIRERR.
+
+1 i, ESES, MRMMIZ, DESHRHARHI
+
+#IMA#E FT#MMEE: - 21, :.F,: . ##.
+
+,;,.
+
+IERI.ZRZAZ###.
+
+\$#
+
+19948
+
+#
+
+715
+
+TERK,MEWHS.33 AT.ER NECHEEZEK.
+
+.E T .
+
+. 11220 301
+
+5 #.M. .WEE.#. ∠
+
+.1 20 5 —.# .E### FER.UT
+
+EX. RTEMEMAH\*, EEE17E8RN. \*6 H.. .#T-#,TM, #
+
+RST 205 . \*, IHH, EE "" "" 7.
+
+.   
+.
+
+F#
+
+E. TR, FWAS,T. "
+
+"" A" ""B,E.
+
+TH,BKEAMETE. ET #
+
+E o1#, iE\*, eZE #TpUTE-MAE.
+
+#
+
+THE ORIGIN OF THOUGHT   
+003   
+004 "TE" Mm   
+005 DEENTMTEM   
+007   
+010 P9. 12?   
+011   
+013 X. DEZFEE14   
+016   
+023   
+024   
+026   
+028 EX.AZHATE   
+031   
+033   
+035 X, "Ix" Hix   
+039 "" ERUCEANLEEPUH   
+040   
+041 """"I   
+046 E""5   
+047 "   
+049   
+051 ""I   
+053   
+055 A\$FCE   
+059   
+060 """   
+062   
+065 E#   
+069 9#   
+HISTORIcAl REVIEW   
+077   
+078   
+080 #   
+081   
+084   
+088   
+095   
+096   
+097   
+101   
+104 .   
+1II I""I   
+117   
+118   
+120 "1"I   
+123 #   
+128 9.""W   
+135   
+136   
+136 H5I   
+139   
+143   
+145 E   
+|49   
+150   
+150   
+157   
+162 0   
+163 I   
+164   
+169   
+170   
+172   
+175   
+179   
+185   
+186   
+187   
+190 E. "3HAH"H#R. MRR. ERZ. UMEE   
+194   
+197 I"KU"5#   
+\* Fie MONOGRAPH   
+207   
+208 9   
+209   
+213   
+215   
+218 ITEUIFE   
+220 A. "5I4H\*   
+225 +"T   
+226 ""   
+227   
+230 . IIEHAL   
+232 W.IS   
+236 I, ""I   
+239 II5   
+241   
+245 "5   
+247 ""   
+250 "#"   
+254 .""   
+257 hH":CBMME   
+258 , "#"#   
+259 #   
+260 E45#   
+261   
+262 I.T   
+265   
+265 t#4   
+269 X   
+270 , M ""   
+272   
+275   
+279 t ""   
+280 -, 3 ""   
+282   
+285   
+286 BI""   
+288 I   
+291 A4C   
+292   
+293   
+295 =   
+297 "#"   
+299 "‡π"   
+306   
+309   
+310 ,-Z   
+311 5   
+316   
+321 \$13   
+327   
+329   
+331 WiTR
+
+## "IE"WH
+
+I51"I #"HHE, MEE, ETFIEHEIE, MAISHRWHHEKRE I — AI#" 45 "" O
+
+"I"M8,1981FHZ8 HI-E:IZ "
+
+"I 20 8 HAEX. EHHAHRE, AZU "X"RHPE i -A "" A, MT. I" "" M1949W"#" NTI" ."N"W EPEEREE# "#", - ". .1"K 1FXI"
+
+![](images/54a11901b27417aeb897bdcf11e7dd5606b3c5c829c9e11b1226d704e573ac92.jpg)
+
+![](images/41f99d96c3c95e2a54ecfd7eb517f9cbbfb6eda560dec22c00a4119d5ee6eb57.jpg)  
+M1-2 12XAk, M3B426t
+
+, HA"I"KEHE-".
+
+BI, AUR, EE FEHTHAR A. , M, U.
+
+##
+
+FIZEBH , # F3#, 8ATEW6 , B01XXE ZIA
+
+20" "HW KEK, XHET, iFRZNAIR, 1920 (Desi,,+ #T.I# W54#, WE\*Z#, ZIT! EERIZ. T 1 \$ZI5 ."2EK #RE. BZ SITH " 20 5 ETMH EAREMNETEI
+
+![](images/c1180d7c5a9539e8fd12ead2a8831daff3e17c51a8d6e21bc6d91489d339337b.jpg)  
+M1-3 462071, KW 95756"3056(1J.P. Ond1 (0S0, 19234p
+
+![](images/fb27a928d99c66d2792c6f6f345e4da655c137167d24cac3405753d1ebd4bc09.jpg)  
+11-412(K2
+
+![](images/f68cc6527380218c9705d242e6f255d7669a4e77e6acc40551f93b67389637f5.jpg)  
+H1-5ZH(Z)
+
+#, 15 8175 75" ET" FB.AWREEMTFR.
+
+205060 .EH"" 3∠6#5 TXT, AHAEH? THT. WEEEE "
+
+##
+
+IME MEHEEAEM
+
+# HI
+
+(8\*•·8\*\*
+
+WRI#
+
+![](images/6481a7e0ddb361a72abdc77feec592c720675e393eb821e7e85a4181ec1efc98.jpg)
+
+EEWE
+
+20 #26#0, 3"\$"\*6H"#\*#&2"
+
+iTH, WTT, EEATZETEAAU T"T " . EX. (-F.: ENE:EMEAE 6. EME. , E." (# Alexander Gottlieb Baumgarten 1714—1762 "(Asthek/ " ". . H.
+
+1-6M5E)15.7 MME(XXM15)2-Fp. 1986 4
+
+![](images/c3cf402436b523b3a5458544af18f3005943ef7e88b6e5c2df9ed8dfe3baa6f8.jpg)
+
+|11-7Rx2h) 1927418))()7,  
+![](images/ae8467a154d68aa605327a7e3d0d6bced1da2d4d4220616c89f1faedb946eb57.jpg)  
+, 19 1-x B:2m12i-(1s
+
+E""H TETE "
+
+"5"184 Z 20 #80901 TE.#M EHE#TE\*XE1↑ TEEFEEEE M.80E4F E
+
+A,5 i: #W#", 2 XLMZX 1F; 20  801EE3518 -MH TT, FTETETHA
+
+MI#TE
+
+## P4"I" EIF4?
+
+E IZ"KE, M6KEAE I"# ME.IE?NN. "" "" ZL/AEE\*I 1998 I"", ""5 + 4,
+
+MEAEI"ET
+
+![](images/4a1b0a31495f37385aa5e125f7c8bfd95405abd51a2954b2f191961d749a81d6.jpg)  
+O
+
+![](images/3cfe267fa259646459755808e5f79ef0d12d414651a83b4c253728f039c983e3.jpg)  
+141-10 3lmHux
+
+"" " "M" 2#", W% "#"0 "42"8695, # "\$ 1F: i" "Desgn" ER"I" -E,IES. I5.,A,. TRI, E ":I, : E ANE, A#ENE; EERAGF) I" I, I#.
+
+##
+
+.I . EMAEAFIRWE .# W6
+
+EHHHIETEM MH "" IEHA#.  H"EE, A#IEI.B.E:IHET " EA. .FTEHW" 9 EIX.IETXEE " " 7 "I 4, #" ME(.F6 #EX "1
+
+E#E.HME:() F#(2)I EXZMAEME. 20 E
+
+KAHE"NETEAT IXXE "
+
+## K.IJE2FIE7
+
+1, .
+
+19# ""F "
+
+H.Greenouh1805—18521
+
+! ,# ,,# 3 #13
+
+I.."#
+
+Z,, ES."T, A#E " iRKE.
+
+T "H "" , "". .W 15
+
+A,  ""(,W RT.I
+
+#
+
+##
+
+##
+
+FE,C,T"I" \*A? E\* "I#"S"I#", I I?MMPE. E"I". ∠ XEI". . EE 'I'H
+
+Lucie-SmthE 16
+
+![](images/d17b3d7ed41b1eb7a2d14fdb780220366f561a79032c3d1fa7de96240544b7a8.jpg)
+
+111  
+![](images/b9f80db1fdff88b795dca6ff0d3a2de55c5d3317c6a5ff1abf55ba981bf0ea2c.jpg)
+
+19 1-12 (X0) 1558  
+![](images/2e0283427413a85475aca9d6a01ee675573b445fdd64b96870933a3175b35d7b.jpg)  
+- M1 13 Bk, pAy
+
+I""W#FZ, FE. EA,E5I#WH. Bm#HME. 31T, THX# FR.##Z" ERH. KIEEM
+
+M6 81Z- "385n"-65 #1 : ",853"-T, RS8" \*-AIZEE-E FT :FA"I
+
+H"IAE""- WE"EIZH.17
+
+E:
+
+##
+
+E+#F "#F¥" . , -.: TIEEEEMEAE."ER EH"W"""ME""↑ """""
+
+## E
+
+EWAKTE.E . HRA, EAZ#, XRTZFI, RTZ,
+
+![](images/f7547b94a28962f2b9f6889c7febb4a6203ebdc5d42f98b6d40760e4dc335756.jpg)
+
+ZIWEZ."2 E A"""
+
+#pE"  PkH "RHE" ##. B8Eti: "F8E, E,.21 IF \*IiE) FE: EAR, FISE . B Z  WW . ME ; , " 2
+
+## (4I55
+
+I I— Z.BIH I5 ," 2,, " M
+
+## Z
+
+M F1E. #F" K1 "" " F\* "" ". H".M .T. 1— "" "",, " . " """;5"
+
+,  "". 18,  "#",
+
+"1 1#"
+
+##
+
+1. :I,,, 1981
+
+2.:(#,:,1926,1
+
+3. ,]=,,1936
+
+4. 4\*: (4\*#\*), (\*), 19863#]
+
+5. [],:—,: ,1979, 3π
+
+6. []:—, :p#1979, 23π
+
+7. ::, 1990, 1
+
+8. :(,:,1991,6
+
+9. :5,:,1985, 181
+
+10.TF8:\*:5)
+
+11.:),),k: 1985184
+
+12. : :p1978
+
+13.]:(5),,:(0 i·#),K\*:\*xit,1989,\*3.
+
+14.,]:),,: ¥1961,6
+
+15. :"",:).
+
+16. []·p5:(#I),\*,: , 2006,45
+
+17.,1±1, 1984 ,23—34
+
+18.:(42,:, 1972,92
+
+19.(·),,3}:(), :, 1993 379380
+
+20. ·),, \*i:(,:, 2004 ,201—202
+
+21.:,(,, 1981
+
+22. :+:, 905
+
+23.3#: 1980229
+
+24.:,:,1988.5051
+
+## ME AI"(
+
+1 T.9 121# H]-A: "#, Z, , A#, 8#LF, 8#."177245"52 HX.W
+
+FZ,56AT3 4753 396F8, EA(5 ENZ,LZ, W E EE+ it, ,M LEZ.A,Z. T3: '30WEEF, 73. 'F7E: 840FZ FWE,BT.'IA. FE:AZET UE, E, HE, K. AEZFAEEE AE#EEZEM, E TE. :#!'"M EAHI:
+
+![](images/5215a61f7237b5e2f72fc97dd06c10277f688b0c86254f2b629e1db3f6d2a158.jpg)  
+1821 204) (5
+
+STT! 2440242045 2/9=440d\*7d=43
+
+![](images/e445b32f177cd39bf987c8e26e5180d320dabef57023b49c264eefddcde4fadc.jpg)  
+M22(275) 15, 1014
+
+K!'7E:044ZI5, ARRZ, T# #Z#,MSE+EZEF.A##-8MW.'#7MZH: '#7I5, 154. H! '"5 8]:MAEEE0Z.Z,:3#A:"".?'7:#A()+. MAERF, #EFA. EEEEZ#, FE#?6)
+
+1871EI5"E.\$ EFREX(AUTSXEZ 6F "#"(8.4T. K. FEE, RFZE, #TSE A'ZFFAMTAF?" —HEMiFE, 1RE "HAZR", EARTAE HEETAHAFEEFFEM↑
+
+(<#\$5,#TΛ; (R±) <) ###31# F#11# I.WE
+
+E) () () ()##x,
+
+TE ,  "EF".E-"E", E WET EWZ 7
+
+##
+
+E
+
+A.6(8 KT#). MA#T, AME, A, ME WTZ FACERT EFRT, #EHR" \*. EHXFE, WETE METEX,EGNTAM?
+
+![](images/da18b6df4ac1da401f790bdbb2f56673fb3d85c7b520c414eef08258c49462d6.jpg)  
+14 2-3 sd04e - (04l97, Hf 1877 1p DNX0t2Ex8, 1:x, T2x \*x, MWXWH "BCRi2x"
+
+I "i",DWT:E # .1#T #I 4 I,I: I.I,I, ZIH, #ZI" I#. IE#IF# F" "" R A, HXEEEIE, EIAN 6. #-,EEMAHMTENT, TE\* ""6"",,#, T
+
+ERT "TEE KAAX.HAVREHEHAEX Tix-H.
+
+## EXAZHIEE
+
+1t("", """"
+
+X"MHEATNEAETHATHAN A. FLFHE "CEA", WHEXTXEEF. FF EETHF FLFi, E# FH, 1 FLH "1"# R#EME, WLE"C"TR, HEMSRIER, .3",:(1" FFZ,RZ"(2 " AZ#, RTZR, RTZ, WAFRT FUAFEP, TFUARPE CZARTE, EA ZAT.EZF5.ZFTH.3ZPE,W5REZW, 1#A."1EME8,-EET,2E TETEEEREHETE
+
+, 18 MHA " I 1 AHNE TEHU.E RWT "TEEFXEEETR,
+
+ELE E
+
+EIETFT?AME#TEF th? "Fi:TFTEHFIE. TTARH."# 1 F? #EARF?"FE: "TER? "AEFE: "10 W":### W#E, #/. ###Δ#Z\*, #Z\*, W#, W, #E.#,, W. #/6.#4, W6#E, #8. HP92. #1
+
+18 WXZER,EMIRMEKEFFAIEFRHEMZ , X "" , RI, #OUFIEE, MRIRZ.RZE. A. TAWRA. EERTZRI. AHXAEFER, EE, ARA, HEL, HRE, FARI,UFIEE. :F" RTE XT EEFE HEH.
+
+##
+
+"" F" !F # Fi ," . I. : EI, , W9,,W35, F, TRF."2E #K,FEET#. #E : ZH, #E3SH. EFTE,RZW, W." "",… 4#H6W##F"
+
+EELT.
+
+MF#TB# ER.EEA ,, # # #.# E. HIRA, XAE, HTE#AH. FTUF: H.TF,T EERE." A, WTE3EE, EA, #, ER. , WTH, #. I,DT, .T. FI, RTZ. " 24)
+
+\*IEZH.ZI ."" ME.FW#EXB: RRETE, EUE35: PRR14,EDEMA5; E,TET
+
+NEZWH.("JE###ZH: E,EW58; E, EWS, EZR, FEE, EFE, E WHET, DUE. BEEE, MFZW, EFE, .",.
+
+##
+
+EFAZ:9TT 1000? #Z. " 26 0685 6812) "". 4R9""R, EEKA8 A
+
+"".E
+
+(1) EHARA, EITTAESEN, LE.T EREWETRETEATIERH.
+
+(2)EHE,TTA,,
+
+EETTRTETOE E T.##TA T,A,E.
+
+(3#TE 1
+
+18 .I EEEE "1" E" 3∠,# IX. E85 AEAEXAME.
+
+## . ""
+
+TE"#",,#TT RF EET". ""A
+
+"T Z #TIT#E TEZ.
+
+. A:", \*#?": A3MM.BE,Z;, L. W##; , B0Z#EIX. #E: 5 RUTEHEETTH. FUEF, ZUXER, TETETTE
+
+![](images/6c85c3240d7eaaa1e21b5f7cf27612397d96dffd61b8d628bbba795f9d40e58a.jpg)
+
+MFIWBI FEF.
+
+EE..# (A.L00s1870—1933 : HAEM ."8 ##
+
+F HNAR
+
+\+ ES.AEAE:"RHAA?" R?"E:",W!" E: 65., \*6
+
+""  FE" 5", # "", T8E7IzM#, tE7 FH
+
+## TEM
+
+1. (iz1}5]),x]3],(]3m,[]3] ,]3:(,:1959,2350
+
+2. (,:,199, 1406
+
+3. (}), 1:(\*#),1459.
+
+4. (iz·1751)\$,Rx]]3, []3,] a]5‡, (]3kEx:(i2),2350.
+
+5. (\$}·i1),2\*]1,5:(\*7\*), :,1998,266267 π
+
+(\$}-\$x),#1,,:<7),1:, 1993 ,687688
+
+7. <-F),R],:#,: 1961 10771080
+
+8. (7F),2[],:(7\*#),1075
+
+9. (-i).R(]:(+),9(5
+
+10. []-,:(),:p, 1988
+
+11. ·),, 3:(7),158.
+
+12. ,:7),379—380
+
+13.:(),167.
+
+14.:(),6.
+
+15. :(5), \*222, 161.
+
+16.:(),168.
+
+17. (·),R(),703π
+
+18. ,]:(+,:, 19802471
+
+19. (·),[]:+=),2511.
+
+20. (·#),R, j:(7), 658.
+
+21. (-),[]:(+=),2506.
+
+22. (7·),2, 3:(7),37.
+
+23. (7-#),R, :(7),4648
+
+24. (·),R#, z},:(7), 264.
+
+25. (),R,,:(),268.
+
+26. (7-#it),R, 3}: (7), 46π.
+
+27.[]:(1949,, 4513:(345t\*\*t-\*5),\*1771.
+
+28.\$:,1651.
+
+29. -),,:(),737
+
+30. []:5,: \*\*111131.
+
+31.,[],:(),: 1987561
+
+##
+
+LEATEE FETHFT1 LAE "L" "" "F"""WEX. ## F"H.# K.ITEFETE # # E IZAME EELTAXMT.
+
+;  ""m8 "K# H W "" " TZ, Z, 5"2, 5168T, F"FF"EE i ""Km ;F ". 1"K4ET. 15Z-, ZRJE"3. ""
+
+IHMR; FLFEFH "#"EE, #IE#ASAR "".# RERTE" 5P9E" KEEE,  "ET#, MT, T, \* mT. T"EHE. FLFF#SE it "7L" E. RE "" H. AR3 XTEREWIEREX, EBEA.MX
+
+## "" "L"FI
+
+FLFLZEE, 551FE. E 66.F2 #5 AEA#BE.ETAT.#RH#8A \$C, 5FAA 479.
+
+ER. "t" F0 ""W.
+
+<iE :.:."5 "" "" "i""" \$, #. 462 —, "", \*469,F"" 33; ""75# "109 "" "E " ""
+
+![](images/debefce56e18729924418e6a5e2ee8c89b33f09aae4510689c37b5e2ce55f922.jpg)  
+13-1A, (DC4A)-G.MPm1-14xTH
+
+M "
+
+MEE, WM "E"EX-EKE I##."# #F# -H ""
+
+FLFE "" ":"AFT, ??"? I? """ ? .: A, - F."11 "" , "".
+
+! SEMR, CE. ", 5, ; ,,."1). ETLELTI; ELTAE EECXE F1B55#AR
+
+EA""EI MEERIX-BEMZOF,ETNE """" . 7L7#: "0TI, A! " 13 AE6-7#54 ., T, ,! AIL "THI" SETE. ETE-#, EIF#I6 , FOE,E "" . FL. # LE "t" . A"t"HE, FFi " ,
+
+"E"\$L"FIZRU 7, 18 "L"##EHx, #TEHI6 A.FF ""H "ZHT ,5" 15,"" EETTI 1 ""1,.i T . BR (iE) EfTm1taiE, 1E4-
+
+![](images/d859a237966d2e20359af0e99070e5d710896537131c1c88a959f141414bf241.jpg)  
+143-2 "5200" , p4w, 0x 25.2 M1x. Bk488Mh7a
+
+## ""5MX
+
+" T?"(? " ! H ."FLFE FH???E \$!"":#., ?" ""- """" . i·F,1
+
+EEFEKEISIE, FLFEHT "T, #ET TT"21.W, #T. "F"≠" ""ZW ", 3FE ""T mEE"L"X-F "#"." "" ""\* "7 "#F # "" #.
+
+![](images/9f2a958dab63dd96093ae30ae36726c789ce69c271830e22bc567bbc1466c8c3.jpg)  
+(H3-3(7l)1565
+
+## "
+
+" .: " H;") EE.EMEIA.M". " "" T:"?""" """5 ""EM
+
+"W", BER# "" IT, I " .E ." 3B∠
+
+W## . BFFU "AC ""A. 1EERI, " ", "" tx5t, #8, 31#% "". "I A#E.L 5 "", "" ,
+
+"" FL6WM RTEESEZ,BBEJE M # " o
+
+" "
+
+"" "" IR ↑""#"" """" "
+
+## L.MC
+
+I """" " kTHEaER, ET "L"HE. 18 "C" Kt "   " "F "." R 43F
+
+3722 ""1 ., D1IZME. ZEWE, E, TET. "25 SELEE↑ T,K " " W#,
+
+313- 238 5)"", 5 REF "RL"IE.TH
+
+N
+
+![](images/c389633a64ed97656e3f7e117eddae36e19be3f7f72b780cbdf855f81e5a3bd3.jpg)  
+13-1 6.(C4λ) -2.02M1-4KTH
+
+![](images/8e047233164c2883bd7f4fd689bf7a5db9468fa2e109692f7cfaba686e42094c.jpg)  
+13-5601
+
+M#, HE, , F, E8ZR. H8E, MTEZRELEI iZRE"2 E, AE C 1" WE#. ... A....F. EE 3" ##E,"c"HE ""A "RE"
+
+T"t"5 "", "" ""- "
+
+## . "E
+
+" ". T , TE "t"; M ETE 4Z, 1ARZ#, K4Z, 50E, ETAEZ5, EA# ##E, 61E#ZR"  E#
+
+F, E ",M. WRW, EIWISE AWEEFA, TW ERIBERER, EZPEF" 3 E, RRAERH FFH "" " SRA. #E "" #
+
+"L" EAEEERTE, FLFZE. FLR:FTEZA, TZ, AMZE, T#. "31 E.R, NTETMX,NTEIEM T AR,,A .IEE 82
+
+" HB, E,FT." 1AT-EH.FLEXH#IEZ. MTFEZUE —ARIEE5-MET .
+
+##
+
+\- L"-6:
+
+I Z.,,.,. .3
+
+1 .,.# ..
+
+.
+
+M. B087 "\*\*",\* #(:" #5."35 7 7i 8, 11 Z3, FL(Li F# T, H?  , 3 FL#WEE.M - " 37"38 ""RE, /j, BHE, m
+
+FL "T#
+
+![](images/4b6987a070c08c8ba76fb6669125101e4a06e765d93a0a286d1fcd15eea53eca.jpg)
+
+3-6()158
+
+## A.UMC
+
+" RE EAR. TE
+
+,"39 ET HR. "" TA, m" 6 . , 1
+
+. FETE . A. TAT ,#."1,- ITWL", "
+
+.  "" ,,# 5, EX, , TTET: K , EUME, T\*; Z E3. H. E, EWBEX, AXETOME, TR#R: AZE , ,M,." 673 #) i: #\$, #, , 4295"!
+
+t "" .  "F" "". ""F "\*L" "" F.j.
+
+EZ,EMETE CER.IUENEEX. ZHJIE:
+
+\$
+
+E EEXE.ET "#
+
+.
+
+## YEH
+
+1. (·),[]: (+=), 2471F.
+
+2. (-),:(+),2517 .
+
+3. [= -\*]:(3L}-),:<3 ),:, 2092
+
+4. (-).[1: (+=),2535F.
+
+5. (6 - A), R[#]]: (+=M), 2504F.
+
+6. (·≠F),R[]: (+=), 2730F.
+
+7.: :198016
+
+8. (#-+),]:(+),2115
+
+9. ,1:()\*, \*115.
+
+10. (λ,[: + 2466
+
+11. ( -),[:(+),2502F.
+
+12. (-λ), R[#]:(+=M),2466.
+
+13. ( -),R(]:(+=), 2479
+
+14. (-),[#1:(+=),2502F.
+
+15. (6·14), []: (+M), 2517.
+
+16. (-λ,[]: +=, 2467
+
+17. (-)[:+),2462.
+
+18. (·),R[#]: (+=),2490.
+
+19. (·), R[\*]: (+=M), 2489F.
+
+20. (·3k),[]:(+),2531 F.
+
+21. (-,[]:(+),2481.
+
+22. (),(]:(+=),2479
+
+23.(λ),[]:(+),2467
+
+24. []3]3:(]),23]1:(a]3a),: ,198524(
+
+25.,[]:+=,2753
+
+26.#:(8)\*\*,\*:±, 1987,178
+
+27.(}·),[],,:(7\*), #1988309
+
+28.(E),[]\*,.:(\*), 417
+
+29. (7·\*4),2[#]1t\*#.\*1.11\*: (7\*#),
+
+70
+
+30. ·4),[],.:(\*), 71
+
+31. -,[]:+=,2517
+
+32.(#,[],:, 159
+
+33. ,[]:(+=,2494
+
+34. (· F),[]:(+=),2525.
+
+35. (Li·1), R(]:(+=),1479F
+
+36. (),:+=),2494.
+
+37. -, , []:+),1664.
+
+38.6-),[]:(+),2494
+
+39. (·1),[],,:(7\*), 175
+
+40. ]\*,:(\*·#),i:, 1986, 179
+
+41. (5·1),2[]\*,,1:(), 176
+
+42. (5·31,[#],:(), 177
+
+43. (7·31),2[]#,\*,1.:(\*\*), 180
+
+44. (-#-),]:(+=),514F 515
+
+45. ,[],:, 318
+
+## A"5""
+
+." .#+. " " .. . :. tix""!
+
+"" "" , Tm. , () #, . . EZE": m ""AE. W65#AZ. """" "" #" "" "" , SR, ""T, "
+
+EHEH, TETEH? BRiX "AA" HEE, XWE #?
+
+FI##A IE" # HEE,"TH, ET: TZ, ET: TEA, ELTEL". HAEZ"?BTEES. BE",. , .5 #" 6, JE. HZM"7, "I8 "
+
+![](images/4844521d046b9ddfc64da0f5ab8327989408ce71110848e46785b7bcf98e88f4.jpg)  
+M 1-1 E4, HasE, \*C
+
+#,MXEIZ#:5E.H#XEW
+
+BRE
+
+TX— ""# E
+
+" , W 'KFm 'K, EE, EMT " " TAETENE BEXEAE, EE. W, TARHM,E I
+
+##
+
+.4. ' " ZH, , TE, FZTE, AT". E "N,  R "1. 5", -, 4E, 45. " , JZ. , , T, AFT. "HH ""15
+
+![](images/f076316fd9cbd31e9f0b3c2770449f22ba4616612c1bf1e9802753aac7bd1d32.jpg)  
+11-2 4EH1 1s(E SAHT
+
+"""". ,  ""6, "11Z" 68, 5t "
+
+,. ,#"5","E 58I FI,EEAAREX,MFODILTAC, MEBT T
+
+T. ·R#"M#Z, T#Z", # , " , i,:",#? \$5 (#. ##, , 2∠
+
+" ZZ#TZ"
+
+.""" EMEUR.
+
+" " 2,#"#mT"23##.# E, ""E "Ei, " 2, m
+
+()Em ""Fh "", e " KEF#EAR,TAAEHR.EEE "H E
+
+HJ ""1- "";  ""F1" 1 Rt, 05 "9" 6578, #"7" 65#15; mi0138i8 "28" . 7 F#F #TMET"MT"
+
+""5""" EE# iX#IRENL\*R+AENA "" AE.
+
+![](images/220818e185e97100eb38a1eebdb443cadaa4cd8710a06653fb27512745277a07.jpg)
+
+##
+
+MTEE "
+
+M.
+
+T### . ,E
+
+"
+
+E, XTERE.
+
+F. WE , 15 #
+
+" Z\*3FZ"  #, ,  "T#" 3 1] "1,  " 32,"E
+
+#"" E F.):"4m,#:#45 T# WTUT W."35,#, "
+
+kJ,  "%" . .#. # ."Z,5 A!TE ANMRE. EA, SAC,RAX, MTE H!IT, EI!T, CX!TH !!! A, IEZ#; SWACX, AZN."EFE XEEHT-NAI: I, AEAAMER#. MAIT,EAISH,, BDAT. BE 5L.RTAMIT, ? E:EEHW E.  .. .3
+
+EXR
+
+![](images/4ce9362dbfff1217eb253f36d266f589fe8d99e95b59ef25e173ad7ef007c80e.jpg)
+
+" 3 "39 AEWEE Z,E#EW. EE#5E. W. WW5,8:3 AZ?'H: HAZK, HZR, FEE, JAAH HHE.'EH, Z TR. ?
+
+EM:W5XH., SEEEMZA, ITEMA,IEETHHA, HENRZ, H,1
+
+## V
+
+TM E .T i, , ER HI HE TME BEISH.
+
+:?" EA:K.":T?" A:EZE."FE:AT E\*" EDXE?HER, TTRH!
+
+TTEF T TTTH .M H ET,UTNEAT!" .A , A? 'A: Z. ': AEF?' 48: 'EER. '8: EZT, AZ\*E! EA:A.XF? R, IE. :EE. , TA.TATFFOFLTEE.
+
+ETEZ,ETEZTEEU !"1
+
+T T , "","" J. FEA+, F, ,E #.
+
+""""" FMRIEN, AETHR:EZFE,F# ."25L5 " TW"
+
+FWE##
+
+#:"?""I!;,;,!"4
+
+H ZE, \$E,,
+
+EXT#HE, H2H#: AI5#", R5,"5", BI5 BUGMEE,#KIEAA,EEH
+
+A
+
+![](images/795734357216b17e08f9d8819789dcbd9031167af5645f8a3f415149c5280b0c.jpg)  
+14-5(17)15,
+
+TE\*" 6 B, B.
+
+M""H"EHIST# 82#."5#"8 I5TT#H, #I5#.  8#I5."EI ,0 "I5"""# I"  "I"—""WF
+
+18E, H "H" 1EA-IEEHAR. AE .+.HE F"". . .1" ..
+
+5E, AE, FHR.HNEH "E T,55I. ,MTF,TF.": EF, E. " 50 , 335 , MET. TX. FE.
+
+## YEM
+
+1. {}·+\$), : 7#, 1:‡}, 1984 171
+
+2. =··),R[],[]i:(= 1959370
+
+3. (\*}·=\$), \*i\*#: <t}#), \*14.
+
+4. <·+\$, i#: (, 74.
+
+5. (t}-=+\$), \*iz#: (t}#), 115.
+
+6. ≠ - +\$), i: (}#), 231π
+
+7. (}·λ+\$, \*iz\*: (}#, 307.
+
+8. ≠} ·+=\$, i: <\*7#),  45—46
+
+9. :202—203.
+
+10. ·=+, :# 101—102π
+
+11. (≠}·=+\$), i: <≠#, \$141π.
+
+12. ·=+), : (#), 103.
+
+13. (·+=\$), : (#,174
+
+14. (·+=,: 253
+
+15. ( · =+\$) . \*: <7), 146.
+
+16. {·=+), \*i: }), 145.
+
+17. <}·+\$), : (7#), 74π.
+
+18. (·+\$),i: (7,231π
+
+19. ·#),[:+=),83.
+
+20).-#),[:(+),82.
+
+21.·),[]:+,82,
+
+22.-#,[]:+=,86.
+
+23.#,[]:+=,87.
+
+24.·#),[:(+=),78.
+
+25. ,[]#,: #,433—434.
+
+26. (-,[]: +=, 195F.
+
+27.]:3##=#,1 ,:±,139.
+
+28. ,[|,:971
+
+29. (,|#,:#,972
+
+30.(-),[], 1: (\*\*), 558.
+
+31.-,],#\*:(\*#,397.
+
+32.·,[],#\*:\*#,212
+
+33.,],: #,231
+
+34.,[],,:\*\*,668
+
+35.,[],:,321
+
+36.·3){:#336
+
+37. (+Λ\$), : (7),73.
+
+38.1844,5] \*1,:,1985,46—47
+
+39.:(\*42.3 51#1,:1985,92
+
+40. -),:(,38
+
+41. (·),E[],1:(\*),\* 49()491
+
+42.(}·),[],:( 119
+
+43. (·),[],1:(7\*#),\* 658659
+
+44. ().[].1:<7#).\* 281
+
+45. (\*} · +=), : (≠7#), \* 45—46
+
+46. (-λ+), : (7#), 309 π.
+
+47.:,219
+
+48. (]#:),1,
+
+49. (]:(#116),23:(3\*),1: ,1986,2211π
+
+50. (=\*)\*+<()1i9),2[\*],i: (14#),1#±, 20),\*276π.
+
+![](images/e336e0be5d5d19a4a4ab5277a724356b4cd259b7aea07d09d0399c8700dea637.jpg)
+
+##
+
+B H, i, .", T.
+
+900200 (Jasper Karl, 18831969\*" AI 50003000 WA50000 2\* "
+
+FA E#T RIK\$ TATEMEM "9
+
+TT.
+
+\# . ."3, W, HETHE.
+
+EEEHLFRSAHZKR. ME
+
+##
+
+""". WE-. 4¥
+
+FHF,# ., , E, () (8R Fk) 5i2#, m#35tte,(#) 5#.,( ""t,E ZKE, IFG, RM. AAZTE, K9IG, #AN R. "6 "" B, EM, "" #, . "", ." . 9HE+, ≠I2, #3 .
+
+. 86 .. +51. E5FRE 5E5EE##E ,##. # E3T1##6. HJOTAET.
+
+## E(I2
+
+1M
+
+12 (4) 18
+
+\# L). 9/(()i: (e) (X()) "t #\*-,W\*I)EZ" .):"() .. (E, (#E)\*, T3FAT, \* IiWZ."L·IiZ. "# i, E.i,(#Ii)\*
+
+IH (I)AHE "EIZ#", TKE KXHZWE ETA.ME.ET RHZ, T ""TTE, BERH, E FRHE #.. " UEEETZ ""5 F \*A#6##33.
+
+(I))5 :#TI#, \*IE ZS, MIAIFE, ERWZE, WEZE, #FE. " 1 MA ti: 18817485\*, <i2) (# (≠I12) )#8 # H#, Ii #, ##E, E#. \*, (\*IiE(8L#A. "12
+
+![](images/fe56259ddd208c454c481abfedb3d563daa8f7ee00a9de7bc4af6c45c74acc72.jpg)  
+5-1 (3124538
+
+x() EWM(≠2) AEE. ZEL8R): "EEZ B'. \* 55.778#, " 13 \*EW "AJ" mZ. #EE "WEIERE". ##\*
+
+Z. miEi, iZEA. 1EMZ, iZ. ##E, WIM, W#R. iZEI. WZEWAZ, iEZ6 .. IEEZ,AIHT,I#E. FAME.IEE
+
+## PM
+
+(≠I12)6\*68.\* TB1
+
+A, .  5.
+
+![](images/e8542d0f22862812a53fd88e54f7c6b06b548f32e4f8d9e416c6165a904fcea3.jpg)  
+AM5-2EAS
+
+E , MM M E F.RRXAREX
+
+#: ", . "5 "R"B "R"38...88" B"EF".K.K..#TI " " - 7. <E6 HF)2WKi: #, #8, "16 i21PXHi: RZ, , , RZ "17:"3 9898#5#" 18 7L2:3870 . " 19 .
+
+![](images/46376c4a476ca518e1d7ba6f674892d0e7ebc4bee0b5b947e6bc2fae37cd1f95.jpg)
+
+544   
+EC   21   
+64\*4\* 51\* '# 12  97   
+F ' SI CK   
+A      °5 2
+
+K, ,,,6
+
+M(I12)12#435\$7L .# "Z#" ## ", \*5Z#, #Z, Mz, zm, Rizz, iz#"", "9 W, 5" , WH8
+
+010 ≠I12) #1446347i4, m4¥ izitE\*. (\*I2) 64: "4Z, #6.N4 . T, EWAA: T, EW. E, WAT: E, DIT9P. #Z#R A, B4ZARE, T4ZARAA. AR# Z¥, R-REJ. BO5#, OR. AK/R, FW.  2 ,, ; .9.# \$H4E3ARA,4M4EFARE,T4H4E73X RAT. ARATA44E, \$RGERE, J0ES4, -#OR, ARFTA
+
+##
+
+##: ZESWIRHE "HEIHE "" F. MEEHEE, AEEKNT. NT ,.
+
+E?—5001.<Δ, .1 HTEE, 1, ET,TE, W , F "m" (, # ,
+
+RA#,"EE 18EFI, #ME, #FAE, RCE#, T TFE2 HM.1 """"# 0,T, T.
+
+1 (450-390, 1 #, DILZA; I6, DZR. #E. THET) #5 390-3384116#419 5 ."AREF.DETET,ET.ETF. WITE: FFTP, WELE. EEMSTE, WELER" 28. , . FE, #. ..MI.ET Z.# # EZ.\*IE.I5#.WF F20 70 13REKET.
+
+![](images/932235991051b3eaab6a2b6af6ab8843e3d0c5a3b205ddc84fdb07769c594fda.jpg)  
+p 5-1 nw)4 (1g(4), k(4, 1shma1
+
+M #: T#ZR ZR, ATEMBAR. IFE ZE, LEA, TE, EE, , MT#, MC. TEM Z, IIFLAZ, iREZ, WEMHA. BE H EHE ," T.... # EE MEMT
+
+20 23 :" 32 AFZIEMEY, WkR?'B: 'TO.' ,?' ''. :' . TAW. EFTAZIE, EM, TA .?'" FZEMT tXEMIE, EMI#M, AEA##MEM, 8 ##:45,R,# \$ Z#, MSE+EZE, , F¥."3 EAE 5 HER.EHITE. WEE.". .T ..#
+
+—13 " "" ""
+
+#()E "E"5"tF"i: \*, #K; MIER, RR. AWIEZ? FOEZT WE\*, ZITEER#, #EE,TEUZ. Z6TT.WZ, #LNO, E IE XFZLE. HEXZ LL " 36
+
+6-,  ""5 "t" H A\*I "7L",7" 18#Ex6# .#(A.L0s,1871933 +58141:141914 " " 3
+
+EIISE
+
+ixtJEtT-Vkl.
+
+## YEM
+
+1. (]-:(),:( ),:1R, 1982,38.
+
+2.[:),: ii),\*391.
+
+3.[]:),: L),135
+
+4. (7-1),2#,1:(}),475.
+
+5. (}·i),21,: (7),475
+
+6. (\$7-i),21,16,:(\$7),475.
+
+7. (() ),:(), : #±,1993137
+
+8. ((=)),:()137
+
+9. ( (#)),:(),\* 1.37—138π
+
+10). :(# ·),1—2
+
+11. ,:≠,139
+
+12. \$:(i),:#, 1993.
+
+13. ( <) ),)137.
+
+14. R(#]:(+=M),905.
+
+15. (0is· Bi6F), Ri#, EWR. kxb#: (0im), :5200289
+
+16. (0is- Mi6T), R1i, \*R, kib#: (0i\*M), 111
+
+17. (1i-Bi6l),R, \*,k5:(3i). 26
+
+18.(-i),21:(i),166
+
+19. <-##),R[]:(+=),14
+
+201. R[\*]:(+=),9065,
+
+21. R[]:(+=), 906.
+
+22. (#1-),R[](+=),91.
+
+23 (≠I-),R[]:(+=),918—919
+
+24. R[]#l:(+=),9095
+
+25.(-,:#,:
+
+1982,204
+
+26. i)=+ (), [], []:(), 19641124
+
+27.[]:519.
+
+28.:,,1974, 22π
+
+29. #-  : ‡), 32.
+
+30. (1}·63)\*#, \*iz\*\*:<27\*),9241.
+
+31. i+3681—3682
+
+32.(#-),],:(#),\* 450
+
+33.#-,],,:\*, 321
+
+34.#·),[],:(\*), 265
+
+35.:),:1 p,1980,1819
+
+36.#·#,[],:#)\* 134
+
+37.[]:5),: tit ·\*\*), \$10—111.
+
+##
+
+M5 E.  "", T. , TB ."
+
+\# "", ."" . HEHIZKHHR HEIEI
+
+##
+
+"" AXA, ARAHRA.MTBA: ES ..
+
+EBRAH, EERLZRAAREREDERTWCY ,FE. ,MMAH8 ,., 85 HE. AW. .. EEI, -R FXTH. H, .
+
+I, GIXEAT, SBE "1"5 7L"E 6#9, 4\*. ,. WE ERT, WANE ILT,6 itF" , Ui: #mTimi. mmF .9# m"#T;
+
+\* TETEERHAEAMTRETE# .
+
+240170 E-5 Bf),  ", ##(#) #"?: " tZ, ↑ 9EiAZ."X, FEit" WT, WZ" 6E A , 15.i  "+. #" (WE, M W,H"7,: #0#. #, H5. \$#, EW5. "8 #.EFA 135, AHA#E ER
+
+.T
+
+E. E,#.5.EI. #E, W#E XW#EH.WZE? " ET:, #. 20016 8  (#   -1
+
+WHB:"ATH:RME↑ EME, RME, RBMET#. " "t0 EETRARTRAERMR
+
+) M,3t. m,tiX,
+
+\* 5 \*+
+
+WE".EE . UE., M I)m+.
+
+ETTXE AXE "HBT1\* ig, EH, W, T#". Hx M
+
+SEEUDEEANR,EMEATSRIR
+
+I BH,"", T. 6AZ, 1#AERMA5#. "1BER, Z#5 RERI
+
+M ."" T 1. """"
+
+##
+
+.
+
+.
+
+![](images/aae798ccbf73a20e90626030a1ec38fab8305f0fa96c30a41fa8fb47f1f5cf91.jpg)  
+M6-1 EE "K1gt", 8x
+
+. 1E
+
+.+ +.#:, 1E, IE, TAR. #R, A#IHT, tR,T,W,,E 15IT W."16 E.MIT
+
+![](images/4e72e4d713b57eb6310c8b2888c85dfc9dccd5a1828993ad9b9478dd46cc6e95.jpg)  
+16-2M
+
+![](images/77b2301cb8dc41fab125510bff2b10a1fa14784bdb2fb58da3b3cead597634ff.jpg)
+
+E,ET E, ET.MTE,, MH Z 1EET", ETE.-EEFET T, R.5 I5
+
+AFLTAEEETT(PZEXEMF F ZF FEFET+I
+
+## 4
+
+"E",FEET.ZNT
+
+T.9 . ." H. MDI, EURM; FEEXFZL, U K4Z,T.".TFM :" HEAH,TA."FER: TDE: R# EEEETZ, ."#. . ZRE "AMRH: HEZE, TAT" . FE E ",,"1. ) ()
+
+6.(), 6(), ( #. 1F. \*, (#)HERAEWXEEA, # 4 ",18 iW, ATAEZ.
+
+,""" ," 19,"E, . TE. 5".F "I" "#" "
+
+GIF "H", U Xi: "Z, #E8 HIFI. R#Z, AAZTTmE. #Z#. R WZR. #Z, lZA6. 5Z, # EZE.RF. F "25 EWETWZZEHMMEE . IZEE.
+
+HAWARHE, 'WAZ, A)ZAR', Z:FEE, FRT, Z FEF 09, FL, FI, , , Z8, ! 1TEE, ZT#, JRZFAR" 2. 1 Fli, #H, ix, #) K ML",MLEE .E"S ZEEZ, ZW9, ZWS, THER, WEZE A, EZE. , , , , MEET!MRE,M,RH E, AXF! DAX, , XR, T,
+
+![](images/ff429dadb0aa6a15e3d099ccc4870c3bc2893ecf72c2f4d4539a8b0fc12c6b7c.jpg)
+
+W/#, R#m, IA#, XR5EHAF! #) FE"! EL, -.
+
+\## 6T# #. " 5M (\*I12) #9i2#\*, 1#14I2+#E HIERE-H, RE-E, HME, M tIZE.
+
+. W, HF#pE, EZF#F5E. "ie#53 RE\*E, (Ii)EU "R, , I5, ",() , 1/,m 6 "" A. EXTET, HZ, iEE. m.
+
+FLFEZA" K. E(U) i: ", . #. DE, TE: , , STE B4\$M,mE:ETA,M #76 8? FZ0.48.I5Z. TEFUIS. ES, BUTLE#: WUTEE , Z, mFW. IEZ#Z. 33 IE, ATEEZ, #AZH, FLFAEZA, HE5 A XTHEW# ZHE S,TE 325. "" iEET "L" KE, "HE#", E, T M, XEBR57. 18 7M) EE7 FZ"EE
+
+![](images/33c19b0d2ec58edb6b61093dc41e942faad0583e16c715e6ee2ed6a0c4f1cf3f.jpg)
+
+![](images/eaa1863b4bb3afd4e6ada351951684ed61cc16cdb0d193898df6537275af623f.jpg)  
+M66 il4N. i2C
+
+![](images/00bb0f51fcdedd3683b85aaae58825a0f70aec8ece5a6b63f2a6b7c112195108.jpg)  
+6-7 iLaM709. ix1e
+
+E "", #E-5E,EHMCXH "" BTP 6H L" 4, TMARGMH. WAA XHI.E "EE "KE:5 JE, ExMREEki "E",  ""ART# t6ZE. i "95H. H. W6 #. REAE,F,EZ, TE#, EZ" 2 . BPM#,, E,"RZEE", E "E"—FFHREF.
+
+![](images/4669d8a796e09d5f1cdda5ebfb93dba26ed738e0ad7e0c3a2ff17a2a946923e2.jpg)  
+(4 6-8 sct91i8", p5x, 1968 (:1tib1oM6x1h 1:
+
+## H."RAN" IHE
+
+\# +, . ZkJt+A, Bt, ak,WRAARE, . ." 2
+
+. +#.Z "E, mF, EmZiZU + i) () () (±, -± J
+
+(A140# J "F, , #"29 "3.\$(135 .FZHZTL A. ,"E, " T
+
+![](images/54aeebc6c2836763888382ce4ae8dfcec2791f8472142d4b2ee0d786f6c43ea4.jpg)  
+M6-9 "11" 2IM, p4. MKEME -U1
+
+EX.RHA " I
+
+179-10483 EE, TXEE. ##. E#IE+ 4, 131t#E, 1 123R:# "R
+
+SXERA: #. ETEXE FHH# m F"", EXIHERT. FWEXT.
+
+HMAAFFH.R.Z, F.R, 5ZE,ASZE. RW #.+88#+4 BU:E, BE. BR"3 E-ARTARAEIERET L" .HMRTA HEZ#, WXRASZ. #R. EATEZK. TORSEHRUWEZ. THOB, XHEAUEZ, BT WE.RE3
+
+![](images/80e18c8ed0f1511675dd2ba7087f1d5c1d464ea9d8658649896af27bc600aded.jpg)  
+16-10 B4, ix1C
+
+EXE, RAFHT "E" HEL. XRHA. #(.:T "33. -!# . i6F FLF F3r55), Xix "TJ" 34, A73
+
+"R" . . , :\*, ." A
+
+RA"FEET AMEE. XHEPI """ .  "" "".k
+
+##
+
+1.:():, 1985,163
+
+2. ()=+<),[x]]3,[],{]] 531, (\$]kEx: (i2),1417
+
+3. (#):(#),:,1986, 62π
+
+1. (#·),2:(#),62.
+
+5. (i)+(]4),[x]3],[], []31,[3E:(i),2699.
+
+6. ()+(-H5]),(x]]i#,[]m, [\$]31,(]3kE:(),2699.
+
+7. ()=+=),],[]:x), 1097
+
+8. ()\*+(#),[x]]1#,[]3,[] ]3,(]E:(),2031
+
+9. (#6-1),21‡1#: (#), \*149.
+
+10. (#-\$),R(=+=}·i#),1:1#, 1986,739
+
+11.(#).(=+=-#),739
+
+12.(#-),2(=+=·##),739π
+
+13.<#)=+=#)739
+
+14. (}-#R),2\*,: (7i),:#, 2(0))4,2π
+
+15. [x]N6, (3]5a1: (5\*i2ki)6=, 14: 1at4t 1991133
+
+16. (|(#|#:() \*,59.
+
+17.()-=+().(x].(]3#. [\$]]31,[\$|3x:(z),3289.
+
+18. (,1:#,922
+
+19.  - i)), 1: (¥\*#),  1375—1376
+
+201. , :#),1376
+
+21.-, 1:(,337.
+
+22.#:)\*\*,\*256
+
+23. ·,:#),699
+
+24. ·1,1#\*#),1418.
+
+25. ,:#,629
+
+26. #]  1, 1:# ,  81128(3
+
+27.(-i1,1:(##),1021
+
+28. =+,[], | x, 1135
+
+29.+,[][]: 5 ,2523
+
+30. ,[],|]: x, 156π
+
+31. (\$\$· 3]#), R, 45: (\*8Xi), 1: #1992356
+
+32.+1,[][]: ¥),2498 π
+
+33. (),[#]:+),2490
+
+34. -),||:+),2483
+
+35.:,[],:,: p1999516
+
+## H
+
+WIHAREEEEUE MM#ETM#EI\$A5T 01 # M
+
+M"". "",A #6 #W" "#", #"#\*"B X6248 \* "", .H# . 6TERTE "
+
+![](images/b93c8c6daaf9cfad65f253f733dbc0c5954f99131f95e58184c73f6f32b52718.jpg)  
+M7-1W(64,Mi1kc4:
+
+M ,\$9\$,1875 ,, 08"#L#5 : """ "" "E" "",",T. KEE
+
+##
+
+E "
+
+![](images/021cbc74c8fa2aa79254ff4bdf1b38681763b3eba9aaef5f0c8ff13c25288b39.jpg)
+
+![](images/ee662b43c43bee4188f92b0ca4e2376b522cfd638998c72458dba7ba7bd4b6bd.jpg)
+
+![](images/1854ba620cc98a4d2a5b43d8ee4355b1bcd542ac24417ec128d200609d12e13a.jpg)
+
+![](images/7c080bf77a0028546bb3e43d666211b0193c1640ffe64c9b4425313e85c0e6ad.jpg)  
+()), 1960(81155452P47K24346211
+
+,R.  
+.
+
+i""K, TEEHREZXAMEA
+
+"5 TXETETEJ 0:#468 4WEXE 4.+6645 88H, 1141 T.. J. iXAHET, .tRE i .
+
+HT #+. #.
+
+ETL"R#"HL#.E #"."#""" . EUE. 1 A .
+
+\*## XA#, FEB, EEA(5Z,EZHF)# 1#8#8 HR#E.#HESHEEERER
+
+![](images/84b65835a181cc00cdacf654cc0dc5f54c7e57a76d1e40294d4c2c9d27314e20.jpg)
+
+7-3644,X0  
+![](images/ed052962706bb11263a2cffb7e4864147e4005550177e87eb8357e7c25fb9ae0.jpg)  
+147-115, 1414
+
+![](images/1347875f62763d9efc4799e3eb1006553c2ce90e3c28ab551effe21e901861b8.jpg)  
+147-5(900) 101, 13211:
+
+HEL5E, ZSK #E', #EK TE'; LE"8
+
+## HEIMWMIERH
+
+#F ."" .1: EMR, EAUEA,WE EIFEN FTiA "". , "" F0 ""T#, "#"F #. HRIEE
+
+"+" .
+
+A. # I5# ?18 AAE.
+
+AFHRRE.,HDE,TE ( , EE. #5E) "", "#"# .-, ZMFE#, TETTF #EE, KH, #. E#EE". #ZFiK ETT, T!"5H \*"
+
+H.  F:# 5#6# "11
+
+( #Z; (2); (3)8.1 ",E +MM. H"",T# .: EE" " ":'! EZ". EEFH, EAIEE.
+
+MME, MHEEM
+
+WF: "" "" "" "" "" 3,  "A" 15. "" 1 X,",". "4" '. :.':'"."" iT5.HAR,  "7, E"17 "I
+
+8#",,  " E 18. "" #, E . " "" 5M , "\*,### "" Hx. "A"E5xhiFRt, E5 "" """ "" ,, B," BE, , . " 20 ", , 21 " "",  # "R. :: 2. " WT#EFEE"2.Z"F 5\$," .\$"  "" 6#" (\*\*#), ##ik (#a#ie)i, 16#E- F8] " ," , ;"; : ."  "#" "" #
+
+![](images/bbbab58ebf718656de8848a9a8cc954d36d4bed374e486d55d6867ea1ed5dbf1.jpg)  
+i  
+1975444&14]"kW] 1 if" am 1:
+
+![](images/d3fa63a60c70210cd4a34c12c40606fa12e40382070bc08075f8c6faacc8c389.jpg)  
+K 7-7 DxX3rery, (W0), iC3h4s(MlxccH t, Ws(ihpoht
+
+FBEA': 8 29  "31 """
+
+."
+
+"" } "#".
+
+↑
+
+##MZ, —" " BAT"6.
+
+, """"— "" A
+
+"\*" EEREH ZHT,#E.
+
+## V"U"WE
+
+RT,W" "E"H,TM?
+
+EAAAELZR TH, , FIT, 1EH, # CHMZHTHRA.HTRHE(A#R)T E . . TRiXt
+
+TM#
+
+4985469,,# #1 AEXEAH.HTKTREINEE AEE Zi8, WEA. TEDIEL, TEW. ttA, TO RXTLE.HETA.EWZE ##H,E#E,6#Z"iX, \*"E.
+
+![](images/617bc5b2e594aac17419ed620bd0b0bdbc40cae43b14a5c357afcb7c35dced57.jpg)  
+147-8 (),1., 1:
+
+K# B: KW, E, EE. "
+
+217278 3,5(5),5E34.91 06, 1#z±51.J099\*, X#. ## (1#7) EIME: "RFHHF, EZAT##HAZ&R, ERZIS, WTZ; ZH, FEZ: ZE, #Z. " 3 E, ##ZX/EE. E87 F, ATHEET#E, EEE AEEE.WEZ,EEAZ, HRZFWR Et. 1AE#, \*T, M#%, MEH5R."\*)
+
+![](images/02416b5700e3fc936929a8b16152a087b0933366bae048b234b9340aa4632ae8.jpg)
+
+EFEAKFIETATTE SIXS.H.Z.E X
+
+M.F.mRHE GEEUME
+
+EE.HR ti: AKrWEA, WEZE. T.3 (E), EA, #E3, 78. H, WHA: EH, DIE#E.AHZ, MAEEZ#FRI 3 TM. ERTTREK, RRAEEZ, AHAETEE, EM.
+
+![](images/b2756d6db46c71e4846f97068c220756f9ebd5ff781d58abcc84a8bd46a83098.jpg)  
+M7-9 (5) (84), E82
+
+H.KHAEL5LA1R#E #TJE "E". 8""""" 188
+
+1. []: <), <‡) —+.
+
+2. (E\*.32),2(\*]\*\*, #i#6:(#i), 12: 1#,2001,4
+
+3. (\*-\$·),R[\*], #i#:(\*), 91
+
+4. :(I),172.
+
+5. 6:(#,:1, 2005,356.
+
+6. 22.(\*11\$5\*50\*),3i\*)\*=\*(\*\*- -),:R,1973,504.
+
+7. [\*]\$6,3,:)3p1#), :#1992,212
+
+8. :,:,1992,119120
+
+9. (tii-),RA,i:(tiMx), :1983220
+
+10. #-5),,i:#iM), 642
+
+11.,:,1981, 20
+
+12. #-,,,:, 638
+
+13. (#i#-\*),RA4,9i1:(#i#i1), 428
+
+14.W),3|i(),R, :(##i),\*693.
+
+15. ti#ii),R,j,: ti#i), 86
+
+16. #iM,,:(M), 477
+
+17.,,:M, 437
+
+18. (ti#i),RA,:i#i), 441
+
+19. (tii\*),R,i:(#i#), 476
+
+20). (#iM\*),24,:#i#), 489
+
+21. #),R,:(#i),
+
+519
+
+22.##),R4,:(#), 545
+
+23. #i-,R,:), 609
+
+24. ##-1),,:(#), 6
+
+25. #i#i-i),R4, ii,1: (ti#i), #143
+
+26. ##·i),2, : ti#i), 74
+
+27. ##-),4,: ##), 623
+
+28. #-),,,(#i#), 620
+
+29. t#\*),4,i: ##i), 435
+
+30. (#iMi·1),m#,i:(#i#i1), 428
+
+31. #i\*),L, j#: (##i). 470
+
+32. (#M),,##), 520
+
+33.6:\$\*,2\*:<#), 3435π
+
+34.  =+= 5]), []\*: ), : 1971384
+
+35. - -, []: (+),626.
+
+36. []: ), : , 1985, 11
+
+37. -]€(),[], #: 1999133
+
+## MCMAB
+
+EH.EEIZAAE \$91, ME1Z0, #IZAZE, #EZE, \* FZ,WNZFETR.#E,IT
+
+3#, HF\*H.18IHAIZ I., 0 W I
+
+## →XICSIE
+
+1
+
+![](images/3b0102c5cd2c3f97e5f9485b758d8a5a43db4b5ae6d762a0ee6ffb0b8e4a4c5d.jpg)  
+11 41L()) (hJ45), 1,
+
+EMF+.,Z#,WE E.ERL,#ARME ,"" 4" "",  ".. E 6118 2 \*\* #, \*4\*836\*."243#\*\*, 6#E Z3 \* FL##ESEX). (EX###\* M.MH #".#"6M.4 62 #,.#"M##
+
+![](images/7e6f95304bd3883b22d44afbf29f223e75b0ea58e55a97cd0e0f9a783591e8c7.jpg)  
+M8-2 (EMI6), MF. 411
+
+\# E..
+
+\## .E+E AT #W#TH A(A)WA, ##E EE
+
+E.
+
+##
+
+##\*. Z""Z",E.
+
+F#IE. H(#)i: "#: -H C,F,FC,,EAE,, RA#S, EHEE, SKZTEMEZFC, DEE."30 RXEFIA "E" TTRAEEXEMEE, BBAH X "". + #
+
+""##" "" #:E \*."8: \*' 'E'BTAT#pi 't'. 18\*euG 't '." 1 """\$.
+
+""KHEEKRE KAI
+
+IRMEA 1, "EZ".#:8 \*"7:Z WZEEE\*I. \*Z)"\*Z" "\*Z" "\*Z#" "\*Z" "\* #"####.
+
+:
+
+![](images/e2b3d327b6ac7afbb294f79e02a53a527baabbec2ab065c63e75259d509d3bfc.jpg)
+
+P48-3 11RhD, Wr, mJbmk  
+![](images/aa1a1d99381ca53c6e0188cda96e54d53a71b8837b0732f0b8c8ce41a90970a0.jpg)
+
+![](images/d1b50b5c3bb7a444e7235c1c476096f5c7b5f504c2dbf2e7997ce7f42a057c49.jpg)  
+AMS-5 6EX3L. . PE
+
+,3]1.
+
++
+
+""""" \* "5"""\$6 """ "I" t" DEIEKEBE.
+
+A\* "I) ix "" "  "" "" ., IZH.: #.".)# " 11
+
+##""".3#\*#5T
+
+\$
+
+T1
+
+8ES "RUA"  "+R" BEHE. 1I#X, 58# #, E1R """"" 1E" "k" "#7k" "2" #, T8EBHmarc, te
+
+IEF\*.K#E424,#F4#R,#AR85"88. \$. 1l, " i, 64B1,. +8.T"E."8.\*9\*"E, ""1#HEH.IEHF#XSU
+
+E. #" 1t" . E"#. : "# 1## 9 " 6 .X9/E.
+
+![](images/6e68f307f714ef8c04707d9ba110ea3081d462266fafea57eb9c7382ce289366.jpg)  
+M8-6 MlE, W. KrKs
+
+## V4.XM
+
+,m##. I ( T.H MMT iX—KE,-3,"ZE"EEH, 13
+
+,+ 580-643, W",EA. """"
+
+"# :TT, AE.9,#TTE."18 ",""iE# E "":F, A#Z, E."1E6##x 5,  ""E\*T#, # —B
+
+AAM H. EK:TT " 1
+
+![](images/ff814a58a4d3a2ebe4e91e196698c0c84d1423fd73a29327c99f67b0261ee01e.jpg)  
+M8-7A1014
+
+![](images/407ede30426bd6f604aa5101d7caecdd5e454c3f670278e26067cc86c9e6fe30.jpg)
+
+1980 :0316111:
+
+![](images/c34588b484c05bcad42dddf10c84594bf935b145cce3f7214dfa8008f9d7ad54.jpg)  
+, 1s9 JahidMay, W, Mrrhy
+
+## HWASE
+
+\$768824 ? WZPETG#, TH#ZH, H#UER. " 2AE#SH .E\$-3K90(773-8198H" AH" #EE, NETH. EIEERXRHBE, 18 E.E ""T AU
+
+511811#8 E.EAE. ZH , TTE: . EH" 2.
+
+#.. HIBXAERH ,.:(1 #.
+
+![](images/91221dabd05cfa54832c81826e79fa348ca6933051e189ae6c9907e0e0ac54b2.jpg)
+
+M8-10 88R01A  
+![](images/52bf2ba4e5cd480f004e8a104d4183828c1d395625546adccd63710450aea0dd.jpg)
+
+![](images/3d6546bea1d5b6e3a03bf2c838954750f8b2935d6a52f6af671b46924c0d03cd.jpg)  
+M 8 12 im, 4, 1iC  
+197841)60)613)2k09211, 5411910n1a
+
+.T.
+
+. :A#K. 9 ,."2 (i#: " ZR#A, A#EEEH: #A#EAR? 'E: \* E: B, R. 'Wi: ' TA188E:9.98
+
+## YEM:
+
+1. (]#:(+ATx),R[]:(H\*),15: ##±,1978,295
+
+2#15##\*1:(1\*) 4:1972485
+
+3. (]:(),1:(),: iL#±202172173
+
+4. (]:(=),[],:( ),:p1999230
+
+5. [#]Z:(Foiz·), R\*i:(F i#), 1:1#, 1978, \*5.
+
+6. #\$:(‡)\*,\*39
+
+7. (]: (), ()\*=+
+
+8. []: (), ()+=.
+
+9. (]: (), ()+
+
+10. (]:(+),()
+
+11.[]#: (x‡,=6=+.
+
+12. [],.
+
+13. []:,=+.
+
+14.:(),#:, 19986798
+
+15.+,+
+
+16.:-+
+
+17. :() ()
+
+18. -,[:+=,195
+
+19. []: +),[]: <), 296.
+
+20. []:,=+.
+
+21.[]:, 096=+
+
+22. []#\*:\$\*#),3j1\*:(#\* \$,1:15#,1986,176
+
+23. []:, =, : ,1974370371
+
+24. (+,]#:(‡,: 1,1974,2108
+
+25. []:), 1, :, 1985 , 24(0)
+
+26. []3:(\*36+.
+
+27. (=(),:(),: #,1979,34
+
+##
+
+\# 1" E.ME
+
+.E
+
+##
+
+TT ." TEFIHEEI
+
+'',  '' 1, ; BHF, \*HAM. E —IZ, # '." + E
+
+"" R",6 ""; "", " ""1 1 ",, EXZ,FETWEE#HEJ KHHRE. E"XFRE, RTZE"EJEX-EEE.
+
+EMHHEE.E 4
+
+3J(1130—1200" X\*""" , ESRHA. "" XE#AE F " "" " i:Z,.MZ, ZAE,,MEZ,Z.EWAZ, 31#3 "" "g" , "#" B] "", "E" 8] "e", ."("") #,#;"" ( "") FOERKER, EEMSE, EERT, #84 HAR,T, HEEEEL.
+
+"" ""  F ,mE#. ET, 1REUL"E )"""" " "
+
+E44.T,1#"8
+
+![](images/bc7a74a0dc55b6f884aaacdd6e764b6aa81f6b9ce6612ad6db655d4b1333fef3.jpg)  
+19-1
+
+![](images/8b6f1e88190bc511e7a8a6a40f6fdfb845c01d5b7064aad8cb58dd4612542ea0.jpg)  
+149 2Fas
+
+![](images/1ee1d37e46b6de30dd70a2ce185ad5dfdccce7b0d7e0a12a8b309621eba37c3d.jpg)  
+M93 a1R
+
+Ep)" 6ie "8" 0 "" F "F" F0 "i" Z, "# , ZF "", F "" " J ""t" "" EH, REM """"T E#EE, E\*ZH "#-" .
+
+\* ,. ""( "") " BP.:; Z M#RAF, FWZF, E. EHK, MI LSHEE."6XK "RZ"E H "", W""K: "XEMHEXAEZ?XEXEE. T!EAW ?":?, , F" ":' , E."#T BPTE.
+
+""( "",# " F#"#"."F . R.EU#RTZ#TE Z,W.FA,F
+
+WZT,MLZEAAET " " EX,THE,1ETMX. .( F, AZ8 #? TAE, AE #, H TTCF#AZ 18,?. # " ,  , iE.
+
+Ri "",  "E"  "L" HRE, C\$ HEX,8E¥ME"",FE. "A: RHZL, RHZE, EE CEEEEG?8: CE,, ."1C, 33∠ "  "" " 6.\* M, ,"XEA ERELTR \L, \$F "R",E-tE#AFR. ix F ".
+
+""T,#E. E. ,E, .W.W.""
+
+i:"7:.'?, . #,.", "#" TEE"T 5 1" BA, mHE#Z. #H,m iE, AAIMTHEZE. PWXA4E. ERA7, HEE+ 4,#91.7,9a 5.. 5"R T" "X" EE9E, 3TX8ET54, N1X75 , 8"#""", . I2p4 "5"? """9"Et". , " ".
+
+WEEEFE 83"81.
+
+T" IS"H, HIIH A#EIAZ. W.
+
+T ....
+
+![](images/c8bd631245a265d1d28852cba227bfe13fc6b47ecf2d750903f31df03e1073aa.jpg)  
+M99-1
+
+![](images/fbc20ef10eb4fac0e297908c750207b86301b62400d3fe69c4515e855211e90a.jpg)
+
+KE.BE.ZMH iR, , ,
+
+![](images/63eec091ea170ce97d9155267e6151c17329c83cf77abcddab4af53a2030cf39.jpg)
+
+M96Bm,.(  
+![](images/05866453f23246f2ed2e1c1b5a450b215c54def53e3916016f2c5e381b1160a7.jpg)  
+9-7 FX1E31Esx. \*.
+
+RHMEH
+
+E##, ZEmM.7.
+
+## XAIX
+
+." \*, -E2E0. " 19##, 80ZM6, — H#EKRXHWZ# "E", "E, , , "" E "B", FFR "E" Z8. .
+
+. i EE'TTEERHRHA, BA FFE', T 'WXE'F#AAME #AK.MBEH 21 \*H#REK"W"\*
+
+.18 E. # ↑
+
++# #,  """""
+
+18"#
+
+![](images/1dd5c611fa5a8d01ba251a16d3255058f285febd80810eba96b99bad0ecee170.jpg)  
+M98 41it4. \*
+
+![](images/f1397dee9b92a184149e324642fcf4f557116aba1607182e4be167de37819b26.jpg)  
+11199(178m), 4834, 80
+
+6(1021-1086#25. E(1069)0E, T#.6, BFB EI. TE, E# "/\"Z-, F.M ESWE, WL3 i.": ... F T,#EF? .E. Z#."E5R . E."""31""
+
+"" W"10 1048100-1060 ."" "  25 510371101# #: TS." 2, : F'Z BT, MEA, BHXAA\*, ZNIEZIE. '. " 2 "" . .Ei "
+
+![](images/c7f7c4fea9b84f27352bb28b4f9da69cb134d0f81230b8145ac2f4f1ad433dbd.jpg)  
+149-10 35018
+
+BRE\*RM #
+
+1H911 ASIN
+
+![](images/4f5ec70ddb965bc58f776507af184498f0168bc432da9c63f73eedc4a75bf23a.jpg)  
+19 12 (MMM), Mk, 02
+
+EXTEE
+
+(10071072"/ ti ". mE8. FE, TitH5h. TAE.EETAE. AZWE.TME.E , KAM, MLR, AAM.MR-. "W-." ""H  "" H8, K " BEA. #: BFUET , MTOUHET#. EET. EEWAR.BC W.E. E.EE#E"EE S, E "ET". H44 "3E"? EE5 "H" \*Ex. :"EA.
+
+X"T.I 6.311031162.78 # moE," ? 1W##, (), F "(7) ,  18Zi ., ZE".1 ",, MZZ" 3X##I EEH"M"Z.
+
+##
+
+M ##. EB.E,EE.8X FXT, \$R.5 E8M,\* +"T,
+
+![](images/a051c6382e8f3c8b8434e9a7dbb13cd0064f3addf862566c2a3bc5939fcac07d.jpg)  
+M9-13x096
+
+##
+
+#E:(1)Ⅲ##\*
+
+H.TE .# E#.#55M"# 3,"#, TAST " .E EEZ.
+
+\# A "" """"" EAZE, #. #E: "Z, #. #H HET5, T\*, MER, 1Z. #, "36 # )(-.
+
+161 HHE.(1101-1127) T#EH "E", BARTAR. HAHAKSEH . XHAT,AH ,.
+
+↑ 37
+
+BKME.
+
+## K.EHIA
+
+1 F—5. #()i2#, 1276M6,## IE+5"391279"E+5 +",#.E### #
+
+ET ##
+
+(, 1()+, 80 .
+
+EN
+
+![](images/d0798fd4c318df0f22229c8000b28f0048a4953b802e89f17df4fa05918c7467.jpg)  
+M 9-14Rcain3la(ma1
+
+![](images/4f882fde25bc81996a855563f03f31ffa8a9c2d09de33850510a36b2c1b680c3.jpg)  
+W9-15 7enb'cFX(eMw, s j1tii1:, mJE
+
+## YEM
+
+1. :(I),257
+
+2. (=11\$)\*+-(91i),2[\*]1,1,30i: (=),\*178
+
+3. (=1\*)\*+-(ti),2(\*]11,\$3: (=),171
+
+(=11\*)61(=t1i), 2(\*]10,101,30i:(= #),128
+
+5. (\*]\*: (), ()+^.
+
+6. (\*]:(}i)=, :#.1986,\* 3319
+
+7. [\*]\*:(\*76\*) #-=, \*3305.
+
+8. (\*]\*: (\*1), R(\*iat\*)\*=+=.
+
+9. [\*]\*:(\*7i6\*)\*-=, \*3319.
+
+10. [\*]: (‡\$6), R[]#(#), : #,198367
+
+11. []#: (), (\*) \*=+.
+
+12. []\*:(}) \*, 4.
+
+13. ().R[]:(+),136.
+
+14. (=\*)=+()i),2[\*]11,31: (=1#),\*378.
+
+15. []\*: <#), (\*)+
+
+16. (]\*:<75\*)\*-6=+,3307.
+
+17. [\*]\*≠: (), (\*\*)+-.
+
+18.(\*]\*: (1), (\*a\*)\*=+.
+
+19. (·),]),:,1977, 172
+
+20. [\*]1:<3m\$\*), R\*]: (\*)\* t,
+
+21.:<)\*=,\*25.
+
+22]6:(),[]6:, \*1959,811
+
+23. ]:(,R±=,.
+
+24. []:],±^,
+
+25.]:‡−i),\* +
+
+26. []:,:#, 1978,218.
+
+27.#:<)\*=\*, 65.
+
+28. ]),,: 53
+
+29.:+,.
+
+30. []:,:\*),:, 356
+
+31. []:,:,:, 356
+
+32. ]:1987607
+
+33.]:,:,1987,607
+
+34.],:1987,607
+
+35. []+, :,1987607
+
+36.],:, 19826π
+
+37. [],:,,1983,33
+
+38.+,, ¥19763458
+
+39.]]:392
+
+40. []:+, \$
+
+##
+
+RE" 8, W, FT "E" K, A .# , RHWE".T W"" FL#, , WI, 36E,1H. " " "
+
+#(1368 :" R.". , ,""  "" #, E.BEE EHIE, "X,Z"'. 0E "6t7"
+
+"H#" ,F ",8 "LE ""EME
+
+BITWNHRE.EBTHESATE E,EAEM,EA I W AR. #, WI.M, XAS
+
+##
+
+" . .#:8 EATTIEKHHEFIERETITNEKE ERM . 85 HJ.  "". ,TB.6 EMTEE. M: AZH. . C. CE#Z.KEE ] ETEF.Z?" 855 ."4#PKE##E"#FE#. W, HEE, TH, WTHR"5 o
+
+EZXE.:RTZ. #M? ; T3, -AMHWMZ. "6MTEE\*5 E. C1E, \*, BZi6. #. M65. E 2+.
+
+![](images/2957fcbb48ffcd8a71ed4a1714ae9065b0431f0c6013b5a2134e661ee0beb017.jpg)  
+H 10-11
+
+B## ## (Matteo Ricc15521610). 1KE F".; #,"TE. WX""M.
+
+\# #". # #6 #1571—1644Z .\$.##. #E#1## Jean Ten15761630 #: . #A "#, #R,
+
+FIH, FPAL, WAERZ, EEEZ A" 12
+
+N++E\*FE,LFS8EI#B M."## 5FT1.5 # TE.TAZISE I5 F"#""W —E
+
+EEHE.,W Z: 18 E,ET. A T E.
+
+E 1
+
+. " #TIITFE. (1)BE:I5T8, \*'.(2), .(:E X1Z. (4)I:,0R; "15
+
+##
+
+.
+
+. (1615),, W WE.E "16 #+1637 "" o
+
+RIEB3HF8E#TBP# 35 P# "#"1,7 IZX" H#, BHF# (# F " \*) (5) ( <\*\*\*) <1 <) #/## HA±XME\*. E)\$iR: "##, #E M-AT. EFTEF8MZ8, BE, 1amR. " 1 3)\$(\*) #0 "\*, T\*  "1E
+
+E
+
+![](images/88aaa2fae1b0f6dc03c6124c832a0b437fb7f0446d52704e562bf6ede56db4dd.jpg)
+
+H 102XA,W3  
+![](images/5edd07e1e535aebd30218f2b98aa5bd184e15ff54b90f6e535230e1853e347f6.jpg)  
+10-3MA. itil.Ipon
+
+![](images/a01f754265bdd2796e52103915cb4dce1df3652b31b34c7eebad11eb40f6e678.jpg)
+
+KZ.HEI #METI
+
+" iA, IEEELZ, AEEZ. TKER, AKE"2. EEECHAREEK, AEE. ,  "i, , F##,Z# E #!21#
+
+"" X.K( "#". "#'' EEEBE,MHF (Z·):EEE. RIZ. ', EA, .RI'  I'F. 1254—1322 : 8I5I E.'F#'-8 FR#E:.FTZ. .''#'# #
+
+![](images/c2b9055ae85666fc820d264aad581caf27788ac9bc9f3c86b374050167c04c28.jpg)  
+10-5 63
+
+![](images/fb1e8df96ab8f8a0d399fed4d9d07a2ab27e0cbd4f4c6f57659029d66b288049.jpg)  
+10-6E
+
+TI' 'R'# I'E. #' ETF'#ZW.RI' M#"
+
+## V45
+
+ARMAMEEE .EERERERE,
+
+" "" #" "" 9.649. , . 6
+
+"" " E#", R#,5. .#S , \*EEFSE, BTH, #AZT. Z.+I"# ."
+
+"""".
+
+"t ?"" 5;
+
+![](images/f5d4fd2dc9512e84c9e93c3e05812df286148ad67bb5017275f5b86b91b84b36.jpg)  
+H 107 1gaIM: W1E,M
+
+51 iT.
+
+" ""+" F0 "" Et "" E, Zks "7" BR, # "2" ,"T". 18 "" 7 "" H: M\* ""; m "5 " 5 8,  "" ," " " .  " E "", E, T. MiXt F.""" " 8,  "" ET\*, 1# "" 70 E """" M8 "E" "",
+
+ER(1483-1541),,L,IA, MTMA,#E. I""#."""", m"E"K.- RR ER.E ARNE" BAKEH, TAAREME, AEKHIREE
+
+![](images/f287ad9ee94b18e7f3dfd7a78c57d686acc0e66205a6faca3257835fc4032065.jpg)  
+M 10-8
+
+"""" " , """" 8649.8 #"
+
+![](images/790f08c161564528d18b569b050bacb9043d65ca26fe588ccd1d08c7f5768623.jpg)  
+1410-9 81
+
+\*I.6 #t""5""#, "###E"WE #  "" 1 IU# .
+
+## YEM
+
+1. []\*:,++-,: Ep 1937877
+
+2. :303—304
+
+3. []:,
+
+4.:,, 1993275
+
+5. ·m),[],: 1983131
+
+6.,:, 1977,38π
+
+7. [A]:(t),R[]: (MRi), : 74198512
+
+8. \*)(,)(1909) P
+
+9. (5]])T\* ), ]:5] i,:1, 1983,374.
+
+10. []#1:(E#),#\*:E\*·\* :206259260
+
+11.]:),],[ 1i:(0i),:#,1985,11.
+
+12.(]:),[]:(), :1930,6
+
+13.1,[]£# 1:1±1990209
+
+14. (\*)\*+-(),[\*]\*,: ( :1981406
+
+15. :(I),300.
+
+16. R[]\*,i:(#i),1:1+#, 1993 ,228
+
+17. (=+), (][]x, 196211311132
+
+18. (),R[],:(). 264
+
+19. (1#·7·),[],:(# ii), 260
+
+20.]: ,
+
+21. ]\*,:),228.
+
+22.(#: :198972
+
+23.]:
+
+24. (=14\*)\*+<(p)i),2[\*],#,: (=i0#),  242 1
+
+25. (]W:(5=),[],:() +198(149
+
+##
+
+TM \$5M+ 8E. AE3ATEK6ME, BETETHH,
+
+"\* AU. t, T, TE, IMEAE MSIHERHAHE:5 IK8 F.
+
+![](images/c67ebfa4d6fc7d4d0259784ca78ad435e3c0d1ecba6bd22d36e9343b1ebcec0a.jpg)  
+1l1Bmm. ip
+
+M "" "K W # #K AR"6II.EE 1
+
+## ,mE"I
+
+MKH TPZE'1R, ETHE.# 1
+
+HZAEHAHEET J.".
+
+#A 1 <i)(3x)K#703M(\*).
+
+WAAO.RERR3EE#Z#.EEKE. . A3.3EH43I5F\*,\* #. , I3."2#, #, 80%, .5.""# \*+R1. #866, 16, I2 EATEH.HZK 1.\$MIIH x8 ""H ##: WK, WU, EE, ETE, FZ3ES, LX. PTIBETH,ETE, XTX, FTT, SA, B1ME? "E . "".:
+
+![](images/2f76db97a6907c64ca8ee62f9028602d3c4b1e74adfeb0cb88322c6ead3e4b73.jpg)
+
+1112(  
+![](images/e75994c8b7e2f8d5a186dbbd99950827579c37b087bb5962ff317b9dc4545717.jpg)  
+1411-331q)(ew(49lm, i 4h2 1
+
+![](images/13be08cc684ead81af1cdb75c56e6b91b291f7060ab6400dfb99f1fb088c6ff9.jpg)
+
+#." +1712\* +ZFE" i"."E"B TE.
+
+## E."HE E
+
+""8 HZEXREZMEAEE TRE .16101695 ,,,, 89 FH, \$##; EZ(1619 1692), 0,# BTHA 1613-1682E " #"#. W.1 #1 "F,R.F. o
+
+""
+
+![](images/3357d66c61938e0f83e38d97006166f528ad963a17d879763cd5450d0052089d.jpg)
+
+W11-5 (A)(5.i4 SEEAE(1730E) WHLA.E  
+![](images/08f78819540ca1e76c827fec19ba5394422e4ac9c697fa9430de7a44fc8b1b40.jpg)  
+M11-6(Ax)1.m#1AE(173O)WKFJA
+
+."", EA,W"EAIZ "8+ ", E, FAZ. #H, TT, F, . Z.FF " , + ""  "", PFi ""  "", FE "T", ME EXEEM.E BKEAR"EFEWELZF. EMEWE EWEA.E "" ""
+
+\# 1 FLZHEX"ZH"KEET,T5
+
+E
+
+#REXFH,ME "RHZ" "
+
+![](images/49211439a6e1f56d137e5753a3f8aeac2e16fe929ec6bdd5a4f820dc626b7995.jpg)  
+1 11-7 mif2errem
+
+Z38" .iAEAEH, RHM"B8T, 3"1#. #Z, #\*FZ"1.##5A\*
+
+E 8"  "3Z"\$RHi, A3, ,
+
+X1611-1671, Z.EZE#R
+
+![](images/e62486ae03a8a822e79eaa81a772d4ac7475f1ac81318e0496977daa653d8e8b.jpg)  
+111-85e
+
+![](images/e69d5a23d3ec25a4b2fd9c29b861d14e989f9a8f0ee7561f28016f079efd2de1.jpg)  
+H1l-9\*HxNA
+
+HIE, FXE"B#IZXI", ESETAH, \$1 6 "". """. 1816E85#/85,  "\*0" TE. F, " " T # "", Bp ", """, " WIZ"B#6R.WT3E "HT#", # A, , T3Z. 5# W#. 6,A,.,TT .T t" 15, 70,  "51m, Z#" 16 J
+
+##
+
+18405 3A. XTHET,E" E WE"Z"HKT8
+
+EMEERZ 7 EE.T E,DET.,EH, \* ""
+
+![](images/e0da71a572b7cfba7ed56aa71f9dbb9cd5a396d41b895723a198a254556362e3.jpg)
+
+11-100(Wz)  
+![](images/68cf5b015db6ff7121d47cbd624f1baf2c93c0f62bd94898c156b62916dd54e0.jpg)
+
+![](images/9d8d5fdbfd354d63a0a98dd8b8371cfd86f927e5a7ee1219ff13e7cda571d441.jpg)  
+M 11-12Mfhmc4neRs, incpt, 1:iyppohTa
+
+ET1.6, HHEAE , TEKETE/(#n "K" -.+ 186 181.18658 ,5,#"1.1 \*+/\(19023□-418 1911 EM R. FRETAT,T, M,↑
+
+.8 I #+ 1840 .. HTR5"
+
+BRU.T. I.HR. EREAEST. ."""" ISTEBE\*, HET"I"5I5,R#R. ""
+
+HREMAAE. E, -ARAE, WTE HJt "",  "", TIE .A itie "I" 0 "iit" bi, is AAEHMEH#E+EEHEX.ETXEX ""
+
+## E"K"5I
+
+317851850 . (EK:" EE.B"K"W ", "".
+
+17931857 H
+
+![](images/9c46bf3d70c79a383565a9c5355061513b581fb210f18a2d446f697b2d2e64b7.jpg)  
+- M 11-13 merax
+
+II,RAI.:Z ? , W., B."18
+
+\*1811-1872)KR#EX.EE# TT# """
+
+![](images/f112a740f52ad26a98028d7f99ccd95811c57528d8cc800fd2bdb666a72f5434.jpg)
+
+M 11-14 [40Dayect  
+![](images/a9b4d85edf89a4fdd3d89cd19567a344cc23701f096b9d19f53c2cd75edc8b1e.jpg)  
+M11-15EAIJ1901
+
+![](images/549c6aadbd0c9cc54eb5bfc5ff4629be7ed81e7e41b8e6bf917a486dbf480be6.jpg)  
+M11-16Mk2A.
+
+![](images/d43e2108af0d2d53ddd9c089bf4502d3808a76eeddcfb4e15d63f2d8b0c95aa6.jpg)  
+\*
+
+1 11-17 [W)ddkEt
+
+" # J," 5# # ZIE mI. 187218281912 i"". 21
+
+180918741 ""E,K#E8 F#Z AZCEM, SSET, mNEEAEZ, BE#? ME E(I, II5E, 51) ZI5, X, #ETEA. FZ, , MT
+
+A.T,ET,TZ, F "2 .1864,\$37 thi:
+
+\$6π , ## ¥,5#,#,
+
+(1823—1901),,.## 6#EF\$, "ZE"Z, XF A#,""KT, HH.
+
+.#I# Z#" IE"KK. MAEEI# mTZ, ER "E".
+
+18381894,I,51E .# WARTF, AFA. AZ#, PRE, TIE Z,\$#8L\*3m\* I)-i2, #H, En-AIZZT; AaM, 68a; i328181Z8, 5#439, # i\*#, , \*5."1# H, i \*, \$, Zi. FEHIM, XIE. ER ZHE, TH, RE. FEIE, FZR, TIEW u5#, ". # 6. RIEKE, 1EX. UZ, # RAA,EAR"AEIZRR. TTWF"? R# IE, W8#. EG# #IF#., #""#,i, 8# ,E.LE# #" " " KM8 1##, B "" ""
+
+![](images/918271c379338508d682b235a519b03b15baee876e05ba17fcafb01b8ff35aa2.jpg)  
+M11-18 F
+
+413 5",
+
+HN
+
+![](images/7e60bbd5b4822ecfc67673f7b5fd2ac7315cb328ff6010d5b2148ee7328ba5d3.jpg)  
+M 11-19 pm5xMomle (S. Grant. 18221885)
+
+#Z#A#mF#5\* \* Z,,., F mW#" ? T"7 M#.18 J.AI##HEXFWF# RM t, 199187
+
+1.\$:3,48.
+
+2. [], :),\*:, 2010, 15
+
+3. #,#
+
+4. +=+=
+
+5. :,:,1981
+
+6. :(‡,.:A 197424
+
+7 ]:),[] \*#, , ):(8\*\*), 1:121i, 2006,
+
+8. []:5,,: #1983238
+
+9. +(),[],, \*1.6:8#),1079.
+
+10.()\*-(),],, #8:(#),42
+
+11. []:),]:1 ,:, 1983,4
+
+12.]#:(#√),2(#\*\*+(\$i):#,1987,33
+
+13. ]:)(, +iit-i-‡),i:#, 19881996 ,752
+
+14.]:,+=,637
+
+15. ]:-,p261937 \$2π
+
+16. ]:-,:,: #2004178
+
+17.:#18631911 ,196317
+
+18. []4:(1)= =), ,\*\*, , ±19983031
+
+19. []\*8:(14), \*i: #i, 1986, 11.
+
+20. ]0\$\$:(4\$\*1\$1),1 E:#C,: 199187
+
+21. []0\$:(41#\*13\$),21,
+
+22.#:()F,:#200\* 7()—72π
+
+23.(=+((#),2 #,:20. # 1087—1089 π
+
+24. []:()(1893),,: \*#(,:#,198263
+
+25. :(]),1:(k#]- (=)), 1:1R±, 1961#,\*227π.
+
+26.\$:i),:(#) (), 170
+
+27.+] x200
+
+##
+
+E#ETHFEUF ,.,. TIF#E R#,# #s",Ui "# 5113 RE"EF . 5 " t" 3
+
+##
+
+(1611-1680.91,, FFEE ZF, CEA, AMENRZH, EHI. EEMMXM H, "#". 1f#() (x) (#)( (E#(E#) () < <#) ( #+,+#:5/+; 5Z; F#)F; ETHF /# 1191671 , (\*)E-.
+
+KERE EEMA. IZ\*HEFIGS#EAE. 6 X \* , W,K, # " ",  "#f#, T", An ""7, E4ETE. M4E. .' ' #3.1 ,"",
+
+.
+
+![](images/3eb9c24b84c4be72b4fffee8bcc848ab376c14f9140153a55bd27e1474e38e2b.jpg)  
+M 12-1 Pmkd, 1tx. pkiF. wF(mRM), M. mum. 0x
+
+![](images/066cf2a233e7d86ecc65ce193a25128cc259d95b869662b137de5349f6c94759.jpg)  
+- M 12-2 MiWz "xM"
+
+\$#,T#E RTA. RTKXLAEAMEEE: -ECEI \* <R)ET-#, 8AAZ, E1 "". CEA, UCI#, \$F X, #XSARE , RT, 5H
+
+6 "".
+
+![](images/7afa6d796fd19f403a39dd2ec541b1c9ec149fd5835e60b8b4cc8de11a2652ae.jpg)
+
+112 3 21x, ((D 15t14  
+![](images/3d684a96eb1d69f94b3f40c48fd96bc73d463e837e0e712ddd46c7cd266fe6bc.jpg)  
+127,(0)1 15414
+
+![](images/f0549d5546a079164ebb3bd6eb572a4e1d98564cefb1096b45ef00097ad8c989.jpg)  
+1 125 .()65 ISHIY
+
+",,Z,
+
+. IT; 1E, T#, FEFTA. 1EE, EEE.,1,X;LZ,T ,+E/."5EE,
+
+##
+
+\+ " ?
+
+![](images/f87b7c2fef3f74a009ef9c9c2bd21493bec65f09278c7ca50760c06447fa3f53.jpg)  
+12-6mk, (m9m)D 15hrA
+
+. 1"" """ " "
+
+![](images/acc23dd8038ec4d99164be99bf4e8cf6f235200c9419553ef1d58334f8f0ad94.jpg)  
+H 12-7 001x, (010) B
+
+M1
+
+/E R#. HLC"Z" "8 T.
+
+##
+
+97 9 " . 1. "1X, E#, 31#, , 1 #"""", # 5 ZIEA .)"t", # ""EHTE#,## "#" H. "",: EES#.""EX":" RH.A E#F8. \$5. bT#, 8#, 8." "":", AC.# EX-EA",T EETMM ,H.
+
+![](images/c796b7c0c58c94ad795ee99f80fa4dc896749c31e3d2e5c4538148f364421b52.jpg)  
+1412-8H(1t84)J 15h4
+
+![](images/e322247f7ec42874f38f7db891e7306e9fc77454584312dc179d9b55f35409fc.jpg)  
+14 12-9 Ek, (0e) B I5ry
+
+()  
+![](images/c925258fd22ba7f35c0dbebff671300abc5c9efc606ca218ffe09f1617a8f114.jpg)  
+14 12-10 1f, (m91)D1514
+
+.  "7#. ", i "#5" 8 "#", """\$."' T##Z. F-. #Z, . EE F870EZX,\$:F,8E. 0 , FT.! B! WAERZH, EZTEHF IR, TTEZA,TZETEBE, EA#ZH , 1?"1 ####
+
+k#"""##. EH:Z, E. RZ, M, BDEAA,HA.EZ.T;
+
+, 1  "" I.I" . . 1 E3 KR,MEX,FEIE, Z, AIIS. R, TE, i "6 T" I "" .
+
+## L. IZOFIE
+
+"E" "", eIE " 9 #. " 1 ""E, , IE#."T3#F BF SEIHZ, E-TEBRETAR "1"," 19 XE,"KS "EE"A, EMEE
+
+\$, ##- ""\*,""
+
+![](images/b8afb5e6d953961dc8c62f83a19eaaae84c56f492da2213e104459d1c3086d72.jpg)  
+12-11(M1E.(0m)15h
+
+![](images/d9615508500259c70799e0f1f5e2d4deedc8a60ab47c38c5dc12eab172b56b6e.jpg)  
+1412-12NmM,(10)5 (5hi4
+
+XHE. #, AAMEZ, 18EE ""H
+
+" TT T # ,FR " "
+
+## X. "WHE" 5IL4XR
+
+"" , E ""5"",""5"E" A,"K,E ""E.
+
+(4 12-13Fyr, (pity9) S 1st14
+
+![](images/64ed21e896499272c935b06efd822165ffe5037cd5af86c04cf6793d89b8156a.jpg)
+
+![](images/a7423acb823472593df80ce72180ad01a1c6f6c5a51ad6f73e83707415af24e4.jpg)
+
+![](images/09a030edbfce6de8133f45db7d242612de6cdce786aa7a2a896e86f1fa80702d.jpg)  
+M12-11()(
+
+. " 0 "" 21 ", ,
+
+t3#-),  "#3". 1. ",;#. EE—Z, MieIfH. " AJE ""E "I#" Kh, , i##".# "\$" KA:AMTE, ETET. MERKER H,, ,. "W"
+
+#" " #.  " .## ZS#0H#W W""#,#"# E3"T.
+
+MIT #1
+
+31.EMF.
+
+.
+
+MEHI
+
+5 : ." 25.
+
+BEIHT, TEIZEKXTZHE, A,4
+
+## TEP:
+
+1. ·),[],:), 228
+
+2. ·,],:), 228
+
+3. (),],:), 228
+
+4 ]:1,,:, 1993,2
+
+5. :-),: ),3.
+
+6.:,20016 4
+
+7. :,R(,,Z: #±, 2002,59
+
+8. ]:\$),[]:(-), : 197598
+
+9. [#]\$2: (\*\$#), R(2) \$(-\* :199147
+
+10. [#]\$2:(<\*\$1)), R(\$2\*\*—\*(13-\* \*),\*47
+
+11.]:#-, M13),\*91.
+
+12. ]21--,=1, 155
+
+13. ]-),=( 1),281.
+
+14. []:1--,=, 157
+
+15. ]:-··#,) =<113),159
+
+16. ]2:(·\*-#·#13), 2() =(),213.
+
+17. ]1]#\*·\$),\$2=1 20
+
+18. ]3:1 -] --\$),2=( 13,21π
+
+19. ]2:1-\*-),)=1,196
+
+20. ]3:41-]),\*)=(1), 201
+
+21. ]2:(--·#),R2) \*= <13), 159
+
+22.[]2:(1-·#),2\*)\*=(1 13211
+
+23.\*]‡2:(1·E1\*·3·#),2(2\*) =,164—165
+
+24. ]:(-#-),)=( 221
+
+25. :5,),59
+
+## ""
+
+F .
+
+""BZ6.# #" (T#IR# #HRM8).IE-↑E# , mX, MZEiT.
+
+. " .
+
+MWREL,EBTSME LL MTH E, E, H, TE\*, HJ
+
+.
+
+![](images/6d6361bf5aee82bafe1646eecbb165ab65048b6540b189b1941677906113ef5b.jpg)  
+14 13-1 ((pk) (585
+
+Ⅲ . """ ".19# / 5
+
+MEFFT KTK.
+
+##
+
+F ·  M≠ < #) () w()#, #
+
+EE,TZ.
+
+EZFBEBEA AE.1 .FL SME 4TETTRA,
+
+5.
+
+IEBHTH,ZKKREIEHH TEE,E.RETEMND,3AA
+
+:FEHLZZ.RBP8 " 4, ",3"m,T KEHIET KER, N. XE,,M 5
+
+18EXT -WX#, XHRET1.ET:WE,FET?'FH:3:Z
+
+![](images/301eefed9fc22808ffd0ff3ca4022c5714377e52710753ea3abbf7e5ebd8a7f0.jpg)  
+14 13-2 ix1
+
+ETFXR ""T
+
+i, I#ATH-HU#THEU# #ERTIEKJE.
+
+E, ,TU . "." "ETEE
+
+WEAIR,FEE,ETE \* RE#,mIIE,FIH LKEUME.
+
+## .IE.IE
+
+1#Z-.KT#48\$
+
+IIEBKEHE.TXRO TUME. # """""
+
+IEIF :
+
+(1,
+
+\*\*\*\*\*\*\*
+
+![](images/f04baf763273b95dc27f746fe0c7b3cc8dad1759b93eeca7dd344d843c360d09.jpg)  
+W 13-3 kir2A, Kutz
+
+(2)#5) AT 1ETETEJ.
+
+(): AANHE.
+
+(4)EE:EEEEEE,T " """¥.I .
+
+(5)EM:#IES
+
+(6# 51.## ###.
+
+(7):IE#N,
+
+\# ## 5\$\$\*
+
+## V4.125H
+
+33A.#:.."5,03#0#1.3∠
+
+?
+
+?
+
+E?
+
+II?
+
+"# . L. '' 5
+
+![](images/6611e068b8b28aa1a83e127e68e52a72bb9cbd534627e2a52dee32846d54e7a9.jpg)  
+W 13-1101C4
+
+8370   
+81   
+8.F.31.38   
+81.70
+
+5 4#. #3 "" 8: "I: EK HK,EA,8, EE. 7K8T, KEK E, #, M, ±"../: 8, 8,. . " 10 , , 3 X :, #TE. ##, . ##: 4 14. 'EH, #E#, ##I. &3Z, R F. : . ', #, ##. " W W . 221W 81, , M, 7Z"1, , # ## #HER1 "#AZ\*" #7#,
+
+ME B.,
+
+IESE ##T 5, H.HET, PHIH E.
+
+(XEIE#H).) .- #\* ., . .
+
+#,:(1)
+
+(,5. 18ETT,ITJE,Z H., T
+
+" Ti#.. TTH.X EI
+
+## h "" HIERE
+
+R
+
+K.R# HHEI,#. ESEHERR. E\*#
+
+RAE.
+
+"". F "CX"KT#HE
+
+MI 45#8. ETEHTK. EFI R4,  "#i"EH, Z.
+
+IWT5I" 1#."5- ()ER####.3 1 EZIEE. " " 3k,I3.
+
+\# ## HTEE.
+
+MIRZ.XEHI M# E Z
+
+HIZREHTXXBR ZR\$TEM,# "H" "#"\$EESR8AR,
+
+WEHRMNEHIHTE.
+
+." 6#. 8#, #. "17 " ,."18 ". " 19 AA.#E AT3/" 1, B0, 181.
+
+, TRE.
+
+## A.IEEENEC
+
+. 18
+
+1.1 T,#. E
+
+MAITXNNEEEHRIZ KEE,,AE .
+
+#.,T#. T# # I ELWE∠H.T 633!27
+
+,#T. B. :#?':
+
+,,A,K6.,4, .#.
+
+## L.MIM
+
+B 5
+
+(1)():H 5
+
+()E):X
+
+(3 )(M):ZH,-E\*, SME
+
+(4) :1;"", "E", ##
+
+(5)F:.
+
+(6):,, 1
+
+(:—,
+
+(8)##):1AEKE.
+
+(:",
+
+WI#"m.
+
+(10):
+
+(11)(#):-,#
+
+(12:
+
+(13:
+
+(14)():5, WM.
+
+M 19,,8,0, UAA6.18
+
+I-MREEHERE,HIETMAIE \*,E,EK," " #,5 XHJ
+
+#.#
+
+E", iER; "H" REE; "A" #6 ; \*. , 5-#, E V#E"EAE, E TERN
+
+\## 1F" "m"EMKEi. 1:
+
+]"
+
+Z
+
+; 724
+
+A,IZMER,IHIEM,EE.
+
+## YEP:
+
+1. []\*,,\*:(H),:t thit, 1985, 9
+
+2. []:(),:(),: #1,1992,\*74
+
+3. [x]: (),#i:(), R‡: R±,1992,\*74
+
+4.R]W,#:(),:#, 1999, 25
+
+5. (,1#,,1998, 50)4—505
+
+:(\*4),1:R,1981, 92
+
+7. :,,1985, 157
+
+8. :),166
+
+9. :).169
+
+10. (),[]:+)188192
+
+11. (BR·B),R0, \*iz:(k#),: 1 20()9   284
+
+12. (iz) \*(\*k), L[x]]3i, [\*]3#, (] 33[]3kEx:(i),231
+
+13.:(·),)\*—. 23
+
+14.—:),: ,1986,34
+
+15.-.35:<),59
+
+16. -.35:().186
+
+17. []]3:(·),, Ki): #it, 1986, \*134.
+
+18.][|:),179.
+
+19.]]:,135
+
+20. -.3}5:(H).182.
+
+21.2[]x:(\*)\*+=(),9] :, 2008954
+
+22. ]],179
+
+23.:, 176
+
+24.][]:, 141
+
+?? "? "
+
+(\*I12)kE1R4#7. 88E13E "E". # 1 \*T.# (\$,# ∠# XEEL
+
+. 7 5#?
+
+![](images/189903224f06baca6349284ac38f34c6bfcebf3153646f909eb77e41c1bccfe8.jpg)
+
+! # 5"##.
+
+M W#F ,E!Z
+
+## "5"
+
+"#" -): "\*7 WZH.E, : ##7."EN55 1856"" # " ""E#E A5. -8#, #, E,TE. 8 AE.8, W, EEE. I8#E, #3E, B/EX, ,"
+
+(1)E:E#,H ,.:"""" ""H ""
+
+(:, .:..
+
+: 5 "" W "" A""
+
+(4): .: "(", ,,  "" # T. \*, EE "I()", 1, \*SE, "\*", 1#, N#.
+
+(5): :""""H Fi5t, t0 "" O
+
+(6): #,., #"\*"FE"\*",#E""1F ""
+
+Z#5"6Z. M"" 1 .(2 K#SH\*".RK,TAWEIF 1 , R,#K, FAEHW. 5" F:# #. ""# HAMEN "H"HEE,
+
+## ""
+
+ME.H"",#ARE,HE, iF#:#Z, #, #: #6, ."X:", "F# """:"""#"" "(;"""#", E "."" """ E15".5 \$MM\$#"AX.Ⅲ ".
+
+"" " ERR, UEME, DEWT,RUALAMHEA,A .
+
+"" :-E"..T"\$5\* "". ##.":-E W# (6 ''E( E'(. B(AE)B(A).#(#)"\$. BEAM .MW \* \*.1##\*1\* (EHA(B(1),A;(2) (F,#(4F, 6
+
+![](images/15fa5eddedb0cf7b35e175f54520e4089cbe9e49f0c27dc4acb7e22f034abde7.jpg)  
+M11-2 iFH
+
+![](images/0de10270def0fe67fab1bae2df579d0361bcf8380777c42c344d9c0f40724b96.jpg)  
+143(i7), 1-15,i Mid, P, JAr.
+
+<table><tr><td rowspan=3 colspan=1>$+$</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>8</td><td rowspan=2 colspan=1>$1fra$</td><td></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>X()</td><td rowspan=1 colspan=1>$</td><td rowspan=1 colspan=1>$X</td><td rowspan=1 colspan=1>E</td><td rowspan=1 colspan=1>$8</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>$</td><td rowspan=1 colspan=1>t</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>\fr$</td><td rowspan=1 colspan=1>ac }$$\sq</td></tr><tr><td rowspan=1 colspan=1>E</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>A</td><td rowspan=1 colspan=1>$Aa$</td><td rowspan=1 colspan=1>$\r$</td><td rowspan=1 colspan=1>D</td></tr><tr><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1>*</td><td rowspan=1 colspan=1>$πA()</td><td rowspan=1 colspan=1>$ra$</td></tr></table>
+
+M 14-1Ex7
+
+27.24%   
+87.39%
+
+\* """ . #"T, # 74#3\*\$, 87#83# # "8", 1E9 J """"#",
+
+""E? T M X F "# ." WEE, ER.
+
+"" .1E .,. EB EE#.EF
+
+## "
+
+TME ZX5E#\$
+
+"#"M8.## . # TAKEXH.EEEHE . "" REA 5"
+
+"" "":(1.(2)#. ("# KEA.(4).8E,
+
+![](images/1d8b7c2f5e7b87517c82a74a4ccf060508d01eed01e742c78cb88c2013b811b6.jpg)  
+1115(.
+
+E46\*#.(5) #M "\*\* .(7. .
+
+2016.#.#.
+
+## YEM:
+
+1. []:·.
+
+2. ±]:i),,:, 1980 , 5051
+
+3. :( "" ""6,#),2042#
+
+4. ]: ,, :, 1999.
+
+5. {:,,:, 1984, 1
+
+##
+
+""#" H#""TK# " """",
+
+""\$" i"#".#"T##. M —↑Ra "" 6.#E, "# F,.#. #, T3HI5, 18\*, T5, —, " "" 1.206016 "
+
+![](images/4327daded2f285e9a14e9667c1c66acd13028c2b11a85433084883eb95dc86ed.jpg)  
+M15-1-1115
+
+![](images/09743ee200f335ebe96566ac239995fc659f400834b7f15dfd88647bde96555b.jpg)  
+M152(UixBM
+
+## BMEEME
+
+"#"66.186# \*"m
+
+4.F" o "T#"K#:F."iE "", "#5F "E"—""#8"F. T5#kZ: F#. T5#kZ"∠."H#"""—"R".
+
+W"# 4 FE.(A) "ZFT, # . 197129## + 55#\$+# #+
+
+185 "4"HEF #"5,# 1XXE""K,NA5 - " M1 " A1" W
+
+## =4515m
+
+F"", "# "1957 ,TE .  "",1 , ."A8AEN# " JE.Z FF
+
+A"A#E".'XFEEUA##E,-,
+
+![](images/1f6f067055c79cea1f30e18627de431f4c3b0215c5cbd1330b8e311dd83de1f1.jpg)
+
+M15-3 (t1iikt.
+
+7a5 8 i. jti\$te "t\*" "]. \$" "sA" "kA" "E" "6t 14" "s" NoAn M  6k6.
+
+m,,E.   
+""U.
+
+F" " "I"S# +"#
+
+##
+
+\*5(8)() (3)(#A#\$)\$4
+
+46   
+4
+
+M M# .# . 8N, , ,-, F . . "
+
+## F.H.AIMISH
+
+UHLAHAAT
+
+![](images/44b5df307ea8ff996e51e1e9a86afc0cceaa5c75abf4f5ea30e4a7906485faed.jpg)
+
+![](images/bc510cc081785a0857f0f07fb6a8c5a45c28ec93524ff4d4531746ed41c0e284.jpg)  
+WI5-5#ERAK1(Opx\*ENi),#R
+
+![](images/e0dca653ae5fa91df9a278865b9e69cb3a66a739fcdd804620f6c29a8465296c.jpg)  
+W15-634545k1i2+512).m
+
+MTA#
+
+M Z., # 182326 WX5 M
+
+. HEI.AUEE, E.# X"",, 1
+
+M 5,,.# 315,91+ . —, #,"", .
+
+W15-7 (K).W)j (15731619),(14(4k (5h
+
+![](images/b72526e43af6aa98bd2955262bc6ba68db5399d9a5babcec8335ca326f74c61f.jpg)
+
+![](images/90da9ce5a03bc365b14f0af94acd36588b6363e5d854a6374dee5a86b933ca3b.jpg)  
+(15-8(1tpmiB\*)fir M,10149461:371639 4E)A1A
+
+\*
+
+M
+
+##
+
+M. 89176.##3341, T18i6A/5, 80H F # #5, 85143,#
+
+## L.Bm8041
+
+,
+
+X.H,1   
+1
+
+\# 45",E#5# ESIE. # -#. 5: FI\* RTE#.IE " F T E !
+
+![](images/3903ff806d8aa03e763bf5afd1a9c105e99c4a7b7344654e9181a0157d3d484f.jpg)  
+M15-9 (AP1i), M0 W. \*1CX 15. FH55. Hi1 500 6.DBFRA1X4:F(9781p)
+
+![](images/3a86a36fb527949c6f774c30b54f1f19d9d12da6fe201ee1c2cdad2bed480d94.jpg)  
+[15-10(145, MitxKHiF7A, H10000 6. 5020 A, BkABRMiF7qWAJ
+
+M
+
+70 ''E. E, EW5. 5# 1M"# # .:E # M. SK#E\*8.\$\*. T
+
+\*."#"#A P3B"#TEFA—↑L
+
+## TE\*:
+
+1. ][]:\$,16.
+
+2. (}.\$1]),:(),734
+
+3.#:3),:,1991\$.
+
+4. ])+)#:"==fJZ,0i,#m\$,Ax……"(R(719907010
+
+5. []F1:#), R6:(F1\*), 1: 2007,83
+
+6. []],#, :¥] ,:1983,21—22
+
+7. :(##3i),: ¥#:\*1999.
+
+## "
+
+¥5ZH1F\*AZ
+
+M \*"5" #" +. Tm,\*TL. WETR. Mk, TMER.EAK T T"Z.EE ARA.MXUH.BREAE,E 1AET.
+
+AAEXEETRE
+
+![](images/8822770cc550de6f52cd412acde26087ebc7097271b057746a3164c8f257f37a.jpg)  
+16-1560
+
+![](images/49c25b18cd4417ad4dbd3c939b86b18158dc413bdab1f318c4ef3a23af040f62.jpg)  
+1 16-2 ix1ck
+
+![](images/fab7d7d9c0845a0d003bee74641bb1f0960ee6b4243cabdf0d842d3e2337e79a.jpg)
+
+W 16-3 (MIEI:SH)(MAB) , H, 1NH5  
+![](images/a9c3ecd68a5f104c6174cfe1e5c252e131654527969babf3c4c87b69686c83e0.jpg)  
+H16-4 (4kM) (M). r. M0), K285M\*, W28.5MX.
+
+"" 5""-# L#ER #,  "5", F.TC ,:" #!" TKZ\*, ARAZE, 5O#."2E, 5EE#, J.  ", +6, M ## "F"-,5"t"5"", MMT\$ E.X#T,EE
+
+IT"",T ."#" ""
+
+. FLF:F TAUTETEFT TE ELFM"".B
+
+## X
+
+, . ",E EEX. ", ,5," , "#"""\$
+
+![](images/e31d1527e49e990a6e93cb878cdd27ba67c00bfbeb0adfc504d066bbafea424b.jpg)  
+Fl 16-5 (EhP)
+
+![](images/778bacd85cfdfe4390574df8ccf0be17369b51830e8373d6e7d85943cdb8a1f0.jpg)  
+16-6 (i:D(M), M
+
+![](images/87e836ccb65176c40dba85a1af25fed866388b448685276eb3e4bb993af4ed7b.jpg)  
+116
+
+![](images/7d9a658ea4543801f10b11112f44bdaee12cf3d6d9e3bd4cfd023856d5b9aa6c.jpg)  
+14 16-7 121m
+
+ENEXTEAE. K### EERE.335Z
+
+1
+
+\+ M.#.81."" ",TT F.
+
+A\*#(+(\*H# 5 #. U#TE#"\*": W . HT\*ZEAH 1
+
+t6R8\*# #, Hm, 1763.
+
+![](images/f704f6d913b60077d67cd23f36592f9292233bc3548fd999ff7110c78745262e.jpg)  
+16-9(
+
+![](images/384cb4d15c3c99fb3d6bc8212d4e17e82ceb52bf0ae19836de333592710d0c32.jpg)
+
+# 16-10 4l  
+![](images/e1b99fd855ac706892c425cf2a4dbb5e1f16c5152c2e2ca87a732cb7caf450bc.jpg)
+
+M 16-1122W1.14  
+![](images/f84937b1121e66b65de09d2c05a0986731c903eb79b177f3d62b9111914bb67f.jpg)  
+- [4 16-12 "x1/Th E"3k. A:M
+
+## E. KEANREEX
+
+WRRTREHEL.
+
+""1 # p" . #3, \*z "" . 1 AXR""E",""EEE. " AR" REER, HSE\*, TAAE. E. AZ. NE#ME # E#TXE,TREHEETREER. E n "" I. I-tf, 4 "", 6 "", , .
+
+. ""; ";B EEI E" ".WF"\*" \*- "
+
+T"". E,#RT""#.
+
+#1AR"E"RIR. . ##. EUXMMR; #, WIX##K: .
+
+\*\*5"\*""",,#.
+
+W
+
+#\* \$ . J#.HAR 115 96185 T, LXFEET \*
+
+![](images/e3dabf30cedcd11471cb93bf4afa4343c159f49763e2027c854aefe5a3428b0b.jpg)  
+M 16-131K.\*E 1hxf. i 22.5M(k.19794 Fi
+
+![](images/f971dab0739a84a1fa1167c13557cc5d296d0e54d0516a4e5a613b058229e3ca.jpg)  
+(816-14 (TT5M) 2,i
+
+![](images/62cc0f6099ef804edfc0b9dba45c179848145cabdfb14f37484cb8c868d0ad97.jpg)  
+16-1511&
+
+![](images/af0177937d169bd5016c167e33f4470c032e271d76e60f2f5eca3322400407af.jpg)  
+1416161
+
+F -ME. WE. TREJ.
+
+HEH
+
+## YEP:
+
+1. (7·#it), R,7}%: (7), 47.
+
+3. (·,[]:),: 1985121
+
+2. -),[]:(+=),2517
+
+I E" FIEFFI" 1 AE
+
+## ""
+
+,(-,# J. ## EHA.M-,T EIH, EHREX EESIH MS""
+
+ATEELA JRT.E
+
+RAUEGHAIRTRMAT-ETE #
+
+ATBEE   
+FF16   
+20cm,#520c7cm   
+10c   
+7.8 : 16.8 : 5.4(cm), 1 RE   
+5.8 : 11.4 : 6.9 (cm) ], 86.7 : 14 : 5.1 (cm) ,   
+5\~ 7 : 10 \~16 : 5 \~ 7 (cm)],□   
+135AK0E2 : 1 NRTEEAFHEH. K,   
+1211.6   
+12m
+
+10510 5120. t#..
+
+,—
+
+90 .
+
+K#+., B, ERTEA.UEE, TH, R 6.6cm7cm. E7cm5#12/6 7cm
+
+BMN, ERT,E.E B.E.F .
+
+##
+
+\# M#" ". ""
+
+" ##
+
+IETEI #T
+
+AAMMRR.ERT.
+
+\# W.B.— 14, WAEEL#ITENTE#, RNEB, EPE HJI
+
+""AE,FE: (1 2T" \*::↑ Eo "
+
+M,HEEN#R AA
+
+## "MI"8H
+
+\## (####.1 M, WEEE-RHAAIEF.
+
+"""
+
+Z" E+", TTM, Ft .
+
+:"Z, 5."6 .,.
+
+![](images/0a6f0a530e04f7782e01150835f04cf5794b9f649c687b0cf2a40657e15cf975.jpg)
+
+![](images/6b5a663e9a68343ee569aa0c35ca777708c07b4847258f545240b6b27924ee0b.jpg)
+
+![](images/b5cf535fa9a5d3aa8220dfc04a1297ef165cd4be4af680e70c6c8fb07be237bd.jpg)
+
+—
+
+" "\$.-TATE TE
+
+## V4. WJCHZ ""
+
+AT?
+
+EE
+
+H, UHM, TEEAKAMSEN. 1EEEHEHEMHMFTEL52c3c45cm50c,T#.LF#,ARWEM(EF.
+
+![](images/4ba1ddd42f2eb44fce7cb8c17b9c432842da1d63e84ed81869a260085366c1e5.jpg)  
+K17-201c6a j4rt
+
+##
+
+EAR ,1
+
+#" 1—" M .
+
+.1I
+
+1 W-20 80 I, ARGETEE:E, #"
+
+![](images/b58ba35251328693756958e2a032272984b104fcded270628c0d93bd7b1bec33.jpg)  
+M17-3(MM).MxλNx
+
+AIETEHETEHHS 58
+
+HATHXEEX—HM\*.
+
+MEiELG, mIWREM.EWEEX R#. "
+
+Z
+
+E M
+
+## YE#:
+
+1. ]:,,: 19571
+
+2. []#:(1),11.
+
+3. [],:),:, 1985
+
+4. (-3],],: ,6
+
+5. #-] -\$,:¥),: #2006107
+
+6. # ·Z ·), :#), 628.
+
+""
+
+18E,M  "E" "" J,"""" .
+
+1841#20
+
+##
+
+1840+ EEIBEKEE. EMUFE "#" MAREES, EE , ,, KZE, -8I, RTAFZE.
+
+.
+
+\*. Z18T . ., +.# j## 1767
+
+## ex
+
+"" i,  "" . 1 F 0,3.1840, #
+
+" HE ""H.:" AZ,#.EFFE,RZW, #" W " A4 E, #"2 THEBER, MKEE, 4HE3EMRTIT,
+
+5  ",  "" EN"" """"",""" "" D "H,, 8ZE, F """ , A "" E,  "" H, "" E ""E.H """" W ,
+
+F1793F9/REMXE 5#-#"311840W
+
+##
+
+" " 54 E4 '. !" . cloisone","" EEE.
+
+" 18381894 W\*, \$MHZ,HE#Z, FEI , XMU, ERZ, mHk, AE,TIE,FAZIF IEFZ,."
+
+ERAEIZ #R, M3EWEF8ERZSZ, T?" " 8,R, ,LE, E"5. XTI T.
+
+17905 # .. ..
+
+![](images/72bd86e2fc6143c7aa3d6491e86065eae67d64b69d7cd4d28f0a575a4fda5ee4.jpg)
+
+P18-1gwMil xn,  
+![](images/bb7acab93b634a11a2008b36815283b55537672ebcc2148ff2ec49dff74557f4.jpg)  
+18-24
+
+## P4."
+
+1899#"W " .#—# ### 190 " .
+
+1902 I#.Z \*#\*:
+
+(1A
+
+(2)I:I.. MI.I.I.I\$
+
+VE#AER.M
+
+19165 : 8;88888 888.8.85.8 . Z , WERZE, KEE. EM, HRA, A "
+
+20 EBH, ""-WS "A"A, LF#Z.E192#5A M#MEZA # HIZ,KZE. RA8#6EA,ZUE
+
+![](images/09f8deab4963129a2a5ea92baac03c3ac2da09b6860da5c16206e3da4db6b837.jpg)  
+18-3
+
+![](images/a31e43d54f37ee48749b5310a85560052b5176f670eff98c8a4c903370fef746.jpg)
+
+M18-11  
+![](images/ae9fbb92fb36590e4867652c7516d9bdef224a75da65ae73646530bf900ffa3d.jpg)  
+, K 18-5 Y:x1mn4640215 An sotet
+
+E,WLtIZ#. #Z, I#.KE,, #8, MAZ.IHE,Em8."WKEWAF"F55..U\*I5HZ, E#Z#, mZ.HR
+
+I T"".
+
+## H"NEE"
+
+"" " " W, E.""
+
+.
+
+— Z.
+
+BESKZAAHXTET,M . " .A , A. "t R, 19231/1 . 1F, :."1 WH HMARE,1EE".EHE, #,\*F,,# ''
+
+![](images/6e70e3027036be87df514e772d93fbb0d0369f242ba45cd83e73ac8a19864c0f.jpg)  
+M 18-6s4, 4i85o1d
+
+1926
+
+XAE 189A 37 / +,M # < ¥ \$15 1925" #518
+
+70#,#" 1 , ""E" \$201,60515)\$168
+
+12 FH4. 5 12.:3 FE.W RT."#" 1956 —. 1931
+
+![](images/14481ae71040a89f955311366966bcdebaec4090d6155b003594b0e0bb310d98.jpg)  
+14 18-7 82, 11c
+
+![](images/07abb72bd7f3208eeccefd5f03a2f35418a4a7552a567abc0f71c606724e3406.jpg)  
+1 18-8ciit9il(t), 1927 4
+
+![](images/d0a04935bec83e74c35a75bc8e51269a7340d58f6b40c5401f57a055bf7be01b.jpg)  
+M 18-9 1935. 1EM311:
+
+2040# .: 1# T AM, TTBE. \*1 5#F## # "15
+
+1934 "" A.WAEZ#H Z
+
+18961916 E19191923 "" 1927 #1930 ABC1934#1937# "" AX+AE, TEX, XIZN X EE
+
+1FAEEZ.   
+19061927   
+19291931   
+200   
+EHIZE.
+
+20 #3 WRIE \*E" XNE KXFEAHA#
+
+1900TIMZ#
+
+![](images/f1e2a44acedb1e1c744f7d679189fffba5e9d269a2024da6261d257df4182332.jpg)  
+W18-10 (A52.3XM
+
+20# #30 , # 5K- "" F ), . #1944 19471949 T\$
+
+"" " ,ER, 1ERTRMK,FEAET \* '1 ,"" ""."" "" SAE+AEA.
+
+## .
+
+M192## .P 1AREXK "\*\*" -8. 8E1E% "E5" H6 . M M
+
+20 T .,#.
+
+![](images/d7fd0a5542e1184f0952e52bb040e8d5805923d3d12a4ddcc24cdf37015db39f.jpg)  
+(H18-11L(5CMN)(MAk(1
+
+["  5"18. ,— M .. XFEEAREA.FARWTX 8n. 0ME.MEAiT EHRIB. EMEXFETERHAE, ME-FTH 4.7.70 #.EH.EEX EHXNX. E
+
+##
+
+1. []:(#),,:, 1987,36
+
+2. (7·#t), 21, 11: (7), 46—48.
+
+3. (]#,:1—±),1: #1993,510
+
+4. T:(#),:, 1987, 482
+
+5.:(]#),:(#] (=)=,:,1961.227.
+
+6.#:+\*##19591
+
+7. : (I).: (\*\*),: 19872425
+
+8. 19191949, 1987,3014
+
+9. \$i:(30 "z"i), (\$i\*-\*}ii), 1993313
+
+10.:(5m),(\*), #:19885
+
+11.:(i),(\*), \$#:19885
+
+12. :()().: 198831
+
+13. :(), (m), \*21.
+
+14. :(#),:=#,1988,55
+
+15. :(#t,:=1988,55
+
+16. :(),19924#
+
+17. [1:)\*,262.
+
+##
+
+1998 " "(""# HE#AR, 8EHE:"I" W .T,
+
+120 50 "I"#" #, #."1EX,ER: "E I. ' EMTI IETWII
+
+K#
+
+195411;
+
+195855#;
+
+E
+
+119-1 (cng01) 3012 1558
+
+#
+
+(-AA1)
+
+(-)FIEHEX&EMERRAN-8-AD-TETHNEET. ETAS. RAURE
+
+K192butkFTE1X )X156
+
+19596 46IE
+
+1965 #CI, BEIAEHAA,
+
+1970#:
+
+19781I
+
+IM25 M,,, 50 "580 I " ..M.
+
+##
+
+FI#HE#HESN,PEEBII,E#184"
+
+#"IZB IH. "I"#, TREHT. IE 88 SZ,TF?""I, U#,EX #1"# #. ,, ,". I, m ", ", 4, E,EKK.
+
+M . B.
+
+X "" EI""." . SE1\*"1 "
+
+![](images/21dc9a76673083a469980d208ad9f24c6da96b5df17525a2cd5eb37c1e750f3b.jpg)  
+M 19 3 10x\*x
+
+EX O, .-I, t#R. EFtE) Ei: WH, WE. E#AE, W9\*6, ##E. W633M5, 5EX A#F. ETR#, FT##!"XREE7 \*\*\* #K.FRET###.DIE : " Z, #AEEM..EFMFE, FRNZM, WA " .RZW.W." AZ,#4E4FE,1FFE, W 4 # EWEF."7EH . H, HMT, EILT.
+
+."" EA "E"W"E"HE. ""EE ""EME
+
+M "\*" #  F#\* 8mEEiET3E"L" . FFU, FLTi: "BW, ."7 "" 1e 1 ""1E (iE6) \*tE361R338, 18 MI." "" 7L"4 # "?".""E" R,"".: ZFT,35,HPZ,3Z. "9 AE ""EMLRH, EAEFNAET.
+
+![](images/8727719fd902caec99fc114766f4960babbc8b333003b348b363aa82fcaa1cee.jpg)
+
+"W", E "" IT. "" .E "# A .BFF""C "".E." 160". "" tx55, , 51#% "", " . B#. #"" #"
+
+." #""""" " "
+
+20201" I.T,EU
+
+1,.#
+
+t"A,M. ""
+
+##
+
+S"I" "",  "Design # ,  """" 1A "Kii BE WE
+
+R"" " "\*", "i".WfE
+
+![](images/7815128444abc5dd6dfcfdf49eb66269ce06314a584a9f89797435a21052d921.jpg)  
+14 19-5 116
+
+"" "#",3 TREB.20HEH. EE "", W.FEERAE it,B, Eiit.
+
+MHM F "" "R#", ti. WI, T, X ""FXE "ii" . IEiitiit\$Hiit, Ef # XEEERETHRZHME.MTEGAE 201 M.# ""K."" "R
+
+it.
+
+IME,ETTH.1E,MA, .. M"" RTTE ME##5T "#" 5 "" K.
+
+MTEDAZE "",, E!
+
+.20 i.50.1# I" Hiit# "Ex" B, THEA3#. FE, iX \*, :."#" 1#666"
+
+II" #M1 # #"
+
+"#H#.18+\*,
+
+T"I" E ""MM XEFFUME.ET,IZ" "TK MINE
+
+##
+
+1. £:(k),(), 19777789
+
+2. :(
+
+3. ,:,1988, 299—309
+
+4.:#)16:#]- (=) ) =#, 227R.
+
+5. (7·t\$), R1, 3}6.5: (3}i), \$371
+
+6. (5}·#it), 2#1, ji,: (37i), 46—481
+
+7. (it6- ), R(#]]: (+=iM),2479 1.
+
+8. -λ),||:(+=),2467
+
+9. []3]3:(33]p1),R(8]3\*),240
+
+## A
+
+[]P:(I).H:\*, 1993
+
+## B
+
+[]6:()..:\*.1974.
+
+#(#)# 1980
+
+[]: []:(,:, 1964.
+
+## C
+
+[#]≠: (]2Z: (=).1: \*, 1959.
+
+ME:(##C)#,1991.
+
+51=1936
+
+[] ,[]31:(),:, 1986.
+
+[\*],(=\*).:#1981.
+
+[\*]1im, 1m: (=11\*),638\*. 1t2thi, 20004.
+
+: (xii "#3"5 "\*" 6). (#\*) , 2004\*2#.
+
+## D
+
+[]:().:.1985.
+
+[x].#:(i),:, 1985.
+
+THM.HZ:(#\*),R,1987.
+
+(),:#.1988.
+
+(]]:),:#,1985.
+
+## E
+
+(=+=}i##),1#i,1986.
+
+## F
+
+[](),:.+ (1937).
+
+[B]:(),:,2004.
+
+[#]:).:,1985.
+
+[#1974
+
+:().1985.
+
+:(),2002.
+
+#,1999
+
+## G
+
+,1974
+
+[#] :,197.
+
+:().:#,1987.
+
+[] #1: (s). 35\*, H. M: dLh. 1987.
+
+[]:().:,1961.
+
+[]:,1983.
+
+[]\*,:8\*),\*..1 2006
+
+[]:(\*#).:#.1961.
+
+:():1953.
+
+M:(\*mi\*).:ii,1988.
+
+## H
+
+[]#:(#8\*\*i),9#i, 1#i, 1986.
+
+A: (0lt3B),:1ittit, 1994.
+
+t,ki:(\*+itp\*\*\*),\*:\*\* Mil,1999
+
+1:(\*#).1:\*,1998.
+
+[]#5:(#8\*\*1i),1t#±xi,1986.
+
+#\*x:(‡E\*·\*(=),\$\*. 2006
+
+[],\*:(),\*#1:Ep\*5,1980.
+
+:191919491987
+
+[A]#16: (1#\*\*). 14#1. 1904\*.
+
+(B1]#, 33t: (\*1\*·R4). 1t4t11, 1983.
+
+[:().:#,1981.
+
+[]#\*\*:(#\*).H:158±i.1987.
+
+##
+
+#:(0)..1991.
+
+[]:(),,1:\*,1983.
+
+(A]@1#: ().Hii,\*:44t, 2010.
+
+:(#(=)).:.1953
+
+#\*:(+\*##—),()19591.
+
+[#):1980.
+
+[]:(ii),\*it,1987.
+
+## K
+
+3L6:(#\*).:\*.1986.
+
+(]F:(),:(A ).1åR.1982.
+
+(]:(65).€,.:5p.1982.
+
+(\*]##:(1m),6,T,1:# it. 1957
+
+(]\*:().:#,1986.
+
+(A]\*18: (#0#), \*i): 1#i, 1986.
+
+\*\*i:(7).:1\*,2004.
+
+#6#,2008.
+
+[]:().,:,1999.
+
+(89]:(\*\*\*).:\*.1975.
+
+(#]:(6613)1.,1993.
+
+[A]:):#, 1991.
+
+]:()##]:# it. 1975
+
+\$.().:#.1984.
+
+\$A: (A\*1), Ki):hRti, 1985.
+
+[]][]]:(]),,.: 1983
+
+\*i: (4i5b\*),e:\*ti,1988.
+
+(#]:(x).,:,1999.
+
+(].6#:(),:,1987.
+
+()#1982
+
+[x]#,(#]3#\*:(5ii),1#K, 1991.
+
+[]:(),:,1971.
+
+[]:(\*),1R,1974.
+
+:():,1981.
+
+[8] :(),:,1985.
+
+[\*]:(1#\*), #,6, 1:##6, 1980.
+
+[]:3),,:p,1978.
+
+#(=)1980.
+
+#(#\*)1993
+
+[]),,,,199
+
+## M
+
+[]:(), 1, 1989.
+
+(421972
+
+(1844)|\*1 i,:1985
+
+()51\* :,1985
+
+]:116,1990.
+
+£1977
+
+Z(#(18631911#.1963
+
+:(\*)\*:\*#.1987.
+
+## N
+
+1992
+
+## 0
+
+[]:,:, 2007.
+
+## P
+
+:1989
+
+:#1988
+
+]#:1—#±,: A, 1993
+
+## Q
+
+[]:]#,#,1983.
+
+\*\*#.\*#19863
+
+## R
+
+1998
+
+,1941.
+
+[+1980
+
+## S
+
+]1991
+
+[],,: ,1990.
+
+[]:),#,199.
+
+[1976.
+
+[]:± .1937.
+
+±]1980.
+
+[x]],[],[]]3,[]:. 1959
+
+[]1985.
+
+[]#,.
+
+[],:,1992.
+
+##
+
+]1947
+
+1977.
+
+: ,() #, I,1981.
+
+::,1985.
+
+:():i,1991.
+
+## W
+
+i,Mi:(ojt\*\*i\*\*).\*:it
+
+Ail,1989
+
+(8]](,1962.
+
+(]:(#).:P.1933.
+
+(9]\*\*#:(#),.1:,1985.
+
+[](#1998.
+
+[A]:\*).,6,:,1988.
+
+#:():1988.
+
+3#:(3i5).1:\*,2009.
+
+≠()\*,1986.
+
+[]6:(|),##.1959
+
+[],,1977.
+
+[B]:():51983—1996.
+
+[]:(),:p,1988.
+
+(]:(),#,1978.
+
+[#]0: (08s) , M\*,61i\*. ki): 1x\*i, 1998.
+
+{]: (7\*x),, 1987.
+
+:(1).1#.1993.
+
+[]x#:(2x).1#,1978.
+
+]:():1982.
+
+6,:),#1993.
+
+## X
+
+:),:#2006.
+
+\$:().#,1992.
+
+(]:(),:1930.
+
+().#..:\*.2002.
+
+## Y
+
+[]:(5),6:,1985.
+
+,1980
+
+[](#).:1983.
+
+[]:(Fi),.1#,1978.
+
+],:,:,1999
+
+(A]3,T:(),:p,1999.
+
+(]3.:(\*).:,1999.
+
++: (1),(\*#),1992\*4#.
+
+#+=1932
+
+#),1:p1926.
+
+\*:(#).1988.
+
+(##).:#1983.
+
+iT8:(fo\*\*:ti5),:i#i. 1990
+
+#(#\*),1:\*,1982.
+
+[±#:(),..:,200.
+
+.:().:1986.
+
+\*(:
+
+1972
+
+1961
+
+:()6:,2002.
+
+(i\*),1#±.1986.
+
+[]:(),6: #p, 1980.
+
+[]: ), : #, 1983.
+
+[]\*\*),:\*,1983.
+
+[\*]\* (#\*\*i),#i#H,1#, 2001.
+
+[8]\*: (\$#), 5,p, 1913.
+
+),:#1984
+
+316:1),:#,2002.
+
+[]:(),:,1987.
+
+[]:()\*,,:\*,1987.
+
+[A]\*\*k\*: (\*\*\*\*). \*\*Z#1, : #\*6, 1981.
+
+6: (\*\*).1R, 1981.
+
+1995 1999## -F.#U
+
+1 FKE.
+
+. 8,#\*5(#58)# BM8E, 13##HME.
+
+iXTEIAAMHEIZ,EW #. " ""T, XM#: "I" EXFMWEAZ "".#EE TM AA, M3H6R,#E#5E5. W,18
+
+T1E
+
+2006#6#
+
+1991# \*.# 8N73. H7#E#EN. \*8#66. t9. ##32 TE,E\*.E98\*. :+1FTA+6 II ,FWTE."#8Z,REE#EX6
+
+KTH.RETTEMEER
+
+.+I#X+AEEH.XAEAE#I.H.
+
+1994#11
+
+A\*, (\*EIZ#)##, M55A 5 .##H# " E#841994 # #. ## "tE#", RXEx#I6T# M. 20 9TA,EIE AFP.EH.#TE. #R
+
+#5.IE F206W # #TE#. A.EEER.RE-TERMTET "I"8 . , mmz.W.k #W.BB### #55.(\*I1F518, 181338 EXNT/A+, ZF, gRSAERWSIF. RHEEMET . 8EEiTR, WARSEA, 5T "EH8TH" HK.
+
+WiMSRNEIZ#AE. TX, ##EKX, AE# !
+
+4, E3+.96 62 ..B5 #, 2007 P AH 2007  E, T, A3, E#ETE, mFA#T E, THE#C# S/MMX#G#,  #E##E, RRTE. ¥ 5P# ERE, AAX, FEE, WRZTD, Et i2x, W.
+
+F43885.4#15T# 19Z. , 54R #, 5##, \*6.
+
+201692985F
